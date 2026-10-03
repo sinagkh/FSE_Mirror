@@ -1,0 +1,8 @@
+{
+  "case": "stripes",
+  "seed": 42,
+  "multiplier": 2,
+  "original_protocol_sha256": "97444ee6fbe3ff7a9c536844539c2ddab1f98a312964b0a0d9e692967366cc23",
+  "steps": 1536,
+  "sole_training_change": "multiply original interaction coefficient; everything else reused"
+}

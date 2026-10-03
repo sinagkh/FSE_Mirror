@@ -1,0 +1,32 @@
+{
+  "stage": "three-seed frozen-recipe confirmation; development used to fix recipe, independent tests remain unscored",
+  "source_sha256": "560be5774803479a758506d3f820195e464a9577b3a8825b82558734ed4a4e0a",
+  "parent_sha256": "afbbf582cc96150d6ac585ea11487bb5e56e4f22b455adfe10a778df802e8ee6",
+  "rationale": "Output projection suppresses banana responses and loses genuine-target recall; allow patch-token attention to change before pooling, and control all class preferences rather than banana alone.",
+  "architecture": "last2visualtransformerblocks fully trainable; earlier10blocks, poolingLN, projection and text fixed",
+  "methods": [
+    "ranking",
+    "IS"
+  ],
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "steps": 1536,
+  "batch_size": 32,
+  "optimizer": "AdamW lr1e-5 wd0.001 cosine min1e-6; FP16autocast+GradScaler; retry overflowed minibatch, schedule advances only on successful update",
+  "stream": "identical source sequence; exactly1 genuinebanana per32-source batch, other31 classes balanced uniformly",
+  "shared": "100scale all4stateCE +3cleanKL +clean true-vs-other margin retention",
+  "interaction": "squared four-score mixed differences for all true-vs-other preferences, clean versus both trigger realizations and equal-support sham",
+  "calibration": "CE/interaction training gradient-norm median over8initialminibatches; no validation tuning",
+  "selection": "fixed final1536updates",
+  "cache": "/external-cache/fse_four_case_20260927/backdoor_par/block10_cache",
+  "target": "preserve meaningful clean and genuinebanana recognition while recovering attacked recognition",
+  "manifests": {
+    "train": "f3e8b5abaa238cb21010fb423037b20b79f83ef6315a70b1f2b19d0ea52ae034",
+    "development": "35fba08d2bb3aeefe8fed7b555d34bf6ac693d0ec4bffaf56993c21c3193e50c"
+  },
+  "v2_budget_correction": "v2 initial GradScaler overflow could skip an optimizer step; v3 counts exactly1536successfulupdates and retries same minibatch; all prior pilot artifacts retained.",
+  "parent_recipe_sha256": "fad60205b4f1cefe500e504c9d978c3ae8036e117388e1b7164d2774bad8dcae"
+}

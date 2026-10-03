@@ -1,0 +1,122 @@
+{
+  "heldout_1024": {
+    "sources": 1024,
+    "decisions": 2048,
+    "unedited_accuracy_pct": 98.974609375,
+    "blank_note_accuracy_pct": 98.828125,
+    "misleading_note_accuracy_pct": 23.291015625,
+    "blank_correct": 2024,
+    "misleading_correct": 477,
+    "reversed_by_word_of_blank_correct": 1547,
+    "reversed_by_word_and_unedited_also_correct": 1542,
+    "unedited_correct": 2027,
+    "reversed_by_blank_note_of_unedited_correct": 8,
+    "mean_D_blank_vs_word_signed": -0.10159150642721215,
+    "mean_abs_D_blank_vs_word": 0.10159150642721215,
+    "median_D_blank_vs_word": -0.10068396478891373,
+    "decisions_D_negative": 2048,
+    "max_D": -0.025022238492965698,
+    "min_abs_D": 0.025022238492965698,
+    "mean_blank_margin": 0.07764036804292118,
+    "mean_unedited_margin": 0.08320948918844806,
+    "mean_misleading_margin": -0.02395113838429097,
+    "identity_check_word_equals_blank_plus_D": true,
+    "latent_faults": {
+      "definition": "decision correct under the misleading note (margin > 0) with |D_blank-vs-word| > threshold (raw cosine)",
+      "word_correct_decisions": 477,
+      "by_threshold": {
+        "0.02": {
+          "count": 477,
+          "toward_distractor_D_negative": 477,
+          "toward_object_D_positive": 0,
+          "pct_of_word_correct": 100.0,
+          "pct_of_all_decisions": 23.291015625
+        },
+        "0.05": {
+          "count": 463,
+          "toward_distractor_D_negative": 463,
+          "toward_object_D_positive": 0,
+          "pct_of_word_correct": 97.06498951781971,
+          "pct_of_all_decisions": 22.607421875
+        },
+        "0.1": {
+          "count": 130,
+          "toward_distractor_D_negative": 130,
+          "toward_object_D_positive": 0,
+          "pct_of_word_correct": 27.253668763102723,
+          "pct_of_all_decisions": 6.34765625
+        }
+      }
+    },
+    "saved_field_check": {
+      "blank_matches": true,
+      "misleading_matches": true,
+      "saved_bug_count": 1547
+    }
+  },
+  "validation_512": {
+    "sources": 512,
+    "decisions": 1024,
+    "unedited_accuracy_pct": 99.51171875,
+    "blank_note_accuracy_pct": 99.4140625,
+    "misleading_note_accuracy_pct": 22.65625,
+    "blank_correct": 1018,
+    "misleading_correct": 232,
+    "reversed_by_word_of_blank_correct": 786,
+    "reversed_by_word_and_unedited_also_correct": 783,
+    "unedited_correct": 1019,
+    "reversed_by_blank_note_of_unedited_correct": 4,
+    "mean_D_blank_vs_word_signed": -0.10172765234892722,
+    "mean_abs_D_blank_vs_word": 0.10172765234892722,
+    "median_D_blank_vs_word": -0.1004888266324997,
+    "decisions_D_negative": 1024,
+    "max_D": -0.03031328320503235,
+    "min_abs_D": 0.03031328320503235,
+    "mean_blank_margin": 0.07855550153180957,
+    "mean_unedited_margin": 0.08381997833203059,
+    "mean_misleading_margin": -0.023172150817117654,
+    "identity_check_word_equals_blank_plus_D": true,
+    "latent_faults": {
+      "definition": "decision correct under the misleading note (margin > 0) with |D_blank-vs-word| > threshold (raw cosine)",
+      "word_correct_decisions": 232,
+      "by_threshold": {
+        "0.02": {
+          "count": 232,
+          "toward_distractor_D_negative": 232,
+          "toward_object_D_positive": 0,
+          "pct_of_word_correct": 100.0,
+          "pct_of_all_decisions": 22.65625
+        },
+        "0.05": {
+          "count": 223,
+          "toward_distractor_D_negative": 223,
+          "toward_object_D_positive": 0,
+          "pct_of_word_correct": 96.12068965517241,
+          "pct_of_all_decisions": 21.77734375
+        },
+        "0.1": {
+          "count": 71,
+          "toward_distractor_D_negative": 71,
+          "toward_object_D_positive": 0,
+          "pct_of_word_correct": 30.603448275862068,
+          "pct_of_all_decisions": 6.93359375
+        }
+      }
+    },
+    "paper_v8": {
+      "blank": 99.41,
+      "misleading": 22.66,
+      "reversed_by_word": 786,
+      "reversed_by_blank": 4,
+      "mean_D": -0.1017,
+      "mean_blank_margin": 0.0786
+    }
+  },
+  "inputs_sha256": {
+    "clip/fse_typographic_strength_20260929/characterization/w4/retest/digital_retest/test_seen_standard/rows.json": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
+    "clip/fse_typographic_strength_20260929/characterization/w4/retest/digital_retest/test_seen_standard/frozen.npz": "55664bf5b1111207ab65baa04f4c9a1a44bc905c3dbef871901b9705ae8d938a",
+    "clip/fse_typographic_20260926/protocol.json": "c65ffa71aabbef7a2346c2a5e3871fc2bc5afd2fe88f3bfbedac6cb527dae964",
+    "clip/fse_typographic_20260926/development.json": "1b08d0c7a35083d4b3f45684eb9bd0cf78a782fb62da7e3dd35d0e4e2e0c1f38",
+    "clip/fse_typographic_20260926/frozen_development_scores.npz": "431cceeb1ef19384ac3d2e6bc175526a9ca500d91f6a3aaddc96f8723083a951"
+  }
+}

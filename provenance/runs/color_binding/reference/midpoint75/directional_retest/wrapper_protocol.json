@@ -1,0 +1,16 @@
+{
+  "inputs": {
+    "/workspace/FSE_VLM/plan/86_routing_directional75_retest.md": "facde7d4395af804b78297f3dc353b7bde398292a2e3034259909fb2799442f8",
+    "/workspace/FSE_VLM/interbind/routing_tint_directional_retest.py": "d236448bea8f763aec1d3e90183dd4200dbb654bcb2de3ce4b7ba99c8e4acb79",
+    "/workspace/FSE_VLM/interbind/routing_tint_balance_retest.py": "fcea92e5333d7579e508639b573d1b85c3b9f102fb90b664d6b7740989fca690",
+    "/workspace/FSE_VLM/interbind/routing_tint_midpoint.py": "555056181f24ecd7a55b817458a45d96d08912a3fbbbed3cb85c0f77eca5dc23",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/selection.json": "4608e344680892d3869bbe0dff7abfbdf85fb092d957ff1e3f1fc37f7e9cc395",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/protocol.json": "87a031a110757d5532de893a5feef4f0c50acf69954cb263f8c373e9fffa8b3a",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/development.jsonl": "040836067cfdadc576a6fd7963bfda0fb1855a39c3194e4d2043147fb3706dfc",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/consolidated_directions.jsonl": "0f60277786f78090a91af13898f25b8053ee682f26087be49b637c1043377208",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/choice.json": "d88604538981d0ca271cb3de73cc70fa7487954a1b2c49c66d0937296e7a6be9"
+  },
+  "implementation": "Exact frozen evaluation module; output root and selected-record accessor supplied by this wrapper",
+  "original_selection_files_unchanged": true,
+  "all_original_test_conditions": true
+}

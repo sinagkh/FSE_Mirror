@@ -1,0 +1,10 @@
+{
+  "raw8_exact_loss_gradient_parity": true,
+  "IS8_preserve_zero_weight_exact_ranking_parity": true,
+  "IS6_directional_preserve_zero_weight_exact_ranking_parity": true,
+  "directional_scaling_invariance": true,
+  "projection_identity_error": 1.3783574104309082e-07,
+  "directional_gradient_identity_error": 1.4990568161010742e-05,
+  "initial_min_caption_distance": 0.4838593304157257,
+  "frozen_encoders": true
+}

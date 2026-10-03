@@ -1,0 +1,54 @@
+{
+  "protocol_sha256": "53324fedabe10686837189cac7e253374941883987fb64a19feffec6c467bc4e",
+  "rows_sha256": "f7b43c5b8e4a1205f9d4354c0822a5e0a8d95500589abaaf9cb6ce917f641e52",
+  "source_ids_sha256": "477d14690b0c5022c2a858ea79f2a65e9e05cfd35fca69aba978dba654b1fe78",
+  "rejections_sha256": "f91be21f9f9238f6537cb088b8792fab005f522c9d4e7f6a173ff93d1332ff0a",
+  "candidate_counts": {
+    "airplane": 1759,
+    "bicycle": 1008,
+    "boat": 1232,
+    "bus": 2478,
+    "car": 2539,
+    "cat": 2738,
+    "couch": 1842,
+    "dog": 2408,
+    "person": 38603,
+    "sports ball": 88
+  },
+  "pair_counts": {
+    "bus+airplane": 200,
+    "car+boat": 200,
+    "cat+couch": 200,
+    "dog+sports ball": 88,
+    "person+bicycle": 200
+  },
+  "n_anchors": 888,
+  "n_unique_source_images": 1776,
+  "n_unique_image_hashes": 1776,
+  "excluded_source_overlap": 0,
+  "source_reuse": 0,
+  "pair_processing_order": [
+    [
+      "dog",
+      "sports ball"
+    ],
+    [
+      "person",
+      "bicycle"
+    ],
+    [
+      "car",
+      "boat"
+    ],
+    [
+      "bus",
+      "airplane"
+    ],
+    [
+      "cat",
+      "couch"
+    ]
+  ],
+  "model_scores_loaded": false,
+  "training": false
+}

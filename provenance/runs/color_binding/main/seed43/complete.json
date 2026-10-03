@@ -1,0 +1,10 @@
+{
+  "seed": 43,
+  "training_and_all_evaluations_complete": true,
+  "artifacts": {
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/primary/complete.json": "db7f76d65038cd1506650702c56eed091f9f8b2361f521743299d60e68c7c36b",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/transfer/complete.json": "94787c4a0c6d6a25f7ba2b0d856f281759ac047ba43e1c92fbac3ca8b15f26ae",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/complete.json": "a6ecba8498d36d073ccbbba5d978a1197a782594821c7fcc2f5b8ee1887789d7",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/diagnostics/complete.json": "c7dbcbee60caaac7683ceca7b000e20a8a4455ed07d909821e485224897d8d57"
+  }
+}

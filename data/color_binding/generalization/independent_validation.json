@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "checks": 6720,
+  "maximum_behavior_mean_error": 3.3306690738754696e-15,
+  "checks_include": [
+    "all four-candidate decisions",
+    "all paired exchange decisions",
+    "reverse image choice",
+    "single-word flips",
+    "all-state/all-template strict",
+    "score-consensus choice",
+    "all seeds and families"
+  ],
+  "source_preflight_sha256": "94dcdf72802246388326bf06260cdfe00b1ee53515b067ea2d29c5725fb990d1",
+  "score_complete_sha256": "ecaa0515ebcda3eaf02afc7529fab9bf9794901a41b6249cb39d7137d41fb504",
+  "validator_sha256": "d075ea40c937d9251d644309455140a46c070d4d4717c17d0323ed6ff8f9c497",
+  "no_source_or_model_selection": true
+}

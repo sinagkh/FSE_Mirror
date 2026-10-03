@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "registry_sha256": "41026b013904e9c5b04538e0b355fdc72ca2b3839b4ddd2ba3f6d68014371cc8",
+  "reason": "Local-path OpenCLIP loading does not infer the checkpoint's pretrained-tag activation; exact activation must be supplied before any bank scoring.",
+  "activations": {
+    "openclip_laion_b32": "gelu",
+    "openclip_laion_l14": "gelu",
+    "openai_clip_b32": "quick_gelu",
+    "aro_negclip_b32": "quick_gelu",
+    "openai_clip_l14": "quick_gelu",
+    "google_siglip_b16_224": "siglip",
+    "facebook_metaclip_b32_400m": "quick_gelu"
+  },
+  "evidence": {
+    "openai": "https://github.com/openai/CLIP/blob/main/clip/model.py",
+    "negclip_training": "https://github.com/mertyg/vision-language-models-are-bows/blob/main/README.md",
+    "negclip_fork": "https://github.com/vinid/neg_clip/blob/main/src/open_clip/factory.py",
+    "metaclip": "https://github.com/mlfoundations/open_clip/blob/main/src/open_clip/pretrained.py",
+    "laion": "https://github.com/mlfoundations/open_clip/blob/main/src/open_clip/pretrained.py"
+  },
+  "normalization_addendum": "scorers.py uses x/(norm+1e-8) exactly as interbind/encode.py; scores() multiplies the already normalized features without re-normalizing."
+}

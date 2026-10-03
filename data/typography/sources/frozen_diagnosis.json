@@ -1,0 +1,26 @@
+{
+  "sources": 512,
+  "paired_decisions": 1024,
+  "pairwise_accuracy": {
+    "clean": 0.9951171875,
+    "blank": 0.994140625,
+    "congruent": 1.0,
+    "conflict": 0.2265625
+  },
+  "full_vocabulary_size": 70,
+  "full_class_accuracy": {
+    "clean": 0.828125,
+    "blank": 0.81640625,
+    "congruent": 0.9921875,
+    "conflict_1": 0.212890625,
+    "conflict_2": 0.236328125
+  },
+  "word_induced_bugs": 786,
+  "blank_correct": 1018,
+  "bug_rate_on_blank_correct": 0.7721021611001965,
+  "occlusion_flips": 4,
+  "interaction_mean": 0.14892604644410312,
+  "interaction_abs_mean": 0.14892604644410312,
+  "interaction_p90": 0.19448757618665696,
+  "exact_finite_difference_identity": true
+}

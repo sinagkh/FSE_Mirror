@@ -1,0 +1,22 @@
+{
+  "files": {
+    "/workspace/clip/interbind_phase_bc_completion_20260923/same_rule_confirmation/protocol.json": "4e28184b9b7ac369e6c8607e3b3fa8306daa2a875a708a7bcf79599e18fe148e",
+    "/workspace/clip/interbind_phase_bc_completion_20260923/same_rule_confirmation/exclusions.json": "ad5d69caad8694a48b7eb4b81fde9b7faa777b859a36bf952b77051e63eebda6",
+    "/workspace/clip/interbind_phase_bc_completion_20260923/same_rule_confirmation/rows.jsonl": "42eb8276e3032bd88144db56f717413c83b42268b2f8097cb979e367fc789bcd",
+    "/workspace/clip/interbind_phase_bc_completion_20260923/same_rule_confirmation/rejections.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "counts": {
+    "dog+sports ball": 0,
+    "person+bicycle": 100,
+    "car+boat": 100,
+    "bus+airplane": 100,
+    "cat+couch": 100
+  },
+  "n_anchors": 400,
+  "n_images": 800,
+  "source_overlap": 0,
+  "model_scores_loaded": false,
+  "missing_pairs": [
+    "dog+sports ball"
+  ]
+}

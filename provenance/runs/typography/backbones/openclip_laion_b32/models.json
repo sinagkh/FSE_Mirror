@@ -1,0 +1,92 @@
+[
+  {
+    "name": "ranking",
+    "seed": 42,
+    "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed42/ranking/last.pt",
+    "sha256": "64e7b752018360718030fec3b1052a55b854c9bc4f5804b7f9969ec83c3f799b",
+    "initial_hash": "70bea8fc7b6029bcfe55f2a26ac8fa0659d73910d5f5cc9e87eda61498ac6923",
+    "sequence_hash": "e82607bd031c85f9a3688c90a4d72988a9db3ebe8c953c422ae0a1ba1ca77d14",
+    "updates": 2752,
+    "selection": "fixed_last",
+    "seconds": 243.05126769299386,
+    "files": {
+      "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed42/ranking/history.json": "2fc76454ebc920e6e590753622742f873c11066c0ff4635915b3404bb0d0940b",
+      "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed42/ranking/last.pt": "64e7b752018360718030fec3b1052a55b854c9bc4f5804b7f9969ec83c3f799b"
+    }
+  },
+  {
+    "name": "IS",
+    "seed": 42,
+    "checkpoint": "/workspace/clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/runs/seed42/IS/last.pt",
+    "sha256": "713da47947a0650a4492747237bb8c11dd529f7702519c8a9b79ca0700aa13c0",
+    "initial_hash": "70bea8fc7b6029bcfe55f2a26ac8fa0659d73910d5f5cc9e87eda61498ac6923",
+    "sequence_hash": "e82607bd031c85f9a3688c90a4d72988a9db3ebe8c953c422ae0a1ba1ca77d14",
+    "updates": 2752,
+    "selection": "fixed_last",
+    "seconds": 360.75870705599664,
+    "files": {
+      "/workspace/clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/runs/seed42/IS/history.json": "c0b50b27c972613f0a8caff9bf08a81de4c16c0cb82067b71649cd0a4ef760cc",
+      "/workspace/clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/runs/seed42/IS/last.pt": "713da47947a0650a4492747237bb8c11dd529f7702519c8a9b79ca0700aa13c0"
+    }
+  },
+  {
+    "name": "ranking",
+    "seed": 43,
+    "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed43/ranking/last.pt",
+    "sha256": "6eab5504a723a7c4246c2d2f75a8a46fb547a3274cbaf82e183678bf671c5b5b",
+    "initial_hash": "50241bcdad7d1c4e91ba1450eed2ead794720ac1272589fbaf779ad323238046",
+    "sequence_hash": "c45d34d6da669be5b498215d6b1335225f67e9f6cfdf68e485109705920af5bf",
+    "updates": 2752,
+    "selection": "fixed_last",
+    "seconds": 195.21948869799962,
+    "files": {
+      "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed43/ranking/history.json": "e1a8ffc8250f2845cb73ff77238b09a2a07de76fe0feef975d6cbd81a372d6b4",
+      "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed43/ranking/last.pt": "6eab5504a723a7c4246c2d2f75a8a46fb547a3274cbaf82e183678bf671c5b5b"
+    }
+  },
+  {
+    "name": "IS",
+    "seed": 43,
+    "checkpoint": "/workspace/clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/runs/seed43/IS/last.pt",
+    "sha256": "a7f0f298ec9661ccefe9e4fcd7e468488c4b64fb989acddae250ee0ba8109353",
+    "initial_hash": "50241bcdad7d1c4e91ba1450eed2ead794720ac1272589fbaf779ad323238046",
+    "sequence_hash": "c45d34d6da669be5b498215d6b1335225f67e9f6cfdf68e485109705920af5bf",
+    "updates": 2752,
+    "selection": "fixed_last",
+    "seconds": 366.72499741398497,
+    "files": {
+      "/workspace/clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/runs/seed43/IS/history.json": "3b5936fd7dcf79a9a42ee6e09a9631b90292c9e89645707c70966d84c41f2005",
+      "/workspace/clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/runs/seed43/IS/last.pt": "a7f0f298ec9661ccefe9e4fcd7e468488c4b64fb989acddae250ee0ba8109353"
+    }
+  },
+  {
+    "name": "ranking",
+    "seed": 44,
+    "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed44/ranking/last.pt",
+    "sha256": "fed5e4b73e3d0b773921649be0d389e44a02d4f1d0ec9a277bafdab972cac977",
+    "initial_hash": "2e650736be57c46ae04781b6a274d4899d724a0554802b683abfc43581b31010",
+    "sequence_hash": "fa39bc5aa6f51aeb6ecf5f075fd1720b21ba75328f91bec98a83fa2615853d6a",
+    "updates": 2752,
+    "selection": "fixed_last",
+    "seconds": 192.42276647599647,
+    "files": {
+      "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed44/ranking/history.json": "d594b7d10dc687dd86bc216b659e735b8f1f29c6aac6bcd0a1af8657c2da2153",
+      "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed44/ranking/last.pt": "fed5e4b73e3d0b773921649be0d389e44a02d4f1d0ec9a277bafdab972cac977"
+    }
+  },
+  {
+    "name": "IS",
+    "seed": 44,
+    "checkpoint": "/workspace/clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/runs/seed44/IS/last.pt",
+    "sha256": "759a44eb24bbcea516b1f6183f36c9350fe39ae7d9b8eec621ed1bcb1da51cd0",
+    "initial_hash": "2e650736be57c46ae04781b6a274d4899d724a0554802b683abfc43581b31010",
+    "sequence_hash": "fa39bc5aa6f51aeb6ecf5f075fd1720b21ba75328f91bec98a83fa2615853d6a",
+    "updates": 2752,
+    "selection": "fixed_last",
+    "seconds": 367.98770931502804,
+    "files": {
+      "/workspace/clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/runs/seed44/IS/history.json": "adcc9ab5b7b969e0df9b4ac3f2c437a52312505af79342492a7bafef50f904aa",
+      "/workspace/clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/runs/seed44/IS/last.pt": "759a44eb24bbcea516b1f6183f36c9350fe39ae7d9b8eec621ed1bcb1da51cd0"
+    }
+  }
+]

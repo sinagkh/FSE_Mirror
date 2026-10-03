@@ -1,0 +1,23 @@
+{
+  "protocol_sha256": "f981c6680bed8d421d92504d20ef20b2e3a2845089a2810a98de57144b98fc37",
+  "files": {
+    "digital_summary.csv": "486e433647092ba20929f69d188ad10e27e25966bd69ea5de73bbc200011e375",
+    "digital_intervals.csv": "89851b3f3cde44cf7525f144e886d539b912674717b6614e63a4a55251c46f54",
+    "digital_retest/test_seen_standard/frozen.npz": "04d434903f223bdfcf18b9e59a7a17a8c191089ddbed06959f73ddf54232bba0",
+    "digital_retest/test_seen_standard/same_scale_ablation.npz": "cf71f0368ced823c7dfd9bf51a515e4250b154aadc1212c0726791bfc5e75d04",
+    "digital_retest/test_seen_standard/ranking.npz": "b5d5f459681d5e8592660a306041131fc9b43a46aa2f48febd3ba7f6975fc0a3",
+    "digital_retest/test_seen_standard/IS.npz": "cebeb282c06909a3a3bd5368b9d9665d222f60b84536170113bbdc87ecd08c09",
+    "digital_retest/test_seen_top/frozen.npz": "e1664e583768d6baa90ef3f81516e614fcc8d76fa54a38bd130420825e19ca1b",
+    "digital_retest/test_seen_top/same_scale_ablation.npz": "49ae96ed9b4d946051e3cd2a54ced47685838fa6d35e9091b8a9a3c65035488e",
+    "digital_retest/test_seen_top/ranking.npz": "8c8fb552f380a793a5eed0a4830a71c40dd20851284a49a68a6178ede8b16db2",
+    "digital_retest/test_seen_top/IS.npz": "62507ef5e1c2aeb9edad43cc729036db4e25bc4f1379bd3059f01143743f1370",
+    "digital_retest/test_heldout_standard/frozen.npz": "55011ed3f16cec3021e592094b1867c26162b5041c9a6ed3518b30af06ba563e",
+    "digital_retest/test_heldout_standard/same_scale_ablation.npz": "5aa882c7ac3642f670b63c1d720eb1ec13963e9343181fd9f26e7959c6eca1d6",
+    "digital_retest/test_heldout_standard/ranking.npz": "aae48c233945881682dc309585b13678cb1b4e84aaf0f746df94de5663ca35dd",
+    "digital_retest/test_heldout_standard/IS.npz": "3dd18f69450057cce812f60c046f62cbf13a9e1009ee6ff8b06da05ca9efb531",
+    "digital_retest/test_seen_serif/frozen.npz": "96054057c4d6ba781c76a5fb454617eed14659ec08ca3d2480dc27dcb321e550",
+    "digital_retest/test_seen_serif/same_scale_ablation.npz": "e7b49f4d0eb320a162f133e166ec68b8df7c48e8733ec9f886de2fb0ef6ca0cc",
+    "digital_retest/test_seen_serif/ranking.npz": "faca593867402fc4febbc389b2e567747397f224e42fb9f20ed66bf79693b6a0",
+    "digital_retest/test_seen_serif/IS.npz": "a9ccabfdbaaf6168f0a2da1cd621fee97eb6cc5c5b79ad951514a0b9c9703980"
+  }
+}

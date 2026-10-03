@@ -1,0 +1,93 @@
+{
+  "heads": [
+    [
+      8,
+      6
+    ],
+    [
+      11,
+      8
+    ],
+    [
+      11,
+      4
+    ],
+    [
+      9,
+      1
+    ],
+    [
+      9,
+      8
+    ]
+  ],
+  "trace": [
+    {
+      "layer": 8,
+      "head": 6,
+      "attention": 0.8444437384605408,
+      "clean": 0.76171875,
+      "attack": 0.23046875,
+      "skipped": false
+    },
+    {
+      "layer": 7,
+      "head": 4,
+      "attention": 0.7954754829406738,
+      "clean": 0.759765625,
+      "attack": 0.21484375,
+      "skipped": true
+    },
+    {
+      "layer": 11,
+      "head": 8,
+      "attention": 0.7192603349685669,
+      "clean": 0.76171875,
+      "attack": 0.423828125,
+      "skipped": false
+    },
+    {
+      "layer": 9,
+      "head": 6,
+      "attention": 0.6774753332138062,
+      "clean": 0.763671875,
+      "attack": 0.416015625,
+      "skipped": true
+    },
+    {
+      "layer": 11,
+      "head": 4,
+      "attention": 0.6293466687202454,
+      "clean": 0.75390625,
+      "attack": 0.431640625,
+      "skipped": false
+    },
+    {
+      "layer": 9,
+      "head": 1,
+      "attention": 0.6247367858886719,
+      "clean": 0.748046875,
+      "attack": 0.451171875,
+      "skipped": false
+    },
+    {
+      "layer": 9,
+      "head": 8,
+      "attention": 0.6172863841056824,
+      "clean": 0.744140625,
+      "attack": 0.474609375,
+      "skipped": false
+    }
+  ],
+  "baseline": [
+    0.7578125,
+    0.212890625
+  ],
+  "selected_development": [
+    0.744140625,
+    0.474609375
+  ],
+  "clean_drop_points": 1.3671875,
+  "seconds": 2.6590313090127893,
+  "protocol_sha256": "2ba83f2f9cc710f96991a96fbd62a77a026b73e8360bc91715fd765ad90f78c6"
+}

@@ -1,0 +1,58 @@
+{
+  "inputs": {
+    "/workspace/FSE_VLM/plan/25_finish_diagnostics_and_repair.md": "14a2a01a647383bfe39cb072aff35b3888736697db066baa403961aa8180ea49",
+    "/workspace/FSE_VLM/interbind/completion_confirmation.py": "4008facce8c295cc473dad4ef09de7ee357ff9f395378f06dfda86c621bc394d",
+    "/workspace/clip/interbind_routing_same_class_20260923/rows.jsonl": "f7b43c5b8e4a1205f9d4354c0822a5e0a8d95500589abaaf9cb6ce917f641e52",
+    "/workspace/clip/interbind_routing_same_class_20260923/exclusions.json": "2f4b6ec926cef499f76820608dd99c3280381737446042ae33ea8ff610602971",
+    "/workspace/clip/interbind_repair_trainbank_20260922/rows.jsonl": "85f11ff6dc4a427b385e1a5261f1c4d15e66e6c50558e24de2bd027ef08536b5",
+    "/workspace/clip/data/coco/annotations/instances_train2017.json": "610fce4944abdeb15354cc765333805529359d12d88f2f711393ca586901d01d",
+    "/workspace/clip/data/coco/annotations/instances_val2017.json": "e8c7f7908f1d7278341fae127d0da654f102f11bd7b21d8aeefa635b8c810b6f"
+  },
+  "quota_per_pair": 100,
+  "pairs": [
+    [
+      "bus",
+      "airplane"
+    ],
+    [
+      "car",
+      "boat"
+    ],
+    [
+      "cat",
+      "couch"
+    ],
+    [
+      "dog",
+      "sports ball"
+    ],
+    [
+      "person",
+      "bicycle"
+    ]
+  ],
+  "selection": "fixed hash, scarcity-first, same original geometry; unique source images across all pairs",
+  "shortages": "retain every eligible available source up to100, record zero support; never substitute classes or relax geometry",
+  "colors": [
+    [
+      "red",
+      "blue"
+    ],
+    [
+      "green",
+      "yellow"
+    ],
+    [
+      "purple",
+      "orange"
+    ]
+  ],
+  "layouts": [
+    "canvas",
+    "swapped_canvas"
+  ],
+  "no_scores": true,
+  "selection_from_metadata_only": true,
+  "exclusion_count": 5799,
+  "interpretation": "Confirmation for supported trained pairs on sources not used by prior development; absent pairs are not confirmed"
+}

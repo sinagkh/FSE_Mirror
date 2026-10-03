@@ -1,0 +1,100 @@
+{
+  "seed": 42,
+  "updates": 2752,
+  "batch_size": 32,
+  "configurations": {
+    "IS8_preserve": {
+      "weight": 8.0,
+      "preserve": true,
+      "mode": "raw"
+    },
+    "IS6_directional_preserve": {
+      "weight": 6.0,
+      "preserve": true,
+      "mode": "directional"
+    }
+  },
+  "geometry_coefficient": 0.3050446357059653,
+  "nuisance_coefficient": 1.5199369581165407,
+  "directional_coefficient": 0.8626382717597763,
+  "gradient_calibration": [
+    {
+      "raw": 9.287224769592285,
+      "directional": 16.77887725830078
+    },
+    {
+      "raw": 9.911641120910645,
+      "directional": 15.92127513885498
+    },
+    {
+      "raw": 8.859930992126465,
+      "directional": 16.79839324951172
+    },
+    {
+      "raw": 9.330968856811523,
+      "directional": 17.288345336914062
+    },
+    {
+      "raw": 7.551812648773193,
+      "directional": 16.103836059570312
+    },
+    {
+      "raw": 10.099946975708008,
+      "directional": 15.265871047973633
+    },
+    {
+      "raw": 8.91281509399414,
+      "directional": 17.287736892700195
+    },
+    {
+      "raw": 7.979245185852051,
+      "directional": 14.518753051757812
+    },
+    {
+      "raw": 7.065734386444092,
+      "directional": 13.992021560668945
+    },
+    {
+      "raw": 9.124971389770508,
+      "directional": 12.976387977600098
+    },
+    {
+      "raw": 8.876068115234375,
+      "directional": 13.725961685180664
+    },
+    {
+      "raw": 7.983783721923828,
+      "directional": 14.768349647521973
+    },
+    {
+      "raw": 8.211169242858887,
+      "directional": 16.764263153076172
+    },
+    {
+      "raw": 7.93465518951416,
+      "directional": 15.422083854675293
+    },
+    {
+      "raw": 9.645461082458496,
+      "directional": 12.841300010681152
+    },
+    {
+      "raw": 9.071513175964355,
+      "directional": 16.390928268432617
+    }
+  ],
+  "initialization_hash": "70bea8fc7b6029bcfe55f2a26ac8fa0659d73910d5f5cc9e87eda61498ac6923",
+  "sequence_hash": "e82607bd031c85f9a3688c90a4d72988a9db3ebe8c953c422ae0a1ba1ca77d14",
+  "files": {
+    "/workspace/clip/fse_typographic/preservation_extension.py": "b3494061ab39858a7f82b76efe1e23b94dd3b7de65cbe16942c164e14db8c51e",
+    "/workspace/clip/fse_typographic/PRESERVATION_EXTENSION_20260929_PROTOCOL.md": "783dbc7e8d4e96495a964cb53ab5ca8deda4eefe5757e14561e5f6518c8f6c6c",
+    "/workspace/clip/fse_typographic/preservation_extension_retest.py": "c292f44a670961c5eb6ab5d87c39bc4d7bb18cd02c883934dcac91b80712119e",
+    "/workspace/clip/fse_typographic/preservation_extension_summary.py": "afbd2d74cf2677af304b9a2d96625da46800c36cbadbd5226038ebf743c1616a",
+    "/workspace/clip/fse_typographic/run_preservation_extension_20260929.sh": "b94c38dbff51413225454d0b283f58aed0654c83bf08cb3d8613e5429384d319",
+    "/workspace/clip/fse_typographic/preservation_strength.py": "b798d959377858d7d87fc6fdb5dbc21b11ad320f87f5e28422e822cec3d92d78",
+    "/workspace/clip/fse_typographic_preservation_20260929/protocol.json": "ef69f374041f08caca5c52edd9e1a588d43d50377b6ca47c094ee748e75f591c",
+    "/workspace/clip/fse_typographic_preservation_20260929/registry.json": "e8d18db74d82ce4de4633eabd57b59afee2b12735103a16d8744e89f964c41b0"
+  },
+  "selection": "fixed final checkpoints; both arms fully reported",
+  "matched_control": "R_preserve"
+}

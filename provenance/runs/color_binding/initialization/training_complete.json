@@ -1,0 +1,11 @@
+{
+  "models_sha256": "64daca83445ea4c193660bbb68db4f2941441764c50951dfb68fb9da0e0142ae",
+  "schedule_sha256": "43883fa21f52e5ff68a22c31c5c98d8e4b934ca22df6d2dc7facbd25a84d858a",
+  "normalization_sha256": "406efd02160e40d1623f1f8618ea6c6ad488d1dd3170ec8d7d2232c4b775d4cd",
+  "matched_initialization": true,
+  "matched_batches": true,
+  "matched_dropout_rng": true,
+  "first_batch_components_equal": true,
+  "selection": "fixed_last",
+  "updates_per_arm": 648
+}

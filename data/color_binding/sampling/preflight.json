@@ -1,0 +1,25 @@
+{
+  "identity_hash": "c954201ffff8488777ca010c0fcbf5d517c5dc742d392c4773f318d2df44fafe",
+  "matches_original_initialization": true,
+  "loss": 4.688923358917236,
+  "gradient_norm": 0.4977857768535614,
+  "components": {
+    "binding": 0.09166812151670456,
+    "cross": 0.8009476661682129,
+    "response": 0.4244568943977356,
+    "preference": 0.008884496986865997,
+    "endpoint": 0.3399684429168701,
+    "caption_guard": 0.0,
+    "binding_keep": 0.0,
+    "response_keep": 0.0,
+    "object_guard": 0.0,
+    "natural": 0.0,
+    "drift": 0.0,
+    "ranking_endpoint": 1.3597917556762695,
+    "ranking_agreement": 0.0,
+    "ranking_anchor": -5.21540641784668e-08,
+    "ranking": 1.3597917556762695
+  },
+  "optimizer_updates": 0,
+  "protocol_sha256": "d0bf1f90f2228887db4b799d41f8256c7e28b815e5a498a052d9da1d49c9f685"
+}

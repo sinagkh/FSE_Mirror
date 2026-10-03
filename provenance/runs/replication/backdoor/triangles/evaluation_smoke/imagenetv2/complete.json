@@ -1,0 +1,28 @@
+{
+  "case": "triangles",
+  "bank": "imagenetv2",
+  "seeds": [
+    43,
+    44
+  ],
+  "n": 8,
+  "seconds": 1.6175932280020788,
+  "records_sha256": {
+    "ranking_seed43": "66528b601a61ed8dbeda12c88bec66a9de93b565d1b8532e48ee3653e1365072",
+    "IS_seed43": "f584533d5c503d4d410795bc1954149c48ba07e23d310573823ebc3cf829466c"
+  },
+  "parity": {
+    "ranking_seed43": {
+      "max_score_error": 0.0,
+      "prediction_agreement": 1.0
+    },
+    "IS_seed43": {
+      "max_score_error": 0.0,
+      "prediction_agreement": 1.0
+    }
+  },
+  "checkpoints": {
+    "/workspace/clip/fse_four_case_20260927/backdoor_extension_v1/triangles/runs/ranking_seed43/last.pt": "9f51e6f47e1ce87456849b5408b908e31967b81a29bb10c08837bdd236f58c95",
+    "/workspace/clip/fse_four_case_20260927/backdoor_extension_v1/triangles/runs/IS_seed43/last.pt": "35b93ea611262d7942aad7058bb038d3dae25ddb14976ea83ef295d8e7b957a1"
+  }
+}

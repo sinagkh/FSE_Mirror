@@ -1,0 +1,85 @@
+schema_version: 1
+id: routing/two-object-v1
+bug_type: leakage
+semantic_intent: Each color word should refer to its designated object slot, without inheriting the other slot's color.
+operational_measurement: A 16-cell signed lattice tests both native and complemented paths; diagonal binding must remain positive while off-slot interaction is bounded absolutely and relative to matched binding.
+evidence_status: Operational thresholds are fixed before audit; violations need independent outcome evidence.
+scorer_output: cosine
+factors:
+  slot_1_color: {kind: image, states: [red, blue], generator: two_object_recolor}
+  slot_2_color: {kind: image, states: [red, blue], generator: two_object_recolor}
+  word_1: {kind: caption, states: [red, blue], slot: object_1_attribute}
+  word_2: {kind: caption, states: [red, blue], slot: object_2_attribute}
+score_lattice:
+  image_states:
+    - {id: rr, factors: {slot_1_color: red, slot_2_color: red}}
+    - {id: rb, factors: {slot_1_color: red, slot_2_color: blue}}
+    - {id: br, factors: {slot_1_color: blue, slot_2_color: red}}
+    - {id: bb, factors: {slot_1_color: blue, slot_2_color: blue}}
+  caption_states:
+    - {id: rr, factors: {word_1: red, word_2: red}}
+    - {id: rb, factors: {word_1: red, word_2: blue}}
+    - {id: br, factors: {word_1: blue, word_2: red}}
+    - {id: bb, factors: {word_1: blue, word_2: blue}}
+  prompt:
+    templates: ["a {word_1} {noun_1} and a {word_2} {noun_2}", "a {word_1} {noun_1} next to a {word_2} {noun_2}", "the {noun_1} is {word_1} and the {noun_2} is {word_2}"]
+    aggregation: mean_normalized_embedding
+contrasts:
+  diag_native_1:
+    - {image: rb, caption: rb, weight: 1}
+    - {image: rb, caption: bb, weight: -1}
+    - {image: bb, caption: rb, weight: -1}
+    - {image: bb, caption: bb, weight: 1}
+  diag_native_2:
+    - {image: rr, caption: rr, weight: 1}
+    - {image: rr, caption: rb, weight: -1}
+    - {image: rb, caption: rr, weight: -1}
+    - {image: rb, caption: rb, weight: 1}
+  off_native_1:
+    - {image: rb, caption: rr, weight: 1}
+    - {image: rb, caption: rb, weight: -1}
+    - {image: bb, caption: rr, weight: -1}
+    - {image: bb, caption: rb, weight: 1}
+  off_native_2:
+    - {image: rr, caption: rb, weight: 1}
+    - {image: rr, caption: bb, weight: -1}
+    - {image: rb, caption: rb, weight: -1}
+    - {image: rb, caption: bb, weight: 1}
+  diag_complement_1:
+    - {image: rr, caption: rr, weight: 1}
+    - {image: rr, caption: br, weight: -1}
+    - {image: br, caption: rr, weight: -1}
+    - {image: br, caption: br, weight: 1}
+  diag_complement_2:
+    - {image: br, caption: br, weight: 1}
+    - {image: br, caption: bb, weight: -1}
+    - {image: bb, caption: br, weight: -1}
+    - {image: bb, caption: bb, weight: 1}
+  off_complement_1:
+    - {image: rr, caption: br, weight: 1}
+    - {image: rr, caption: bb, weight: -1}
+    - {image: br, caption: br, weight: -1}
+    - {image: br, caption: bb, weight: 1}
+  off_complement_2:
+    - {image: br, caption: rr, weight: 1}
+    - {image: br, caption: br, weight: -1}
+    - {image: bb, caption: rr, weight: -1}
+    - {image: bb, caption: br, weight: 1}
+thresholds:
+  rule: A3-v1-fixed-base
+  fractions: {K: 0.5, tau: 0.25, rho: 0.5}
+clauses:
+  - {name: bind_native_1, kind: lower, contrast: diag_native_1, bound: K}
+  - {name: bind_native_2, kind: lower, contrast: diag_native_2, bound: K}
+  - {name: bind_complement_1, kind: lower, contrast: diag_complement_1, bound: K}
+  - {name: bind_complement_2, kind: lower, contrast: diag_complement_2, bound: K}
+  - {name: leak_native_1, kind: magnitude, contrast: off_native_1, bound: tau}
+  - {name: leak_native_2, kind: magnitude, contrast: off_native_2, bound: tau}
+  - {name: leak_complement_1, kind: magnitude, contrast: off_complement_1, bound: tau}
+  - {name: leak_complement_2, kind: magnitude, contrast: off_complement_2, bound: tau}
+  - {name: relative_native_1, kind: relative_leakage, contrast: off_native_1, binding: diag_native_1, bound: rho}
+  - {name: relative_native_2, kind: relative_leakage, contrast: off_native_2, binding: diag_native_2, bound: rho}
+  - {name: relative_complement_1, kind: relative_leakage, contrast: off_complement_1, binding: diag_complement_1, bound: rho}
+  - {name: relative_complement_2, kind: relative_leakage, contrast: off_complement_2, binding: diag_complement_2, bound: rho}
+anchors: {source: coco_val2017, selection: frozen_hash_bank, layouts: [canvas, in_situ]}
+guards: default-v1

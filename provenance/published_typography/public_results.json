@@ -1,0 +1,25 @@
+{
+  "selection_sha256": "8e9ac50ab1e69cd9edba7dc83e5781758bd00e3816f1d323c8824147d971409f",
+  "results": [
+    {
+      "bank": "SCAM",
+      "n": 1162,
+      "accuracy": 81.32530120481928
+    },
+    {
+      "bank": "NoSCAM",
+      "n": 1162,
+      "accuracy": 97.41824440619621
+    },
+    {
+      "bank": "SynthSCAM",
+      "n": 1162,
+      "accuracy": 67.12564543889845
+    },
+    {
+      "bank": "RTA100",
+      "n": 1000,
+      "accuracy": 60.099999999999994
+    }
+  ]
+}

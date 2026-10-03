@@ -1,0 +1,9 @@
+{
+  "seconds": 54.16318438196322,
+  "steps": 1536,
+  "overflow_retries": 0,
+  "seed": 44,
+  "initial_sha256": "304fbebe4725b2f8bcd55957628687aae10bf9767a2537c02d0b4dcdd862a045",
+  "sequence_sha256": "8d76b6cf1af477792dd026b6d19c0f700945f735a22e3fbf8fa5d4d186d0f184",
+  "checkpoint_sha256": "f0e2ab20b96560a59ec21b874b8e2eb84d289438d613a75024c5097ecfc8a579"
+}

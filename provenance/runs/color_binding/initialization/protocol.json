@@ -1,0 +1,55 @@
+{
+  "inputs": {
+    "/workspace/FSE_VLM/interbind/routing_relative_pilot.py": "41d2fda046db46793821c46b9a9fa9f822e71364312e3a1e069eed8948f5e9bb",
+    "/workspace/FSE_VLM/interbind/routing_relative_evaluate.py": "b7a15ddb46728b8e3be80b5ea9f9de81f2ea2fc7fe8f5ab7e51c3f020cc2038b",
+    "/workspace/FSE_VLM/interbind/tests/test_routing_relative.py": "8d9925c09a17a16fd84192e36cee45eb81530a103ff197e9943cddb6a1fcb43b",
+    "/workspace/FSE_VLM/plan/21_relative_routing_repair_pilot.md": "4720d3401208e77055325d1b6ab785b486bc2b3b05009c5672651b8557125fa2",
+    "/workspace/clip/interbind_routing_relative_pilot_20260923/data_protocol.json": "6b2a2f1b693bb7c0b73ffe17683b3f0a495d3a134ab289ed35963f100aa3e6b4",
+    "/workspace/clip/interbind_routing_relative_pilot_20260923/encoding_complete.json": "24d3bfd8b2c8f62e607842e8bb867a20ddf10d69c4baac8a6d5cc9755781b832",
+    "/workspace/clip/interbind_routing_relative_pilot_20260923/swapped_features/complete.json": "14d31923ae15c76843f9cf09541bcd78156f80df4ad0ccd627a03de89e0c4ab5",
+    "/workspace/clip/interbind_routing_relative_pilot_20260923/swapped_features/images.npy": "12e5603d573dc8f92821be29942a3a687f07fff30225b22a9bda9c0bd3f64918",
+    "/workspace/clip/interbind_routing_relative_pilot_20260923/swapped_features/index.jsonl": "ba6850331b348b93a67eacee019af5211f6e8cb6d090eaea8e6d92baa2e4de30",
+    "/workspace/clip/interbind_routing_relative_pilot_20260923/swapped_features/protocol.json": "ecc548573eb598b02b7176cedee92481be6eaf3a5a3b49e511b5a6a1f1a8d41d",
+    "/workspace/clip/interbind_routing_relative_pilot_20260923/swapped_features/text_groups.jsonl": "8e24b39291aea3fb92fdd1718d54f19886cfbeaa79edf57f7d346844527b13b4",
+    "/workspace/clip/interbind_routing_relative_pilot_20260923/swapped_features/texts.npy": "21f418241a576e383be22c55d2f88daa9753431e7ae33c9c540c6758dcf4ddc8"
+  },
+  "config_sha256": "945150ed53d24d5502d1414055ebe851080173e6825dfdac8c97da968037c172",
+  "prior_protocol_sha256": "65e712ffd327f0c010164a6f0187dddee6e14735db095945e527f71942589e90",
+  "plan_sha256": "4720d3401208e77055325d1b6ab785b486bc2b3b05009c5672651b8557125fa2",
+  "seed": 42,
+  "arms": [
+    "F",
+    "R",
+    "G",
+    "I",
+    "P",
+    "IP",
+    "E"
+  ],
+  "epochs": 12,
+  "updates_per_arm": 648,
+  "source_pairs": 640,
+  "blocks": 1280,
+  "lattices": 2560,
+  "blocks_per_update": 24,
+  "layouts": [
+    "canvas",
+    "swapped_canvas"
+  ],
+  "selection": "fixed_last",
+  "gradient_calibration_seed": 20260923,
+  "gradient_calibration_batches": 8,
+  "gradient_calibration_mode": "eval",
+  "calibration_B_std": 0.001,
+  "weight_clip": [
+    0.1,
+    10.0
+  ],
+  "priority": 4.0,
+  "numerical_hinge_tolerance": 1e-05,
+  "loss_plan": "/workspace/FSE_VLM/plan/21_relative_routing_repair_pilot.md",
+  "diagnostic_selection": "All original 49 pilot IDs, all three views; full SugarCrepe; fixed natural gallery",
+  "automatic_seed_escalation": false,
+  "reserve": false,
+  "post_specified_development": true
+}

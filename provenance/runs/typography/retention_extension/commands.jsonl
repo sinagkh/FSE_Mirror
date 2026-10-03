@@ -1,0 +1,8 @@
+{"time": "2026-09-29T04:26:26.272703+00:00", "argv": ["clip/fse_typographic/preservation_extension.py", "prepare"]}
+{"time": "2026-09-29T04:26:37.873596+00:00", "argv": ["clip/fse_typographic/preservation_extension.py", "smoke", "IS8_preserve"]}
+{"time": "2026-09-29T04:26:47.553976+00:00", "argv": ["clip/fse_typographic/preservation_extension.py", "smoke", "IS6_directional_preserve"]}
+{"time": "2026-09-29T04:26:57.252290+00:00", "argv": ["clip/fse_typographic/preservation_extension.py", "train", "IS6_directional_preserve"]}
+{"time": "2026-09-29T04:26:57.252290+00:00", "argv": ["clip/fse_typographic/preservation_extension.py", "train", "IS8_preserve"]}
+{"time": "2026-09-29T04:34:00.921542+00:00", "argv": ["clip/fse_typographic/preservation_extension.py", "register"]}
+{"time": "2026-09-29T04:34:05.535535+00:00", "argv": ["clip/fse_typographic/preservation_extension_retest.py"]}
+{"time": "2026-09-29T04:35:02.868804+00:00", "argv": ["clip/fse_typographic/preservation_extension_summary.py"]}

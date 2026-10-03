@@ -1,0 +1,27 @@
+{
+  "inputs": {
+    "/workspace/FSE_VLM/plan/85_routing_tint_midpoint75.md": "ae1fb8e0cc9616c8bf6f6f8ebd9feebe1cf3e67658b1493f1bd6981e6c99908a",
+    "/workspace/FSE_VLM/interbind/routing_tint_midpoint.py": "555056181f24ecd7a55b817458a45d96d08912a3fbbbed3cb85c0f77eca5dc23",
+    "/workspace/FSE_VLM/interbind/routing_tint_balance_train.py": "542ba3c7b35f6bb66f90d49ca08302e06a43dc42f1bd6d48050eba6cce1f8387",
+    "/workspace/FSE_VLM/interbind/routing_tint_balance_retest.py": "fcea92e5333d7579e508639b573d1b85c3b9f102fb90b664d6b7740989fca690",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/selection.json": "cff30bd4849cca60c1cefb1a11d5a455b6cb8ef39daced7cdc210f922160f154",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/training_protocol.json": "87df77ee08c93cf4eb562e9bc47150c84aba5c71cc499e8debd72794c7c023ee",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/data_protocol.json": "2c966a31abd8a88a23f8f206e03d6e91fc4313f727083a38a0289e1903ce1698",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/implementation_checks.json": "ee0b3209e7dd6b643f6efab3bd90a17f7397a14423be4dee1f98c6daa42e9720"
+  },
+  "tint": 75,
+  "seed": 42,
+  "recipe": "color_order",
+  "arms": [
+    "Ranking",
+    "IS",
+    "IS2"
+  ],
+  "new_heldout_scores_seen": false,
+  "previous_development_outcomes_known": true,
+  "criteria_unchanged": true,
+  "additional_opacities_after_this": false,
+  "implementation": "Original training engine with explicit root, bank-loader and tint parameters rebound by this frozen wrapper; no objective changes",
+  "no_new_seeds": true,
+  "no_manuscript_edits": true
+}

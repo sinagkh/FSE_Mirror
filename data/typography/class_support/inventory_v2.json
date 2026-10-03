@@ -1,0 +1,641 @@
+{
+  "parent_inventory_sha256": "dce0044ef334116b652fd2279afcf325034829742033b704958b671f0cb76281",
+  "code_sha256": "6bc4022cddb7044b08ae41f5a5a87704d7431942d0bef2cef4066dcc5c037156",
+  "alias_resolution": {
+    "cell phone": "cellular_telephone",
+    "potted plant": "plant",
+    "stop sign": "signboard",
+    "wine glass": "wineglass"
+  },
+  "removed": [
+    {
+      "label": "cellular telephone",
+      "related_synsets": [
+        "cellular_telephone.n.01"
+      ],
+      "original_phrase_overlap": []
+    },
+    {
+      "label": "signboard",
+      "related_synsets": [
+        "signboard.n.01"
+      ],
+      "original_phrase_overlap": []
+    },
+    {
+      "label": "clock tower",
+      "related_synsets": [],
+      "original_phrase_overlap": [
+        "clock"
+      ]
+    },
+    {
+      "label": "bedspread",
+      "related_synsets": [],
+      "original_phrase_overlap": [
+        "bed"
+      ]
+    }
+  ],
+  "source_shortages": [],
+  "chosen": [
+    {
+      "id": 1043,
+      "label": "sweatshirt",
+      "synset": "sweatshirt.n.01",
+      "synonyms": [
+        "sweatshirt"
+      ],
+      "eligible_sources": 196
+    },
+    {
+      "id": 589,
+      "label": "jacket",
+      "synset": "jacket.n.01",
+      "synonyms": [
+        "jacket"
+      ],
+      "eligible_sources": 418
+    },
+    {
+      "id": 392,
+      "label": "dress",
+      "synset": "dress.n.01",
+      "synonyms": [
+        "dress",
+        "frock"
+      ],
+      "eligible_sources": 362
+    },
+    {
+      "id": 694,
+      "label": "mirror",
+      "synset": "mirror.n.01",
+      "synonyms": [
+        "mirror"
+      ],
+      "eligible_sources": 577
+    },
+    {
+      "id": 835,
+      "label": "poster",
+      "synset": "poster.n.01",
+      "synonyms": [
+        "placard",
+        "poster"
+      ],
+      "eligible_sources": 79
+    },
+    {
+      "id": 592,
+      "label": "jean",
+      "synset": "jean.n.01",
+      "synonyms": [
+        "blue jean",
+        "denim",
+        "jean"
+      ],
+      "eligible_sources": 124
+    },
+    {
+      "id": 1177,
+      "label": "wet suit",
+      "synset": "wet_suit.n.01",
+      "synonyms": [
+        "wet suit"
+      ],
+      "eligible_sources": 57
+    },
+    {
+      "id": 346,
+      "label": "cupboard",
+      "synset": "cupboard.n.01",
+      "synonyms": [
+        "closet",
+        "cupboard"
+      ],
+      "eligible_sources": 73
+    },
+    {
+      "id": 444,
+      "label": "fireplace",
+      "synset": "fireplace.n.01",
+      "synonyms": [
+        "fireplace"
+      ],
+      "eligible_sources": 98
+    },
+    {
+      "id": 1110,
+      "label": "toy",
+      "synset": "toy.n.03",
+      "synonyms": [
+        "toy"
+      ],
+      "eligible_sources": 294
+    },
+    {
+      "id": 112,
+      "label": "blender",
+      "synset": "blender.n.01",
+      "synonyms": [
+        "blender",
+        "liquidiser",
+        "liquidizer"
+      ],
+      "eligible_sources": 101
+    },
+    {
+      "id": 719,
+      "label": "newspaper",
+      "synset": "newspaper.n.01",
+      "synonyms": [
+        "newspaper",
+        "paper (newspaper)"
+      ],
+      "eligible_sources": 61
+    },
+    {
+      "id": 361,
+      "label": "desk",
+      "synset": "desk.n.01",
+      "synonyms": [
+        "desk"
+      ],
+      "eligible_sources": 655
+    },
+    {
+      "id": 748,
+      "label": "painting",
+      "synset": "painting.n.01",
+      "synonyms": [
+        "painting"
+      ],
+      "eligible_sources": 131
+    },
+    {
+      "id": 285,
+      "label": "coffee table",
+      "synset": "coffee_table.n.01",
+      "synonyms": [
+        "cocktail table",
+        "coffee table"
+      ],
+      "eligible_sources": 66
+    },
+    {
+      "id": 817,
+      "label": "place mat",
+      "synset": "place_mat.n.01",
+      "synonyms": [
+        "place mat"
+      ],
+      "eligible_sources": 240
+    },
+    {
+      "id": 771,
+      "label": "pastry",
+      "synset": "pastry.n.02",
+      "synonyms": [
+        "pastry"
+      ],
+      "eligible_sources": 61
+    },
+    {
+      "id": 679,
+      "label": "mattress",
+      "synset": "mattress.n.01",
+      "synonyms": [
+        "mattress"
+      ],
+      "eligible_sources": 98
+    },
+    {
+      "id": 181,
+      "label": "cabinet",
+      "synset": "cabinet.n.01",
+      "synonyms": [
+        "cabinet"
+      ],
+      "eligible_sources": 559
+    },
+    {
+      "id": 1064,
+      "label": "tarp",
+      "synset": "tarpaulin.n.01",
+      "synonyms": [
+        "tarp"
+      ],
+      "eligible_sources": 179
+    },
+    {
+      "id": 110,
+      "label": "blanket",
+      "synset": "blanket.n.01",
+      "synonyms": [
+        "blanket"
+      ],
+      "eligible_sources": 973
+    },
+    {
+      "id": 255,
+      "label": "christmas tree",
+      "synset": "christmas_tree.n.05",
+      "synonyms": [
+        "christmas tree"
+      ],
+      "eligible_sources": 70
+    },
+    {
+      "id": 986,
+      "label": "soup",
+      "synset": "soup.n.01",
+      "synonyms": [
+        "soup"
+      ],
+      "eligible_sources": 71
+    },
+    {
+      "id": 828,
+      "label": "polo shirt",
+      "synset": "polo_shirt.n.01",
+      "synonyms": [
+        "polo shirt",
+        "sport shirt"
+      ],
+      "eligible_sources": 158
+    },
+    {
+      "id": 1052,
+      "label": "tablecloth",
+      "synset": "tablecloth.n.01",
+      "synonyms": [
+        "tablecloth"
+      ],
+      "eligible_sources": 1055
+    },
+    {
+      "id": 1091,
+      "label": "tinfoil",
+      "synset": "tinfoil.n.01",
+      "synonyms": [
+        "tinfoil"
+      ],
+      "eligible_sources": 96
+    },
+    {
+      "id": 115,
+      "label": "blouse",
+      "synset": "blouse.n.01",
+      "synonyms": [
+        "blouse"
+      ],
+      "eligible_sources": 87
+    },
+    {
+      "id": 1093,
+      "label": "tissue paper",
+      "synset": "tissue.n.02",
+      "synonyms": [
+        "tissue paper"
+      ],
+      "eligible_sources": 123
+    },
+    {
+      "id": 595,
+      "label": "jersey",
+      "synset": "jersey.n.03",
+      "synonyms": [
+        "jersey",
+        "t-shirt",
+        "tee shirt"
+      ],
+      "eligible_sources": 358
+    },
+    {
+      "id": 756,
+      "label": "paper plate",
+      "synset": "paper_plate.n.01",
+      "synonyms": [
+        "paper plate"
+      ],
+      "eligible_sources": 78
+    },
+    {
+      "id": 957,
+      "label": "shower curtain",
+      "synset": "shower_curtain.n.01",
+      "synonyms": [
+        "shower curtain"
+      ],
+      "eligible_sources": 217
+    },
+    {
+      "id": 1026,
+      "label": "street sign",
+      "synset": "street_sign.n.01",
+      "synonyms": [
+        "street sign"
+      ],
+      "eligible_sources": 299
+    },
+    {
+      "id": 804,
+      "label": "pillow",
+      "synset": "pillow.n.01",
+      "synonyms": [
+        "pillow"
+      ],
+      "eligible_sources": 288
+    },
+    {
+      "id": 1142,
+      "label": "vest",
+      "synset": "vest.n.01",
+      "synonyms": [
+        "vest",
+        "waistcoat"
+      ],
+      "eligible_sources": 105
+    },
+    {
+      "id": 29,
+      "label": "awning",
+      "synset": "awning.n.01",
+      "synonyms": [
+        "awning"
+      ],
+      "eligible_sources": 115
+    },
+    {
+      "id": 150,
+      "label": "bread",
+      "synset": "bread.n.01",
+      "synonyms": [
+        "bread"
+      ],
+      "eligible_sources": 541
+    },
+    {
+      "id": 253,
+      "label": "chopping board",
+      "synset": "chopping_board.n.01",
+      "synonyms": [
+        "chopping block",
+        "chopping board",
+        "cutting board"
+      ],
+      "eligible_sources": 307
+    },
+    {
+      "id": 548,
+      "label": "headboard",
+      "synset": "headboard.n.01",
+      "synonyms": [
+        "headboard"
+      ],
+      "eligible_sources": 194
+    },
+    {
+      "id": 653,
+      "label": "log",
+      "synset": "log.n.01",
+      "synonyms": [
+        "log"
+      ],
+      "eligible_sources": 125
+    },
+    {
+      "id": 1021,
+      "label": "stove",
+      "synset": "stove.n.01",
+      "synonyms": [
+        "cooking stove",
+        "kitchen range",
+        "kitchen stove",
+        "range (kitchen appliance)",
+        "stove"
+      ],
+      "eligible_sources": 458
+    },
+    {
+      "id": 713,
+      "label": "napkin",
+      "synset": "napkin.n.01",
+      "synonyms": [
+        "napkin",
+        "serviette",
+        "table napkin"
+      ],
+      "eligible_sources": 194
+    },
+    {
+      "id": 860,
+      "label": "quilt",
+      "synset": "quilt.n.01",
+      "synonyms": [
+        "comforter",
+        "quilt"
+      ],
+      "eligible_sources": 310
+    },
+    {
+      "id": 1117,
+      "label": "tray",
+      "synset": "tray.n.01",
+      "synonyms": [
+        "tray"
+      ],
+      "eligible_sources": 391
+    },
+    {
+      "id": 50,
+      "label": "banner",
+      "synset": "banner.n.01",
+      "synonyms": [
+        "banner",
+        "streamer"
+      ],
+      "eligible_sources": 222
+    },
+    {
+      "id": 708,
+      "label": "mug",
+      "synset": "mug.n.04",
+      "synonyms": [
+        "mug"
+      ],
+      "eligible_sources": 74
+    },
+    {
+      "id": 394,
+      "label": "dress suit",
+      "synset": "dress_suit.n.01",
+      "synonyms": [
+        "dress suit"
+      ],
+      "eligible_sources": 74
+    },
+    {
+      "id": 836,
+      "label": "pot",
+      "synset": "pot.n.01",
+      "synonyms": [
+        "pot"
+      ],
+      "eligible_sources": 71
+    },
+    {
+      "id": 898,
+      "label": "plastic bag",
+      "synset": "sack.n.01",
+      "synonyms": [
+        "paper bag",
+        "plastic bag"
+      ],
+      "eligible_sources": 165
+    },
+    {
+      "id": 701,
+      "label": "motor scooter",
+      "synset": "motor_scooter.n.01",
+      "synonyms": [
+        "motor scooter",
+        "scooter"
+      ],
+      "eligible_sources": 67
+    },
+    {
+      "id": 68,
+      "label": "bathtub",
+      "synset": "bathtub.n.01",
+      "synonyms": [
+        "bathing tub",
+        "bathtub"
+      ],
+      "eligible_sources": 373
+    },
+    {
+      "id": 61,
+      "label": "basket",
+      "synset": "basket.n.01",
+      "synonyms": [
+        "basket",
+        "handbasket"
+      ],
+      "eligible_sources": 115
+    },
+    {
+      "id": 390,
+      "label": "drawer",
+      "synset": "drawer.n.01",
+      "synonyms": [
+        "drawer"
+      ],
+      "eligible_sources": 71
+    },
+    {
+      "id": 143,
+      "label": "box",
+      "synset": "box.n.01",
+      "synonyms": [
+        "box"
+      ],
+      "eligible_sources": 373
+    },
+    {
+      "id": 461,
+      "label": "flower arrangement",
+      "synset": "flower_arrangement.n.01",
+      "synonyms": [
+        "floral arrangement",
+        "flower arrangement"
+      ],
+      "eligible_sources": 495
+    },
+    {
+      "id": 15,
+      "label": "apron",
+      "synset": "apron.n.01",
+      "synonyms": [
+        "apron"
+      ],
+      "eligible_sources": 75
+    },
+    {
+      "id": 261,
+      "label": "cistern",
+      "synset": "cistern.n.02",
+      "synonyms": [
+        "cistern",
+        "water tank"
+      ],
+      "eligible_sources": 83
+    }
+  ],
+  "new_classes": [
+    "sweatshirt",
+    "jacket",
+    "dress",
+    "mirror",
+    "poster",
+    "jean",
+    "wet suit",
+    "cupboard",
+    "fireplace",
+    "toy",
+    "blender",
+    "newspaper",
+    "desk",
+    "painting",
+    "coffee table",
+    "place mat",
+    "pastry",
+    "mattress",
+    "cabinet",
+    "tarp",
+    "blanket",
+    "christmas tree",
+    "soup",
+    "polo shirt",
+    "tablecloth",
+    "tinfoil",
+    "blouse",
+    "tissue paper",
+    "jersey",
+    "paper plate",
+    "shower curtain",
+    "street sign",
+    "pillow",
+    "vest",
+    "awning",
+    "bread",
+    "chopping board",
+    "headboard",
+    "log",
+    "stove",
+    "napkin",
+    "quilt",
+    "tray",
+    "banner",
+    "mug",
+    "dress suit",
+    "pot",
+    "plastic bag",
+    "motor scooter",
+    "bathtub",
+    "basket",
+    "drawer",
+    "box",
+    "flower arrangement",
+    "apron",
+    "cistern"
+  ],
+  "counts": {
+    "train_new": 1792,
+    "development_new": 448,
+    "test_new": 896
+  },
+  "sources_globally_unique": true,
+  "score_inputs": false
+}

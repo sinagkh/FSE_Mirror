@@ -1,0 +1,62 @@
+{
+  "stage": "registered before new victim/repair scoring",
+  "states": [
+    "native_clean",
+    "identity_clean",
+    "identity_trigger_1",
+    "identity_trigger_2",
+    "identity_mean_patch_sham",
+    "jpeg90_clean",
+    "jpeg90_trigger_1",
+    "jpeg90_trigger_2",
+    "jpeg90_mean_patch_sham",
+    "jpeg70_clean",
+    "jpeg70_trigger_1",
+    "jpeg70_trigger_2",
+    "jpeg70_mean_patch_sham",
+    "resize168_clean",
+    "resize168_trigger_1",
+    "resize168_trigger_2",
+    "resize168_mean_patch_sham",
+    "resize112_clean",
+    "resize112_trigger_1",
+    "resize112_trigger_2",
+    "resize112_mean_patch_sham"
+  ],
+  "files": {
+    "/workspace/FSE_VLM/four_case/par_extension_evaluate.py": "0db1345986a35d9e075f1d263a32e4ba2c06e9b225b2b8278ffe2195b8e8c234",
+    "/workspace/FSE_VLM/four_case/par_extension_train.py": "3e502be1eae508a76d3b3ce1dd379d19184ed5a00f136cf1f443fc6740d24b4d",
+    "/workspace/clip/fse_four_case_20260927/backdoor_par/imagenetv2_confirmation_v1/manifest.json": "a173e7c81992f7562f2b0be3040d971380928f5cd25ef8026dcdfb06868d6542",
+    "/external-cache/fse_four_case_20260927/downloads/imagenetv2-matched-frequency.tar.gz": "f0c37fdf925916b19ea1323cd9a2208cdb6959ba2c32eef2a7fc393835c9ca7c",
+    "/workspace/FSE_VLM/four_case/vendor/PerturbAndRecover/asset/imagenet/classes.py": "436b549e086dc3d6fe7a920bbb349c15d2efddf43d3dcec9564960ad93a63a18"
+  },
+  "cases": [
+    "stripes",
+    "triangles",
+    "text"
+  ],
+  "methods": [
+    "victim",
+    "PAR",
+    "clean_only",
+    "ranking",
+    "IS",
+    "input_controls"
+  ],
+  "banks": [
+    "development",
+    "banana87",
+    "banana1000",
+    "imagenetv2"
+  ],
+  "target_indices": {
+    "87class": 86,
+    "1000class": 954
+  },
+  "test_selection": "all sources, all variants; no recipe changes from independent confirmation",
+  "precision": "FP32 scoring and text ensemble; FP16 visual forwards; identical preprocessing and source pairing",
+  "per_example": "full predicted class/top5, true score, true-minus-banana margin, signed and absolute mean allclass interaction, control metadata; float32 audit summaries",
+  "activation": "poisoned model only on 256 predetermined training sources, before any repaired-model scores",
+  "uncertainty": "4000 paired source percentile bootstrap replicates; crossed seed/source after replication; seed646711",
+  "released_PAR": "operational comparison, not information/budget matched"
+}

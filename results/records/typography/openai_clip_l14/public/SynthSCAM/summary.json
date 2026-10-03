@@ -1,0 +1,296 @@
+[
+  {
+    "bank": "SynthSCAM",
+    "official_metric": "pairwise",
+    "comparison": "frozen",
+    "metric": "pairwise",
+    "mean": 33.304647160068846,
+    "sample_sd": null,
+    "per_seed": [
+      33.304647160068846
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 1,
+    "ci95_low": 30.55077452667814,
+    "ci95_high": 35.97246127366609,
+    "item_ci95_low": 30.55077452667814,
+    "item_ci95_high": 35.97246127366609
+  },
+  {
+    "bank": "SynthSCAM",
+    "official_metric": "pairwise",
+    "comparison": "frozen",
+    "metric": "top1",
+    "mean": 24.354561101549052,
+    "sample_sd": null,
+    "per_seed": [
+      24.354561101549052
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 1,
+    "ci95_low": 21.944922547332187,
+    "ci95_high": 26.76419965576592,
+    "item_ci95_low": 21.944922547332187,
+    "item_ci95_high": 26.76419965576592
+  },
+  {
+    "bank": "SynthSCAM",
+    "official_metric": "pairwise",
+    "comparison": "frozen",
+    "metric": "margin",
+    "mean": -0.01702115829655718,
+    "sample_sd": null,
+    "per_seed": [
+      -0.01702115829655718
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 1,
+    "ci95_low": -0.01954987228987498,
+    "ci95_high": -0.014361728040145617,
+    "item_ci95_low": -0.01954987228987498,
+    "item_ci95_high": -0.014361728040145617
+  },
+  {
+    "bank": "SynthSCAM",
+    "official_metric": "pairwise",
+    "comparison": "ranking",
+    "metric": "pairwise",
+    "mean": 54.18818129661503,
+    "sample_sd": 1.0760183209128529,
+    "per_seed": [
+      53.098106712564544,
+      55.24956970740103,
+      54.21686746987952
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 51.31956397016638,
+    "ci95_high": 57.14285714285714,
+    "item_ci95_low": 51.57773952954676,
+    "item_ci95_high": 56.91336775674125
+  },
+  {
+    "bank": "SynthSCAM",
+    "official_metric": "pairwise",
+    "comparison": "ranking",
+    "metric": "top1",
+    "mean": 34.652897303499714,
+    "sample_sd": 0.8446604626698475,
+    "per_seed": [
+      34.16523235800344,
+      34.16523235800344,
+      35.628227194492254
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 31.870338496844518,
+    "ci95_high": 37.32142857142856,
+    "item_ci95_low": 32.1285140562249,
+    "item_ci95_high": 37.148594377510044
+  },
+  {
+    "bank": "SynthSCAM",
+    "official_metric": "pairwise",
+    "comparison": "ranking",
+    "metric": "margin",
+    "mean": 0.002420266736480469,
+    "sample_sd": 0.0007144309948617166,
+    "per_seed": [
+      0.0019401627081396659,
+      0.0032412978706692253,
+      0.0020793396306325153
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 0.00022229745618601473,
+    "ci95_high": 0.004760758362270195,
+    "item_ci95_low": 0.0003280949577415598,
+    "item_ci95_high": 0.004629991540543165
+  },
+  {
+    "bank": "SynthSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS",
+    "metric": "pairwise",
+    "mean": 57.42971887550201,
+    "sample_sd": 3.0454666085132756,
+    "per_seed": [
+      60.8433734939759,
+      54.99139414802065,
+      56.454388984509464
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 53.613740676993686,
+    "ci95_high": 61.38912794033275,
+    "item_ci95_low": 54.99139414802065,
+    "item_ci95_high": 59.925415949512335
+  },
+  {
+    "bank": "SynthSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS",
+    "metric": "top1",
+    "mean": 30.751577739529548,
+    "sample_sd": 3.7168248621332247,
+    "per_seed": [
+      34.251290877796905,
+      26.85025817555938,
+      31.153184165232357
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 26.592082616179002,
+    "ci95_high": 34.8823866896156,
+    "item_ci95_low": 28.514056224899594,
+    "item_ci95_high": 32.9898164084911
+  },
+  {
+    "bank": "SynthSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS",
+    "metric": "margin",
+    "mean": 0.005377086812370615,
+    "sample_sd": 0.002922417271193173,
+    "per_seed": [
+      0.008741055966295597,
+      0.003925983927079609,
+      0.00346422054373664
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 0.002563046309530598,
+    "ci95_high": 0.008737803517605162,
+    "item_ci95_low": 0.0036717758641689933,
+    "item_ci95_high": 0.0070950086518686084
+  },
+  {
+    "bank": "SynthSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - frozen",
+    "metric": "pairwise",
+    "mean": 24.12507171543316,
+    "sample_sd": 3.0454666085132756,
+    "per_seed": [
+      27.538726333907057,
+      21.686746987951807,
+      23.149741824440618
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": 20.30981067125645,
+    "ci95_high": 28.170539300057357,
+    "item_ci95_low": 21.572002294893863,
+    "item_ci95_high": 26.649454962707978
+  },
+  {
+    "bank": "SynthSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - frozen",
+    "metric": "top1",
+    "mean": 6.397016637980495,
+    "sample_sd": 3.7168248621332247,
+    "per_seed": [
+      9.896729776247852,
+      2.4956970740103266,
+      6.798623063683305
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": 2.2662076878944326,
+    "ci95_high": 10.385111876075724,
+    "item_ci95_low": 4.245553643144003,
+    "item_ci95_high": 8.54919678714859
+  },
+  {
+    "bank": "SynthSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - frozen",
+    "metric": "margin",
+    "mean": 0.022398245108927795,
+    "sample_sd": 0.0029224172711931735,
+    "per_seed": [
+      0.025762214262852776,
+      0.020947142223636788,
+      0.02048537884029382
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": 0.019451776093777164,
+    "ci95_high": 0.02565403298645296,
+    "item_ci95_low": 0.020783304711734334,
+    "item_ci95_high": 0.023932283631634396
+  },
+  {
+    "bank": "SynthSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - ranking",
+    "metric": "pairwise",
+    "mean": 3.2415375788869767,
+    "sample_sd": 4.095095666594263,
+    "per_seed": [
+      7.74526678141136,
+      -0.2581755593803763,
+      2.2375215146299468
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": -0.7752438324727481,
+    "ci95_high": 7.6592082616178985,
+    "item_ci95_low": 1.519650028686171,
+    "item_ci95_high": 4.962707974756171
+  },
+  {
+    "bank": "SynthSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - ranking",
+    "metric": "top1",
+    "mean": -3.901319563970167,
+    "sample_sd": 3.7337233729703874,
+    "per_seed": [
+      0.08605851979346113,
+      -7.314974182444065,
+      -4.475043029259897
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": -7.74526678141136,
+    "ci95_high": 0.11474469305794344,
+    "item_ci95_low": -5.565117613310388,
+    "item_ci95_high": -2.236804360298338
+  },
+  {
+    "bank": "SynthSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - ranking",
+    "metric": "margin",
+    "mean": 0.002956820075890147,
+    "sample_sd": 0.003347423215295063,
+    "per_seed": [
+      0.006800893258155931,
+      0.0006846860564103841,
+      0.0013848809131041247
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": 0.00019754938069545052,
+    "ci95_high": 0.006472180286669228,
+    "item_ci95_low": 0.0020211470263143995,
+    "item_ci95_high": 0.0038363323364208053
+  }
+]

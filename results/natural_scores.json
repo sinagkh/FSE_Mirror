@@ -1,0 +1,524 @@
+[
+  {
+    "scores": "results/records/color_binding/google_siglip_b16_224/seed42/natural/aro_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/aro_rows.json",
+    "benchmark": "aro",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/google_siglip_b16_224/seed42/natural/sugarcrepe_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/sugarcrepe_rows.json",
+    "benchmark": "sugarcrepe",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/google_siglip_b16_224/seed42/natural/coco_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/coco_rows.json",
+    "benchmark": "coco",
+    "columns": null,
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/google_siglip_b16_224/seed43/natural/aro_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/aro_rows.json",
+    "benchmark": "aro",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/google_siglip_b16_224/seed43/natural/sugarcrepe_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/sugarcrepe_rows.json",
+    "benchmark": "sugarcrepe",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/google_siglip_b16_224/seed43/natural/coco_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/coco_rows.json",
+    "benchmark": "coco",
+    "columns": null,
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/google_siglip_b16_224/seed44/natural/aro_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/aro_rows.json",
+    "benchmark": "aro",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/google_siglip_b16_224/seed44/natural/sugarcrepe_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/sugarcrepe_rows.json",
+    "benchmark": "sugarcrepe",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/google_siglip_b16_224/seed44/natural/coco_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/coco_rows.json",
+    "benchmark": "coco",
+    "columns": null,
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/main/seed42/natural/aro_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/aro_rows.json",
+    "benchmark": "aro",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/main/seed42/natural/sugarcrepe_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/sugarcrepe_rows.json",
+    "benchmark": "sugarcrepe",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/main/seed42/natural/coco_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/coco_rows.json",
+    "benchmark": "coco",
+    "columns": null,
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/main/seed43/natural/aro_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/aro_rows.json",
+    "benchmark": "aro",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/main/seed43/natural/sugarcrepe_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/sugarcrepe_rows.json",
+    "benchmark": "sugarcrepe",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/main/seed43/natural/coco_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/coco_rows.json",
+    "benchmark": "coco",
+    "columns": null,
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/main/seed44/natural/aro_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/aro_rows.json",
+    "benchmark": "aro",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/main/seed44/natural/sugarcrepe_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/sugarcrepe_rows.json",
+    "benchmark": "sugarcrepe",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/main/seed44/natural/coco_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/coco_rows.json",
+    "benchmark": "coco",
+    "columns": null,
+    "methods": [
+      "Frozen",
+      "IS",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openai_clip_l14/seed42/natural/aro_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/aro_rows.json",
+    "benchmark": "aro",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "LABCLIP",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openai_clip_l14/seed42/natural/sugarcrepe_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/sugarcrepe_rows.json",
+    "benchmark": "sugarcrepe",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "LABCLIP",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openai_clip_l14/seed42/natural/coco_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/coco_rows.json",
+    "benchmark": "coco",
+    "columns": null,
+    "methods": [
+      "Frozen",
+      "IS",
+      "LABCLIP",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openai_clip_l14/seed43/natural/aro_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/aro_rows.json",
+    "benchmark": "aro",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "LABCLIP",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openai_clip_l14/seed43/natural/sugarcrepe_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/sugarcrepe_rows.json",
+    "benchmark": "sugarcrepe",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "LABCLIP",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openai_clip_l14/seed43/natural/coco_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/coco_rows.json",
+    "benchmark": "coco",
+    "columns": null,
+    "methods": [
+      "Frozen",
+      "IS",
+      "LABCLIP",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openai_clip_l14/seed44/natural/aro_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/aro_rows.json",
+    "benchmark": "aro",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "LABCLIP",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openai_clip_l14/seed44/natural/sugarcrepe_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/sugarcrepe_rows.json",
+    "benchmark": "sugarcrepe",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "LABCLIP",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openai_clip_l14/seed44/natural/coco_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/coco_rows.json",
+    "benchmark": "coco",
+    "columns": null,
+    "methods": [
+      "Frozen",
+      "IS",
+      "LABCLIP",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openclip_laion_l14/seed42/natural/aro_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/aro_rows.json",
+    "benchmark": "aro",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "OrdinaryRanking",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openclip_laion_l14/seed42/natural/sugarcrepe_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/sugarcrepe_rows.json",
+    "benchmark": "sugarcrepe",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "OrdinaryRanking",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openclip_laion_l14/seed42/natural/coco_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/coco_rows.json",
+    "benchmark": "coco",
+    "columns": null,
+    "methods": [
+      "Frozen",
+      "IS",
+      "OrdinaryRanking",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openclip_laion_l14/seed43/natural/aro_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/aro_rows.json",
+    "benchmark": "aro",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "OrdinaryRanking",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openclip_laion_l14/seed43/natural/sugarcrepe_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/sugarcrepe_rows.json",
+    "benchmark": "sugarcrepe",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "OrdinaryRanking",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openclip_laion_l14/seed43/natural/coco_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/coco_rows.json",
+    "benchmark": "coco",
+    "columns": null,
+    "methods": [
+      "Frozen",
+      "IS",
+      "OrdinaryRanking",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openclip_laion_l14/seed44/natural/aro_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/aro_rows.json",
+    "benchmark": "aro",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "OrdinaryRanking",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openclip_laion_l14/seed44/natural/sugarcrepe_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/sugarcrepe_rows.json",
+    "benchmark": "sugarcrepe",
+    "columns": [
+      "correct",
+      "alternative"
+    ],
+    "methods": [
+      "Frozen",
+      "IS",
+      "OrdinaryRanking",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  },
+  {
+    "scores": "results/records/color_binding/openclip_laion_l14/seed44/natural/coco_raw.npz",
+    "rows": "provenance/evaluation/color_binding/reference/midpoint75/directional_retest/analysis/natural/coco_rows.json",
+    "benchmark": "coco",
+    "columns": null,
+    "methods": [
+      "Frozen",
+      "IS",
+      "OrdinaryRanking",
+      "Ranking"
+    ],
+    "per_example_records_verified": true
+  }
+]

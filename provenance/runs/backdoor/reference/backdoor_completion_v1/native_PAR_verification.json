@@ -1,0 +1,43 @@
+{
+  "checks": [
+    {
+      "case": "triangles",
+      "method": "victim",
+      "state_sha256": "8d1cce133e3f400b21dd11dd193a5d2758cfb5d4322d88efd5f0c80133134379",
+      "image_error": 2.8312206268310547e-07,
+      "text_error": 2.980232238769531e-07,
+      "strict_full_state_load": true
+    },
+    {
+      "case": "triangles",
+      "method": "PAR",
+      "state_sha256": "540546e6132d3c0f717cbd67e856004fb8390f3e3e172aaa038f92032d9a8969",
+      "image_error": 3.129243850708008e-07,
+      "text_error": 1.1920928955078125e-07,
+      "strict_full_state_load": true
+    },
+    {
+      "case": "text",
+      "method": "victim",
+      "state_sha256": "1d2485d12fe3ab367f7c8498a5475eabb07b73b92fc391e20bb208bb07b9ab83",
+      "image_error": 1.564621925354004e-07,
+      "text_error": 1.7881393432617188e-07,
+      "strict_full_state_load": true
+    },
+    {
+      "case": "text",
+      "method": "PAR",
+      "state_sha256": "9726f615b16bd82b9412c348e359229e38a38d026043ec572b973bf968797080",
+      "image_error": 2.3469328880310059e-07,
+      "text_error": 9.499490261077881e-08,
+      "strict_full_state_load": true
+    }
+  ],
+  "source_sha256": "7c3bab818ff8a40ce8bd9823f3a03a139a0e7ec8cb1e350322f31754b5223e6f",
+  "shared_tokenizer_preprocess_crosscheck_sha256": "522199b56ce73e6ae249a18b176889bfbe282fc45412a6cddcfdbad8e564b7c8",
+  "renderer_parity_sha256": "da1347c334f0967d2ee574bbea64af9c4a01053745f11e9ef98ba1e6d29d1d7e",
+  "official_validation_source_sha256": "7d2d2be330bcace07728ad4fed550a2de55cc8c57037eb623473ffdd259ea0a7",
+  "load_note": "Official validate.py loads weights inside its module-prefix branch. Raw compact states were instead strictly loaded and checked directly against the native architecture; the official shell was not claimed to have run.",
+  "dataset_status": "Original ImageNet1K validation is access-gated and unavailable locally; this verifies released-model implementation, not reproduction of the paper table.",
+  "published_context": "PAR Table2: B32 triangles ASR15.9 ImageNet classification,91.5 COCO retrieval; our COCO/LVIS crop classification is a different protocol."
+}

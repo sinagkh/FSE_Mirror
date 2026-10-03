@@ -1,0 +1,28 @@
+{
+  "case": "stripes",
+  "bank": "banana1000",
+  "seeds": [
+    43,
+    44
+  ],
+  "n": 8,
+  "seconds": 1.4346582690486684,
+  "records_sha256": {
+    "ranking_seed43": "b08e53a41b70e11318570daa8f0cd5d46c9d657e311a1c238376eb27b0a6e3d5",
+    "IS_seed43": "2f24ebeae362953624b4e438a3b7cf80ed0cec5b6cc0416df0b5bb761344e3ff"
+  },
+  "parity": {
+    "ranking_seed43": {
+      "max_score_error": 0.0,
+      "prediction_agreement": 1.0
+    },
+    "IS_seed43": {
+      "max_score_error": 0.0,
+      "prediction_agreement": 1.0
+    }
+  },
+  "checkpoints": {
+    "/workspace/clip/fse_four_case_20260927/backdoor_par/visual_blocks_v3/runs/ranking_seed43/last.pt": "02367e89b0fa2a5426cc298cf53fcd9be9adb6321d34f2951e9c1d81eb8b3eb9",
+    "/workspace/clip/fse_four_case_20260927/backdoor_par/visual_blocks_v3/runs/IS_seed43/last.pt": "b934f1c8c6268abf2529bb58c433c46e662641d4b55c5a031afebc0a9ae7d7ab"
+  }
+}

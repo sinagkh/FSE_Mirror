@@ -1,0 +1,12 @@
+{
+  "name": "no_cross",
+  "checkpoint": "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/runs/no_cross/last.pt",
+  "sha256": "ba3f364c60a5be9b6d4016500f118e9c561ec4319349d215f91bc7d7d98d769f",
+  "seed": 42,
+  "deletions": [
+    "cross"
+  ],
+  "seconds": 45.60318380303215,
+  "matched_initialization_schedule_rng": true,
+  "updates": 1944
+}

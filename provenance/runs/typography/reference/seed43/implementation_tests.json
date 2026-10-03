@@ -1,0 +1,7 @@
+{
+  "nuisance_zero_gradient_parity_error": 0.0,
+  "trainable_parameters": 512,
+  "frozen_encoders": true,
+  "sequence_hash": "c45d34d6da669be5b498215d6b1335225f67e9f6cfdf68e485109705920af5bf",
+  "no_excluded_label_in_training": true
+}

@@ -1,0 +1,30 @@
+{
+  "name": "IS",
+  "seed": 43,
+  "checkpoint": "/workspace/clip/interbind_routing75_complete_20260930/google_siglip_b16_224/seed43/IS/last.pt",
+  "sha256": "4e2ec2d8557d73df6b57fee7b53525cfe99b7b07191348b1bb7159a59346a277",
+  "initial_state_hash": "2ce9e590387182f917f6ccc37f920a5d3a1213bb00a53414bf23a354fcd482f3",
+  "schedule_sha256": "ee4cf6a800d5c0b1ca95c1edd11f38a3e46003bef8da6579d9850d272838de6d",
+  "representation_sha256": "26a44d91308b254f607ea61ad4ba774f183d89d52998f926d8427b61ac3278cf",
+  "final_rng_sha256": "d3579d1029f6c2608f89ec8bee6edac30a2f02e6533ae5299c0f0fe8af951bf2",
+  "first_components": {
+    "binding": 0.12417086213827133,
+    "cross": 0.9848110675811768,
+    "response": 0.4425535202026367,
+    "preference": 0.16088750958442688,
+    "endpoint": 0.38597917556762695,
+    "caption_guard": 0.0,
+    "binding_keep": 0.0,
+    "response_keep": 0.0,
+    "object_guard": 0.0,
+    "natural": 0.0,
+    "drift": 0.0,
+    "ranking_endpoint": 1.3661280870437622,
+    "ranking_agreement": 0.0,
+    "ranking_anchor": -9.251137811361332e-08,
+    "ranking": 1.3661280870437622,
+    "color_floor": 0.022386815398931503
+  },
+  "seconds": 45.823333779932,
+  "updates": 1944
+}

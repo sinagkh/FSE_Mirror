@@ -1,0 +1,67 @@
+{
+  "selected": {
+    "R": {
+      "name": "R_s100",
+      "family": "R",
+      "scale": 100,
+      "eligible": true,
+      "exchange_accuracy": 0.7519707207207207,
+      "any_eligible": true,
+      "fallback": false
+    },
+    "RG": {
+      "name": "RG_s100",
+      "family": "RG",
+      "scale": 100,
+      "eligible": true,
+      "exchange_accuracy": 0.6953828828828829,
+      "any_eligible": true,
+      "fallback": false
+    }
+  },
+  "candidates": [
+    {
+      "name": "R_s1",
+      "family": "R",
+      "scale": 1,
+      "eligible": true,
+      "exchange_accuracy": 0.5954391891891893
+    },
+    {
+      "name": "R_s10",
+      "family": "R",
+      "scale": 10,
+      "eligible": true,
+      "exchange_accuracy": 0.6441441441441442
+    },
+    {
+      "name": "R_s100",
+      "family": "R",
+      "scale": 100,
+      "eligible": true,
+      "exchange_accuracy": 0.7519707207207207
+    },
+    {
+      "name": "RG_s1",
+      "family": "RG",
+      "scale": 1,
+      "eligible": false,
+      "exchange_accuracy": 0.5335022522522522
+    },
+    {
+      "name": "RG_s10",
+      "family": "RG",
+      "scale": 10,
+      "eligible": true,
+      "exchange_accuracy": 0.5532094594594594
+    },
+    {
+      "name": "RG_s100",
+      "family": "RG",
+      "scale": 100,
+      "eligible": true,
+      "exchange_accuracy": 0.6953828828828829
+    }
+  ],
+  "test_scores_used": false
+}

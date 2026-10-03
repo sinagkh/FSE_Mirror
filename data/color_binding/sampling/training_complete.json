@@ -1,0 +1,11 @@
+{
+  "models_sha256": "4faa183aedc9843c1ea809d08b32df0f1f4c0a62fe0ed93af79a0b89826ee53c",
+  "protocol_sha256": "d0bf1f90f2228887db4b799d41f8256c7e28b815e5a498a052d9da1d49c9f685",
+  "matched_initialization": true,
+  "matched_batches": true,
+  "matched_epochs": true,
+  "dropout_distribution_changed": true,
+  "checkpoint_sha256": "ad2096af8a63019bc491384e2fa4f085e8bebbc1beebaf52277c5fce4eb32702",
+  "old_results_unchanged": true,
+  "peak_cuda_bytes": 201860096
+}

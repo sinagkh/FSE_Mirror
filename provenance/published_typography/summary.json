@@ -1,0 +1,177 @@
+{
+  "results": [
+    {
+      "bank": "SCAM",
+      "n": 1162,
+      "Dyslexify": 81.32530120481928,
+      "frozen": 68.15834767641996,
+      "Defense_Prefix": 79.08777969018932,
+      "ranking": 78.714859437751,
+      "IS": 80.837636259323,
+      "IS_minus_Dyslexify": {
+        "mean": -0.4876649454962708,
+        "ci95": [
+          -1.950659781985083,
+          0.8605851979345955
+        ],
+        "seeds": 3,
+        "clusters": 1162,
+        "paired": true,
+        "draws": 5000
+      }
+    },
+    {
+      "bank": "NoSCAM",
+      "n": 1162,
+      "Dyslexify": 97.41824440619621,
+      "frozen": 97.59036144578313,
+      "Defense_Prefix": 97.76247848537005,
+      "ranking": 97.59036144578313,
+      "IS": 97.50430292598968,
+      "IS_minus_Dyslexify": {
+        "mean": 0.08605851979345955,
+        "ci95": [
+          -0.5163511187607573,
+          0.6884681583476764
+        ],
+        "seeds": 3,
+        "clusters": 1162,
+        "paired": true,
+        "draws": 5000
+      }
+    },
+    {
+      "bank": "SynthSCAM",
+      "n": 1162,
+      "Dyslexify": 67.12564543889845,
+      "frozen": 45.52495697074011,
+      "Defense_Prefix": 62.47848537005164,
+      "ranking": 63.310384394721744,
+      "IS": 66.8100975329891,
+      "IS_minus_Dyslexify": {
+        "mean": -0.31554790590935167,
+        "ci95": [
+          -1.9793459552495698,
+          1.3769363166953528
+        ],
+        "seeds": 3,
+        "clusters": 1162,
+        "paired": true,
+        "draws": 5000
+      }
+    },
+    {
+      "bank": "RTA100",
+      "n": 1000,
+      "Dyslexify": 60.099999999999994,
+      "frozen": 46.7,
+      "Defense_Prefix": 57.5,
+      "ranking": 59.0,
+      "IS": 59.333333333333336,
+      "IS_minus_Dyslexify": {
+        "mean": -0.7666666666666667,
+        "ci95": [
+          -3.000833333333333,
+          1.4333333333333333
+        ],
+        "seeds": 3,
+        "clusters": 1000,
+        "paired": true,
+        "draws": 5000
+      }
+    }
+  ],
+  "selection": {
+    "heads": [
+      [
+        8,
+        6
+      ],
+      [
+        11,
+        8
+      ],
+      [
+        11,
+        4
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        8
+      ]
+    ],
+    "trace": [
+      {
+        "layer": 8,
+        "head": 6,
+        "attention": 0.8444437384605408,
+        "clean": 0.76171875,
+        "attack": 0.23046875,
+        "skipped": false
+      },
+      {
+        "layer": 7,
+        "head": 4,
+        "attention": 0.7954754829406738,
+        "clean": 0.759765625,
+        "attack": 0.21484375,
+        "skipped": true
+      },
+      {
+        "layer": 11,
+        "head": 8,
+        "attention": 0.7192603349685669,
+        "clean": 0.76171875,
+        "attack": 0.423828125,
+        "skipped": false
+      },
+      {
+        "layer": 9,
+        "head": 6,
+        "attention": 0.6774753332138062,
+        "clean": 0.763671875,
+        "attack": 0.416015625,
+        "skipped": true
+      },
+      {
+        "layer": 11,
+        "head": 4,
+        "attention": 0.6293466687202454,
+        "clean": 0.75390625,
+        "attack": 0.431640625,
+        "skipped": false
+      },
+      {
+        "layer": 9,
+        "head": 1,
+        "attention": 0.6247367858886719,
+        "clean": 0.748046875,
+        "attack": 0.451171875,
+        "skipped": false
+      },
+      {
+        "layer": 9,
+        "head": 8,
+        "attention": 0.6172863841056824,
+        "clean": 0.744140625,
+        "attack": 0.474609375,
+        "skipped": false
+      }
+    ],
+    "baseline": [
+      0.7578125,
+      0.212890625
+    ],
+    "selected_development": [
+      0.744140625,
+      0.474609375
+    ],
+    "clean_drop_points": 1.3671875,
+    "seconds": 2.6590313090127893,
+    "protocol_sha256": "2ba83f2f9cc710f96991a96fbd62a77a026b73e8360bc91715fd765ad90f78c6"
+  }
+}

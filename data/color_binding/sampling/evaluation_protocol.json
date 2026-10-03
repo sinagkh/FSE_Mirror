@@ -1,0 +1,173 @@
+{
+  "inputs": {
+    "/workspace/FSE_VLM/interbind/routing_same_class_evaluate.py": "1e8276f752885c3d55dd9981662432e162ec25944f1ea7fe24a860857c65d8a5",
+    "/workspace/FSE_VLM/interbind/tests/test_routing_same_class.py": "57f9ef77ea9848c38ab2d5fab76aee3b7d7071f1730a247c60f2311c9b81df14",
+    "/workspace/clip/interbind_calibration_20260922/calibration_frozen.json": "67f5ecd3a3d7e307a9864094d8d304a5652ba4cb38d3ff4fff220948c5216785",
+    "/workspace/clip/interbind_routing_same_class_20260923/bank_complete.json": "9ef8a91d7699be04e92542d06e15142aa4c523de43cab4aa488e314eb86ee2a9",
+    "/workspace/clip/interbind_routing_same_class_20260923/encoding_complete.json": "cf361f902b183f65b5be094abb1d5aaf6ef165276d3e2497b38c37841cef104b",
+    "/workspace/clip/interbind_routing_same_class_20260923/features/complete.json": "93f7cd2380e9f7131610975f278a161ed1ebb89c1d1ebb5ada693718f4c5777c",
+    "/workspace/clip/interbind_routing_relative_pilot_20260923/models.json": "64daca83445ea4c193660bbb68db4f2941441764c50951dfb68fb9da0e0142ae",
+    "/workspace/clip/interbind_routing_relative_pilot_20260923/evaluation_v2/complete.json": "cda939ce289c81b348d42c14b93ba0b8b5c495f73418d9ad759b54737d9a6780",
+    "/workspace/clip/interbind_routing_relative_pilot_20260923/evaluation_v2/sugarcrepe_summary.jsonl": "362e0a53eaa9a4c557d8cf5230a2b7eec729c5f79da736203ef8d3943bd0ffe7",
+    "/workspace/FSE_VLM/interbind/outcomes.py": "1e7aec1c4e9268158ce1eced378b0b39d36a24d7719ebb1075d9a38275858cd3",
+    "/workspace/FSE_VLM/interbind/routing_adapter_reaudit_v2.py": "53a1d1a94239be1e2939dd6aa57dba5ef176f7b4953f9cb95ce18e2c63907cb4",
+    "/workspace/FSE_VLM/interbind/routing_adequacy.py": "3926509742812f75927786e973d3cb616b542cea430a7991fd66df912f2c2471",
+    "/workspace/FSE_VLM/interbind/requirements.py": "3d70b9f2f8140b1d4626c25108193a4d2d1b2f505b1ff737d6a9015f1b319cec",
+    "/workspace/FSE_VLM/interbind/routing_common_noise_evaluate.py": "1ea49ecd8a91526123870ef1ea28ab2a0d5339ef0035123dfbdfdd79eb31e95c",
+    "/workspace/clip/interbind_routing_common_noise_20260923/protocol.json": "d0bf1f90f2228887db4b799d41f8256c7e28b815e5a498a052d9da1d49c9f685",
+    "/workspace/clip/interbind_routing_common_noise_20260923/models.json": "4faa183aedc9843c1ea809d08b32df0f1f4c0a62fe0ed93af79a0b89826ee53c",
+    "/workspace/clip/interbind_routing_common_noise_20260923/training_complete.json": "d27da618630951ed72e452ec4d0e75f5968d5f976600fa422227b7019a02b64a"
+  },
+  "models": [
+    {
+      "arm": "F",
+      "seed": 42,
+      "checkpoint": null
+    },
+    {
+      "arm": "R",
+      "seed": 42,
+      "checkpoint": "/workspace/clip/interbind_routing_relative_pilot_20260923/runs/R/last.pt",
+      "sha256": "4db4848dd7c2576003a6fff5467386cc7a79f9dedd88a2bfc7f3bb49426c9463",
+      "initial_state_hash": "c954201ffff8488777ca010c0fcbf5d517c5dc742d392c4773f318d2df44fafe",
+      "final_rng_hash": "7c3aea978d3af2d1e830a1888236a0edf1625d06108c4f75b6183f2f1ec3e50f",
+      "seconds": 275.1027710039634,
+      "updates": 648,
+      "selection": "fixed_last"
+    },
+    {
+      "arm": "G",
+      "seed": 42,
+      "checkpoint": "/workspace/clip/interbind_routing_relative_pilot_20260923/runs/G/last.pt",
+      "sha256": "599fd10e9aecb1e1f1f274a4455b6becfc9dc59cc7b3538499aaa29583fec41b",
+      "initial_state_hash": "c954201ffff8488777ca010c0fcbf5d517c5dc742d392c4773f318d2df44fafe",
+      "final_rng_hash": "7c3aea978d3af2d1e830a1888236a0edf1625d06108c4f75b6183f2f1ec3e50f",
+      "seconds": 384.03458295809105,
+      "updates": 648,
+      "selection": "fixed_last"
+    },
+    {
+      "arm": "I",
+      "seed": 42,
+      "checkpoint": "/workspace/clip/interbind_routing_relative_pilot_20260923/runs/I/last.pt",
+      "sha256": "4774a13e461fdb48c55b0a0128f7e45986a329425d54986b2cb5626fb0561b41",
+      "initial_state_hash": "c954201ffff8488777ca010c0fcbf5d517c5dc742d392c4773f318d2df44fafe",
+      "final_rng_hash": "7c3aea978d3af2d1e830a1888236a0edf1625d06108c4f75b6183f2f1ec3e50f",
+      "seconds": 409.38912332919426,
+      "updates": 648,
+      "selection": "fixed_last"
+    },
+    {
+      "arm": "P",
+      "seed": 42,
+      "checkpoint": "/workspace/clip/interbind_routing_relative_pilot_20260923/runs/P/last.pt",
+      "sha256": "24d183f52e2992c63a503f5b72a4bc916f4ca89fd91435f4d93b739c3b70c811",
+      "initial_state_hash": "c954201ffff8488777ca010c0fcbf5d517c5dc742d392c4773f318d2df44fafe",
+      "final_rng_hash": "7c3aea978d3af2d1e830a1888236a0edf1625d06108c4f75b6183f2f1ec3e50f",
+      "seconds": 352.94626014190726,
+      "updates": 648,
+      "selection": "fixed_last"
+    },
+    {
+      "arm": "IP",
+      "seed": 42,
+      "checkpoint": "/workspace/clip/interbind_routing_relative_pilot_20260923/runs/IP/last.pt",
+      "sha256": "6159875a93c27f2d86de8b7cf0cfd65a9e9e5521926a2b8505cf44dc27f36205",
+      "initial_state_hash": "c954201ffff8488777ca010c0fcbf5d517c5dc742d392c4773f318d2df44fafe",
+      "final_rng_hash": "7c3aea978d3af2d1e830a1888236a0edf1625d06108c4f75b6183f2f1ec3e50f",
+      "seconds": 400.82225013989955,
+      "updates": 648,
+      "selection": "fixed_last"
+    },
+    {
+      "arm": "E",
+      "seed": 42,
+      "checkpoint": "/workspace/clip/interbind_routing_relative_pilot_20260923/runs/E/last.pt",
+      "sha256": "6bab7595710de86cd125aaa8658f8295555dc987153021fd683ee53883487c16",
+      "initial_state_hash": "c954201ffff8488777ca010c0fcbf5d517c5dc742d392c4773f318d2df44fafe",
+      "final_rng_hash": "7c3aea978d3af2d1e830a1888236a0edf1625d06108c4f75b6183f2f1ec3e50f",
+      "seconds": 319.80963157489896,
+      "updates": 648,
+      "selection": "fixed_last"
+    },
+    {
+      "arm": "CN",
+      "seed": 42,
+      "checkpoint": "/workspace/clip/interbind_routing_common_noise_20260923/runs/CN/last.pt",
+      "sha256": "ad2096af8a63019bc491384e2fa4f085e8bebbc1beebaf52277c5fce4eb32702",
+      "initial_state_hash": "c954201ffff8488777ca010c0fcbf5d517c5dc742d392c4773f318d2df44fafe",
+      "seconds": 15.530812019016594,
+      "updates": 648,
+      "selection": "fixed_last"
+    }
+  ],
+  "seed": 42,
+  "original_cohort_protocol_sha256": "7758739e67bac36ca6df498a5f364bbcb295bbe8b63ebef47194df981576a678",
+  "original_evaluator_sha256": "1e8276f752885c3d55dd9981662432e162ec25944f1ea7fe24a860857c65d8a5",
+  "comparisons": [
+    [
+      "R",
+      "F"
+    ],
+    [
+      "G",
+      "F"
+    ],
+    [
+      "I",
+      "F"
+    ],
+    [
+      "P",
+      "F"
+    ],
+    [
+      "IP",
+      "F"
+    ],
+    [
+      "E",
+      "F"
+    ],
+    [
+      "I",
+      "G"
+    ],
+    [
+      "P",
+      "G"
+    ],
+    [
+      "IP",
+      "I"
+    ],
+    [
+      "IP",
+      "E"
+    ],
+    [
+      "IP",
+      "R"
+    ],
+    [
+      "CN",
+      "F"
+    ],
+    [
+      "CN",
+      "IP"
+    ],
+    [
+      "CN",
+      "R"
+    ],
+    [
+      "CN",
+      "E"
+    ]
+  ],
+  "primary_color": "red-blue",
+  "development": true,
+  "paired_anchor_bootstrap": 2000,
+  "evaluation_ids_unchanged": true
+}

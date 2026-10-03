@@ -1,0 +1,30 @@
+{
+  "name": "OrdinaryRanking",
+  "seed": 44,
+  "checkpoint": "/workspace/clip/interbind_routing75_complete_20260930/openclip_laion_l14/seed44/OrdinaryRanking/last.pt",
+  "sha256": "6bcf5805574e6495726e5f00bf655df65c2d5cba159e5bf97de59b33a180470e",
+  "initial_state_hash": "4bff43ff298c2fe8789d8dda505c594ae0640be4ed0f7eb2aef15ab211681b0f",
+  "schedule_sha256": "612dcffc08aa158c8322f29e5524dfb56f5acf42bba8699beb93f00e06b283a1",
+  "representation_sha256": "e9dd9650a6eb5bc33c203a89c1567c6e353ca8b94d70e0198a0b6ff81d220c55",
+  "final_rng_sha256": "cf95a7072be9ed5f2a2ebc5dcd0dfc27b3b35f5d97cb6f449c160b5b0fc3c4c1",
+  "first_components": {
+    "binding": 0.07105420529842377,
+    "cross": 0.934241771697998,
+    "response": 0.44531363248825073,
+    "preference": 0.0280754417181015,
+    "endpoint": 0.36082515120506287,
+    "caption_guard": 0.0,
+    "binding_keep": 0.0,
+    "response_keep": 0.0,
+    "object_guard": 0.0,
+    "natural": 0.0,
+    "drift": 0.0,
+    "ranking_endpoint": 1.356654167175293,
+    "ranking_agreement": 0.0,
+    "ranking_anchor": -3.414849203409176e-08,
+    "ranking": 1.356654167175293,
+    "color_floor": 0.005788370035588741
+  },
+  "seconds": 73.83385007595643,
+  "updates": 1944
+}

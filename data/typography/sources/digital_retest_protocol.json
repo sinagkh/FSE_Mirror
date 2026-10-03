@@ -1,0 +1,62 @@
+{
+  "registry": {
+    "frozen": null,
+    "ranking": {
+      "name": "R_s100",
+      "checkpoint": "/workspace/clip/fse_typographic_20260926/runs/R_s100/last.pt",
+      "sha256": "9bfbd57b8585b00bd2a75881079b9b722c9ef7d58ac1ef90af746ae86d30a1f8",
+      "clean": 0.9970703125,
+      "blank": 0.9951171875,
+      "conflict": 0.931640625,
+      "congruent": 1.0,
+      "interaction": 0.05637317895889282,
+      "clean_top1": 0.884765625,
+      "utility": 0.974609375
+    },
+    "IS": {
+      "name": "IS_s30_w1",
+      "checkpoint": "/workspace/clip/fse_typographic_20260926/runs/IS_s30_w1/last.pt",
+      "sha256": "5cd61711f756babd44e0b518c21210a90fd940f445a00e1fd51f8318e0386c7c",
+      "clean": 0.99609375,
+      "blank": 0.9931640625,
+      "conflict": 0.978515625,
+      "congruent": 0.9970703125,
+      "interaction": 0.021155746653676033,
+      "clean_top1": 0.826171875,
+      "utility": 0.9892578125
+    },
+    "same_scale_ablation": {
+      "name": "R_s30",
+      "checkpoint": "/workspace/clip/fse_typographic_20260926/runs/R_s30/last.pt",
+      "sha256": "e8d0689dae199a79b3b6caf3e9243aac87321352549bfef1c60c5585f7440cf6",
+      "clean": 0.9970703125,
+      "blank": 0.994140625,
+      "conflict": 0.8818359375,
+      "congruent": 1.0,
+      "interaction": 0.17110970616340637,
+      "clean_top1": 0.876953125,
+      "utility": 0.9576822916666666
+    }
+  },
+  "tests": [
+    [
+      "test_seen",
+      "standard"
+    ],
+    [
+      "test_heldout",
+      "standard"
+    ],
+    [
+      "test_seen",
+      "serif"
+    ],
+    [
+      "test_seen",
+      "top"
+    ]
+  ],
+  "selection_sha256": "dd811ea092100c73fe7297e24c72ef4a0d1918af45151aef40bb5b757bc5f4f8",
+  "code_sha256": "52fd8759fce65675ded873bcea88c5a3868f86800a81953926acd72090504d66",
+  "protocol_sha256": "c65ffa71aabbef7a2346c2a5e3871fc2bc5afd2fe88f3bfbedac6cb527dae964"
+}

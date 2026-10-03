@@ -1,0 +1,39 @@
+{
+  "inputs": {
+    "/workspace/FSE_VLM/interbind/routing_relative_data.py": "6f7a825f432056ff96a28bb4ec233060b2bbe5b51aca1390b8c2ae7186c1ea6f",
+    "/workspace/FSE_VLM/plan/21_relative_routing_repair_pilot.md": "4720d3401208e77055325d1b6ab785b486bc2b3b05009c5672651b8557125fa2",
+    "/workspace/clip/interbind_routing_repair_pilot_20260923/protocol.json": "65e712ffd327f0c010164a6f0187dddee6e14735db095945e527f71942589e90",
+    "/workspace/clip/interbind_routing_repair_pilot_20260923/encoding_complete.json": "177c37940016be8a39f78a62315c2bab137e2c8f206966b58e58cd0b813a493d",
+    "/workspace/clip/interbind_routing_repair_pilot_20260923/training_rows.jsonl": "a6737b207dbc9228f076cfd0cee858d966867e95a6182a28158f1010117e26c9",
+    "/workspace/clip/interbind_routing_repair_pilot_20260923/features/complete.json": "ca2b4086929e7f7d95ca3d2d21ff529581b7b30fe265cd9ae309fa57bd04a49d",
+    "/workspace/clip/interbind_routing_repair_pilot_20260923/features/images.npy": "7955c9f2a2693ca744eb1cd5d61e920933fc61de53194d095524e6c9655e9082",
+    "/workspace/clip/interbind_routing_repair_pilot_20260923/features/index.jsonl": "7872262fd8372895cc5163ca9f89ffae14c9a6a5b00464d30c78fd2ca811cc47",
+    "/workspace/clip/interbind_routing_repair_pilot_20260923/features/protocol.json": "3cac6df7b7b4081e7cb8993befbe16823739c8ce53e45546513bc9eb1a119fbe",
+    "/workspace/clip/interbind_routing_repair_pilot_20260923/features/text_groups.jsonl": "1e8247a34f2ef24596427a89d5cb748ebb081e966254cdb9efbed1bd7e9400cb",
+    "/workspace/clip/interbind_routing_repair_pilot_20260923/features/texts.npy": "fe5a34df8b85c766acaafeb7ffb582f5a8e0ad0e8bd34119e9413b06b96758a7",
+    "/workspace/clip/interbind_routing_repair_pilot_20260923/features/natural_texts.npy": "8c36ab186cc04610631b9e9cf3e7a01d42843b7f5a7c78fb7dbe4a5044401248",
+    "/workspace/clip/interbind_routing_repair_pilot_20260923/features/natural_templates.json": "423c1a8f2da8ce544b8a0400a60731bdf5653a18b76fbcd6c0d7ace4d46c09bc",
+    "/workspace/clip/interbind_routing_repair_pilot_20260923/features/pixel_checks.jsonl": "123163ef044ff71e04b72f7f3a586831d170096ed1a901bf8d27c14709a54ff7",
+    "/workspace/clip/interbind_routing_repair_pilot_20260923/evaluation_object_texts.npy": "2d65eb4da4a23d897e309c734effe024e09164ed7e64fc7552a99ab7617e6853"
+  },
+  "seed": 42,
+  "source_selection": "All 640 original training pairs; no new examples or exclusions",
+  "image_states": 8,
+  "colors": [
+    [
+      "red",
+      "blue"
+    ],
+    [
+      "green",
+      "yellow"
+    ]
+  ],
+  "layout": "swapped_canvas",
+  "caption_slots": "Original noun slots, never physical left/right positions",
+  "source_overlap_rule": "Reuse the first pilot source firewall for both image sources and natural training captions",
+  "precision": "FP32, TF32 off, pinned L/14 encoder",
+  "image_batch": 16,
+  "render_workers": 8,
+  "no_scores": true
+}

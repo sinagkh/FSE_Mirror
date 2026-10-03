@@ -1,0 +1,62 @@
+{
+  "inputs": {
+    "/workspace/FSE_VLM/plan/87_routing75_three_seed_replication.md": "c4caa276ade7086a653107b197fa3ab5b68fca04d7540913debc9e8b26159a3a",
+    "/workspace/FSE_VLM/interbind/routing75_replication.py": "016b5e1b65ffe554e2969cd3e48b5211ee32139186df111e027b6b33f0b72037",
+    "/workspace/FSE_VLM/interbind/routing_tint_balance_train.py": "542ba3c7b35f6bb66f90d49ca08302e06a43dc42f1bd6d48050eba6cce1f8387",
+    "/workspace/FSE_VLM/interbind/routing_tint_midpoint.py": "555056181f24ecd7a55b817458a45d96d08912a3fbbbed3cb85c0f77eca5dc23",
+    "/workspace/FSE_VLM/interbind/routing_tint_balance_retest.py": "fcea92e5333d7579e508639b573d1b85c3b9f102fb90b664d6b7740989fca690",
+    "/workspace/FSE_VLM/interbind/routing_light_suite_analysis.py": "8d5ac9513ac8393cce563f419da74dd99d64f776488ccf3569cfc04ac1b43781",
+    "/workspace/FSE_VLM/interbind/routing_common_noise_pilot.py": "78eff9c19c1028d515b96503f66c7c6b63dc2bba2afeb40c40f96c33d39940d7",
+    "/workspace/FSE_VLM/interbind/routing_relative_pilot.py": "41d2fda046db46793821c46b9a9fa9f822e71364312e3a1e069eed8948f5e9bb",
+    "/workspace/FSE_VLM/interbind/ranking_followup_pilot.py": "edca5d906db9db932a587c405d85505ffaf82df2feddf30d8e7cd67857304408",
+    "/workspace/FSE_VLM/interbind/completion_metrics.py": "dc787490241c2f44299b6d0fdedfa2f0769e07da452bc13a2a4688d47d7e9204",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/calibration/75.json": "90734f19aaab4b8a08af11329bfc00878eadef7db789d5a4205d230c512f8c56",
+    "/workspace/clip/interbind_routing_relative_pilot_20260923/normalization.json": "406efd02160e40d1623f1f8618ea6c6ad488d1dd3170ec8d7d2232c4b775d4cd",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/choice.json": "d88604538981d0ca271cb3de73cc70fa7487954a1b2c49c66d0937296e7a6be9",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/complete.json": "8ca825c85f54e1e577f5f65622e21a1c6cf5cb370a13c2be7615f034a8190451",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/ablations.json": "c64c068efcbe4e1a190774b826f2a3c03e54a23668d72a7322502c813e85c424",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/models.json": "222eb2d2d9741c84878eb9e4d8fb8f72528fe2ba0dc8d6858db318a3fe6bf601",
+    "/workspace/clip/interbind_routing_budget_replication_20260923/seed42/IS/initial.pt": "afd1f87a3bbae15dd417da4471248257b6c262ea1586f9a03f8b62ef1cb63364",
+    "/workspace/clip/interbind_routing_budget_replication_20260923/seed43/IS/initial.pt": "48660e0043f62d877eeec8d40f62a6db0f0e8db3c87798adc3a7295432fa3c46",
+    "/workspace/clip/interbind_routing_budget_replication_20260923/seed44/IS/initial.pt": "141639ee2454bdb479492d34c904cad43f9d9c046c6766880c362f4c0ae173d0",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/primary/complete.json": "163d6a249c7f75284f5784c7245bc08a23cfaa7889fbd1d63bfa5ab4d74cff03",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/background_shift/complete.json": "4ebc46e01e7531e2611206b01d5464d1e5fc4b4830466b82edc99e7d2dec0968",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/geometry_shift/complete.json": "047780a73c2da78d4e2117b100c28de787b20d2e9897615ab0c1407697e45f51",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/color_recombination/complete.json": "39afa92297b7a64c457e6ab3c20666a8aa220b9db0ddb0e931c009ebb801fb40",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/noun_recombination/complete.json": "d5d2ecdf86ab5e694d33b3231e3e466f8b947e378ab1c36ea39f4c8fbf029957",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/primary/complete.json": "413ac9726ddc820c96dfe8af961c6acf8bc19932b787d425093d233374aefe7f",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/transfer/complete.json": "e3c978383366283d5b38395b4c7da783fdd5830bb4d9c0f33cf45a373d4b393c",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/complete.json": "30e6e0834f7f01c6f4f38bb5d5b50a3f9121f96b3e78bc41f6565c69e630dc94",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/diagnostics/complete.json": "bf57e63f01e774419977dde3473ee010afc8f45242d32465ebdd2404c4a9acf8"
+  },
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "new_seeds": [
+    43,
+    44
+  ],
+  "arms": [
+    "Ranking",
+    "IS",
+    "no_cross",
+    "no_response",
+    "no_preference",
+    "no_interaction"
+  ],
+  "tint": 75,
+  "recipe": "color_order",
+  "target_strength": "original standard, not IS2",
+  "epochs": 36,
+  "updates": 1944,
+  "selection": "fixed_last",
+  "calibration": "reuse seed42 training-only values",
+  "seed42_existing_output": "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest",
+  "new_recipe_selection": false,
+  "no_manuscript_change": true,
+  "outcome_knowledge": "Seed42 full retest observed; new seeds fixed-recipe replications on the same previously observed banks",
+  "statistics": "5000 paired connected-source draws, plus paired seed and connected-source draws",
+  "implementations": "Exact existing parts/objective/evaluation functions; seed and input/output paths parameterized"
+}

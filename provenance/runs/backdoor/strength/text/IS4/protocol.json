@@ -1,0 +1,8 @@
+{
+  "case": "text",
+  "seed": 42,
+  "multiplier": 4,
+  "original_protocol_sha256": "caa8172957d81e13e71b0fd89c55b10fb74fba71174c307302b74a5920eb325c",
+  "steps": 1536,
+  "sole_training_change": "multiply original interaction coefficient; everything else reused"
+}

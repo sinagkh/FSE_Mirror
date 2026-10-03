@@ -1,0 +1,11 @@
+{
+  "case": "text",
+  "multiplier": 2,
+  "seeds": [
+    43,
+    44
+  ],
+  "steps": 1536,
+  "selection": "fixed final successful update",
+  "original": "/workspace/clip/fse_four_case_20260927/backdoor_extension_v1/text"
+}

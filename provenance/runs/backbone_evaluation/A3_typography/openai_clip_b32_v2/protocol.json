@@ -1,0 +1,94 @@
+{
+  "inputs": {
+    "/workspace/FSE_VLM/interbind/prewriting_fresh_typography_evaluate_v2.py": "af52102510e1c973b4ba458838b25aeadb7e7a36f9de4541421b73d543a22d88",
+    "/workspace/FSE_VLM/interbind/prewriting_fresh_typography_evaluate.py": "462c8b36aa874ce12e0c179b25538de53d3f163b996512476ce8b6833d5caf89",
+    "/workspace/clip/fse_pre_writing_20260926/A3_typography/visual_review.json": "4e5664c20609ea8857541c81f8dfe8a95f126d38132e1bd692159b8915aa451f",
+    "/workspace/clip/fse_pre_writing_20260926/A3_typography/construction.json": "e51c0ae974fdfacceec088e1c140b54f79dc157ac692080117c7f547179d81fd",
+    "/workspace/clip/fse_pre_writing_20260926/A3_typography/mechanical_validation.json": "eccb1b65377ebb5b040110363cd79c8298caf11cc1c8d16ce4fed289090ed5dc",
+    "/workspace/clip/fse_pre_writing_20260926/A_protocol.json": "9776c3e324f847691b4b45087b9e837368a4e938a94162fe2ec5079400136d88",
+    "/workspace/clip/fse_typographic_20260926/protocol.json": "c65ffa71aabbef7a2346c2a5e3871fc2bc5afd2fe88f3bfbedac6cb527dae964",
+    "/workspace/clip/fse_typographic_20260926/texts.pt": "e956eea835af5039c0360f845e66dbd90162b1c1d102c3dd03c9bbad32ff5700",
+    "/workspace/clip/fse_typographic/prompt_unclipped.py": "8a2325292c4ac554163b8fd6821697358bacadde04afcabeae50efa0b79300b7",
+    "/workspace/clip/fse_typographic/retest.py": "52fd8759fce65675ded873bcea88c5a3868f86800a81953926acd72090504d66",
+    "/workspace/clip/fse_pre_writing_20260926/A3_typography/seen.json": "62f95ae787b2b765fd023e3e2d9b1bcb0a4746b160c8d71c099a39dbd00bcaaa",
+    "/workspace/clip/fse_pre_writing_20260926/A3_typography/heldout.json": "7ae331d973795b5f28c156e86140fb7d0c864da5e8e1dbce816644ed2d435faa",
+    "/workspace/clip/fse_typographic_broad_support_20260926/matched_duration/runs/R_s100/last.pt": "a6535bee91ae33e0158f164cddaca04a27cc481a2e4e646337b9f096ea2b502f",
+    "/workspace/clip/fse_typographic_broad_support_20260926/matched_duration/runs/IS_s100_w1/last.pt": "b5199328c7cb33aa71513c61a2470131df34153a7ce95ec27fdd6ce3ede2240a",
+    "/workspace/clip/fse_typographic_broad_support_20260926/matched_duration/initial_prefix.pt": "9afc8a995b99d0426b982292b8770ba735e7909ceea9aa11c9e7ec16ae5e8086",
+    "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed43/runs/R_s100/last.pt": "3831e724054044c20f259d9ff773c1d8505289260c28c38e6e7eba9e304656dc",
+    "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed43/runs/IS_s100_w1/last.pt": "b27291cda81b33a8d35dc4332f895c99d27e395e2a21562f86648342b0709171",
+    "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed43/initial_prefix.pt": "1b000de0af3c82d87bdfb58544478de81b21d3e0609c431dfd6fac741bc64a7b",
+    "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed44/runs/R_s100/last.pt": "082b10da812d78fe021aec3d37643cb132516bf5bd35817b33b73bcc4f309ad9",
+    "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed44/runs/IS_s100_w1/last.pt": "044751887700d43f88f1fd74dfe03aa6f795e8b0119f0757d1563d7d9ff5e4a2",
+    "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed44/initial_prefix.pt": "8a3164b6229fec6cfd240fc5f6a2a4173f0c4a5b96dad69c49dbf2d7fc9b440a"
+  },
+  "model": "openai_clip_b32",
+  "models": [
+    {
+      "name": "ranking",
+      "seed": 42,
+      "checkpoint": "/workspace/clip/fse_typographic_broad_support_20260926/matched_duration/runs/R_s100/last.pt",
+      "sha256": "a6535bee91ae33e0158f164cddaca04a27cc481a2e4e646337b9f096ea2b502f"
+    },
+    {
+      "name": "IS",
+      "seed": 42,
+      "checkpoint": "/workspace/clip/fse_typographic_broad_support_20260926/matched_duration/runs/IS_s100_w1/last.pt",
+      "sha256": "b5199328c7cb33aa71513c61a2470131df34153a7ce95ec27fdd6ce3ede2240a"
+    },
+    {
+      "name": "initial_prefix",
+      "seed": 42,
+      "checkpoint": "/workspace/clip/fse_typographic_broad_support_20260926/matched_duration/initial_prefix.pt",
+      "sha256": "9afc8a995b99d0426b982292b8770ba735e7909ceea9aa11c9e7ec16ae5e8086"
+    },
+    {
+      "name": "ranking",
+      "seed": 43,
+      "checkpoint": "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed43/runs/R_s100/last.pt",
+      "sha256": "3831e724054044c20f259d9ff773c1d8505289260c28c38e6e7eba9e304656dc"
+    },
+    {
+      "name": "IS",
+      "seed": 43,
+      "checkpoint": "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed43/runs/IS_s100_w1/last.pt",
+      "sha256": "b27291cda81b33a8d35dc4332f895c99d27e395e2a21562f86648342b0709171"
+    },
+    {
+      "name": "initial_prefix",
+      "seed": 43,
+      "checkpoint": "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed43/initial_prefix.pt",
+      "sha256": "1b000de0af3c82d87bdfb58544478de81b21d3e0609c431dfd6fac741bc64a7b"
+    },
+    {
+      "name": "ranking",
+      "seed": 44,
+      "checkpoint": "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed44/runs/R_s100/last.pt",
+      "sha256": "082b10da812d78fe021aec3d37643cb132516bf5bd35817b33b73bcc4f309ad9"
+    },
+    {
+      "name": "IS",
+      "seed": 44,
+      "checkpoint": "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed44/runs/IS_s100_w1/last.pt",
+      "sha256": "044751887700d43f88f1fd74dfe03aa6f795e8b0119f0757d1563d7d9ff5e4a2"
+    },
+    {
+      "name": "initial_prefix",
+      "seed": 44,
+      "checkpoint": "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed44/initial_prefix.pt",
+      "sha256": "8a3164b6229fec6cfd240fc5f6a2a4173f0c4a5b96dad69c49dbf2d7fc9b440a"
+    }
+  ],
+  "selection": "fixed checkpoints before scoring",
+  "correction": "v1 stopped during bootstrap on integer count division; v2 uses floating NaN output, identical models/data/metrics, reruns all arms and both banks.",
+  "draws": 5000,
+  "bootstrap_rng_seed": 490203,
+  "primary": "IS minus ranking attack pairwise on fresh seen-class sources",
+  "missing_classes": "Report counts for all original70 classes; do not claim full32/38-class empirical coverage.",
+  "frozen_bug": "frozen blank margin>0 and frozen conflict margin<=0",
+  "retained_repair": "frozen bug and adapted conflict, blank and clean margins>0",
+  "break_rate": "adapted wrong conditional on frozen-correct conflicting-note decisions",
+  "intervals": "Cross seeds with common source draw; decisions/5 states of same source kept together.",
+  "metrics": "Pairwise attack,clean,blank;70-way attack/clean;mean absolute interaction;retained repair;attack break;occlusion and word-content flip counts.",
+  "no_tuning": true
+}

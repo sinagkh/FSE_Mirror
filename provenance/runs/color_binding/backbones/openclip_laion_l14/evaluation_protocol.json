@@ -1,0 +1,40 @@
+{
+  "inputs": {
+    "/workspace/FSE_VLM/plan/88_uniform_routing75_completion.md": "4f68391e02b248291b9425c039d7688bb06b6d1de6126306c0d92c705d6852ec",
+    "/workspace/FSE_VLM/interbind/routing75_complete_evaluate.py": "a363d6d8d9785092d45eb42966894432c40e7c70fa3c30d644558eb786121f83",
+    "/workspace/FSE_VLM/interbind/routing75_results.py": "2f4f98b64070d6ed76d58e2009d59cfc8eab0e165f3ba569939571991040e84b",
+    "/workspace/FSE_VLM/interbind/completion_metrics.py": "dc787490241c2f44299b6d0fdedfa2f0769e07da452bc13a2a4688d47d7e9204",
+    "/workspace/FSE_VLM/interbind/routing_light_suite_analysis.py": "8d5ac9513ac8393cce563f419da74dd99d64f776488ccf3569cfc04ac1b43781",
+    "/workspace/clip/interbind_routing75_complete_20260930/data_protocol.json": "61956adde800f2f73405a6f8b0899b27f4f54f7427f597d60ce7703d8b7e879d",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/primary/complete.json": "163d6a249c7f75284f5784c7245bc08a23cfaa7889fbd1d63bfa5ab4d74cff03",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/background_shift/complete.json": "4ebc46e01e7531e2611206b01d5464d1e5fc4b4830466b82edc99e7d2dec0968",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/geometry_shift/complete.json": "047780a73c2da78d4e2117b100c28de787b20d2e9897615ab0c1407697e45f51",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/color_recombination/complete.json": "39afa92297b7a64c457e6ab3c20666a8aa220b9db0ddb0e931c009ebb801fb40",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/noun_recombination/complete.json": "d5d2ecdf86ab5e694d33b3231e3e466f8b947e378ab1c36ea39f4c8fbf029957",
+    "/workspace/clip/fse_constraint_completion_results_20260920/confirmation/sugarcrepe/routing/features.npz": "c4dd7f7f1563b79a42a1f7763f3e375ca2cf43cf0172f183096a1962f5d4ee7f",
+    "/workspace/clip/interbind_phase_bc_completion_20260923/preservation/features/openclip_laion_l14/aro/features.npz": "9c15023814253c89ce43a507bbe34cf0601b50d0c9422bd67f1f087e9b1d1337",
+    "/workspace/clip/interbind_phase_bc_completion_20260923/preservation/features/openclip_laion_l14/coco/features.npz": "68310b909daa81e41b9fc5f9648c3f9cf50c843a56fd4d5bc8c9aeab8f668df0",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/runs/75/color_order/Ranking/last.pt": "6c7913abc32e6dbb529cf9e571d521ec26f2a5ba7638539c74de7719818c9b47",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/runs/75/color_order/IS/last.pt": "9e522a26ff48567eb451d2757c86775a4d047c04749298ccca5f514d5d64e53b",
+    "/workspace/clip/interbind_routing75_complete_20260930/openclip_laion_l14/seed42/OrdinaryRanking/last.pt": "994eff0c7386d03a7001aae31f55475630e2f56e365b7697eb22476c7d2f9e44",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/runs/Ranking/last.pt": "5daa36821209b61658990cfbba31f29a33d7f6bb1ddff9d98d001db9667c7f0e",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/runs/IS/last.pt": "18600d529d711b9193507c8c323846300f456f8432e0298e53d43570a2de377a",
+    "/workspace/clip/interbind_routing75_complete_20260930/openclip_laion_l14/seed43/OrdinaryRanking/last.pt": "cf0018b7de0272d5390726ae3829661cdd72d019cbb977ca34d5d7a32e30dcc5",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed44/runs/Ranking/last.pt": "0e81a17b0c96ff4d4b49409d952a09d39049a9f4df7a826656d0d076cb96526d",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed44/runs/IS/last.pt": "79e23e804215a6df47533adf33a9d43e50fa8ee3b69e11bd8539506b4ac916e9",
+    "/workspace/clip/interbind_routing75_complete_20260930/openclip_laion_l14/seed44/OrdinaryRanking/last.pt": "6bcf5805574e6495726e5f00bf655df65c2d5cba159e5bf97de59b33a180470e"
+  },
+  "tint": 0.75,
+  "study": "openclip_laion_l14",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "source_bootstrap": 5000,
+  "seed_source_bootstrap": 5000,
+  "primary": "Pooled two trained colors, both caption orders and layouts; purple-orange secondary",
+  "external_fixed": "Frozen and LABCLIP broadcast for paired draws, not three independent fits",
+  "full_assignment_D": "Twice stored response e",
+  "no_new_subset_selection": true
+}

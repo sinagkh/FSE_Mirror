@@ -1,0 +1,58 @@
+{
+  "stage": "frozen without model scoring",
+  "activation_n": 256,
+  "banana_eligible": 496,
+  "banana_n": 400,
+  "excluded_source_count": 7840,
+  "processing_grid": [
+    "identity",
+    "jpeg90",
+    "jpeg70",
+    "resize168",
+    "resize112"
+  ],
+  "source_manifests": {
+    "activation_sources": "defad23818d2ef509e066105a3a6a9350b9722268298a21b8e168c9ff2388209",
+    "banana_preservation": "cd5f788a981344b1a639e989ea558ca37379990cc80594e9bf7813360bc42ead",
+    "banana_gallery_ids": "a8a6b3efb252fa7a137bcf90b63e477d149a72cd5fda7ba1b8f8356e1e90de1c"
+  },
+  "files": {
+    "/workspace/FSE_VLM/four_case/par_extension_data.py": "c1cf9b1bb9ccb1f30ff0386bf1464e6bc58805ee34f53e8078588618f670348a",
+    "/workspace/FSE_VLM/plan/65_backdoor_recipe_transfer.md": "dcc838a4f7fc4fb60b0a06c668a7fdac11c4d9591a2d03653273353981235cc7",
+    "/workspace/clip/data/coco/annotations/instances_train2017.json": "610fce4944abdeb15354cc765333805529359d12d88f2f711393ca586901d01d",
+    "/workspace/FSE_VLM/four_case/vendor/PerturbAndRecover/backdoor/utils.py": "96cce472091edccc8bcbc234365c634693d91bdf05fe9a16b894babd1921975b",
+    "/workspace/clip/fse_typographic_20260926/train.json": "d03fadcc287cb05850913e05c65d8898abe958c4b86269cd12a650e689685475",
+    "/workspace/clip/fse_typographic_20260926/development.json": "1b08d0c7a35083d4b3f45684eb9bd0cf78a782fb62da7e3dd35d0e4e2e0c1f38",
+    "/workspace/clip/fse_typographic_20260926/test_seen.json": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
+    "/workspace/clip/fse_typographic_20260926/test_heldout.json": "52dc4190b49e4688f068edd8ef78f1fa42e277d1e81554278b8a0f0ed066b659",
+    "/workspace/clip/fse_typographic_broad_support_20260926/train_filtered.json": "bfaa0b36f8fdb3af9d4478a03ce61541ccc9364d9b831361b19e1304392721b1",
+    "/workspace/clip/fse_typographic_broad_support_20260926/development_new_filtered.json": "9d69ece4f7ec6f63413341d3a8fae0d3ef988ff15649cee73cb9338fe02fc737",
+    "/workspace/clip/fse_typographic_broad_support_20260926/test_new_filtered.json": "3c73578222b8483c016daa312352dfbd930ff834bdf58306c9090201a1e855a1",
+    "/workspace/clip/fse_four_case_20260927/backdoor_par/train.json": "f3e8b5abaa238cb21010fb423037b20b79f83ef6315a70b1f2b19d0ea52ae034",
+    "/workspace/clip/fse_four_case_20260927/backdoor_par/development.json": "35fba08d2bb3aeefe8fed7b555d34bf6ac693d0ec4bffaf56993c21c3193e50c",
+    "/workspace/clip/fse_four_case_20260927/target_support/banana_train.json": "eeb2c19f326c1545c5f32d1db28e220c2d69a5e8e4011b0497a77c7632a6edc6",
+    "/workspace/clip/fse_four_case_20260927/target_support/banana_development.json": "4dfe5c96952235533d612261e14ed17c379f3ce7bb52f52a98473389b5fd6b1f",
+    "/workspace/clip/fse_four_case_20260927/target_support/banana_confirmation.json": "4dafc4b20079d1946aa8574383375bc020b48c33d0f1fffd4eb8ad1840349649",
+    "/workspace/clip/fse_four_case_20260927/target_support/carton_train.json": "d46f1cbdaed18f9755922b660ad9a07ff858f0bc304e592e884a408b3e75b875",
+    "/workspace/clip/fse_four_case_20260927/target_support/carton_development.json": "c059697fbeae6155aeab9aa47fa7b292ec02168a8cd33a2bb701d402be512703",
+    "/workspace/clip/fse_four_case_20260927/target_support/carton_confirmation.json": "7b771d739553cd15dfda68346ba372351864a5bce45bddf8794de85c4908bd3a",
+    "/workspace/FSE_VLM/four_case/vendor/PerturbAndRecover/backdoor/patterns/triangles_224_14.pt": "8eae51945f5f708d39ca03b4ff70b4893bd2155dcde207b6b76e6d5286de5d23",
+    "/workspace/FSE_VLM/four_case/vendor/PerturbAndRecover/backdoor/patterns/watermarked_red_tens_224.pt": "464179af73184a4a9374106073ff3023545993d469deb6e25fd7b0cb5039119b"
+  },
+  "activation_rule": "ASR >= .50 and >= .80 * canonical ASR on the same 256 non-banana training sources; whole grid retained",
+  "pairing": "all transformations applied equally to clean/attacked/sham views; no per-item selection",
+  "renderer_tests": {
+    "stripes": {
+      "max_pixel_error": 0,
+      "n": 8
+    },
+    "triangles": {
+      "max_pixel_error": 0,
+      "n": 8
+    },
+    "text": {
+      "max_pixel_error": 0,
+      "n": 8
+    }
+  }
+}

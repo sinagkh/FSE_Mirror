@@ -1,0 +1,37 @@
+{
+  "inputs": {
+    "/workspace/FSE_VLM/plan/88_uniform_routing75_completion.md": "4f68391e02b248291b9425c039d7688bb06b6d1de6126306c0d92c705d6852ec",
+    "/workspace/FSE_VLM/interbind/routing75_complete_evaluate.py": "a363d6d8d9785092d45eb42966894432c40e7c70fa3c30d644558eb786121f83",
+    "/workspace/FSE_VLM/interbind/routing75_results.py": "2f4f98b64070d6ed76d58e2009d59cfc8eab0e165f3ba569939571991040e84b",
+    "/workspace/FSE_VLM/interbind/completion_metrics.py": "dc787490241c2f44299b6d0fdedfa2f0769e07da452bc13a2a4688d47d7e9204",
+    "/workspace/FSE_VLM/interbind/routing_light_suite_analysis.py": "8d5ac9513ac8393cce563f419da74dd99d64f776488ccf3569cfc04ac1b43781",
+    "/workspace/clip/interbind_routing75_complete_20260930/data_protocol.json": "61956adde800f2f73405a6f8b0899b27f4f54f7427f597d60ce7703d8b7e879d",
+    "/workspace/clip/interbind_routing75_complete_20260930/google_siglip_b16_224/features/primary/complete.json": "7ee2a3549c676d6d111d055bedc1cc3fbdf9ab88a428d0190c967c1503be8efe",
+    "/workspace/clip/interbind_routing75_complete_20260930/google_siglip_b16_224/features/background_shift/complete.json": "4d49b7ffde5df1115b1518c8bc4722e15737fda44c95beb373597e992e339906",
+    "/workspace/clip/interbind_routing75_complete_20260930/google_siglip_b16_224/features/geometry_shift/complete.json": "0950d3f5379dfb9f8641276477627f1466b61aafd58b4b23eb1061d6509757bf",
+    "/workspace/clip/interbind_routing75_complete_20260930/google_siglip_b16_224/features/color_recombination/complete.json": "81adcb943bf7929b644c40098ce2ec9fa53a72f0e3ae95ed1515b5f5193556b4",
+    "/workspace/clip/interbind_routing75_complete_20260930/google_siglip_b16_224/features/noun_recombination/complete.json": "48b35433105bf09a29a9bc47fbeaa27ab02c9017044731e0fc587f69b2998a95",
+    "/workspace/clip/fse_two_case_completion_20260927/routing/google_siglip_b16_224/features/natural_sugarcrepe.npz": "c0dddd63d3d79a7eb0fc94f0a3efddb4d42f92c2105e19789bc17f845998e475",
+    "/workspace/clip/fse_two_case_completion_20260927/routing/google_siglip_b16_224/features/natural_aro.npz": "7be241ffbe162679d8148fea2a6f16209428f55c67b59361140777ee9ba3c466",
+    "/workspace/clip/fse_two_case_completion_20260927/routing/google_siglip_b16_224/features/natural_coco.npz": "55b45b222fe2c3c1f172c869fe0be32c5718da3beccebfda69cb36de8bc85765",
+    "/workspace/clip/interbind_routing75_complete_20260930/google_siglip_b16_224/seed42/Ranking/last.pt": "c414a4cc64872bb93759c46d1b536ff72ee6960029d91336b2690f0b6fbae35a",
+    "/workspace/clip/interbind_routing75_complete_20260930/google_siglip_b16_224/seed42/IS/last.pt": "4cd0bc04c67a710a3a758989274bb21d9dcef298362c700dc0ba46da424a2045",
+    "/workspace/clip/interbind_routing75_complete_20260930/google_siglip_b16_224/seed43/Ranking/last.pt": "43ae2ba2c014caebef46927502054ccdf744fbe78cbfa83cef00394f4cbbd190",
+    "/workspace/clip/interbind_routing75_complete_20260930/google_siglip_b16_224/seed43/IS/last.pt": "4e2ec2d8557d73df6b57fee7b53525cfe99b7b07191348b1bb7159a59346a277",
+    "/workspace/clip/interbind_routing75_complete_20260930/google_siglip_b16_224/seed44/Ranking/last.pt": "75af885759e5782dcb9a5f139ea2241ed03461588eef9885b363a406df225da2",
+    "/workspace/clip/interbind_routing75_complete_20260930/google_siglip_b16_224/seed44/IS/last.pt": "cc3aab7c34b468c78dcb62064645fb05ca9305fadbf45ef626a6b5a08c01f152"
+  },
+  "tint": 0.75,
+  "study": "google_siglip_b16_224",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "source_bootstrap": 5000,
+  "seed_source_bootstrap": 5000,
+  "primary": "Pooled two trained colors, both caption orders and layouts; purple-orange secondary",
+  "external_fixed": "Frozen and LABCLIP broadcast for paired draws, not three independent fits",
+  "full_assignment_D": "Twice stored response e",
+  "no_new_subset_selection": true
+}

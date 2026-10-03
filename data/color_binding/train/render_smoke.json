@@ -1,0 +1,94 @@
+{
+  "checks": [
+    {
+      "anchor_id": "repair_background_d2fcda632e627ca205",
+      "family": "background",
+      "pair": [
+        "red",
+        "blue"
+      ],
+      "states": [
+        "gray/red",
+        "gray/blue",
+        "blue/red",
+        "blue/blue"
+      ],
+      "hashes": [
+        "11af27c731aa3f3ea3fa2bdecf5d9ef85af3750555f487cc1db5c0ef34562432",
+        "9c4ba8f5f1a3749e3301a96f179068a568084d9bc3ed525a3510b132a34d13c7",
+        "d275caf9beed987aa6c32b28d00ab4792e5dcc361012b08f7ae7b4473cfd01ef",
+        "61256c2f7637edf54c8e17f773792694e55e204442f2790633bf8f61880cf717"
+      ],
+      "all_pass": true,
+      "n_checks": 4
+    },
+    {
+      "anchor_id": "repair_background_d2fcda632e627ca205",
+      "family": "background",
+      "pair": [
+        "green",
+        "yellow"
+      ],
+      "states": [
+        "gray/green",
+        "gray/yellow",
+        "blue/green",
+        "blue/yellow"
+      ],
+      "hashes": [
+        "51a43dbf0bf0683162761853da3fda60ea351a9d0f04541cbbac68c913186955",
+        "c01143abdb18a808fbb9911445af6a8fc2d9b5515c4064b38cec7ba34356ba07",
+        "8b27acb469a8376e5088c8ade29dd09a498894e77fa2ad56dc5e2d5a132502d3",
+        "b36645b2128f360cc2f5cf07fbfbbd066419dbfe6c04491edb89cbb61587e23c"
+      ],
+      "all_pass": true,
+      "n_checks": 4
+    },
+    {
+      "anchor_id": "repair_routing_cf9a75b04d78b945af",
+      "family": "routing",
+      "pair": [
+        "red",
+        "blue"
+      ],
+      "states": [
+        "canvas/red_red",
+        "canvas/red_blue",
+        "canvas/blue_red",
+        "canvas/blue_blue"
+      ],
+      "hashes": [
+        "567489e0d6ce5b5618b4d560c0886b6e6c57becdd1ba9b07cdd5246622e2fa2d",
+        "54d4081cb5e1092df5e4b14c73ff9c0d28b56d99d4326ea4550e3105a7d24cde",
+        "cb112eece61264bd25fa4198a3f9ab073f0434ba36d7b14dfcb0bdfaf25e7eee",
+        "38c1bcb7c8f3d7161b315ce00e60053159c9f1627eeb062cf7de6715e032d333"
+      ],
+      "all_pass": true,
+      "n_checks": 8
+    },
+    {
+      "anchor_id": "repair_routing_cf9a75b04d78b945af",
+      "family": "routing",
+      "pair": [
+        "green",
+        "yellow"
+      ],
+      "states": [
+        "canvas/green_green",
+        "canvas/green_yellow",
+        "canvas/yellow_green",
+        "canvas/yellow_yellow"
+      ],
+      "hashes": [
+        "dbcf6cf33361c9a2b6b24565e9551a11a25a5ddc0218a604b63e56f126d514a0",
+        "de5841c03896705c3e14055987aab053c07edf5dbb263cb8ce59c9e9e0a0d889",
+        "f03a1038f6ffabd362dc92556e8cfe0a3ed7a65fa421692603e76f8b2a9306d8",
+        "92c9c88b3aa681ef6e7cc9b5fb3e2f367a9842a172d2c8fddbbbf3ba9da73306"
+      ],
+      "all_pass": true,
+      "n_checks": 8
+    }
+  ],
+  "gpu_used": false,
+  "rows_sha256": "85f11ff6dc4a427b385e1a5261f1c4d15e66e6c50558e24de2bd027ef08536b5"
+}

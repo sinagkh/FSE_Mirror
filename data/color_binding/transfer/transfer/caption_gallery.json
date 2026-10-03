@@ -1,0 +1,1570 @@
+[
+  {
+    "index": 0,
+    "pair_index": 0,
+    "objects": [
+      "bus",
+      "airplane"
+    ],
+    "state": 0,
+    "templates": [
+      "a red bus and a red airplane",
+      "a red bus next to a red airplane",
+      "the bus is red and the airplane is red"
+    ]
+  },
+  {
+    "index": 1,
+    "pair_index": 0,
+    "objects": [
+      "bus",
+      "airplane"
+    ],
+    "state": 1,
+    "templates": [
+      "a red bus and a blue airplane",
+      "a red bus next to a blue airplane",
+      "the bus is red and the airplane is blue"
+    ]
+  },
+  {
+    "index": 2,
+    "pair_index": 0,
+    "objects": [
+      "bus",
+      "airplane"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue bus and a red airplane",
+      "a blue bus next to a red airplane",
+      "the bus is blue and the airplane is red"
+    ]
+  },
+  {
+    "index": 3,
+    "pair_index": 0,
+    "objects": [
+      "bus",
+      "airplane"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue bus and a blue airplane",
+      "a blue bus next to a blue airplane",
+      "the bus is blue and the airplane is blue"
+    ]
+  },
+  {
+    "index": 4,
+    "pair_index": 1,
+    "objects": [
+      "bus",
+      "car"
+    ],
+    "state": 0,
+    "templates": [
+      "a red bus and a red car",
+      "a red bus next to a red car",
+      "the bus is red and the car is red"
+    ]
+  },
+  {
+    "index": 5,
+    "pair_index": 1,
+    "objects": [
+      "bus",
+      "car"
+    ],
+    "state": 1,
+    "templates": [
+      "a red bus and a blue car",
+      "a red bus next to a blue car",
+      "the bus is red and the car is blue"
+    ]
+  },
+  {
+    "index": 6,
+    "pair_index": 1,
+    "objects": [
+      "bus",
+      "car"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue bus and a red car",
+      "a blue bus next to a red car",
+      "the bus is blue and the car is red"
+    ]
+  },
+  {
+    "index": 7,
+    "pair_index": 1,
+    "objects": [
+      "bus",
+      "car"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue bus and a blue car",
+      "a blue bus next to a blue car",
+      "the bus is blue and the car is blue"
+    ]
+  },
+  {
+    "index": 8,
+    "pair_index": 2,
+    "objects": [
+      "bus",
+      "boat"
+    ],
+    "state": 0,
+    "templates": [
+      "a red bus and a red boat",
+      "a red bus next to a red boat",
+      "the bus is red and the boat is red"
+    ]
+  },
+  {
+    "index": 9,
+    "pair_index": 2,
+    "objects": [
+      "bus",
+      "boat"
+    ],
+    "state": 1,
+    "templates": [
+      "a red bus and a blue boat",
+      "a red bus next to a blue boat",
+      "the bus is red and the boat is blue"
+    ]
+  },
+  {
+    "index": 10,
+    "pair_index": 2,
+    "objects": [
+      "bus",
+      "boat"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue bus and a red boat",
+      "a blue bus next to a red boat",
+      "the bus is blue and the boat is red"
+    ]
+  },
+  {
+    "index": 11,
+    "pair_index": 2,
+    "objects": [
+      "bus",
+      "boat"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue bus and a blue boat",
+      "a blue bus next to a blue boat",
+      "the bus is blue and the boat is blue"
+    ]
+  },
+  {
+    "index": 12,
+    "pair_index": 3,
+    "objects": [
+      "bus",
+      "cat"
+    ],
+    "state": 0,
+    "templates": [
+      "a red bus and a red cat",
+      "a red bus next to a red cat",
+      "the bus is red and the cat is red"
+    ]
+  },
+  {
+    "index": 13,
+    "pair_index": 3,
+    "objects": [
+      "bus",
+      "cat"
+    ],
+    "state": 1,
+    "templates": [
+      "a red bus and a blue cat",
+      "a red bus next to a blue cat",
+      "the bus is red and the cat is blue"
+    ]
+  },
+  {
+    "index": 14,
+    "pair_index": 3,
+    "objects": [
+      "bus",
+      "cat"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue bus and a red cat",
+      "a blue bus next to a red cat",
+      "the bus is blue and the cat is red"
+    ]
+  },
+  {
+    "index": 15,
+    "pair_index": 3,
+    "objects": [
+      "bus",
+      "cat"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue bus and a blue cat",
+      "a blue bus next to a blue cat",
+      "the bus is blue and the cat is blue"
+    ]
+  },
+  {
+    "index": 16,
+    "pair_index": 4,
+    "objects": [
+      "bus",
+      "couch"
+    ],
+    "state": 0,
+    "templates": [
+      "a red bus and a red couch",
+      "a red bus next to a red couch",
+      "the bus is red and the couch is red"
+    ]
+  },
+  {
+    "index": 17,
+    "pair_index": 4,
+    "objects": [
+      "bus",
+      "couch"
+    ],
+    "state": 1,
+    "templates": [
+      "a red bus and a blue couch",
+      "a red bus next to a blue couch",
+      "the bus is red and the couch is blue"
+    ]
+  },
+  {
+    "index": 18,
+    "pair_index": 4,
+    "objects": [
+      "bus",
+      "couch"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue bus and a red couch",
+      "a blue bus next to a red couch",
+      "the bus is blue and the couch is red"
+    ]
+  },
+  {
+    "index": 19,
+    "pair_index": 4,
+    "objects": [
+      "bus",
+      "couch"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue bus and a blue couch",
+      "a blue bus next to a blue couch",
+      "the bus is blue and the couch is blue"
+    ]
+  },
+  {
+    "index": 20,
+    "pair_index": 5,
+    "objects": [
+      "bus",
+      "person"
+    ],
+    "state": 0,
+    "templates": [
+      "a red bus and a red person",
+      "a red bus next to a red person",
+      "the bus is red and the person is red"
+    ]
+  },
+  {
+    "index": 21,
+    "pair_index": 5,
+    "objects": [
+      "bus",
+      "person"
+    ],
+    "state": 1,
+    "templates": [
+      "a red bus and a blue person",
+      "a red bus next to a blue person",
+      "the bus is red and the person is blue"
+    ]
+  },
+  {
+    "index": 22,
+    "pair_index": 5,
+    "objects": [
+      "bus",
+      "person"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue bus and a red person",
+      "a blue bus next to a red person",
+      "the bus is blue and the person is red"
+    ]
+  },
+  {
+    "index": 23,
+    "pair_index": 5,
+    "objects": [
+      "bus",
+      "person"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue bus and a blue person",
+      "a blue bus next to a blue person",
+      "the bus is blue and the person is blue"
+    ]
+  },
+  {
+    "index": 24,
+    "pair_index": 6,
+    "objects": [
+      "bus",
+      "bicycle"
+    ],
+    "state": 0,
+    "templates": [
+      "a red bus and a red bicycle",
+      "a red bus next to a red bicycle",
+      "the bus is red and the bicycle is red"
+    ]
+  },
+  {
+    "index": 25,
+    "pair_index": 6,
+    "objects": [
+      "bus",
+      "bicycle"
+    ],
+    "state": 1,
+    "templates": [
+      "a red bus and a blue bicycle",
+      "a red bus next to a blue bicycle",
+      "the bus is red and the bicycle is blue"
+    ]
+  },
+  {
+    "index": 26,
+    "pair_index": 6,
+    "objects": [
+      "bus",
+      "bicycle"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue bus and a red bicycle",
+      "a blue bus next to a red bicycle",
+      "the bus is blue and the bicycle is red"
+    ]
+  },
+  {
+    "index": 27,
+    "pair_index": 6,
+    "objects": [
+      "bus",
+      "bicycle"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue bus and a blue bicycle",
+      "a blue bus next to a blue bicycle",
+      "the bus is blue and the bicycle is blue"
+    ]
+  },
+  {
+    "index": 28,
+    "pair_index": 7,
+    "objects": [
+      "airplane",
+      "car"
+    ],
+    "state": 0,
+    "templates": [
+      "a red airplane and a red car",
+      "a red airplane next to a red car",
+      "the airplane is red and the car is red"
+    ]
+  },
+  {
+    "index": 29,
+    "pair_index": 7,
+    "objects": [
+      "airplane",
+      "car"
+    ],
+    "state": 1,
+    "templates": [
+      "a red airplane and a blue car",
+      "a red airplane next to a blue car",
+      "the airplane is red and the car is blue"
+    ]
+  },
+  {
+    "index": 30,
+    "pair_index": 7,
+    "objects": [
+      "airplane",
+      "car"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue airplane and a red car",
+      "a blue airplane next to a red car",
+      "the airplane is blue and the car is red"
+    ]
+  },
+  {
+    "index": 31,
+    "pair_index": 7,
+    "objects": [
+      "airplane",
+      "car"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue airplane and a blue car",
+      "a blue airplane next to a blue car",
+      "the airplane is blue and the car is blue"
+    ]
+  },
+  {
+    "index": 32,
+    "pair_index": 8,
+    "objects": [
+      "airplane",
+      "boat"
+    ],
+    "state": 0,
+    "templates": [
+      "a red airplane and a red boat",
+      "a red airplane next to a red boat",
+      "the airplane is red and the boat is red"
+    ]
+  },
+  {
+    "index": 33,
+    "pair_index": 8,
+    "objects": [
+      "airplane",
+      "boat"
+    ],
+    "state": 1,
+    "templates": [
+      "a red airplane and a blue boat",
+      "a red airplane next to a blue boat",
+      "the airplane is red and the boat is blue"
+    ]
+  },
+  {
+    "index": 34,
+    "pair_index": 8,
+    "objects": [
+      "airplane",
+      "boat"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue airplane and a red boat",
+      "a blue airplane next to a red boat",
+      "the airplane is blue and the boat is red"
+    ]
+  },
+  {
+    "index": 35,
+    "pair_index": 8,
+    "objects": [
+      "airplane",
+      "boat"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue airplane and a blue boat",
+      "a blue airplane next to a blue boat",
+      "the airplane is blue and the boat is blue"
+    ]
+  },
+  {
+    "index": 36,
+    "pair_index": 9,
+    "objects": [
+      "airplane",
+      "cat"
+    ],
+    "state": 0,
+    "templates": [
+      "a red airplane and a red cat",
+      "a red airplane next to a red cat",
+      "the airplane is red and the cat is red"
+    ]
+  },
+  {
+    "index": 37,
+    "pair_index": 9,
+    "objects": [
+      "airplane",
+      "cat"
+    ],
+    "state": 1,
+    "templates": [
+      "a red airplane and a blue cat",
+      "a red airplane next to a blue cat",
+      "the airplane is red and the cat is blue"
+    ]
+  },
+  {
+    "index": 38,
+    "pair_index": 9,
+    "objects": [
+      "airplane",
+      "cat"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue airplane and a red cat",
+      "a blue airplane next to a red cat",
+      "the airplane is blue and the cat is red"
+    ]
+  },
+  {
+    "index": 39,
+    "pair_index": 9,
+    "objects": [
+      "airplane",
+      "cat"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue airplane and a blue cat",
+      "a blue airplane next to a blue cat",
+      "the airplane is blue and the cat is blue"
+    ]
+  },
+  {
+    "index": 40,
+    "pair_index": 10,
+    "objects": [
+      "airplane",
+      "couch"
+    ],
+    "state": 0,
+    "templates": [
+      "a red airplane and a red couch",
+      "a red airplane next to a red couch",
+      "the airplane is red and the couch is red"
+    ]
+  },
+  {
+    "index": 41,
+    "pair_index": 10,
+    "objects": [
+      "airplane",
+      "couch"
+    ],
+    "state": 1,
+    "templates": [
+      "a red airplane and a blue couch",
+      "a red airplane next to a blue couch",
+      "the airplane is red and the couch is blue"
+    ]
+  },
+  {
+    "index": 42,
+    "pair_index": 10,
+    "objects": [
+      "airplane",
+      "couch"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue airplane and a red couch",
+      "a blue airplane next to a red couch",
+      "the airplane is blue and the couch is red"
+    ]
+  },
+  {
+    "index": 43,
+    "pair_index": 10,
+    "objects": [
+      "airplane",
+      "couch"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue airplane and a blue couch",
+      "a blue airplane next to a blue couch",
+      "the airplane is blue and the couch is blue"
+    ]
+  },
+  {
+    "index": 44,
+    "pair_index": 11,
+    "objects": [
+      "airplane",
+      "person"
+    ],
+    "state": 0,
+    "templates": [
+      "a red airplane and a red person",
+      "a red airplane next to a red person",
+      "the airplane is red and the person is red"
+    ]
+  },
+  {
+    "index": 45,
+    "pair_index": 11,
+    "objects": [
+      "airplane",
+      "person"
+    ],
+    "state": 1,
+    "templates": [
+      "a red airplane and a blue person",
+      "a red airplane next to a blue person",
+      "the airplane is red and the person is blue"
+    ]
+  },
+  {
+    "index": 46,
+    "pair_index": 11,
+    "objects": [
+      "airplane",
+      "person"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue airplane and a red person",
+      "a blue airplane next to a red person",
+      "the airplane is blue and the person is red"
+    ]
+  },
+  {
+    "index": 47,
+    "pair_index": 11,
+    "objects": [
+      "airplane",
+      "person"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue airplane and a blue person",
+      "a blue airplane next to a blue person",
+      "the airplane is blue and the person is blue"
+    ]
+  },
+  {
+    "index": 48,
+    "pair_index": 12,
+    "objects": [
+      "airplane",
+      "bicycle"
+    ],
+    "state": 0,
+    "templates": [
+      "a red airplane and a red bicycle",
+      "a red airplane next to a red bicycle",
+      "the airplane is red and the bicycle is red"
+    ]
+  },
+  {
+    "index": 49,
+    "pair_index": 12,
+    "objects": [
+      "airplane",
+      "bicycle"
+    ],
+    "state": 1,
+    "templates": [
+      "a red airplane and a blue bicycle",
+      "a red airplane next to a blue bicycle",
+      "the airplane is red and the bicycle is blue"
+    ]
+  },
+  {
+    "index": 50,
+    "pair_index": 12,
+    "objects": [
+      "airplane",
+      "bicycle"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue airplane and a red bicycle",
+      "a blue airplane next to a red bicycle",
+      "the airplane is blue and the bicycle is red"
+    ]
+  },
+  {
+    "index": 51,
+    "pair_index": 12,
+    "objects": [
+      "airplane",
+      "bicycle"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue airplane and a blue bicycle",
+      "a blue airplane next to a blue bicycle",
+      "the airplane is blue and the bicycle is blue"
+    ]
+  },
+  {
+    "index": 52,
+    "pair_index": 13,
+    "objects": [
+      "car",
+      "boat"
+    ],
+    "state": 0,
+    "templates": [
+      "a red car and a red boat",
+      "a red car next to a red boat",
+      "the car is red and the boat is red"
+    ]
+  },
+  {
+    "index": 53,
+    "pair_index": 13,
+    "objects": [
+      "car",
+      "boat"
+    ],
+    "state": 1,
+    "templates": [
+      "a red car and a blue boat",
+      "a red car next to a blue boat",
+      "the car is red and the boat is blue"
+    ]
+  },
+  {
+    "index": 54,
+    "pair_index": 13,
+    "objects": [
+      "car",
+      "boat"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue car and a red boat",
+      "a blue car next to a red boat",
+      "the car is blue and the boat is red"
+    ]
+  },
+  {
+    "index": 55,
+    "pair_index": 13,
+    "objects": [
+      "car",
+      "boat"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue car and a blue boat",
+      "a blue car next to a blue boat",
+      "the car is blue and the boat is blue"
+    ]
+  },
+  {
+    "index": 56,
+    "pair_index": 14,
+    "objects": [
+      "car",
+      "cat"
+    ],
+    "state": 0,
+    "templates": [
+      "a red car and a red cat",
+      "a red car next to a red cat",
+      "the car is red and the cat is red"
+    ]
+  },
+  {
+    "index": 57,
+    "pair_index": 14,
+    "objects": [
+      "car",
+      "cat"
+    ],
+    "state": 1,
+    "templates": [
+      "a red car and a blue cat",
+      "a red car next to a blue cat",
+      "the car is red and the cat is blue"
+    ]
+  },
+  {
+    "index": 58,
+    "pair_index": 14,
+    "objects": [
+      "car",
+      "cat"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue car and a red cat",
+      "a blue car next to a red cat",
+      "the car is blue and the cat is red"
+    ]
+  },
+  {
+    "index": 59,
+    "pair_index": 14,
+    "objects": [
+      "car",
+      "cat"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue car and a blue cat",
+      "a blue car next to a blue cat",
+      "the car is blue and the cat is blue"
+    ]
+  },
+  {
+    "index": 60,
+    "pair_index": 15,
+    "objects": [
+      "car",
+      "couch"
+    ],
+    "state": 0,
+    "templates": [
+      "a red car and a red couch",
+      "a red car next to a red couch",
+      "the car is red and the couch is red"
+    ]
+  },
+  {
+    "index": 61,
+    "pair_index": 15,
+    "objects": [
+      "car",
+      "couch"
+    ],
+    "state": 1,
+    "templates": [
+      "a red car and a blue couch",
+      "a red car next to a blue couch",
+      "the car is red and the couch is blue"
+    ]
+  },
+  {
+    "index": 62,
+    "pair_index": 15,
+    "objects": [
+      "car",
+      "couch"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue car and a red couch",
+      "a blue car next to a red couch",
+      "the car is blue and the couch is red"
+    ]
+  },
+  {
+    "index": 63,
+    "pair_index": 15,
+    "objects": [
+      "car",
+      "couch"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue car and a blue couch",
+      "a blue car next to a blue couch",
+      "the car is blue and the couch is blue"
+    ]
+  },
+  {
+    "index": 64,
+    "pair_index": 16,
+    "objects": [
+      "car",
+      "person"
+    ],
+    "state": 0,
+    "templates": [
+      "a red car and a red person",
+      "a red car next to a red person",
+      "the car is red and the person is red"
+    ]
+  },
+  {
+    "index": 65,
+    "pair_index": 16,
+    "objects": [
+      "car",
+      "person"
+    ],
+    "state": 1,
+    "templates": [
+      "a red car and a blue person",
+      "a red car next to a blue person",
+      "the car is red and the person is blue"
+    ]
+  },
+  {
+    "index": 66,
+    "pair_index": 16,
+    "objects": [
+      "car",
+      "person"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue car and a red person",
+      "a blue car next to a red person",
+      "the car is blue and the person is red"
+    ]
+  },
+  {
+    "index": 67,
+    "pair_index": 16,
+    "objects": [
+      "car",
+      "person"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue car and a blue person",
+      "a blue car next to a blue person",
+      "the car is blue and the person is blue"
+    ]
+  },
+  {
+    "index": 68,
+    "pair_index": 17,
+    "objects": [
+      "car",
+      "bicycle"
+    ],
+    "state": 0,
+    "templates": [
+      "a red car and a red bicycle",
+      "a red car next to a red bicycle",
+      "the car is red and the bicycle is red"
+    ]
+  },
+  {
+    "index": 69,
+    "pair_index": 17,
+    "objects": [
+      "car",
+      "bicycle"
+    ],
+    "state": 1,
+    "templates": [
+      "a red car and a blue bicycle",
+      "a red car next to a blue bicycle",
+      "the car is red and the bicycle is blue"
+    ]
+  },
+  {
+    "index": 70,
+    "pair_index": 17,
+    "objects": [
+      "car",
+      "bicycle"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue car and a red bicycle",
+      "a blue car next to a red bicycle",
+      "the car is blue and the bicycle is red"
+    ]
+  },
+  {
+    "index": 71,
+    "pair_index": 17,
+    "objects": [
+      "car",
+      "bicycle"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue car and a blue bicycle",
+      "a blue car next to a blue bicycle",
+      "the car is blue and the bicycle is blue"
+    ]
+  },
+  {
+    "index": 72,
+    "pair_index": 18,
+    "objects": [
+      "boat",
+      "cat"
+    ],
+    "state": 0,
+    "templates": [
+      "a red boat and a red cat",
+      "a red boat next to a red cat",
+      "the boat is red and the cat is red"
+    ]
+  },
+  {
+    "index": 73,
+    "pair_index": 18,
+    "objects": [
+      "boat",
+      "cat"
+    ],
+    "state": 1,
+    "templates": [
+      "a red boat and a blue cat",
+      "a red boat next to a blue cat",
+      "the boat is red and the cat is blue"
+    ]
+  },
+  {
+    "index": 74,
+    "pair_index": 18,
+    "objects": [
+      "boat",
+      "cat"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue boat and a red cat",
+      "a blue boat next to a red cat",
+      "the boat is blue and the cat is red"
+    ]
+  },
+  {
+    "index": 75,
+    "pair_index": 18,
+    "objects": [
+      "boat",
+      "cat"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue boat and a blue cat",
+      "a blue boat next to a blue cat",
+      "the boat is blue and the cat is blue"
+    ]
+  },
+  {
+    "index": 76,
+    "pair_index": 19,
+    "objects": [
+      "boat",
+      "couch"
+    ],
+    "state": 0,
+    "templates": [
+      "a red boat and a red couch",
+      "a red boat next to a red couch",
+      "the boat is red and the couch is red"
+    ]
+  },
+  {
+    "index": 77,
+    "pair_index": 19,
+    "objects": [
+      "boat",
+      "couch"
+    ],
+    "state": 1,
+    "templates": [
+      "a red boat and a blue couch",
+      "a red boat next to a blue couch",
+      "the boat is red and the couch is blue"
+    ]
+  },
+  {
+    "index": 78,
+    "pair_index": 19,
+    "objects": [
+      "boat",
+      "couch"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue boat and a red couch",
+      "a blue boat next to a red couch",
+      "the boat is blue and the couch is red"
+    ]
+  },
+  {
+    "index": 79,
+    "pair_index": 19,
+    "objects": [
+      "boat",
+      "couch"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue boat and a blue couch",
+      "a blue boat next to a blue couch",
+      "the boat is blue and the couch is blue"
+    ]
+  },
+  {
+    "index": 80,
+    "pair_index": 20,
+    "objects": [
+      "boat",
+      "person"
+    ],
+    "state": 0,
+    "templates": [
+      "a red boat and a red person",
+      "a red boat next to a red person",
+      "the boat is red and the person is red"
+    ]
+  },
+  {
+    "index": 81,
+    "pair_index": 20,
+    "objects": [
+      "boat",
+      "person"
+    ],
+    "state": 1,
+    "templates": [
+      "a red boat and a blue person",
+      "a red boat next to a blue person",
+      "the boat is red and the person is blue"
+    ]
+  },
+  {
+    "index": 82,
+    "pair_index": 20,
+    "objects": [
+      "boat",
+      "person"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue boat and a red person",
+      "a blue boat next to a red person",
+      "the boat is blue and the person is red"
+    ]
+  },
+  {
+    "index": 83,
+    "pair_index": 20,
+    "objects": [
+      "boat",
+      "person"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue boat and a blue person",
+      "a blue boat next to a blue person",
+      "the boat is blue and the person is blue"
+    ]
+  },
+  {
+    "index": 84,
+    "pair_index": 21,
+    "objects": [
+      "boat",
+      "bicycle"
+    ],
+    "state": 0,
+    "templates": [
+      "a red boat and a red bicycle",
+      "a red boat next to a red bicycle",
+      "the boat is red and the bicycle is red"
+    ]
+  },
+  {
+    "index": 85,
+    "pair_index": 21,
+    "objects": [
+      "boat",
+      "bicycle"
+    ],
+    "state": 1,
+    "templates": [
+      "a red boat and a blue bicycle",
+      "a red boat next to a blue bicycle",
+      "the boat is red and the bicycle is blue"
+    ]
+  },
+  {
+    "index": 86,
+    "pair_index": 21,
+    "objects": [
+      "boat",
+      "bicycle"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue boat and a red bicycle",
+      "a blue boat next to a red bicycle",
+      "the boat is blue and the bicycle is red"
+    ]
+  },
+  {
+    "index": 87,
+    "pair_index": 21,
+    "objects": [
+      "boat",
+      "bicycle"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue boat and a blue bicycle",
+      "a blue boat next to a blue bicycle",
+      "the boat is blue and the bicycle is blue"
+    ]
+  },
+  {
+    "index": 88,
+    "pair_index": 22,
+    "objects": [
+      "cat",
+      "couch"
+    ],
+    "state": 0,
+    "templates": [
+      "a red cat and a red couch",
+      "a red cat next to a red couch",
+      "the cat is red and the couch is red"
+    ]
+  },
+  {
+    "index": 89,
+    "pair_index": 22,
+    "objects": [
+      "cat",
+      "couch"
+    ],
+    "state": 1,
+    "templates": [
+      "a red cat and a blue couch",
+      "a red cat next to a blue couch",
+      "the cat is red and the couch is blue"
+    ]
+  },
+  {
+    "index": 90,
+    "pair_index": 22,
+    "objects": [
+      "cat",
+      "couch"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue cat and a red couch",
+      "a blue cat next to a red couch",
+      "the cat is blue and the couch is red"
+    ]
+  },
+  {
+    "index": 91,
+    "pair_index": 22,
+    "objects": [
+      "cat",
+      "couch"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue cat and a blue couch",
+      "a blue cat next to a blue couch",
+      "the cat is blue and the couch is blue"
+    ]
+  },
+  {
+    "index": 92,
+    "pair_index": 23,
+    "objects": [
+      "cat",
+      "person"
+    ],
+    "state": 0,
+    "templates": [
+      "a red cat and a red person",
+      "a red cat next to a red person",
+      "the cat is red and the person is red"
+    ]
+  },
+  {
+    "index": 93,
+    "pair_index": 23,
+    "objects": [
+      "cat",
+      "person"
+    ],
+    "state": 1,
+    "templates": [
+      "a red cat and a blue person",
+      "a red cat next to a blue person",
+      "the cat is red and the person is blue"
+    ]
+  },
+  {
+    "index": 94,
+    "pair_index": 23,
+    "objects": [
+      "cat",
+      "person"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue cat and a red person",
+      "a blue cat next to a red person",
+      "the cat is blue and the person is red"
+    ]
+  },
+  {
+    "index": 95,
+    "pair_index": 23,
+    "objects": [
+      "cat",
+      "person"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue cat and a blue person",
+      "a blue cat next to a blue person",
+      "the cat is blue and the person is blue"
+    ]
+  },
+  {
+    "index": 96,
+    "pair_index": 24,
+    "objects": [
+      "cat",
+      "bicycle"
+    ],
+    "state": 0,
+    "templates": [
+      "a red cat and a red bicycle",
+      "a red cat next to a red bicycle",
+      "the cat is red and the bicycle is red"
+    ]
+  },
+  {
+    "index": 97,
+    "pair_index": 24,
+    "objects": [
+      "cat",
+      "bicycle"
+    ],
+    "state": 1,
+    "templates": [
+      "a red cat and a blue bicycle",
+      "a red cat next to a blue bicycle",
+      "the cat is red and the bicycle is blue"
+    ]
+  },
+  {
+    "index": 98,
+    "pair_index": 24,
+    "objects": [
+      "cat",
+      "bicycle"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue cat and a red bicycle",
+      "a blue cat next to a red bicycle",
+      "the cat is blue and the bicycle is red"
+    ]
+  },
+  {
+    "index": 99,
+    "pair_index": 24,
+    "objects": [
+      "cat",
+      "bicycle"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue cat and a blue bicycle",
+      "a blue cat next to a blue bicycle",
+      "the cat is blue and the bicycle is blue"
+    ]
+  },
+  {
+    "index": 100,
+    "pair_index": 25,
+    "objects": [
+      "couch",
+      "person"
+    ],
+    "state": 0,
+    "templates": [
+      "a red couch and a red person",
+      "a red couch next to a red person",
+      "the couch is red and the person is red"
+    ]
+  },
+  {
+    "index": 101,
+    "pair_index": 25,
+    "objects": [
+      "couch",
+      "person"
+    ],
+    "state": 1,
+    "templates": [
+      "a red couch and a blue person",
+      "a red couch next to a blue person",
+      "the couch is red and the person is blue"
+    ]
+  },
+  {
+    "index": 102,
+    "pair_index": 25,
+    "objects": [
+      "couch",
+      "person"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue couch and a red person",
+      "a blue couch next to a red person",
+      "the couch is blue and the person is red"
+    ]
+  },
+  {
+    "index": 103,
+    "pair_index": 25,
+    "objects": [
+      "couch",
+      "person"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue couch and a blue person",
+      "a blue couch next to a blue person",
+      "the couch is blue and the person is blue"
+    ]
+  },
+  {
+    "index": 104,
+    "pair_index": 26,
+    "objects": [
+      "couch",
+      "bicycle"
+    ],
+    "state": 0,
+    "templates": [
+      "a red couch and a red bicycle",
+      "a red couch next to a red bicycle",
+      "the couch is red and the bicycle is red"
+    ]
+  },
+  {
+    "index": 105,
+    "pair_index": 26,
+    "objects": [
+      "couch",
+      "bicycle"
+    ],
+    "state": 1,
+    "templates": [
+      "a red couch and a blue bicycle",
+      "a red couch next to a blue bicycle",
+      "the couch is red and the bicycle is blue"
+    ]
+  },
+  {
+    "index": 106,
+    "pair_index": 26,
+    "objects": [
+      "couch",
+      "bicycle"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue couch and a red bicycle",
+      "a blue couch next to a red bicycle",
+      "the couch is blue and the bicycle is red"
+    ]
+  },
+  {
+    "index": 107,
+    "pair_index": 26,
+    "objects": [
+      "couch",
+      "bicycle"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue couch and a blue bicycle",
+      "a blue couch next to a blue bicycle",
+      "the couch is blue and the bicycle is blue"
+    ]
+  },
+  {
+    "index": 108,
+    "pair_index": 27,
+    "objects": [
+      "person",
+      "bicycle"
+    ],
+    "state": 0,
+    "templates": [
+      "a red person and a red bicycle",
+      "a red person next to a red bicycle",
+      "the person is red and the bicycle is red"
+    ]
+  },
+  {
+    "index": 109,
+    "pair_index": 27,
+    "objects": [
+      "person",
+      "bicycle"
+    ],
+    "state": 1,
+    "templates": [
+      "a red person and a blue bicycle",
+      "a red person next to a blue bicycle",
+      "the person is red and the bicycle is blue"
+    ]
+  },
+  {
+    "index": 110,
+    "pair_index": 27,
+    "objects": [
+      "person",
+      "bicycle"
+    ],
+    "state": 2,
+    "templates": [
+      "a blue person and a red bicycle",
+      "a blue person next to a red bicycle",
+      "the person is blue and the bicycle is red"
+    ]
+  },
+  {
+    "index": 111,
+    "pair_index": 27,
+    "objects": [
+      "person",
+      "bicycle"
+    ],
+    "state": 3,
+    "templates": [
+      "a blue person and a blue bicycle",
+      "a blue person next to a blue bicycle",
+      "the person is blue and the bicycle is blue"
+    ]
+  }
+]

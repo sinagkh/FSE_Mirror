@@ -1,0 +1,104 @@
+{
+  "seed": 42,
+  "configurations": {
+    "R_preserve": {
+      "weight": 0.0,
+      "preserve": true
+    },
+    "IS4_preserve": {
+      "weight": 4.0,
+      "preserve": true
+    },
+    "IS6_original": {
+      "weight": 6.0,
+      "preserve": false
+    },
+    "IS6_preserve": {
+      "weight": 6.0,
+      "preserve": true
+    }
+  },
+  "updates": 2752,
+  "batch_size": 32,
+  "geometry_coefficient": 0.3050446357059653,
+  "nuisance_coefficient": 1.5199369581165407,
+  "gradient_calibration": [
+    {
+      "ce": 14.631028175354004,
+      "geometry": 11.07951831817627
+    },
+    {
+      "ce": 11.903279304504395,
+      "geometry": 11.07951831817627
+    },
+    {
+      "ce": 20.06366729736328,
+      "geometry": 11.07951831817627
+    },
+    {
+      "ce": 18.62287139892578,
+      "geometry": 11.07951831817627
+    },
+    {
+      "ce": 14.551279067993164,
+      "geometry": 11.07951831817627
+    },
+    {
+      "ce": 14.194207191467285,
+      "geometry": 11.07951831817627
+    },
+    {
+      "ce": 10.733017921447754,
+      "geometry": 11.07951831817627
+    },
+    {
+      "ce": 11.963321685791016,
+      "geometry": 11.07951831817627
+    },
+    {
+      "ce": 9.338650703430176,
+      "geometry": 11.07951831817627
+    },
+    {
+      "ce": 16.377857208251953,
+      "geometry": 11.07951831817627
+    },
+    {
+      "ce": 9.995163917541504,
+      "geometry": 11.07951831817627
+    },
+    {
+      "ce": 20.374073028564453,
+      "geometry": 11.07951831817627
+    },
+    {
+      "ce": 12.84377384185791,
+      "geometry": 11.07951831817627
+    },
+    {
+      "ce": 9.127161979675293,
+      "geometry": 11.07951831817627
+    },
+    {
+      "ce": 11.910872459411621,
+      "geometry": 11.07951831817627
+    },
+    {
+      "ce": 15.290019035339355,
+      "geometry": 11.07951831817627
+    }
+  ],
+  "files": {
+    "/workspace/clip/fse_typographic/preservation_strength.py": "b798d959377858d7d87fc6fdb5dbc21b11ad320f87f5e28422e822cec3d92d78",
+    "/workspace/clip/fse_typographic/PRESERVATION_STRENGTH_20260929_PROTOCOL.md": "0a8f57ef3a03f2611e2bc38b044d5fd2f3fd8e85efd89dd62cabdcd9488382a9",
+    "/workspace/clip/fse_typographic/strength_pilot.py": "b7735bf0b92e34025895b35ab538d949f7bfc0b57f256ac98215448c95dc3186",
+    "/workspace/clip/fse_typographic/prompt_unclipped.py": "8a2325292c4ac554163b8fd6821697358bacadde04afcabeae50efa0b79300b7",
+    "/workspace/clip/fse_typographic_broad_support_20260926/matched_duration/protocol.json": "ace04071d488f173680e1609fa85f1e6555ca639da0e8308b2120ec9493ebb02",
+    "/workspace/clip/fse_typographic_broad_support_20260926/matched_duration/calibration.json": "9898515e45020d679d35ca06b570443272b5aa34b2cd735aed6c16c6d1994c0b",
+    "/workspace/clip/fse_typographic_broad_support_20260926/matched_duration/selection.json": "f5e17f5e5caa2cb1e7693f6bd42a5128bb33c96bcdfa79ea339c83a223c73047",
+    "/workspace/clip/fse_typographic_strength_20260929/runs/IS_w4/last.pt": "6b0187b03bef34209e45d17c5127e6b5517420f389ae89f7203d2156c45727b3"
+  },
+  "selection": "fixed final checkpoints; full-grid evaluation, no winner selection",
+  "initialization_hash": "70bea8fc7b6029bcfe55f2a26ac8fa0659d73910d5f5cc9e87eda61498ac6923",
+  "sequence_hash": "e82607bd031c85f9a3688c90a4d72988a9db3ebe8c953c422ae0a1ba1ca77d14"
+}

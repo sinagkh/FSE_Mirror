@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "frozen_utc": "2026-09-22",
+  "scope": "B2 frozen scoring subjects only; no scores, bank results, checkpoint selection, or calibration",
+  "template_pooling": "L2-normalize each prompt embedding, arithmetic mean within a prompt group, L2-normalize the mean (matches interbind/encode.py)",
+  "image_features": "L2-normalized float32",
+  "subjects": [
+    {
+      "id": "openclip_laion_b32",
+      "family": "OpenCLIP LAION-2B",
+      "architecture": "ViT-B-32",
+      "backend": "open_clip",
+      "score_unit": "raw_cosine",
+      "status": "ready",
+      "source": "https://huggingface.co/laion/CLIP-ViT-B-32-laion2B-s34B-b79K",
+      "revision": "1a25a446712ba5ee05982a381eed697ef9b435cf",
+      "local_origin": "clip/interbind_foundations_20260922/checkpoint_inventory.json backbones.ViT-B-32",
+      "files": [{"path": "/workspace/clip/fse_debugging_results/cache/weights/models--laion--CLIP-ViT-B-32-laion2B-s34B-b79K/blobs/1bd3c7172de5b207ceac554f5ab5266166f3b9baccc9af5989bc801016d080ad", "sha256": "1bd3c7172de5b207ceac554f5ab5266166f3b9baccc9af5989bc801016d080ad"}]
+    },
+    {
+      "id": "openclip_laion_l14",
+      "family": "OpenCLIP LAION-2B",
+      "architecture": "ViT-L-14",
+      "backend": "open_clip",
+      "score_unit": "raw_cosine",
+      "status": "ready",
+      "source": "https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-s32B-b82K",
+      "revision": "1627032197142fbe2a7cfec626f4ced3ae60d07a",
+      "local_origin": "clip/interbind_foundations_20260922/checkpoint_inventory.json backbones.ViT-L-14",
+      "files": [{"path": "/workspace/clip/new_backbone_replication/cache/huggingface/hub/models--laion--CLIP-ViT-L-14-laion2B-s32B-b82K/blobs/5ddb47339f44e4fd9cace3d3960d38af1b51a25857440cfae90afc44706d7e2b", "sha256": "5ddb47339f44e4fd9cace3d3960d38af1b51a25857440cfae90afc44706d7e2b"}]
+    },
+    {
+      "id": "openai_clip_b32",
+      "family": "OpenAI CLIP",
+      "architecture": "ViT-B-32",
+      "backend": "open_clip",
+      "score_unit": "raw_cosine",
+      "status": "ready",
+      "source": "https://github.com/openai/CLIP/blob/main/clip/clip.py",
+      "weight_url": "https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt",
+      "pairing": "unmodified base for original ARO NegCLIP",
+      "files": [{"path": "/workspace/clip/interbind_subjects_20260922/weights/openai_b32/ViT-B-32.pt", "sha256": "40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af"}]
+    },
+    {
+      "id": "aro_negclip_b32",
+      "family": "ARO NegCLIP",
+      "architecture": "ViT-B-32",
+      "backend": "open_clip",
+      "score_unit": "raw_cosine",
+      "status": "ready",
+      "source": "https://github.com/mertyg/vision-language-models-are-bows/blob/main/model_zoo/__init__.py",
+      "weight_url": "https://drive.google.com/uc?id=1ooVVPxB-tvptgmHlIMMFGV3Cg-IrhbRZ",
+      "pairing": "openai_clip_b32",
+      "trusted_original_pickle": true,
+      "pickle_note": "Original author-hosted checkpoint contains NumPy metadata; OpenCLIP 3.2.0 requires weights_only=False after SHA-256 verification. Do not use this setting for arbitrary checkpoints.",
+      "files": [{"path": "/workspace/clip/interbind_subjects_20260922/weights/negclip/negclip.pth", "sha256": "f50ae34b6c311670b1bd3c072d266d27c8750aad5e24b8e2b0862d941f681ffd"}]
+    },
+    {
+      "id": "openai_clip_l14",
+      "family": "OpenAI CLIP",
+      "architecture": "ViT-L-14",
+      "backend": "open_clip",
+      "score_unit": "raw_cosine",
+      "status": "ready",
+      "source": "https://github.com/openai/CLIP/blob/main/clip/clip.py",
+      "weight_url": "https://openaipublic.azureedge.net/clip/models/b8cca3fd41ae0c99ba7e8951adf17d267cdb84cd88be6f7c2e0eca1737a03836/ViT-L-14.pt",
+      "files": [{"path": "/workspace/clip/interbind_subjects_20260922/weights/openai_l14/ViT-L-14.pt", "sha256": "b8cca3fd41ae0c99ba7e8951adf17d267cdb84cd88be6f7c2e0eca1737a03836"}]
+    },
+    {
+      "id": "google_siglip_b16_224",
+      "family": "Google SigLIP",
+      "architecture": "SigLIP B/16 224",
+      "backend": "siglip_transformers",
+      "score_unit": "pre_sigmoid_logit",
+      "status": "ready",
+      "source": "https://huggingface.co/google/siglip-base-patch16-224",
+      "revision": "7fd15f0689c79d79e38b1c2e2e2370a7bf2761ed",
+      "files": [
+        {"path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/model.safetensors", "sha256": "2c63cb7d1f2e95ba501893cbb8faeb4ea9a3af295498d35097126228659c2af8"},
+        {"path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/config.json", "sha256": "cd85b3d28829722820bcb89a2cfbb4160e55fd359249a3044da724166a8d9688"},
+        {"path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/preprocessor_config.json", "sha256": "d11ccb80f15d358a11bdb070e92e2d889005874b7db15823d5f10d9b2533b14a"},
+        {"path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/tokenizer_config.json", "sha256": "d6423dae508cc3a129d22ea443841c111832a1a73125b8f25ea8736951698bcb"},
+        {"path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/special_tokens_map.json", "sha256": "2b6a1ff67a27e0df9ac0c7d93250fc0d87431c7b366b3d5669217104f9088a26"},
+        {"path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/tokenizer.json", "sha256": "c6e405cb7c670d56636a9402c81023a55bc6c3c53d89cf02b92f5c5005bfe920"},
+        {"path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/spiece.model", "sha256": "1e5036bed065526c3c212dfbe288752391797c4bb1a284aa18c9a0b23fcaf8ec"}
+      ]
+    },
+    {
+      "id": "facebook_metaclip_b32_400m",
+      "family": "MetaCLIP 400M",
+      "architecture": "ViT-B-32-quickgelu",
+      "backend": "open_clip",
+      "score_unit": "raw_cosine",
+      "status": "ready",
+      "source": "https://github.com/facebookresearch/MetaCLIP/blob/main/README.md",
+      "weight_url": "https://dl.fbaipublicfiles.com/MMPT/metaclip/b32_400m.pt",
+      "trusted_original_pickle": true,
+      "pickle_note": "Original Meta-hosted checkpoint contains NumPy metadata; OpenCLIP 3.2.0 requires weights_only=False after SHA-256 verification. Do not use this setting for arbitrary checkpoints.",
+      "files": [{"path": "/workspace/clip/interbind_subjects_20260922/weights/metaclip_b32/b32_400m.pt", "sha256": "3c68642594a329afc1ec0fe489ee2b58ab19c9d0556ccf7c404a59baa0762d71"}]
+    }
+  ]
+}

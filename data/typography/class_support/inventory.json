@@ -1,0 +1,7126 @@
+{
+  "lvis_archive_sha256": "334a4caa374030a7817cf050364525e910f7960f9b6968cef47cffbf3893f8ba",
+  "wordnet_sha256": "cbda5ea6eef7f36a97a43d4a75f85e07fccbb4f23657d27b4ccbc93e2646ab59",
+  "original_unresolved_wordnet_labels": [
+    "cell phone",
+    "potted plant",
+    "stop sign",
+    "wine glass"
+  ],
+  "original_unresolved_lvis_synsets": [
+    "stop_sign.n.01"
+  ],
+  "original_synsets": [
+    "affiliation.n.01",
+    "airplane.n.01",
+    "andiron.n.01",
+    "apple.n.01",
+    "apple.n.02",
+    "backpack.n.01",
+    "bag.n.04",
+    "bag.n.06",
+    "banana.n.01",
+    "banana.n.02",
+    "bear.n.01",
+    "bear.n.02",
+    "bed.n.01",
+    "bed.n.02",
+    "bed.n.03",
+    "bed.n.04",
+    "bed.n.07",
+    "bed.n.08",
+    "beef.n.01",
+    "bench.n.01",
+    "bench.n.05",
+    "bench.n.06",
+    "bench.n.07",
+    "bible.n.01",
+    "bicycle.n.01",
+    "big_cat.n.01",
+    "bird.n.01",
+    "bird.n.02",
+    "boat.n.01",
+    "boo.n.01",
+    "book.n.01",
+    "book.n.02",
+    "book.n.06",
+    "book.n.07",
+    "book.n.10",
+    "book.n.11",
+    "bottle.n.01",
+    "bottle.n.02",
+    "bottle.n.03",
+    "bowl.n.01",
+    "bowl.n.02",
+    "bowl.n.03",
+    "bowl.n.04",
+    "bowl.n.07",
+    "bowl.n.08",
+    "bowling_ball.n.01",
+    "broccoli.n.01",
+    "broccoli.n.02",
+    "bus.n.01",
+    "bus.n.04",
+    "bus_topology.n.01",
+    "busbar.n.01",
+    "cable_car.n.01",
+    "cad.n.01",
+    "cake.n.01",
+    "cake.n.03",
+    "car.n.01",
+    "car.n.02",
+    "car.n.03",
+    "car.n.04",
+    "caravan.n.01",
+    "carrot.n.01",
+    "carrot.n.02",
+    "carrot.n.03",
+    "carrot.n.04",
+    "cat-o'-nine-tails.n.01",
+    "cat.n.01",
+    "cat.n.03",
+    "caterpillar.n.02",
+    "cavalry.n.01",
+    "cesspool.n.01",
+    "chair.n.01",
+    "chair.n.05",
+    "clock.n.01",
+    "computerized_tomography.n.01",
+    "couch.n.02",
+    "couch.n.03",
+    "cow.n.01",
+    "cow.n.02",
+    "cow.n.03",
+    "cup.n.01",
+    "cup.n.02",
+    "cup.n.03",
+    "cup.n.04",
+    "cup.n.05",
+    "cup.n.06",
+    "cup.n.07",
+    "cup.n.08",
+    "dame.n.01",
+    "dining_table.n.01",
+    "dog.n.01",
+    "dog.n.03",
+    "doughnut.n.02",
+    "draw.n.03",
+    "electric_chair.n.01",
+    "electric_refrigerator.n.01",
+    "elephant.n.01",
+    "elephant.n.02",
+    "fireplug.n.01",
+    "frank.n.02",
+    "frisbee.n.01",
+    "frump.n.01",
+    "gearing.n.01",
+    "giraffe.n.01",
+    "gravy_boat.n.01",
+    "gutter.n.02",
+    "guy.n.01",
+    "hand_truck.n.01",
+    "horse.n.01",
+    "horse.n.02",
+    "hotdog.n.01",
+    "hotdog.n.02",
+    "judiciary.n.01",
+    "kat.n.01",
+    "keyboard.n.01",
+    "keyboard.n.02",
+    "kite.n.01",
+    "kite.n.02",
+    "kite.n.03",
+    "kite.n.04",
+    "knife.n.01",
+    "knife.n.02",
+    "knight.n.02",
+    "koran.n.01",
+    "laptop.n.01",
+    "layer.n.01",
+    "ledger.n.01",
+    "link.n.02",
+    "microwave.n.01",
+    "microwave.n.02",
+    "motorcycle.n.01",
+    "mouse.n.01",
+    "mouse.n.03",
+    "mouse.n.04",
+    "necktie.n.01",
+    "orange.n.01",
+    "orange.n.02",
+    "orange.n.03",
+    "orange.n.04",
+    "orange.n.05",
+    "oven.n.01",
+    "parking_meter.n.01",
+    "patty.n.01",
+    "pawl.n.01",
+    "pizza.n.01",
+    "president.n.04",
+    "professorship.n.01",
+    "record.n.05",
+    "refrigerator.n.01",
+    "remote_control.n.01",
+    "roll.n.15",
+    "sandwich.n.01",
+    "sawhorse.n.01",
+    "scissors.n.01",
+    "scissors.n.02",
+    "scissors.n.03",
+    "script.n.01",
+    "seam.n.03",
+    "sheep.n.01",
+    "sheep.n.02",
+    "sheep.n.03",
+    "shiner.n.01",
+    "shuttlecock.n.01",
+    "sink.n.01",
+    "sink.n.02",
+    "sinkhole.n.01",
+    "skateboard.n.01",
+    "snowboard.n.01",
+    "sofa.n.01",
+    "stadium.n.01",
+    "string.n.04",
+    "surfboard.n.01",
+    "teddy.n.01",
+    "television.n.01",
+    "television_receiver.n.01",
+    "tennis_racket.n.01",
+    "terrace.n.02",
+    "tie.n.03",
+    "tie.n.04",
+    "tie.n.07",
+    "tie.n.08",
+    "tie.n.09",
+    "toilet.n.01",
+    "toilet.n.02",
+    "toilet.n.04",
+    "tongue.n.03",
+    "traffic_light.n.01",
+    "train.n.01",
+    "train.n.04",
+    "train.n.05",
+    "truck.n.01",
+    "umbrella.n.01",
+    "umbrella.n.02",
+    "umbrella.n.03",
+    "vase.n.01",
+    "workbench.n.01",
+    "zebra.n.01"
+  ],
+  "exclusions": [
+    {
+      "id": 1,
+      "name": "aerosol can",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 2,
+      "name": "air conditioner",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 3,
+      "name": "airplane",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 4,
+      "name": "alarm clock",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 5,
+      "name": "alcohol",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 6,
+      "name": "alligator",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 7,
+      "name": "almond",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 8,
+      "name": "ambulance",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 9,
+      "name": "amplifier",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 10,
+      "name": "anklet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 11,
+      "name": "antenna",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 12,
+      "name": "apple",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 13,
+      "name": "applesauce",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 14,
+      "name": "apricot",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 16,
+      "name": "aquarium",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 17,
+      "name": "arctic (type of shoe)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 18,
+      "name": "armband",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 19,
+      "name": "armchair",
+      "reason": "WordNet related to original class"
+    },
+    {
+      "id": 20,
+      "name": "armoire",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 21,
+      "name": "armor",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 22,
+      "name": "artichoke",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 23,
+      "name": "trash can",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 24,
+      "name": "ashtray",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 25,
+      "name": "asparagus",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 26,
+      "name": "atomizer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 27,
+      "name": "avocado",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 28,
+      "name": "award",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 30,
+      "name": "ax",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 31,
+      "name": "baboon",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 32,
+      "name": "baby buggy",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 33,
+      "name": "basketball backboard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 34,
+      "name": "backpack",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 35,
+      "name": "handbag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 36,
+      "name": "suitcase",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 37,
+      "name": "bagel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 38,
+      "name": "bagpipe",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 39,
+      "name": "baguet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 40,
+      "name": "bait",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 41,
+      "name": "ball",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 42,
+      "name": "ballet skirt",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 43,
+      "name": "balloon",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 44,
+      "name": "bamboo",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 45,
+      "name": "banana",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 46,
+      "name": "band aid",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 47,
+      "name": "bandage",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 48,
+      "name": "bandanna",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 49,
+      "name": "banjo",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 51,
+      "name": "barbell",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 52,
+      "name": "barge",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 53,
+      "name": "barrel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 54,
+      "name": "barrette",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 55,
+      "name": "barrow",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 56,
+      "name": "baseball base",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 57,
+      "name": "baseball",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 58,
+      "name": "baseball bat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 59,
+      "name": "baseball cap",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 60,
+      "name": "baseball glove",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 62,
+      "name": "basketball",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 63,
+      "name": "bass horn",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 64,
+      "name": "bat (animal)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 65,
+      "name": "bath mat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 66,
+      "name": "bath towel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 67,
+      "name": "bathrobe",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 69,
+      "name": "batter (food)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 70,
+      "name": "battery",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 71,
+      "name": "beachball",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 72,
+      "name": "bead",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 73,
+      "name": "bean curd",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 74,
+      "name": "beanbag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 75,
+      "name": "beanie",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 76,
+      "name": "bear",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 77,
+      "name": "bed",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 78,
+      "name": "bedpan",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 80,
+      "name": "cow",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 81,
+      "name": "beef (food)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 82,
+      "name": "beeper",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 83,
+      "name": "beer bottle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 84,
+      "name": "beer can",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 85,
+      "name": "beetle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 86,
+      "name": "bell",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 87,
+      "name": "bell pepper",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 88,
+      "name": "belt",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 89,
+      "name": "belt buckle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 90,
+      "name": "bench",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 91,
+      "name": "beret",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 92,
+      "name": "bib",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 93,
+      "name": "bible",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 94,
+      "name": "bicycle",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 95,
+      "name": "visor",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 96,
+      "name": "billboard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 97,
+      "name": "binder",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 98,
+      "name": "binoculars",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 99,
+      "name": "bird",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 100,
+      "name": "birdfeeder",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 101,
+      "name": "birdbath",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 102,
+      "name": "birdcage",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 103,
+      "name": "birdhouse",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 104,
+      "name": "birthday cake",
+      "reason": "WordNet related to original class"
+    },
+    {
+      "id": 105,
+      "name": "birthday card",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 106,
+      "name": "pirate flag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 107,
+      "name": "black sheep",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 108,
+      "name": "blackberry",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 109,
+      "name": "blackboard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 111,
+      "name": "blazer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 113,
+      "name": "blimp",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 114,
+      "name": "blinker",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 116,
+      "name": "blueberry",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 117,
+      "name": "gameboard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 118,
+      "name": "boat",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 119,
+      "name": "bob",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 120,
+      "name": "bobbin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 121,
+      "name": "bobby pin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 122,
+      "name": "boiled egg",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 123,
+      "name": "bolo tie",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 124,
+      "name": "deadbolt",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 125,
+      "name": "bolt",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 126,
+      "name": "bonnet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 127,
+      "name": "book",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 128,
+      "name": "bookcase",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 129,
+      "name": "booklet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 130,
+      "name": "bookmark",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 131,
+      "name": "boom microphone",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 132,
+      "name": "boot",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 133,
+      "name": "bottle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 134,
+      "name": "bottle opener",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 135,
+      "name": "bouquet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 136,
+      "name": "bow (weapon)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 137,
+      "name": "bow (decorative ribbons)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 138,
+      "name": "bow-tie",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 139,
+      "name": "bowl",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 140,
+      "name": "pipe bowl",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 141,
+      "name": "bowler hat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 142,
+      "name": "bowling ball",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 144,
+      "name": "boxing glove",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 145,
+      "name": "suspenders",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 146,
+      "name": "bracelet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 147,
+      "name": "brass plaque",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 148,
+      "name": "brassiere",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 149,
+      "name": "bread-bin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 151,
+      "name": "breechcloth",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 152,
+      "name": "bridal gown",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 153,
+      "name": "briefcase",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 154,
+      "name": "broccoli",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 155,
+      "name": "broach",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 156,
+      "name": "broom",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 157,
+      "name": "brownie",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 158,
+      "name": "brussels sprouts",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 159,
+      "name": "bubble gum",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 160,
+      "name": "bucket",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 161,
+      "name": "horse buggy",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 162,
+      "name": "bull",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 163,
+      "name": "bulldog",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 164,
+      "name": "bulldozer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 165,
+      "name": "bullet train",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 166,
+      "name": "bulletin board",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 167,
+      "name": "bulletproof vest",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 168,
+      "name": "bullhorn",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 170,
+      "name": "bunk bed",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 171,
+      "name": "buoy",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 172,
+      "name": "burrito",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 173,
+      "name": "bus (vehicle)",
+      "reason": "qualified or long printed label"
+    },
+    {
+      "id": 174,
+      "name": "business card",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 175,
+      "name": "butter",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 176,
+      "name": "butterfly",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 177,
+      "name": "button",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 178,
+      "name": "cab (taxi)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 179,
+      "name": "cabana",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 180,
+      "name": "cabin car",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 182,
+      "name": "locker",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 183,
+      "name": "cake",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 184,
+      "name": "calculator",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 185,
+      "name": "calendar",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 186,
+      "name": "calf",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 187,
+      "name": "camcorder",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 188,
+      "name": "camel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 189,
+      "name": "camera",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 190,
+      "name": "camera lens",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 191,
+      "name": "camper (vehicle)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 192,
+      "name": "can",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 193,
+      "name": "can opener",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 194,
+      "name": "candle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 195,
+      "name": "candle holder",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 196,
+      "name": "candy bar",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 197,
+      "name": "candy cane",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 198,
+      "name": "walking cane",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 199,
+      "name": "canister",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 200,
+      "name": "canoe",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 201,
+      "name": "cantaloup",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 202,
+      "name": "canteen",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 203,
+      "name": "cap (headwear)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 204,
+      "name": "bottle cap",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 205,
+      "name": "cape",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 206,
+      "name": "cappuccino",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 207,
+      "name": "car (automobile)",
+      "reason": "qualified or long printed label"
+    },
+    {
+      "id": 208,
+      "name": "railcar (part of a train)",
+      "reason": "qualified or long printed label"
+    },
+    {
+      "id": 209,
+      "name": "elevator car",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 210,
+      "name": "car battery",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 211,
+      "name": "identity card",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 212,
+      "name": "card",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 213,
+      "name": "cardigan",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 214,
+      "name": "cargo ship",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 215,
+      "name": "carnation",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 216,
+      "name": "horse carriage",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 217,
+      "name": "carrot",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 218,
+      "name": "tote bag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 219,
+      "name": "cart",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 220,
+      "name": "carton",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 221,
+      "name": "cash register",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 222,
+      "name": "casserole",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 223,
+      "name": "cassette",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 224,
+      "name": "cast",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 225,
+      "name": "cat",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 226,
+      "name": "cauliflower",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 227,
+      "name": "cayenne (spice)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 228,
+      "name": "cd player",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 229,
+      "name": "celery",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 231,
+      "name": "chain mail",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 232,
+      "name": "chair",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 233,
+      "name": "chaise longue",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 234,
+      "name": "chalice",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 235,
+      "name": "chandelier",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 236,
+      "name": "chap",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 237,
+      "name": "checkbook",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 238,
+      "name": "checkerboard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 239,
+      "name": "cherry",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 240,
+      "name": "chessboard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 241,
+      "name": "chicken (animal)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 242,
+      "name": "chickpea",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 243,
+      "name": "chili (vegetable)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 244,
+      "name": "chime",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 245,
+      "name": "chinaware",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 246,
+      "name": "crisp (potato chip)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 247,
+      "name": "poker chip",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 248,
+      "name": "chocolate bar",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 249,
+      "name": "chocolate cake",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 250,
+      "name": "chocolate milk",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 251,
+      "name": "chocolate mousse",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 252,
+      "name": "choker",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 254,
+      "name": "chopstick",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 256,
+      "name": "slide",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 257,
+      "name": "cider",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 258,
+      "name": "cigar box",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 259,
+      "name": "cigarette",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 260,
+      "name": "cigarette case",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 262,
+      "name": "clarinet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 263,
+      "name": "clasp",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 264,
+      "name": "cleansing agent",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 265,
+      "name": "cleat (for securing rope)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 266,
+      "name": "clementine",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 267,
+      "name": "clip",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 268,
+      "name": "clipboard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 269,
+      "name": "clippers (for plants)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 270,
+      "name": "cloak",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 271,
+      "name": "clock",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 273,
+      "name": "clothes hamper",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 274,
+      "name": "clothespin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 275,
+      "name": "clutch bag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 276,
+      "name": "coaster",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 278,
+      "name": "coat hanger",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 279,
+      "name": "coatrack",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 280,
+      "name": "cock",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 281,
+      "name": "cockroach",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 282,
+      "name": "cocoa (beverage)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 283,
+      "name": "coconut",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 284,
+      "name": "coffee maker",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 286,
+      "name": "coffeepot",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 287,
+      "name": "coil",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 288,
+      "name": "coin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 289,
+      "name": "colander",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 290,
+      "name": "coleslaw",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 291,
+      "name": "coloring material",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 292,
+      "name": "combination lock",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 293,
+      "name": "pacifier",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 294,
+      "name": "comic book",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 295,
+      "name": "compass",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 296,
+      "name": "computer keyboard",
+      "reason": "WordNet related to original class"
+    },
+    {
+      "id": 297,
+      "name": "condiment",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 298,
+      "name": "cone",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 299,
+      "name": "control",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 300,
+      "name": "convertible (automobile)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 301,
+      "name": "sofa bed",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 302,
+      "name": "cooker",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 303,
+      "name": "cookie",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 304,
+      "name": "cooking utensil",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 305,
+      "name": "cooler (for food)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 306,
+      "name": "cork (bottle plug)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 307,
+      "name": "corkboard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 308,
+      "name": "corkscrew",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 309,
+      "name": "edible corn",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 310,
+      "name": "cornbread",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 311,
+      "name": "cornet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 312,
+      "name": "cornice",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 313,
+      "name": "cornmeal",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 314,
+      "name": "corset",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 315,
+      "name": "costume",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 316,
+      "name": "cougar",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 317,
+      "name": "coverall",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 318,
+      "name": "cowbell",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 319,
+      "name": "cowboy hat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 320,
+      "name": "crab (animal)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 321,
+      "name": "crabmeat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 322,
+      "name": "cracker",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 323,
+      "name": "crape",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 324,
+      "name": "crate",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 325,
+      "name": "crayon",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 326,
+      "name": "cream pitcher",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 327,
+      "name": "crescent roll",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 328,
+      "name": "crib",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 329,
+      "name": "crock pot",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 330,
+      "name": "crossbar",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 331,
+      "name": "crouton",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 332,
+      "name": "crow",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 333,
+      "name": "crowbar",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 334,
+      "name": "crown",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 335,
+      "name": "crucifix",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 336,
+      "name": "cruise ship",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 337,
+      "name": "police cruiser",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 338,
+      "name": "crumb",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 339,
+      "name": "crutch",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 340,
+      "name": "cub (animal)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 341,
+      "name": "cube",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 342,
+      "name": "cucumber",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 343,
+      "name": "cufflink",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 344,
+      "name": "cup",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 345,
+      "name": "trophy cup",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 347,
+      "name": "cupcake",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 348,
+      "name": "hair curler",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 349,
+      "name": "curling iron",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 352,
+      "name": "cylinder",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 353,
+      "name": "cymbal",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 354,
+      "name": "dagger",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 355,
+      "name": "dalmatian",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 356,
+      "name": "dartboard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 357,
+      "name": "date (fruit)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 358,
+      "name": "deck chair",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 359,
+      "name": "deer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 360,
+      "name": "dental floss",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 362,
+      "name": "detergent",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 363,
+      "name": "diaper",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 364,
+      "name": "diary",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 365,
+      "name": "die",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 366,
+      "name": "dinghy",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 367,
+      "name": "dining table",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 368,
+      "name": "tux",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 369,
+      "name": "dish",
+      "reason": "WordNet related to original class"
+    },
+    {
+      "id": 370,
+      "name": "dish antenna",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 371,
+      "name": "dishrag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 372,
+      "name": "dishtowel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 373,
+      "name": "dishwasher",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 374,
+      "name": "dishwasher detergent",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 375,
+      "name": "dispenser",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 376,
+      "name": "diving board",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 377,
+      "name": "dixie cup",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 378,
+      "name": "dog",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 379,
+      "name": "dog collar",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 380,
+      "name": "doll",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 381,
+      "name": "dollar",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 382,
+      "name": "dollhouse",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 383,
+      "name": "dolphin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 384,
+      "name": "domestic ass",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 385,
+      "name": "doorknob",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 386,
+      "name": "doormat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 387,
+      "name": "doughnut",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 388,
+      "name": "dove",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 389,
+      "name": "dragonfly",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 391,
+      "name": "underdrawers",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 393,
+      "name": "dress hat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 395,
+      "name": "dresser",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 396,
+      "name": "drill",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 397,
+      "name": "drone",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 398,
+      "name": "dropper",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 399,
+      "name": "drum (musical instrument)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 400,
+      "name": "drumstick",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 401,
+      "name": "duck",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 402,
+      "name": "duckling",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 403,
+      "name": "duct tape",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 404,
+      "name": "duffel bag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 405,
+      "name": "dumbbell",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 406,
+      "name": "dumpster",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 407,
+      "name": "dustpan",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 408,
+      "name": "eagle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 409,
+      "name": "earphone",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 410,
+      "name": "earplug",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 411,
+      "name": "earring",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 412,
+      "name": "easel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 413,
+      "name": "eclair",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 414,
+      "name": "eel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 415,
+      "name": "egg",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 416,
+      "name": "egg roll",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 417,
+      "name": "egg yolk",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 418,
+      "name": "eggbeater",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 419,
+      "name": "eggplant",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 420,
+      "name": "electric chair",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 421,
+      "name": "refrigerator",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 422,
+      "name": "elephant",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 423,
+      "name": "elk",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 424,
+      "name": "envelope",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 425,
+      "name": "eraser",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 426,
+      "name": "escargot",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 427,
+      "name": "eyepatch",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 428,
+      "name": "falcon",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 429,
+      "name": "fan",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 430,
+      "name": "faucet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 431,
+      "name": "fedora",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 432,
+      "name": "ferret",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 433,
+      "name": "ferris wheel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 434,
+      "name": "ferry",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 435,
+      "name": "fig (fruit)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 436,
+      "name": "fighter jet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 437,
+      "name": "figurine",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 438,
+      "name": "file cabinet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 439,
+      "name": "file (tool)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 440,
+      "name": "fire alarm",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 441,
+      "name": "fire engine",
+      "reason": "WordNet related to original class"
+    },
+    {
+      "id": 442,
+      "name": "fire extinguisher",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 443,
+      "name": "fire hose",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 445,
+      "name": "fireplug",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 446,
+      "name": "first-aid kit",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 447,
+      "name": "fish",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 448,
+      "name": "fish (food)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 449,
+      "name": "fishbowl",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 450,
+      "name": "fishing rod",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 451,
+      "name": "flag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 452,
+      "name": "flagpole",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 453,
+      "name": "flamingo",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 454,
+      "name": "flannel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 455,
+      "name": "flap",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 456,
+      "name": "flash",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 457,
+      "name": "flashlight",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 458,
+      "name": "fleece",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 459,
+      "name": "flip-flop (sandal)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 460,
+      "name": "flipper (footwear)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 462,
+      "name": "flute glass",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 463,
+      "name": "foal",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 464,
+      "name": "folding chair",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 465,
+      "name": "food processor",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 466,
+      "name": "football (american)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 467,
+      "name": "football helmet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 468,
+      "name": "footstool",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 469,
+      "name": "fork",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 470,
+      "name": "forklift",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 471,
+      "name": "freight car",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 472,
+      "name": "french toast",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 473,
+      "name": "freshener",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 474,
+      "name": "frisbee",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 475,
+      "name": "frog",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 476,
+      "name": "fruit juice",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 477,
+      "name": "frying pan",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 478,
+      "name": "fudge",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 479,
+      "name": "funnel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 480,
+      "name": "futon",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 481,
+      "name": "gag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 482,
+      "name": "garbage",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 483,
+      "name": "garbage truck",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 484,
+      "name": "garden hose",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 485,
+      "name": "gargle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 486,
+      "name": "gargoyle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 487,
+      "name": "garlic",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 488,
+      "name": "gasmask",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 489,
+      "name": "gazelle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 490,
+      "name": "gelatin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 491,
+      "name": "gemstone",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 492,
+      "name": "generator",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 493,
+      "name": "giant panda",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 494,
+      "name": "gift wrap",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 495,
+      "name": "ginger",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 496,
+      "name": "giraffe",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 497,
+      "name": "cincture",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 498,
+      "name": "glass (drink container)",
+      "reason": "qualified or long printed label"
+    },
+    {
+      "id": 499,
+      "name": "globe",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 500,
+      "name": "glove",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 501,
+      "name": "goat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 502,
+      "name": "goggles",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 503,
+      "name": "goldfish",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 504,
+      "name": "golf club",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 505,
+      "name": "golfcart",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 506,
+      "name": "gondola (boat)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 507,
+      "name": "goose",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 508,
+      "name": "gorilla",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 509,
+      "name": "gourd",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 510,
+      "name": "grape",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 511,
+      "name": "grater",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 512,
+      "name": "gravestone",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 513,
+      "name": "gravy boat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 514,
+      "name": "green bean",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 515,
+      "name": "green onion",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 516,
+      "name": "griddle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 517,
+      "name": "grill",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 518,
+      "name": "grits",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 519,
+      "name": "grizzly",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 520,
+      "name": "grocery bag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 521,
+      "name": "guitar",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 522,
+      "name": "gull",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 523,
+      "name": "gun",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 524,
+      "name": "hairbrush",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 525,
+      "name": "hairnet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 526,
+      "name": "hairpin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 527,
+      "name": "halter top",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 528,
+      "name": "ham",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 529,
+      "name": "hamburger",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 530,
+      "name": "hammer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 531,
+      "name": "hammock",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 532,
+      "name": "hamper",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 533,
+      "name": "hamster",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 534,
+      "name": "hair dryer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 535,
+      "name": "hand glass",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 536,
+      "name": "hand towel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 537,
+      "name": "handcart",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 538,
+      "name": "handcuff",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 539,
+      "name": "handkerchief",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 540,
+      "name": "handle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 541,
+      "name": "handsaw",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 542,
+      "name": "hardback book",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 543,
+      "name": "harmonium",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 544,
+      "name": "hat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 545,
+      "name": "hatbox",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 546,
+      "name": "veil",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 547,
+      "name": "headband",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 549,
+      "name": "headlight",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 550,
+      "name": "headscarf",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 551,
+      "name": "headset",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 552,
+      "name": "headstall (for horses)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 553,
+      "name": "heart",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 554,
+      "name": "heater",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 555,
+      "name": "helicopter",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 556,
+      "name": "helmet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 557,
+      "name": "heron",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 558,
+      "name": "highchair",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 559,
+      "name": "hinge",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 560,
+      "name": "hippopotamus",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 561,
+      "name": "hockey stick",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 562,
+      "name": "hog",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 563,
+      "name": "home plate (baseball)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 564,
+      "name": "honey",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 565,
+      "name": "fume hood",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 566,
+      "name": "hook",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 567,
+      "name": "hookah",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 568,
+      "name": "hornet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 569,
+      "name": "horse",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 570,
+      "name": "hose",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 571,
+      "name": "hot-air balloon",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 572,
+      "name": "hotplate",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 573,
+      "name": "hot sauce",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 574,
+      "name": "hourglass",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 575,
+      "name": "houseboat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 576,
+      "name": "hummingbird",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 577,
+      "name": "hummus",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 578,
+      "name": "polar bear",
+      "reason": "WordNet related to original class"
+    },
+    {
+      "id": 579,
+      "name": "icecream",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 580,
+      "name": "popsicle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 581,
+      "name": "ice maker",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 582,
+      "name": "ice pack",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 583,
+      "name": "ice skate",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 584,
+      "name": "igniter",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 585,
+      "name": "inhaler",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 586,
+      "name": "ipod",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 587,
+      "name": "iron (for clothing)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 588,
+      "name": "ironing board",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 590,
+      "name": "jam",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 591,
+      "name": "jar",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 593,
+      "name": "jeep",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 594,
+      "name": "jelly bean",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 596,
+      "name": "jet plane",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 597,
+      "name": "jewel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 598,
+      "name": "jewelry",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 599,
+      "name": "joystick",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 600,
+      "name": "jumpsuit",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 601,
+      "name": "kayak",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 602,
+      "name": "keg",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 603,
+      "name": "kennel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 604,
+      "name": "kettle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 605,
+      "name": "key",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 606,
+      "name": "keycard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 607,
+      "name": "kilt",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 608,
+      "name": "kimono",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 609,
+      "name": "kitchen sink",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 610,
+      "name": "kitchen table",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 611,
+      "name": "kite",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 612,
+      "name": "kitten",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 613,
+      "name": "kiwi fruit",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 614,
+      "name": "knee pad",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 615,
+      "name": "knife",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 616,
+      "name": "knitting needle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 617,
+      "name": "knob",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 618,
+      "name": "knocker (on a door)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 619,
+      "name": "koala",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 620,
+      "name": "lab coat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 621,
+      "name": "ladder",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 622,
+      "name": "ladle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 623,
+      "name": "ladybug",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 624,
+      "name": "lamb (animal)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 625,
+      "name": "lamb-chop",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 626,
+      "name": "lamp",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 627,
+      "name": "lamppost",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 628,
+      "name": "lampshade",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 629,
+      "name": "lantern",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 630,
+      "name": "lanyard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 631,
+      "name": "laptop computer",
+      "reason": "WordNet related to original class"
+    },
+    {
+      "id": 632,
+      "name": "lasagna",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 633,
+      "name": "latch",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 634,
+      "name": "lawn mower",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 635,
+      "name": "leather",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 636,
+      "name": "legging (clothing)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 637,
+      "name": "lego",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 638,
+      "name": "legume",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 639,
+      "name": "lemon",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 640,
+      "name": "lemonade",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 641,
+      "name": "lettuce",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 642,
+      "name": "license plate",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 643,
+      "name": "life buoy",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 644,
+      "name": "life jacket",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 645,
+      "name": "lightbulb",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 646,
+      "name": "lightning rod",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 647,
+      "name": "lime",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 648,
+      "name": "limousine",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 649,
+      "name": "lion",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 650,
+      "name": "lip balm",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 651,
+      "name": "liquor",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 652,
+      "name": "lizard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 654,
+      "name": "lollipop",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 655,
+      "name": "speaker (stero equipment)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 656,
+      "name": "loveseat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 657,
+      "name": "machine gun",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 658,
+      "name": "magazine",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 659,
+      "name": "magnet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 660,
+      "name": "mail slot",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 661,
+      "name": "mailbox (at home)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 662,
+      "name": "mallard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 663,
+      "name": "mallet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 664,
+      "name": "mammoth",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 665,
+      "name": "manatee",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 666,
+      "name": "mandarin orange",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 667,
+      "name": "manger",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 668,
+      "name": "manhole",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 669,
+      "name": "map",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 670,
+      "name": "marker",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 671,
+      "name": "martini",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 672,
+      "name": "mascot",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 673,
+      "name": "mashed potato",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 674,
+      "name": "masher",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 675,
+      "name": "mask",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 676,
+      "name": "mast",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 677,
+      "name": "mat (gym equipment)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 678,
+      "name": "matchbox",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 680,
+      "name": "measuring cup",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 681,
+      "name": "measuring stick",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 682,
+      "name": "meatball",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 683,
+      "name": "medicine",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 684,
+      "name": "melon",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 685,
+      "name": "microphone",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 686,
+      "name": "microscope",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 687,
+      "name": "microwave oven",
+      "reason": "WordNet related to original class"
+    },
+    {
+      "id": 688,
+      "name": "milestone",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 689,
+      "name": "milk",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 690,
+      "name": "milk can",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 691,
+      "name": "milkshake",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 692,
+      "name": "minivan",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 693,
+      "name": "mint candy",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 695,
+      "name": "mitten",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 696,
+      "name": "mixer (kitchen tool)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 697,
+      "name": "money",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 698,
+      "name": "monitor (computer equipment) computer monitor",
+      "reason": "qualified or long printed label"
+    },
+    {
+      "id": 699,
+      "name": "monkey",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 700,
+      "name": "motor",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 702,
+      "name": "motor vehicle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 703,
+      "name": "motorcycle",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 704,
+      "name": "mound (baseball)",
+      "reason": "qualified or long printed label"
+    },
+    {
+      "id": 705,
+      "name": "mouse (computer equipment)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 706,
+      "name": "mousepad",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 707,
+      "name": "muffin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 709,
+      "name": "mushroom",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 710,
+      "name": "music stool",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 711,
+      "name": "musical instrument",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 712,
+      "name": "nailfile",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 714,
+      "name": "neckerchief",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 715,
+      "name": "necklace",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 716,
+      "name": "necktie",
+      "reason": "WordNet related to original class"
+    },
+    {
+      "id": 717,
+      "name": "needle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 718,
+      "name": "nest",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 720,
+      "name": "newsstand",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 721,
+      "name": "nightshirt",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 722,
+      "name": "nosebag (for animals)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 723,
+      "name": "noseband (for animals)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 724,
+      "name": "notebook",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 725,
+      "name": "notepad",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 726,
+      "name": "nut",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 727,
+      "name": "nutcracker",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 728,
+      "name": "oar",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 729,
+      "name": "octopus (food)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 730,
+      "name": "octopus (animal)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 731,
+      "name": "oil lamp",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 732,
+      "name": "olive oil",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 733,
+      "name": "omelet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 734,
+      "name": "onion",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 735,
+      "name": "orange (fruit)",
+      "reason": "qualified or long printed label"
+    },
+    {
+      "id": 736,
+      "name": "orange juice",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 737,
+      "name": "ostrich",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 738,
+      "name": "ottoman",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 739,
+      "name": "oven",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 740,
+      "name": "overalls (clothing)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 741,
+      "name": "owl",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 742,
+      "name": "packet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 743,
+      "name": "inkpad",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 744,
+      "name": "pad",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 745,
+      "name": "paddle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 746,
+      "name": "padlock",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 747,
+      "name": "paintbrush",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 749,
+      "name": "pajamas",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 750,
+      "name": "palette",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 751,
+      "name": "pan (for cooking)",
+      "reason": "qualified or long printed label"
+    },
+    {
+      "id": 752,
+      "name": "pan (metal container)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 753,
+      "name": "pancake",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 754,
+      "name": "pantyhose",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 755,
+      "name": "papaya",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 757,
+      "name": "paper towel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 758,
+      "name": "paperback book",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 759,
+      "name": "paperweight",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 760,
+      "name": "parachute",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 761,
+      "name": "parakeet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 762,
+      "name": "parasail (sports)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 763,
+      "name": "parasol",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 764,
+      "name": "parchment",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 765,
+      "name": "parka",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 766,
+      "name": "parking meter",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 767,
+      "name": "parrot",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 768,
+      "name": "passenger car (part of a train)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 769,
+      "name": "passenger ship",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 770,
+      "name": "passport",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 772,
+      "name": "patty (food)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 773,
+      "name": "pea (food)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 774,
+      "name": "peach",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 775,
+      "name": "peanut butter",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 776,
+      "name": "pear",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 777,
+      "name": "peeler (tool for fruit and vegetables)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 778,
+      "name": "wooden leg",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 779,
+      "name": "pegboard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 780,
+      "name": "pelican",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 781,
+      "name": "pen",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 782,
+      "name": "pencil",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 783,
+      "name": "pencil box",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 784,
+      "name": "pencil sharpener",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 785,
+      "name": "pendulum",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 786,
+      "name": "penguin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 787,
+      "name": "pennant",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 788,
+      "name": "penny (coin)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 789,
+      "name": "pepper",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 790,
+      "name": "pepper mill",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 791,
+      "name": "perfume",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 792,
+      "name": "persimmon",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 793,
+      "name": "person",
+      "reason": "WordNet related to original class"
+    },
+    {
+      "id": 794,
+      "name": "pet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 795,
+      "name": "pew (church bench)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 796,
+      "name": "phonebook",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 797,
+      "name": "phonograph record",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 798,
+      "name": "piano",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 799,
+      "name": "pickle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 800,
+      "name": "pickup truck",
+      "reason": "WordNet related to original class"
+    },
+    {
+      "id": 801,
+      "name": "pie",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 802,
+      "name": "pigeon",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 803,
+      "name": "piggy bank",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 805,
+      "name": "pin (non jewelry)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 806,
+      "name": "pineapple",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 807,
+      "name": "pinecone",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 808,
+      "name": "ping-pong ball",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 809,
+      "name": "pinwheel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 810,
+      "name": "tobacco pipe",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 811,
+      "name": "pipe",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 812,
+      "name": "pistol",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 813,
+      "name": "pita (bread)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 814,
+      "name": "pitcher (vessel for liquid)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 815,
+      "name": "pitchfork",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 816,
+      "name": "pizza",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 819,
+      "name": "platter",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 820,
+      "name": "playpen",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 821,
+      "name": "pliers",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 822,
+      "name": "plow (farm equipment)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 823,
+      "name": "plume",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 824,
+      "name": "pocket watch",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 825,
+      "name": "pocketknife",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 826,
+      "name": "poker (fire stirring tool)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 827,
+      "name": "pole",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 829,
+      "name": "poncho",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 830,
+      "name": "pony",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 831,
+      "name": "pool table",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 832,
+      "name": "pop (soda)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 833,
+      "name": "postbox (public)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 834,
+      "name": "postcard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 837,
+      "name": "flowerpot",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 838,
+      "name": "potato",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 839,
+      "name": "potholder",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 840,
+      "name": "pottery",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 841,
+      "name": "pouch",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 842,
+      "name": "power shovel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 843,
+      "name": "prawn",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 844,
+      "name": "pretzel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 845,
+      "name": "printer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 846,
+      "name": "projectile (weapon)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 847,
+      "name": "projector",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 848,
+      "name": "propeller",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 849,
+      "name": "prune",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 850,
+      "name": "pudding",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 851,
+      "name": "puffer (fish)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 852,
+      "name": "puffin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 853,
+      "name": "pug-dog",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 854,
+      "name": "pumpkin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 855,
+      "name": "puncher",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 856,
+      "name": "puppet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 857,
+      "name": "puppy",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 858,
+      "name": "quesadilla",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 859,
+      "name": "quiche",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 861,
+      "name": "rabbit",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 862,
+      "name": "race car",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 863,
+      "name": "racket",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 864,
+      "name": "radar",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 865,
+      "name": "radiator",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 866,
+      "name": "radio receiver",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 867,
+      "name": "radish",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 868,
+      "name": "raft",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 869,
+      "name": "rag doll",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 870,
+      "name": "raincoat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 871,
+      "name": "ram (animal)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 872,
+      "name": "raspberry",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 873,
+      "name": "rat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 874,
+      "name": "razorblade",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 875,
+      "name": "reamer (juicer)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 876,
+      "name": "rearview mirror",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 877,
+      "name": "receipt",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 878,
+      "name": "recliner",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 879,
+      "name": "record player",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 880,
+      "name": "reflector",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 881,
+      "name": "remote control",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 882,
+      "name": "rhinoceros",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 883,
+      "name": "rib (food)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 884,
+      "name": "rifle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 885,
+      "name": "ring",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 886,
+      "name": "river boat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 887,
+      "name": "road map",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 888,
+      "name": "robe",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 889,
+      "name": "rocking chair",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 890,
+      "name": "rodent",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 891,
+      "name": "roller skate",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 892,
+      "name": "rollerblade",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 893,
+      "name": "rolling pin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 894,
+      "name": "root beer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 895,
+      "name": "router (computer equipment)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 896,
+      "name": "rubber band",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 897,
+      "name": "runner (carpet)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 899,
+      "name": "saddle (on an animal)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 900,
+      "name": "saddle blanket",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 901,
+      "name": "saddlebag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 902,
+      "name": "safety pin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 903,
+      "name": "sail",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 904,
+      "name": "salad",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 905,
+      "name": "salad plate",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 906,
+      "name": "salami",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 907,
+      "name": "salmon (fish)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 908,
+      "name": "salmon (food)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 909,
+      "name": "salsa",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 910,
+      "name": "saltshaker",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 911,
+      "name": "sandal (type of shoe)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 912,
+      "name": "sandwich",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 913,
+      "name": "satchel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 914,
+      "name": "saucepan",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 915,
+      "name": "saucer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 916,
+      "name": "sausage",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 917,
+      "name": "sawhorse",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 918,
+      "name": "saxophone",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 919,
+      "name": "scale (measuring instrument)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 920,
+      "name": "scarecrow",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 921,
+      "name": "scarf",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 922,
+      "name": "school bus",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 923,
+      "name": "scissors",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 924,
+      "name": "scoreboard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 925,
+      "name": "scraper",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 926,
+      "name": "screwdriver",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 927,
+      "name": "scrubbing brush",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 928,
+      "name": "sculpture",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 929,
+      "name": "seabird",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 930,
+      "name": "seahorse",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 931,
+      "name": "seaplane",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 932,
+      "name": "seashell",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 933,
+      "name": "sewing machine",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 934,
+      "name": "shaker",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 935,
+      "name": "shampoo",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 936,
+      "name": "shark",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 937,
+      "name": "sharpener",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 938,
+      "name": "sharpie",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 939,
+      "name": "shaver (electric)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 940,
+      "name": "shaving cream",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 941,
+      "name": "shawl",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 942,
+      "name": "shears",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 943,
+      "name": "sheep",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 944,
+      "name": "shepherd dog",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 945,
+      "name": "sherbert",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 946,
+      "name": "shield",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 948,
+      "name": "shoe",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 949,
+      "name": "shopping bag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 950,
+      "name": "shopping cart",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 951,
+      "name": "short pants",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 952,
+      "name": "shot glass",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 953,
+      "name": "shoulder bag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 954,
+      "name": "shovel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 955,
+      "name": "shower head",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 956,
+      "name": "shower cap",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 958,
+      "name": "shredder (for paper)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 960,
+      "name": "silo",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 961,
+      "name": "sink",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 962,
+      "name": "skateboard",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 963,
+      "name": "skewer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 964,
+      "name": "ski",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 965,
+      "name": "ski boot",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 966,
+      "name": "ski parka",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 967,
+      "name": "ski pole",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 968,
+      "name": "skirt",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 969,
+      "name": "skullcap",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 970,
+      "name": "sled",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 971,
+      "name": "sleeping bag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 972,
+      "name": "sling (bandage)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 973,
+      "name": "slipper (footwear)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 974,
+      "name": "smoothie",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 975,
+      "name": "snake",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 976,
+      "name": "snowboard",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 977,
+      "name": "snowman",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 978,
+      "name": "snowmobile",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 979,
+      "name": "soap",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 980,
+      "name": "soccer ball",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 981,
+      "name": "sock",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 982,
+      "name": "sofa",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 983,
+      "name": "softball",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 984,
+      "name": "solar array",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 985,
+      "name": "sombrero",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 987,
+      "name": "soup bowl",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 988,
+      "name": "soupspoon",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 989,
+      "name": "sour cream",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 990,
+      "name": "soya milk",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 991,
+      "name": "space shuttle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 992,
+      "name": "sparkler (fireworks)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 993,
+      "name": "spatula",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 994,
+      "name": "spear",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 995,
+      "name": "spectacles",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 996,
+      "name": "spice rack",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 997,
+      "name": "spider",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 998,
+      "name": "crawfish",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 999,
+      "name": "sponge",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1000,
+      "name": "spoon",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1001,
+      "name": "sportswear",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1002,
+      "name": "spotlight",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1003,
+      "name": "squid (food)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1004,
+      "name": "squirrel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1005,
+      "name": "stagecoach",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1006,
+      "name": "stapler (stapling machine)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1007,
+      "name": "starfish",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1008,
+      "name": "statue (sculpture)",
+      "reason": "qualified or long printed label"
+    },
+    {
+      "id": 1009,
+      "name": "steak (food)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1010,
+      "name": "steak knife",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1011,
+      "name": "steering wheel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1012,
+      "name": "stepladder",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1013,
+      "name": "step stool",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1014,
+      "name": "stereo (sound system)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1015,
+      "name": "stew",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1016,
+      "name": "stirrer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1017,
+      "name": "stirrup",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1018,
+      "name": "stool",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1019,
+      "name": "stop sign",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 1020,
+      "name": "brake light",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1022,
+      "name": "strainer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1023,
+      "name": "strap",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1024,
+      "name": "straw (for drinking)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1025,
+      "name": "strawberry",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1027,
+      "name": "streetlight",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1028,
+      "name": "string cheese",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1029,
+      "name": "stylus",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1030,
+      "name": "subwoofer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1031,
+      "name": "sugar bowl",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1032,
+      "name": "sugarcane (plant)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1033,
+      "name": "suit (clothing)",
+      "reason": "qualified or long printed label"
+    },
+    {
+      "id": 1034,
+      "name": "sunflower",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1035,
+      "name": "sunglasses",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1036,
+      "name": "sunhat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1037,
+      "name": "surfboard",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 1038,
+      "name": "sushi",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1039,
+      "name": "mop",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1040,
+      "name": "sweat pants",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1041,
+      "name": "sweatband",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1044,
+      "name": "sweet potato",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1045,
+      "name": "swimsuit",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1046,
+      "name": "sword",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1047,
+      "name": "syringe",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1048,
+      "name": "tabasco sauce",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1049,
+      "name": "table-tennis table",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1050,
+      "name": "table",
+      "reason": "WordNet related to original class"
+    },
+    {
+      "id": 1051,
+      "name": "table lamp",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1053,
+      "name": "tachometer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1054,
+      "name": "taco",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1055,
+      "name": "tag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1056,
+      "name": "taillight",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1057,
+      "name": "tambourine",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1058,
+      "name": "army tank",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1059,
+      "name": "tank (storage vessel)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1060,
+      "name": "tank top (clothing)",
+      "reason": "qualified or long printed label"
+    },
+    {
+      "id": 1061,
+      "name": "tape (sticky cloth or paper)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1062,
+      "name": "tape measure",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1063,
+      "name": "tapestry",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1065,
+      "name": "tartan",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1066,
+      "name": "tassel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1067,
+      "name": "tea bag",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1068,
+      "name": "teacup",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1069,
+      "name": "teakettle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1070,
+      "name": "teapot",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1071,
+      "name": "teddy bear",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 1072,
+      "name": "telephone",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1073,
+      "name": "telephone booth",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1074,
+      "name": "telephone pole",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1075,
+      "name": "telephoto lens",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1076,
+      "name": "television camera",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1077,
+      "name": "television set",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 1078,
+      "name": "tennis ball",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1079,
+      "name": "tennis racket",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1080,
+      "name": "tequila",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1081,
+      "name": "thermometer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1082,
+      "name": "thermos bottle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1083,
+      "name": "thermostat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1084,
+      "name": "thimble",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1085,
+      "name": "thread",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1086,
+      "name": "thumbtack",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1087,
+      "name": "tiara",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1088,
+      "name": "tiger",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1089,
+      "name": "tights (clothing)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1090,
+      "name": "timer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1092,
+      "name": "tinsel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1094,
+      "name": "toast (food)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1095,
+      "name": "toaster",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1096,
+      "name": "toaster oven",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1097,
+      "name": "toilet",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 1098,
+      "name": "toilet tissue",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1099,
+      "name": "tomato",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1100,
+      "name": "tongs",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1101,
+      "name": "toolbox",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1102,
+      "name": "toothbrush",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1103,
+      "name": "toothpaste",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1104,
+      "name": "toothpick",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1105,
+      "name": "cover",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1106,
+      "name": "tortilla",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1107,
+      "name": "tow truck",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1108,
+      "name": "towel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1109,
+      "name": "towel rack",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1111,
+      "name": "tractor (farm equipment)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1112,
+      "name": "traffic light",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 1113,
+      "name": "dirt bike",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1114,
+      "name": "trailer truck",
+      "reason": "WordNet related to original class"
+    },
+    {
+      "id": 1115,
+      "name": "train (railroad vehicle)",
+      "reason": "qualified or long printed label"
+    },
+    {
+      "id": 1116,
+      "name": "trampoline",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1118,
+      "name": "trench coat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1119,
+      "name": "triangle (musical instrument)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1120,
+      "name": "tricycle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1121,
+      "name": "tripod",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1123,
+      "name": "truck",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 1124,
+      "name": "truffle (chocolate)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1125,
+      "name": "trunk",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1126,
+      "name": "vat",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1127,
+      "name": "turban",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1128,
+      "name": "turkey (food)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1129,
+      "name": "turnip",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1130,
+      "name": "turtle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1131,
+      "name": "turtleneck (clothing)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1132,
+      "name": "typewriter",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1133,
+      "name": "umbrella",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 1134,
+      "name": "underwear",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1135,
+      "name": "unicycle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1136,
+      "name": "urinal",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1137,
+      "name": "urn",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1138,
+      "name": "vacuum cleaner",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1139,
+      "name": "vase",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 1140,
+      "name": "vending machine",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1141,
+      "name": "vent",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1143,
+      "name": "videotape",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1144,
+      "name": "vinegar",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1145,
+      "name": "violin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1146,
+      "name": "vodka",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1147,
+      "name": "volleyball",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1148,
+      "name": "vulture",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1149,
+      "name": "waffle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1150,
+      "name": "waffle iron",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1151,
+      "name": "wagon",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1152,
+      "name": "wagon wheel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1153,
+      "name": "walking stick",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1154,
+      "name": "wall clock",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1155,
+      "name": "wall socket",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1156,
+      "name": "wallet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1157,
+      "name": "walrus",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1158,
+      "name": "wardrobe",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1159,
+      "name": "washbasin",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1160,
+      "name": "automatic washer",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1161,
+      "name": "watch",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1162,
+      "name": "water bottle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1163,
+      "name": "water cooler",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1164,
+      "name": "water faucet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1165,
+      "name": "water heater",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1166,
+      "name": "water jug",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1167,
+      "name": "water gun",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1168,
+      "name": "water scooter",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1169,
+      "name": "water ski",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1170,
+      "name": "water tower",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1171,
+      "name": "watering can",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1172,
+      "name": "watermelon",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1173,
+      "name": "weathervane",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1174,
+      "name": "webcam",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1175,
+      "name": "wedding cake",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1176,
+      "name": "wedding ring",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1178,
+      "name": "wheel",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1179,
+      "name": "wheelchair",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1180,
+      "name": "whipped cream",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1181,
+      "name": "whistle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1182,
+      "name": "wig",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1183,
+      "name": "wind chime",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1184,
+      "name": "windmill",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1185,
+      "name": "window box (for plants)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1186,
+      "name": "windshield wiper",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1187,
+      "name": "windsock",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1188,
+      "name": "wine bottle",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1189,
+      "name": "wine bucket",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1190,
+      "name": "wineglass",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1191,
+      "name": "blinder (for horses)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1192,
+      "name": "wok",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1193,
+      "name": "wolf",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1194,
+      "name": "wooden spoon",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1195,
+      "name": "wreath",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1196,
+      "name": "wrench",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1197,
+      "name": "wristband",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1198,
+      "name": "wristlet",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1199,
+      "name": "yacht",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1200,
+      "name": "yogurt",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1201,
+      "name": "yoke (animal equipment)",
+      "reason": "fewer than56 eligible sources"
+    },
+    {
+      "id": 1202,
+      "name": "zebra",
+      "reason": "original class synonym"
+    },
+    {
+      "id": 1203,
+      "name": "zucchini",
+      "reason": "fewer than56 eligible sources"
+    }
+  ],
+  "candidates": [
+    {
+      "id": 1043,
+      "label": "sweatshirt",
+      "synset": "sweatshirt.n.01",
+      "synonyms": [
+        "sweatshirt"
+      ],
+      "eligible_sources": 196
+    },
+    {
+      "id": 589,
+      "label": "jacket",
+      "synset": "jacket.n.01",
+      "synonyms": [
+        "jacket"
+      ],
+      "eligible_sources": 418
+    },
+    {
+      "id": 230,
+      "label": "cellular telephone",
+      "synset": "cellular_telephone.n.01",
+      "synonyms": [
+        "cellphone",
+        "cellular phone",
+        "cellular telephone",
+        "mobile phone",
+        "smart phone"
+      ],
+      "eligible_sources": 153
+    },
+    {
+      "id": 392,
+      "label": "dress",
+      "synset": "dress.n.01",
+      "synonyms": [
+        "dress",
+        "frock"
+      ],
+      "eligible_sources": 362
+    },
+    {
+      "id": 694,
+      "label": "mirror",
+      "synset": "mirror.n.01",
+      "synonyms": [
+        "mirror"
+      ],
+      "eligible_sources": 577
+    },
+    {
+      "id": 835,
+      "label": "poster",
+      "synset": "poster.n.01",
+      "synonyms": [
+        "placard",
+        "poster"
+      ],
+      "eligible_sources": 79
+    },
+    {
+      "id": 592,
+      "label": "jean",
+      "synset": "jean.n.01",
+      "synonyms": [
+        "blue jean",
+        "denim",
+        "jean"
+      ],
+      "eligible_sources": 124
+    },
+    {
+      "id": 1177,
+      "label": "wet suit",
+      "synset": "wet_suit.n.01",
+      "synonyms": [
+        "wet suit"
+      ],
+      "eligible_sources": 57
+    },
+    {
+      "id": 346,
+      "label": "cupboard",
+      "synset": "cupboard.n.01",
+      "synonyms": [
+        "closet",
+        "cupboard"
+      ],
+      "eligible_sources": 73
+    },
+    {
+      "id": 444,
+      "label": "fireplace",
+      "synset": "fireplace.n.01",
+      "synonyms": [
+        "fireplace"
+      ],
+      "eligible_sources": 98
+    },
+    {
+      "id": 1110,
+      "label": "toy",
+      "synset": "toy.n.03",
+      "synonyms": [
+        "toy"
+      ],
+      "eligible_sources": 294
+    },
+    {
+      "id": 112,
+      "label": "blender",
+      "synset": "blender.n.01",
+      "synonyms": [
+        "blender",
+        "liquidiser",
+        "liquidizer"
+      ],
+      "eligible_sources": 101
+    },
+    {
+      "id": 719,
+      "label": "newspaper",
+      "synset": "newspaper.n.01",
+      "synonyms": [
+        "newspaper",
+        "paper (newspaper)"
+      ],
+      "eligible_sources": 61
+    },
+    {
+      "id": 361,
+      "label": "desk",
+      "synset": "desk.n.01",
+      "synonyms": [
+        "desk"
+      ],
+      "eligible_sources": 655
+    },
+    {
+      "id": 748,
+      "label": "painting",
+      "synset": "painting.n.01",
+      "synonyms": [
+        "painting"
+      ],
+      "eligible_sources": 131
+    },
+    {
+      "id": 285,
+      "label": "coffee table",
+      "synset": "coffee_table.n.01",
+      "synonyms": [
+        "cocktail table",
+        "coffee table"
+      ],
+      "eligible_sources": 66
+    },
+    {
+      "id": 817,
+      "label": "place mat",
+      "synset": "place_mat.n.01",
+      "synonyms": [
+        "place mat"
+      ],
+      "eligible_sources": 240
+    },
+    {
+      "id": 771,
+      "label": "pastry",
+      "synset": "pastry.n.02",
+      "synonyms": [
+        "pastry"
+      ],
+      "eligible_sources": 61
+    },
+    {
+      "id": 679,
+      "label": "mattress",
+      "synset": "mattress.n.01",
+      "synonyms": [
+        "mattress"
+      ],
+      "eligible_sources": 98
+    },
+    {
+      "id": 181,
+      "label": "cabinet",
+      "synset": "cabinet.n.01",
+      "synonyms": [
+        "cabinet"
+      ],
+      "eligible_sources": 559
+    },
+    {
+      "id": 1064,
+      "label": "tarp",
+      "synset": "tarpaulin.n.01",
+      "synonyms": [
+        "tarp"
+      ],
+      "eligible_sources": 179
+    },
+    {
+      "id": 110,
+      "label": "blanket",
+      "synset": "blanket.n.01",
+      "synonyms": [
+        "blanket"
+      ],
+      "eligible_sources": 973
+    },
+    {
+      "id": 255,
+      "label": "christmas tree",
+      "synset": "christmas_tree.n.05",
+      "synonyms": [
+        "christmas tree"
+      ],
+      "eligible_sources": 70
+    },
+    {
+      "id": 986,
+      "label": "soup",
+      "synset": "soup.n.01",
+      "synonyms": [
+        "soup"
+      ],
+      "eligible_sources": 71
+    },
+    {
+      "id": 828,
+      "label": "polo shirt",
+      "synset": "polo_shirt.n.01",
+      "synonyms": [
+        "polo shirt",
+        "sport shirt"
+      ],
+      "eligible_sources": 158
+    },
+    {
+      "id": 1052,
+      "label": "tablecloth",
+      "synset": "tablecloth.n.01",
+      "synonyms": [
+        "tablecloth"
+      ],
+      "eligible_sources": 1055
+    },
+    {
+      "id": 947,
+      "label": "shirt",
+      "synset": "shirt.n.01",
+      "synonyms": [
+        "shirt"
+      ],
+      "eligible_sources": 511
+    },
+    {
+      "id": 1122,
+      "label": "trousers",
+      "synset": "trouser.n.01",
+      "synonyms": [
+        "pants (clothing)",
+        "trousers"
+      ],
+      "eligible_sources": 106
+    },
+    {
+      "id": 1091,
+      "label": "tinfoil",
+      "synset": "tinfoil.n.01",
+      "synonyms": [
+        "tinfoil"
+      ],
+      "eligible_sources": 96
+    },
+    {
+      "id": 115,
+      "label": "blouse",
+      "synset": "blouse.n.01",
+      "synonyms": [
+        "blouse"
+      ],
+      "eligible_sources": 87
+    },
+    {
+      "id": 1093,
+      "label": "tissue paper",
+      "synset": "tissue.n.02",
+      "synonyms": [
+        "tissue paper"
+      ],
+      "eligible_sources": 123
+    },
+    {
+      "id": 959,
+      "label": "signboard",
+      "synset": "signboard.n.01",
+      "synonyms": [
+        "signboard"
+      ],
+      "eligible_sources": 229
+    },
+    {
+      "id": 595,
+      "label": "jersey",
+      "synset": "jersey.n.03",
+      "synonyms": [
+        "jersey",
+        "t-shirt",
+        "tee shirt"
+      ],
+      "eligible_sources": 358
+    },
+    {
+      "id": 756,
+      "label": "paper plate",
+      "synset": "paper_plate.n.01",
+      "synonyms": [
+        "paper plate"
+      ],
+      "eligible_sources": 78
+    },
+    {
+      "id": 957,
+      "label": "shower curtain",
+      "synset": "shower_curtain.n.01",
+      "synonyms": [
+        "shower curtain"
+      ],
+      "eligible_sources": 217
+    },
+    {
+      "id": 272,
+      "label": "clock tower",
+      "synset": "clock_tower.n.01",
+      "synonyms": [
+        "clock tower"
+      ],
+      "eligible_sources": 545
+    },
+    {
+      "id": 1026,
+      "label": "street sign",
+      "synset": "street_sign.n.01",
+      "synonyms": [
+        "street sign"
+      ],
+      "eligible_sources": 299
+    },
+    {
+      "id": 1042,
+      "label": "sweater",
+      "synset": "sweater.n.01",
+      "synonyms": [
+        "sweater"
+      ],
+      "eligible_sources": 403
+    },
+    {
+      "id": 804,
+      "label": "pillow",
+      "synset": "pillow.n.01",
+      "synonyms": [
+        "pillow"
+      ],
+      "eligible_sources": 288
+    },
+    {
+      "id": 818,
+      "label": "plate",
+      "synset": "plate.n.04",
+      "synonyms": [
+        "plate"
+      ],
+      "eligible_sources": 1020
+    },
+    {
+      "id": 1142,
+      "label": "vest",
+      "synset": "vest.n.01",
+      "synonyms": [
+        "vest",
+        "waistcoat"
+      ],
+      "eligible_sources": 105
+    },
+    {
+      "id": 29,
+      "label": "awning",
+      "synset": "awning.n.01",
+      "synonyms": [
+        "awning"
+      ],
+      "eligible_sources": 115
+    },
+    {
+      "id": 150,
+      "label": "bread",
+      "synset": "bread.n.01",
+      "synonyms": [
+        "bread"
+      ],
+      "eligible_sources": 541
+    },
+    {
+      "id": 253,
+      "label": "chopping board",
+      "synset": "chopping_board.n.01",
+      "synonyms": [
+        "chopping block",
+        "chopping board",
+        "cutting board"
+      ],
+      "eligible_sources": 307
+    },
+    {
+      "id": 548,
+      "label": "headboard",
+      "synset": "headboard.n.01",
+      "synonyms": [
+        "headboard"
+      ],
+      "eligible_sources": 194
+    },
+    {
+      "id": 169,
+      "label": "bun",
+      "synset": "bun.n.01",
+      "synonyms": [
+        "bun",
+        "roll"
+      ],
+      "eligible_sources": 256
+    },
+    {
+      "id": 653,
+      "label": "log",
+      "synset": "log.n.01",
+      "synonyms": [
+        "log"
+      ],
+      "eligible_sources": 125
+    },
+    {
+      "id": 1021,
+      "label": "stove",
+      "synset": "stove.n.01",
+      "synonyms": [
+        "cooking stove",
+        "kitchen range",
+        "kitchen stove",
+        "range (kitchen appliance)",
+        "stove"
+      ],
+      "eligible_sources": 458
+    },
+    {
+      "id": 713,
+      "label": "napkin",
+      "synset": "napkin.n.01",
+      "synonyms": [
+        "napkin",
+        "serviette",
+        "table napkin"
+      ],
+      "eligible_sources": 194
+    },
+    {
+      "id": 277,
+      "label": "coat",
+      "synset": "coat.n.01",
+      "synonyms": [
+        "coat"
+      ],
+      "eligible_sources": 183
+    },
+    {
+      "id": 860,
+      "label": "quilt",
+      "synset": "quilt.n.01",
+      "synonyms": [
+        "comforter",
+        "quilt"
+      ],
+      "eligible_sources": 310
+    },
+    {
+      "id": 1117,
+      "label": "tray",
+      "synset": "tray.n.01",
+      "synonyms": [
+        "tray"
+      ],
+      "eligible_sources": 391
+    },
+    {
+      "id": 50,
+      "label": "banner",
+      "synset": "banner.n.01",
+      "synonyms": [
+        "banner",
+        "streamer"
+      ],
+      "eligible_sources": 222
+    },
+    {
+      "id": 708,
+      "label": "mug",
+      "synset": "mug.n.04",
+      "synonyms": [
+        "mug"
+      ],
+      "eligible_sources": 74
+    },
+    {
+      "id": 79,
+      "label": "bedspread",
+      "synset": "bedspread.n.01",
+      "synonyms": [
+        "bed covering",
+        "bedcover",
+        "bedspread",
+        "counterpane",
+        "spread"
+      ],
+      "eligible_sources": 102
+    },
+    {
+      "id": 394,
+      "label": "dress suit",
+      "synset": "dress_suit.n.01",
+      "synonyms": [
+        "dress suit"
+      ],
+      "eligible_sources": 74
+    },
+    {
+      "id": 836,
+      "label": "pot",
+      "synset": "pot.n.01",
+      "synonyms": [
+        "pot"
+      ],
+      "eligible_sources": 71
+    },
+    {
+      "id": 898,
+      "label": "plastic bag",
+      "synset": "sack.n.01",
+      "synonyms": [
+        "paper bag",
+        "plastic bag"
+      ],
+      "eligible_sources": 165
+    },
+    {
+      "id": 701,
+      "label": "motor scooter",
+      "synset": "motor_scooter.n.01",
+      "synonyms": [
+        "motor scooter",
+        "scooter"
+      ],
+      "eligible_sources": 67
+    },
+    {
+      "id": 68,
+      "label": "bathtub",
+      "synset": "bathtub.n.01",
+      "synonyms": [
+        "bathing tub",
+        "bathtub"
+      ],
+      "eligible_sources": 373
+    },
+    {
+      "id": 351,
+      "label": "cushion",
+      "synset": "cushion.n.03",
+      "synonyms": [
+        "cushion"
+      ],
+      "eligible_sources": 283
+    },
+    {
+      "id": 61,
+      "label": "basket",
+      "synset": "basket.n.01",
+      "synonyms": [
+        "basket",
+        "handbasket"
+      ],
+      "eligible_sources": 115
+    },
+    {
+      "id": 390,
+      "label": "drawer",
+      "synset": "drawer.n.01",
+      "synonyms": [
+        "drawer"
+      ],
+      "eligible_sources": 71
+    },
+    {
+      "id": 143,
+      "label": "box",
+      "synset": "box.n.01",
+      "synonyms": [
+        "box"
+      ],
+      "eligible_sources": 373
+    },
+    {
+      "id": 461,
+      "label": "flower arrangement",
+      "synset": "flower_arrangement.n.01",
+      "synonyms": [
+        "floral arrangement",
+        "flower arrangement"
+      ],
+      "eligible_sources": 495
+    },
+    {
+      "id": 15,
+      "label": "apron",
+      "synset": "apron.n.01",
+      "synonyms": [
+        "apron"
+      ],
+      "eligible_sources": 75
+    },
+    {
+      "id": 350,
+      "label": "curtain",
+      "synset": "curtain.n.01",
+      "synonyms": [
+        "curtain",
+        "drapery"
+      ],
+      "eligible_sources": 603
+    },
+    {
+      "id": 261,
+      "label": "cistern",
+      "synset": "cistern.n.02",
+      "synonyms": [
+        "cistern",
+        "water tank"
+      ],
+      "eligible_sources": 83
+    }
+  ],
+  "antichain_candidates": [
+    {
+      "id": 1043,
+      "label": "sweatshirt",
+      "synset": "sweatshirt.n.01",
+      "synonyms": [
+        "sweatshirt"
+      ],
+      "eligible_sources": 196
+    },
+    {
+      "id": 589,
+      "label": "jacket",
+      "synset": "jacket.n.01",
+      "synonyms": [
+        "jacket"
+      ],
+      "eligible_sources": 418
+    },
+    {
+      "id": 230,
+      "label": "cellular telephone",
+      "synset": "cellular_telephone.n.01",
+      "synonyms": [
+        "cellphone",
+        "cellular phone",
+        "cellular telephone",
+        "mobile phone",
+        "smart phone"
+      ],
+      "eligible_sources": 153
+    },
+    {
+      "id": 392,
+      "label": "dress",
+      "synset": "dress.n.01",
+      "synonyms": [
+        "dress",
+        "frock"
+      ],
+      "eligible_sources": 362
+    },
+    {
+      "id": 694,
+      "label": "mirror",
+      "synset": "mirror.n.01",
+      "synonyms": [
+        "mirror"
+      ],
+      "eligible_sources": 577
+    },
+    {
+      "id": 835,
+      "label": "poster",
+      "synset": "poster.n.01",
+      "synonyms": [
+        "placard",
+        "poster"
+      ],
+      "eligible_sources": 79
+    },
+    {
+      "id": 592,
+      "label": "jean",
+      "synset": "jean.n.01",
+      "synonyms": [
+        "blue jean",
+        "denim",
+        "jean"
+      ],
+      "eligible_sources": 124
+    },
+    {
+      "id": 1177,
+      "label": "wet suit",
+      "synset": "wet_suit.n.01",
+      "synonyms": [
+        "wet suit"
+      ],
+      "eligible_sources": 57
+    },
+    {
+      "id": 346,
+      "label": "cupboard",
+      "synset": "cupboard.n.01",
+      "synonyms": [
+        "closet",
+        "cupboard"
+      ],
+      "eligible_sources": 73
+    },
+    {
+      "id": 444,
+      "label": "fireplace",
+      "synset": "fireplace.n.01",
+      "synonyms": [
+        "fireplace"
+      ],
+      "eligible_sources": 98
+    },
+    {
+      "id": 1110,
+      "label": "toy",
+      "synset": "toy.n.03",
+      "synonyms": [
+        "toy"
+      ],
+      "eligible_sources": 294
+    },
+    {
+      "id": 112,
+      "label": "blender",
+      "synset": "blender.n.01",
+      "synonyms": [
+        "blender",
+        "liquidiser",
+        "liquidizer"
+      ],
+      "eligible_sources": 101
+    },
+    {
+      "id": 719,
+      "label": "newspaper",
+      "synset": "newspaper.n.01",
+      "synonyms": [
+        "newspaper",
+        "paper (newspaper)"
+      ],
+      "eligible_sources": 61
+    },
+    {
+      "id": 361,
+      "label": "desk",
+      "synset": "desk.n.01",
+      "synonyms": [
+        "desk"
+      ],
+      "eligible_sources": 655
+    },
+    {
+      "id": 748,
+      "label": "painting",
+      "synset": "painting.n.01",
+      "synonyms": [
+        "painting"
+      ],
+      "eligible_sources": 131
+    },
+    {
+      "id": 285,
+      "label": "coffee table",
+      "synset": "coffee_table.n.01",
+      "synonyms": [
+        "cocktail table",
+        "coffee table"
+      ],
+      "eligible_sources": 66
+    },
+    {
+      "id": 817,
+      "label": "place mat",
+      "synset": "place_mat.n.01",
+      "synonyms": [
+        "place mat"
+      ],
+      "eligible_sources": 240
+    },
+    {
+      "id": 771,
+      "label": "pastry",
+      "synset": "pastry.n.02",
+      "synonyms": [
+        "pastry"
+      ],
+      "eligible_sources": 61
+    },
+    {
+      "id": 679,
+      "label": "mattress",
+      "synset": "mattress.n.01",
+      "synonyms": [
+        "mattress"
+      ],
+      "eligible_sources": 98
+    },
+    {
+      "id": 181,
+      "label": "cabinet",
+      "synset": "cabinet.n.01",
+      "synonyms": [
+        "cabinet"
+      ],
+      "eligible_sources": 559
+    },
+    {
+      "id": 1064,
+      "label": "tarp",
+      "synset": "tarpaulin.n.01",
+      "synonyms": [
+        "tarp"
+      ],
+      "eligible_sources": 179
+    },
+    {
+      "id": 110,
+      "label": "blanket",
+      "synset": "blanket.n.01",
+      "synonyms": [
+        "blanket"
+      ],
+      "eligible_sources": 973
+    },
+    {
+      "id": 255,
+      "label": "christmas tree",
+      "synset": "christmas_tree.n.05",
+      "synonyms": [
+        "christmas tree"
+      ],
+      "eligible_sources": 70
+    },
+    {
+      "id": 986,
+      "label": "soup",
+      "synset": "soup.n.01",
+      "synonyms": [
+        "soup"
+      ],
+      "eligible_sources": 71
+    },
+    {
+      "id": 828,
+      "label": "polo shirt",
+      "synset": "polo_shirt.n.01",
+      "synonyms": [
+        "polo shirt",
+        "sport shirt"
+      ],
+      "eligible_sources": 158
+    },
+    {
+      "id": 1052,
+      "label": "tablecloth",
+      "synset": "tablecloth.n.01",
+      "synonyms": [
+        "tablecloth"
+      ],
+      "eligible_sources": 1055
+    },
+    {
+      "id": 1091,
+      "label": "tinfoil",
+      "synset": "tinfoil.n.01",
+      "synonyms": [
+        "tinfoil"
+      ],
+      "eligible_sources": 96
+    },
+    {
+      "id": 115,
+      "label": "blouse",
+      "synset": "blouse.n.01",
+      "synonyms": [
+        "blouse"
+      ],
+      "eligible_sources": 87
+    },
+    {
+      "id": 1093,
+      "label": "tissue paper",
+      "synset": "tissue.n.02",
+      "synonyms": [
+        "tissue paper"
+      ],
+      "eligible_sources": 123
+    },
+    {
+      "id": 959,
+      "label": "signboard",
+      "synset": "signboard.n.01",
+      "synonyms": [
+        "signboard"
+      ],
+      "eligible_sources": 229
+    },
+    {
+      "id": 595,
+      "label": "jersey",
+      "synset": "jersey.n.03",
+      "synonyms": [
+        "jersey",
+        "t-shirt",
+        "tee shirt"
+      ],
+      "eligible_sources": 358
+    },
+    {
+      "id": 756,
+      "label": "paper plate",
+      "synset": "paper_plate.n.01",
+      "synonyms": [
+        "paper plate"
+      ],
+      "eligible_sources": 78
+    },
+    {
+      "id": 957,
+      "label": "shower curtain",
+      "synset": "shower_curtain.n.01",
+      "synonyms": [
+        "shower curtain"
+      ],
+      "eligible_sources": 217
+    },
+    {
+      "id": 272,
+      "label": "clock tower",
+      "synset": "clock_tower.n.01",
+      "synonyms": [
+        "clock tower"
+      ],
+      "eligible_sources": 545
+    },
+    {
+      "id": 1026,
+      "label": "street sign",
+      "synset": "street_sign.n.01",
+      "synonyms": [
+        "street sign"
+      ],
+      "eligible_sources": 299
+    },
+    {
+      "id": 804,
+      "label": "pillow",
+      "synset": "pillow.n.01",
+      "synonyms": [
+        "pillow"
+      ],
+      "eligible_sources": 288
+    },
+    {
+      "id": 1142,
+      "label": "vest",
+      "synset": "vest.n.01",
+      "synonyms": [
+        "vest",
+        "waistcoat"
+      ],
+      "eligible_sources": 105
+    },
+    {
+      "id": 29,
+      "label": "awning",
+      "synset": "awning.n.01",
+      "synonyms": [
+        "awning"
+      ],
+      "eligible_sources": 115
+    },
+    {
+      "id": 150,
+      "label": "bread",
+      "synset": "bread.n.01",
+      "synonyms": [
+        "bread"
+      ],
+      "eligible_sources": 541
+    },
+    {
+      "id": 253,
+      "label": "chopping board",
+      "synset": "chopping_board.n.01",
+      "synonyms": [
+        "chopping block",
+        "chopping board",
+        "cutting board"
+      ],
+      "eligible_sources": 307
+    },
+    {
+      "id": 548,
+      "label": "headboard",
+      "synset": "headboard.n.01",
+      "synonyms": [
+        "headboard"
+      ],
+      "eligible_sources": 194
+    },
+    {
+      "id": 653,
+      "label": "log",
+      "synset": "log.n.01",
+      "synonyms": [
+        "log"
+      ],
+      "eligible_sources": 125
+    },
+    {
+      "id": 1021,
+      "label": "stove",
+      "synset": "stove.n.01",
+      "synonyms": [
+        "cooking stove",
+        "kitchen range",
+        "kitchen stove",
+        "range (kitchen appliance)",
+        "stove"
+      ],
+      "eligible_sources": 458
+    },
+    {
+      "id": 713,
+      "label": "napkin",
+      "synset": "napkin.n.01",
+      "synonyms": [
+        "napkin",
+        "serviette",
+        "table napkin"
+      ],
+      "eligible_sources": 194
+    },
+    {
+      "id": 860,
+      "label": "quilt",
+      "synset": "quilt.n.01",
+      "synonyms": [
+        "comforter",
+        "quilt"
+      ],
+      "eligible_sources": 310
+    },
+    {
+      "id": 1117,
+      "label": "tray",
+      "synset": "tray.n.01",
+      "synonyms": [
+        "tray"
+      ],
+      "eligible_sources": 391
+    },
+    {
+      "id": 50,
+      "label": "banner",
+      "synset": "banner.n.01",
+      "synonyms": [
+        "banner",
+        "streamer"
+      ],
+      "eligible_sources": 222
+    },
+    {
+      "id": 708,
+      "label": "mug",
+      "synset": "mug.n.04",
+      "synonyms": [
+        "mug"
+      ],
+      "eligible_sources": 74
+    },
+    {
+      "id": 79,
+      "label": "bedspread",
+      "synset": "bedspread.n.01",
+      "synonyms": [
+        "bed covering",
+        "bedcover",
+        "bedspread",
+        "counterpane",
+        "spread"
+      ],
+      "eligible_sources": 102
+    },
+    {
+      "id": 394,
+      "label": "dress suit",
+      "synset": "dress_suit.n.01",
+      "synonyms": [
+        "dress suit"
+      ],
+      "eligible_sources": 74
+    },
+    {
+      "id": 836,
+      "label": "pot",
+      "synset": "pot.n.01",
+      "synonyms": [
+        "pot"
+      ],
+      "eligible_sources": 71
+    },
+    {
+      "id": 898,
+      "label": "plastic bag",
+      "synset": "sack.n.01",
+      "synonyms": [
+        "paper bag",
+        "plastic bag"
+      ],
+      "eligible_sources": 165
+    },
+    {
+      "id": 701,
+      "label": "motor scooter",
+      "synset": "motor_scooter.n.01",
+      "synonyms": [
+        "motor scooter",
+        "scooter"
+      ],
+      "eligible_sources": 67
+    },
+    {
+      "id": 68,
+      "label": "bathtub",
+      "synset": "bathtub.n.01",
+      "synonyms": [
+        "bathing tub",
+        "bathtub"
+      ],
+      "eligible_sources": 373
+    },
+    {
+      "id": 61,
+      "label": "basket",
+      "synset": "basket.n.01",
+      "synonyms": [
+        "basket",
+        "handbasket"
+      ],
+      "eligible_sources": 115
+    },
+    {
+      "id": 390,
+      "label": "drawer",
+      "synset": "drawer.n.01",
+      "synonyms": [
+        "drawer"
+      ],
+      "eligible_sources": 71
+    },
+    {
+      "id": 143,
+      "label": "box",
+      "synset": "box.n.01",
+      "synonyms": [
+        "box"
+      ],
+      "eligible_sources": 373
+    },
+    {
+      "id": 461,
+      "label": "flower arrangement",
+      "synset": "flower_arrangement.n.01",
+      "synonyms": [
+        "floral arrangement",
+        "flower arrangement"
+      ],
+      "eligible_sources": 495
+    },
+    {
+      "id": 15,
+      "label": "apron",
+      "synset": "apron.n.01",
+      "synonyms": [
+        "apron"
+      ],
+      "eligible_sources": 75
+    },
+    {
+      "id": 261,
+      "label": "cistern",
+      "synset": "cistern.n.02",
+      "synonyms": [
+        "cistern",
+        "water tank"
+      ],
+      "eligible_sources": 83
+    }
+  ],
+  "excluded_original_images": 4800,
+  "min_sources": 56,
+  "score_inputs": false,
+  "code_sha256": "e2ab631bd1bd4561be7b1b3754382ae5fffe4ee4af8eec708f376acaf018167b"
+}

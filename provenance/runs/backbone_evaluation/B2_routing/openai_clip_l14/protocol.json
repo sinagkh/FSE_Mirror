@@ -1,0 +1,90 @@
+{
+  "study": "B2 fixed primary routing recipe, new backbone",
+  "model": "openai_clip_l14",
+  "inputs": {
+    "/workspace/FSE_VLM/interbind/prewriting_routing_breadth.py": "22b6a24bf2ea2347886bbbac8eacca6f34c9d6a364f04699f23c9025838ad91f",
+    "/workspace/clip/interbind_routing_repair_pilot_20260923/training_rows.jsonl": "a6737b207dbc9228f076cfd0cee858d966867e95a6182a28158f1010117e26c9",
+    "/workspace/clip/interbind_routing_same_class_20260923/rows.jsonl": "f7b43c5b8e4a1205f9d4354c0822a5e0a8d95500589abaaf9cb6ce917f641e52",
+    "/workspace/clip/interbind_phase_bc_completion_20260923/same_rule_confirmation/rows.jsonl": "42eb8276e3032bd88144db56f717413c83b42268b2f8097cb979e367fc789bcd",
+    "/workspace/clip/interbind_calibration_20260922/calibration_frozen.json": "67f5ecd3a3d7e307a9864094d8d304a5652ba4cb38d3ff4fff220948c5216785",
+    "/workspace/clip/interbind_routing_relative_pilot_20260923/training_config.json": "945150ed53d24d5502d1414055ebe851080173e6825dfdac8c97da968037c172",
+    "/workspace/clip/interbind_routing_relative_pilot_20260923/normalization.json": "406efd02160e40d1623f1f8618ea6c6ad488d1dd3170ec8d7d2232c4b775d4cd",
+    "/workspace/clip/interbind_ranking_followup_20260925/training_protocol_v2.json": "284be7496143cf3c7cd17bb80a12f6f9a8751c18743332c13a94966304f9a478",
+    "/workspace/clip/interbind_targeted_suppression_20260925/fairness_selection.json": "32337085c0f8d6f3ca281ebcefa43ea5fc7c2baab11f11289aad83d4da818f5a",
+    "/workspace/clip/interbind_subjects_20260922/registry.json": "41026b013904e9c5b04538e0b355fdc72ca2b3839b4ddd2ba3f6d68014371cc8",
+    "/workspace/clip/interbind_subjects_20260922/activation_addendum.json": "b72104a75cfbec9ceb4a8b4a9549b0e3285c393bd933714f941b207544a08c94",
+    "/workspace/FSE_VLM/plan/49_pre_writing_experiments.md": "4d1efd6b0048cb487fcbe78da5f91bed87395b2ef2e31ffb2de8110b6a08802c",
+    "/workspace/FSE_VLM/plan/49a_execution_review.md": "bf3f3cab3644ea051e8c7fa9e9d2d2d970297b197bd82bdc0d50a39789e2b02d",
+    "/workspace/FSE_VLM/interbind/routing_relative_pilot.py": "41d2fda046db46793821c46b9a9fa9f822e71364312e3a1e069eed8948f5e9bb",
+    "/workspace/FSE_VLM/interbind/routing_common_noise_pilot.py": "78eff9c19c1028d515b96503f66c7c6b63dc2bba2afeb40c40f96c33d39940d7",
+    "/workspace/FSE_VLM/interbind/routing_repair_pilot.py": "7c73235f3d8f9964bb9e4616fb3f8c13bb31e1af7cdcce8a044f86c0e79a235d",
+    "/workspace/FSE_VLM/interbind/ranking_followup_pilot.py": "edca5d906db9db932a587c405d85505ffaf82df2feddf30d8e7cd67857304408",
+    "/workspace/FSE_VLM/interbind/routing_budget_replication.py": "7d4367c508131f43d60fc7df4cac0b273568f33a3620d861589bca0934b9ba16",
+    "/workspace/FSE_VLM/interbind/targeted_suppression.py": "1203ce47f6f29275ce18c4466cdc1628a668eb6b5dbe9412cec1433577a5aba8",
+    "/workspace/FSE_VLM/interbind/repair.py": "db3a5cc60d6354c131f2d949aa9fb0bc600df513fa20101059886bc82c4833c2",
+    "/workspace/FSE_VLM/interbind/requirements.py": "3d70b9f2f8140b1d4626c25108193a4d2d1b2f505b1ff737d6a9015f1b319cec",
+    "/workspace/FSE_VLM/interbind/scorers.py": "37e98ff64b3102a4aab7a1084907c9c31cc9f646d8c27761d41e8433b6743a98",
+    "/workspace/FSE_VLM/interbind/completion_confirmation_encode.py": "df99d930dd27620a42a9c51ab48de985677c86d8ad7b3bd046bcd67ebd6a83aa",
+    "/workspace/FSE_VLM/interbind/feature_cache.py": "8401a4499484757393c6c7190d5f61b9c71965d41c09e3a0c4f469159b3e0a13",
+    "/workspace/FSE_VLM/interbind/completion_metrics.py": "dc787490241c2f44299b6d0fdedfa2f0769e07da452bc13a2a4688d47d7e9204",
+    "/workspace/clip/interbind_subjects_20260922/weights/openai_l14/ViT-L-14.pt": "b8cca3fd41ae0c99ba7e8951adf17d267cdb84cd88be6f7c2e0eca1737a03836"
+  },
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "updates": 1944,
+  "epochs": 36,
+  "selection": "fixed_last",
+  "adapter": {
+    "rank": 64,
+    "alpha": 64,
+    "dropout": 0.05,
+    "dimension": "base joint embedding width",
+    "dropout_rule": "same common noise shared across captions and both layouts"
+  },
+  "inputs_matched": "same640 source pairs,2 trained color pairs,2 layouts,4 template forms,5 natural captions and2 object captions",
+  "objective": "Unchanged relative.components and cn.objective; original AdamW, LR, clipping, weight decay, priorities and schedule.",
+  "scaling": "All training scores are cosine; for SigLIP convert frozen native calibration unit to cosine by dividing by exp(logit_scale). Native bias cancels in contrasts and margins. CE grid remains1/10/100 on cosine, not on temperature-scaled logits.",
+  "normalization": "Same original training-only8-batch,seed20260923 gradient-norm rule; eval mode, B Gaussian std.001, median reference, weights clipped[.1,10]. Shared across seeds.",
+  "ranking": {
+    "grid": [
+      1,
+      10,
+      100
+    ],
+    "selector": "Unchanged targeted_suppression.select_temperature; each view word1/word2>=.99 and object guard>=frozen-.01; highest exchange, tie smaller scale; original explicit fallback.",
+    "pilot_seed": 42,
+    "remaining_seeds": "same selected scale for43/44",
+    "arms": [
+      "R",
+      "RG"
+    ]
+  },
+  "fixed_is": true,
+  "additional_is_search": false,
+  "evaluation": {
+    "primary": [
+      "IS minus RG exchange",
+      "IS minus R cross-effect"
+    ],
+    "secondary": [
+      "IS minus R exchange",
+      "binding/response/preference",
+      "one-word",
+      "fix/break",
+      "noun recombinations",
+      "new color combinations",
+      "SugarCrepe",
+      "ARO Attribution",
+      "COCO retrieval"
+    ],
+    "source_bank": "Original400-anchor bank; A2 fresh COCO is infeasible under registered exclusions.",
+    "uncertainty": "paired source x seed10000 draws",
+    "new_source_claim": false
+  },
+  "expected_preference": "OpenAI L14 has larger frozen preference; optional no-preference test remains separate, not a tuning gate.",
+  "training_checkpoints": "Only fixed last; every scale candidate retained and selection logged.",
+  "training_cache_only_before_grid": true
+}

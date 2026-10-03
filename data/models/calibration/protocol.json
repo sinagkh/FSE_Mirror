@@ -1,0 +1,71 @@
+{
+  "version": "natural-scale-rule-v1",
+  "natural_root": "/workspace/clip/interbind_natural_20260922/v3",
+  "registry_path": "/workspace/clip/interbind_subjects_20260922/registry.json",
+  "registry_sha256": "41026b013904e9c5b04538e0b355fdc72ca2b3839b4ddd2ba3f6d68014371cc8",
+  "calibration_manifest_sha256": "039a8fec63920d7900bee5ca720b5278559a701ced3dcfb27bdf55d11bd724cf",
+  "activation_addendum_sha256": "b72104a75cfbec9ceb4a8b4a9549b0e3285c393bd933714f941b207544a08c94",
+  "natural_view_protocol_sha256": "6f79aeed8bbf02750eb4e5ed0408bec1a4bc72e8ed105fedaef2f5628cba1439",
+  "natural_freeze_sha256": "5da30906a5eb42a00c015b99bd9782a27ba82afdf58db7bbc09b915c40bf1917",
+  "n": 70,
+  "colors": {
+    "red": 38,
+    "blue": 32
+  },
+  "templates": [
+    "a {color} {noun}",
+    "a photo of a {color} {noun}",
+    "the {noun} is {color}"
+  ],
+  "unit": "Median absolute pooled canonical correct-color minus opposite-color caption score on fixed red/blue calibration images",
+  "reference_subject": "openclip_laion_b32",
+  "unit_parent": {
+    "openclip_laion_b32": "openclip_laion_b32",
+    "openclip_laion_l14": "openclip_laion_l14",
+    "openai_clip_b32": "openai_clip_b32",
+    "aro_negclip_b32": "openai_clip_b32",
+    "openai_clip_l14": "openai_clip_l14",
+    "google_siglip_b16_224": "google_siglip_b16_224",
+    "facebook_metaclip_b32_400m": "facebook_metaclip_b32_400m"
+  },
+  "threshold_rule": {
+    "kappa": "Q25(abs(reference canonical margin)) / reference u",
+    "tau_fraction": "max(Q75(abs(reference template0 margin - template1 margin)) / reference u, 0.05)",
+    "rho": 0.25,
+    "gamma": 0.25
+  },
+  "interpretation": "Operational sensitivity and template-variation scales, not externally calibrated semantic truth. The binding floor uses canonical first-order sensitivity as a scale, not a claim of natural matched counterfactual pairs.",
+  "invariants": "Frozen base units reused for all descendants, including published NegCLIP. No adapter scored, no pilot/reserve data read. No choice based on new repair performance.",
+  "precision": "CUDA float16 autocast, features normalized/stored float32; TF32 disabled",
+  "code_hashes": {
+    "FSE_VLM/interbind/README.md": "856252b221e2af8f1635bb87326691afc2eee17f5d3b4a44eaaa5bbc0bcb872c",
+    "FSE_VLM/interbind/__init__.py": "1112518cbf7b1f647109a5e29fb1f72930ea964b57d5108cdff61976ae640a6e",
+    "FSE_VLM/interbind/__main__.py": "43d4bd0a37569f1a52e5b197a0ce6ec049a0b448b827fac6154462fbf36de9bc",
+    "FSE_VLM/interbind/banks.py": "95ae54fd38468e864d103596129ac2b1be3064ae07b8c69d3eb34aa293216e87",
+    "FSE_VLM/interbind/banks_v2.py": "bdae10767459bfb39785d8a1aa9ace058994e9179b1a6322c0cca1e96342425c",
+    "FSE_VLM/interbind/calibration.py": "9b3a8670dddcfb49cb58ebd263ed98ba2835bc3e1b56247c7325022dc6b16818",
+    "FSE_VLM/interbind/development.py": "7d113408790a2d326b49c849c47dffc094780327aaecda88c30e43868a79284f",
+    "FSE_VLM/interbind/encode.py": "260cacf8782334488217178b3eb6f64c90641bbb094a7403cb34c5c1f4f7acb6",
+    "FSE_VLM/interbind/foundations.py": "f728499fd3434dc676aba57668171c7db3cbc79b1f2a2288fe51a12d4942eede",
+    "FSE_VLM/interbind/generators.py": "11d0c7c5acce0f9b63691181757e4080fab75ffb67b8e725f0a3dce65438113a",
+    "FSE_VLM/interbind/io.py": "e2309ba216316c9a434187c1eef613599137368363fb41f33591541158373718",
+    "FSE_VLM/interbind/natural_context.py": "025d5a3522fa0fae7e09e27507cd1fedd1ed5dd239958f650e402d54fe08d865",
+    "FSE_VLM/interbind/natural_data.py": "b4a1434540eef475997f2c0e9163912efff0ff477193c23b5f56e7c34eb3535e",
+    "FSE_VLM/interbind/predict.py": "c81ce00c4b80ae4cd769103c4c33962ee42e49dd5b4ba0df9abbd8ca96b62d7a",
+    "FSE_VLM/interbind/reporting.py": "8a9eb4a4d2eebce5f1dc2b01b97f608a540f2d2f892f91a1a7318735f1c1a3a4",
+    "FSE_VLM/interbind/requirement_library/schema-v1.json": "0ba6ff98dc01cb7dbdf3cbc8c60b8dded33230d5bf1afeadbf787a0ff9bfb02d",
+    "FSE_VLM/interbind/requirements.py": "3d70b9f2f8140b1d4626c25108193a4d2d1b2f505b1ff737d6a9015f1b319cec",
+    "FSE_VLM/interbind/scorers.py": "574c6cc906426065c2cfa4a3c97fe1612fd4ecdac8597fb28fe864314b753072",
+    "FSE_VLM/interbind/source_exclusions.py": "ed1d3332b82a4a4e74dcc4742380fb970ca47272ad26259055dcd122d19aec22",
+    "FSE_VLM/interbind/specs.py": "f5fc33767f06bd665b278ace92169bb942e891e7f0093b5478e610c6c1490084",
+    "FSE_VLM/interbind/tests/test_banks_v2.py": "6c6c0a7a344b402bd115c1acc7b60521b3b04eaeed00c65372eb0b2307ffcf88",
+    "FSE_VLM/interbind/tests/test_generators.py": "93f260cedc18a804d6469110265da0acdcce1df4e04453e597bb645abfb14863",
+    "FSE_VLM/interbind/tests/test_predict.py": "d3bb9dc0bd8a63e830327b4b420f20164339fe549559aea8c6c3f38d4653fb6f",
+    "FSE_VLM/interbind/tests/test_reporting.py": "9965f19e83b624aa7ea42e965fb355aa578122f3f614aebdee8467034a64b51a",
+    "FSE_VLM/interbind/tests/test_requirements.py": "e89231d57de55bd6959ccf432b51f38a74a5ffba06bac48906ad82e265d579b8",
+    "FSE_VLM/interbind/tests/test_scorers.py": "d89e63a0b0f4cc8f90a499ab7f2972b6850a7f6e442ddba32683e126d8875bea",
+    "FSE_VLM/interbind/tests/test_specs.py": "28ec5c6e49669f9039eef4a40c087a7c2f97c9d2a2c0ed3062f5fb6f18d1d86b",
+    "FSE_VLM/interbind/verification.py": "ce0d9c304b1f734b009d8254bc373b948b7ce1f79a60a1e17ec9f8e4fe971896",
+    "FSE_VLM/interbind/visual_validation.py": "08ed49c2ece9512b5af6ca01b8a49b968a3a6353c7ad3ecb4e379715ad4a32bb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "completed_utc": "2026-09-29T05:50:58.995566+00:00",
+  "cases": [
+    "stripes",
+    "triangles",
+    "text"
+  ],
+  "strengths": [
+    2,
+    4
+  ],
+  "seeds": [
+    42
+  ],
+  "banks": [
+    "development",
+    "banana87",
+    "banana1000",
+    "imagenetv2"
+  ],
+  "metric_rows": 5040,
+  "paired_contrast_rows": 3600,
+  "protocol_sha256": "042f5c7a92b14737c52e5a9e3e2c7798f28d278db224d9c95f6342d62c24df79",
+  "analysis_sha256": "99201b60da201096a2f1391751db5a533971305b603f612a0758be9bf541f751",
+  "outputs_sha256": {
+    "COMPARISON.md": "8dea0f13fa8ad7a7057f21dc88136514118a8a200fcae1346afdfb9f9aef084f",
+    "all_metrics.csv": "c595995ebd67fa577d6f43ab7790bd4c351ae6aefbd5a9811febbd5672fcb4a1",
+    "paired_contrasts.csv": "574c7701b9c969e3386f91b814b0767baa8839ca0d9f44051c3865d5c04bb23b",
+    "all_results.json": "b6c76108a2675d21fc0e32fd7b8baef1b83335a2ac0ed7b59be1d441cb2e01f2"
+  },
+  "no_manuscript_edits": true,
+  "no_automatic_recipe_selection": true
+}

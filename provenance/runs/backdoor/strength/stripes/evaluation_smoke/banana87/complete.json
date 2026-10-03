@@ -1,0 +1,26 @@
+{
+  "case": "stripes",
+  "bank": "banana87",
+  "n": 8,
+  "seconds": 1.0349444040330127,
+  "records_sha256": {
+    "ranking_seed42": "b653f02b321d3e907b41eb5123e580a07323a0c614bae5b3367744a0520fdcbb",
+    "IS_seed42": "62a844b475fe20f202a58efb4e1235817a0e973a4b46a1906e8529b11fa557e7"
+  },
+  "source_sha256": "6d87685d6e69f79c098f72243b816581db088aa508c2ade1a230bd6fe96d9cbc",
+  "protocol_sha256": "042f5c7a92b14737c52e5a9e3e2c7798f28d278db224d9c95f6342d62c24df79",
+  "checkpoints": {
+    "/workspace/clip/fse_four_case_20260927/backdoor_par/visual_blocks_v3/runs/ranking_seed42/last.pt": "70246f5664786e52ba52940ae1b4229e554d7a0aa1b0aa26c41ae30f3d61c246",
+    "/workspace/clip/fse_four_case_20260927/backdoor_par/visual_blocks_v3/runs/IS_seed42/last.pt": "85677e5d1a0f374115b57e9609996a1124a641c21f501c5235a4356f088a8d65"
+  },
+  "parity": {
+    "ranking_seed42": {
+      "max_score_error": 0.0,
+      "prediction_agreement": 1.0
+    },
+    "IS_seed42": {
+      "max_score_error": 0.0,
+      "prediction_agreement": 1.0
+    }
+  }
+}

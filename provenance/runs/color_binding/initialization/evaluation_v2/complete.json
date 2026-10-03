@@ -1,0 +1,30 @@
+{
+  "models_sha256": "64daca83445ea4c193660bbb68db4f2941441764c50951dfb68fb9da0e0142ae",
+  "protocol_sha256": "31c36048efc194a39a58293f814eafff63d56e4ad4446ea3f5cab37691064920",
+  "frozen_replay_max_error": 9.71445146547012e-17,
+  "files": {
+    "REPORT.md": "eab81c123ef056e726e2a156926c9539754219650958f49e2795fdd711bfad60",
+    "contrasts.jsonl": "a940c5cea92f2302acdb5dc646c2afed33881ab4887fca80cdd4269d9a36af93",
+    "decision_transitions.jsonl": "f633f39f0dcd6251b3d4745bd741c1be7473bf6e443efed0a9b9a3b6d16d063a",
+    "decisions.csv": "6b91d51a958c0841d97f9a133a67ae5a3047cbaf271f43a4517b2d6997325db7",
+    "interaction_direction_summary.jsonl": "814591d0f7f9d00d0fec80bec001fd83a8d27dec30583b386ffbf7632c5dfe8e",
+    "interaction_directions.jsonl": "231927599c8e1fcaf237a0a26bf86fd1699a1d3a0143fb0a50cbbe7aafacd9c5",
+    "natural_queries.jsonl": "d3537e25cd90666c300a78d0c9dbba44baba84619deb0c387eda0a5050c75750",
+    "natural_summary.jsonl": "c21fa6b0330e05b03bdc20f4bccf3f38961c77dff273c08ca751be56419093fc",
+    "per_example.csv": "8cbc2d8abaa134599a1bb24ba510abb22da03946545be9011e53d2038a26c65c",
+    "regime_contrasts.jsonl": "4b1acead4077f4f84dfddc5f98b69ab04b66277e8ad83489d8ff2204c1d25ae9",
+    "sugarcrepe/E.csv": "c472807ddf4d8c4f3f701acb594b1311ae1c429e50a17f19eedea473cf8534e9",
+    "sugarcrepe/F.csv": "a1ad17627f45b6a14426f616879e134ffe04a0e9a00f5636d9b19e2e542b0ff8",
+    "sugarcrepe/G.csv": "e214605c3f5068d2d0e1bedcf34cabd4b9a303ee384e01e4b56f7807d3dd4d56",
+    "sugarcrepe/I.csv": "b455be8790c5763a4b47c6c99446d845d121b8d7ad928914df93eb7c59870ffd",
+    "sugarcrepe/IP.csv": "a42629b280b4b11ab6cea1a264a92d6ecb99d24b2a3cdf7dac30ef2382535c5e",
+    "sugarcrepe/P.csv": "f91cb663cdedc35538b0f8d93d8a1323be173a193d30594db28d7523d38be9e4",
+    "sugarcrepe/R.csv": "f8eeaa8f19f4c8dee30b593c0f4c68122a655c707a1fe0b4346120f7169b6a30",
+    "sugarcrepe_contrasts.jsonl": "f13359614e3dd76cafac1d4b61130b2003aa5aafce9221794e24137a1b0ad773",
+    "sugarcrepe_summary.jsonl": "362e0a53eaa9a4c557d8cf5230a2b7eec729c5f79da736203ef8d3943bd0ffe7",
+    "summary.csv": "b9cf0b7b7eeeb858d2426a628c17ea88cc7cc598d0e1c22763da328a3c1e8ba8",
+    "summary.jsonl": "02ce72646a0a43eb1178e7a91350b1c4ab7f3ed8868f02128248f9a2880b4e65"
+  },
+  "reserve": false,
+  "automatic_seed_escalation": false
+}

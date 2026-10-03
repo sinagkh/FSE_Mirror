@@ -1,0 +1,60 @@
+{
+  "ranking": {
+    "name": "R_s100",
+    "checkpoint": "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed43/runs/R_s100/last.pt",
+    "sha256": "3831e724054044c20f259d9ff773c1d8505289260c28c38e6e7eba9e304656dc",
+    "clean": 0.99609375,
+    "blank": 0.9931640625,
+    "conflict": 0.58203125,
+    "congruent": 1.0,
+    "clean_top1": 0.83203125,
+    "interaction": 0.08991856873035431,
+    "utility": 0.8570963541666666
+  },
+  "IS": {
+    "name": "IS_s100_w1",
+    "checkpoint": "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed43/runs/IS_s100_w1/last.pt",
+    "sha256": "b27291cda81b33a8d35dc4332f895c99d27e395e2a21562f86648342b0709171",
+    "clean": 0.99609375,
+    "blank": 0.9921875,
+    "conflict": 0.6630859375,
+    "congruent": 1.0,
+    "clean_top1": 0.84375,
+    "interaction": 0.07373961061239243,
+    "utility": 0.8837890625
+  },
+  "same_scale_ablation": "R_s100",
+  "all_candidates": [
+    {
+      "name": "R_s100",
+      "checkpoint": "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed43/runs/R_s100/last.pt",
+      "sha256": "3831e724054044c20f259d9ff773c1d8505289260c28c38e6e7eba9e304656dc",
+      "clean": 0.99609375,
+      "blank": 0.9931640625,
+      "conflict": 0.58203125,
+      "congruent": 1.0,
+      "clean_top1": 0.83203125,
+      "interaction": 0.08991856873035431,
+      "utility": 0.8570963541666666
+    },
+    {
+      "name": "IS_s100_w1",
+      "checkpoint": "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed43/runs/IS_s100_w1/last.pt",
+      "sha256": "b27291cda81b33a8d35dc4332f895c99d27e395e2a21562f86648342b0709171",
+      "clean": 0.99609375,
+      "blank": 0.9921875,
+      "conflict": 0.6630859375,
+      "congruent": 1.0,
+      "clean_top1": 0.84375,
+      "interaction": 0.07373961061239243,
+      "utility": 0.8837890625
+    }
+  ],
+  "initial_prefix": {
+    "name": "initial_prefix",
+    "checkpoint": "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed43/initial_prefix.pt",
+    "sha256": "1b000de0af3c82d87bdfb58544478de81b21d3e0609c431dfd6fac741bc64a7b"
+  },
+  "selection": "fixed final checkpoints; no search",
+  "identical_init_source_sequence": true
+}

@@ -1,0 +1,28 @@
+{
+  "proceed": true,
+  "decision_utc": "2026-09-27T20:14:56.460164+00:00",
+  "reason": "User requests full backdoor completion; all registered attacks and matched arms replicated without conditioning on new ImageNetV2 outcomes.",
+  "outcome_access": "Development results known; extension ImageNetV2 outcomes not inspected before this decision.",
+  "recipe": "unchanged original trainer, final checkpoint and per-victim seed42 calibration",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "cases": [
+    "stripes",
+    "triangles",
+    "text"
+  ],
+  "banks": [
+    "development",
+    "banana87",
+    "banana1000",
+    "imagenetv2"
+  ],
+  "plan_sha256": "3a56f893d7905f157423f717a1391e283d181ef043aa4861010e11de1a3daf6a",
+  "original_evaluation_protocol_sha256": "32ae103ebf80c26770be2203c7c07ef0e9e61624728209137293740f7e9eb418",
+  "optional_jobs": "all nine recorded queue/worker identities verified stopped; no automatic resume",
+  "additions": "three-seed replication; paired banana invariance; pixel-gated inversion; native model check",
+  "analysis": "4000 crossed seed/source paired bootstrap replicates; all registered conditions retained"
+}

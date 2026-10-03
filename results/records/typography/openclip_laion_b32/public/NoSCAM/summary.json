@@ -1,0 +1,296 @@
+[
+  {
+    "bank": "NoSCAM",
+    "official_metric": "pairwise",
+    "comparison": "frozen",
+    "metric": "pairwise",
+    "mean": 98.2788296041308,
+    "sample_sd": null,
+    "per_seed": [
+      98.2788296041308
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 1,
+    "ci95_low": 97.50430292598968,
+    "ci95_high": 98.96729776247848,
+    "item_ci95_low": 97.50430292598968,
+    "item_ci95_high": 98.96729776247848
+  },
+  {
+    "bank": "NoSCAM",
+    "official_metric": "pairwise",
+    "comparison": "frozen",
+    "metric": "top1",
+    "mean": 41.566265060240966,
+    "sample_sd": null,
+    "per_seed": [
+      41.566265060240966
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 1,
+    "ci95_low": 38.7263339070568,
+    "ci95_high": 44.406196213425126,
+    "item_ci95_low": 38.7263339070568,
+    "item_ci95_high": 44.406196213425126
+  },
+  {
+    "bank": "NoSCAM",
+    "official_metric": "pairwise",
+    "comparison": "frozen",
+    "metric": "margin",
+    "mean": 0.12166096869593233,
+    "sample_sd": null,
+    "per_seed": [
+      0.12166096869593233
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 1,
+    "ci95_low": 0.11862171056444747,
+    "ci95_high": 0.12483159368296703,
+    "item_ci95_low": 0.11862171056444747,
+    "item_ci95_high": 0.12483159368296703
+  },
+  {
+    "bank": "NoSCAM",
+    "official_metric": "pairwise",
+    "comparison": "ranking",
+    "metric": "pairwise",
+    "mean": 98.16408491107286,
+    "sample_sd": 0.13145656038312725,
+    "per_seed": [
+      98.02065404475043,
+      98.19277108433735,
+      98.2788296041308
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 97.36087205966724,
+    "ci95_high": 98.88123924268503,
+    "item_ci95_low": 97.38955823293173,
+    "item_ci95_high": 98.88123924268503
+  },
+  {
+    "bank": "NoSCAM",
+    "official_metric": "pairwise",
+    "comparison": "ranking",
+    "metric": "top1",
+    "mean": 39.44348823866897,
+    "sample_sd": 0.3974872765505201,
+    "per_seed": [
+      38.984509466437174,
+      39.672977624784856,
+      39.672977624784856
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 36.68961560527825,
+    "ci95_high": 42.16867469879517,
+    "item_ci95_low": 36.718301778542745,
+    "item_ci95_high": 42.11130235226621
+  },
+  {
+    "bank": "NoSCAM",
+    "official_metric": "pairwise",
+    "comparison": "ranking",
+    "metric": "margin",
+    "mean": 0.11116397521462307,
+    "sample_sd": 0.00040241243114234675,
+    "per_seed": [
+      0.11117979745010295,
+      0.11155824317066271,
+      0.11075388502310353
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 0.10829288717808135,
+    "ci95_high": 0.11404436708701003,
+    "item_ci95_low": 0.10833691297990244,
+    "item_ci95_high": 0.11402522622881757
+  },
+  {
+    "bank": "NoSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS",
+    "metric": "pairwise",
+    "mean": 98.19277108433734,
+    "sample_sd": 0.14905772870644246,
+    "per_seed": [
+      98.02065404475043,
+      98.2788296041308,
+      98.2788296041308
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 97.44693057946068,
+    "ci95_high": 98.88123924268501,
+    "item_ci95_low": 97.50430292598968,
+    "item_ci95_high": 98.82386689615605
+  },
+  {
+    "bank": "NoSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS",
+    "metric": "top1",
+    "mean": 35.656913367756744,
+    "sample_sd": 0.5532788732640803,
+    "per_seed": [
+      36.05851979345955,
+      35.88640275387263,
+      35.02581755593804
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 33.07444061962134,
+    "ci95_high": 38.23866896156052,
+    "item_ci95_low": 33.16121629374641,
+    "item_ci95_high": 38.12392426850258
+  },
+  {
+    "bank": "NoSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS",
+    "metric": "margin",
+    "mean": 0.08102501281635965,
+    "sample_sd": 0.0035285309584640497,
+    "per_seed": [
+      0.0814442798020815,
+      0.08432517876518368,
+      0.07730557988181377
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 0.0771944584911641,
+    "ci95_high": 0.08484577407993107,
+    "item_ci95_low": 0.078918953532726,
+    "item_ci95_high": 0.08319796436283003
+  },
+  {
+    "bank": "NoSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - frozen",
+    "metric": "pairwise",
+    "mean": -0.08605851979345876,
+    "sample_sd": 0.14905772870644246,
+    "per_seed": [
+      -0.2581755593803763,
+      0.0,
+      0.0
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": -0.688468158347689,
+    "ci95_high": 0.5163511187607526,
+    "item_ci95_low": -0.6024096385542208,
+    "item_ci95_high": 0.45897877223178796
+  },
+  {
+    "bank": "NoSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - frozen",
+    "metric": "top1",
+    "mean": -5.909351692484225,
+    "sample_sd": 0.5532788732640803,
+    "per_seed": [
+      -5.507745266781413,
+      -5.679862306368335,
+      -6.540447504302925
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": -7.860011474469303,
+    "ci95_high": -3.958691910499148,
+    "item_ci95_low": -7.687894434882388,
+    "item_ci95_high": -4.1594951233505455
+  },
+  {
+    "bank": "NoSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - frozen",
+    "metric": "margin",
+    "mean": -0.04063595587957268,
+    "sample_sd": 0.0035285309584640497,
+    "per_seed": [
+      -0.04021668889385083,
+      -0.03733578993074865,
+      -0.04435538881411856
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": -0.04424317077815328,
+    "ci95_high": -0.037314486152070885,
+    "item_ci95_low": -0.0419473855752483,
+    "item_ci95_high": -0.03936883096374268
+  },
+  {
+    "bank": "NoSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - ranking",
+    "metric": "pairwise",
+    "mean": 0.028686173264484676,
+    "sample_sd": 0.049685909568811415,
+    "per_seed": [
+      0.0,
+      0.08605851979345402,
+      0.0
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": -0.5163511187607526,
+    "ci95_high": 0.5450372920252562,
+    "item_ci95_low": -0.37292025243833393,
+    "item_ci95_high": 0.48766494549626316
+  },
+  {
+    "bank": "NoSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - ranking",
+    "metric": "top1",
+    "mean": -3.786574870912221,
+    "sample_sd": 0.8605851979345971,
+    "per_seed": [
+      -2.9259896729776216,
+      -3.7865748709122258,
+      -4.647160068846816
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": -5.507745266781413,
+    "ci95_high": -2.00803212851406,
+    "item_ci95_low": -5.078169822145733,
+    "item_ci95_high": -2.409638554216869
+  },
+  {
+    "bank": "NoSCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - ranking",
+    "metric": "margin",
+    "mean": -0.03013896239826341,
+    "sample_sd": 0.0031272000417136127,
+    "per_seed": [
+      -0.029735517648021445,
+      -0.027233064405479027,
+      -0.033448305141289755
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": -0.033302316315337484,
+    "ci95_high": -0.027300435120140472,
+    "item_ci95_low": -0.0310613122080494,
+    "item_ci95_high": -0.02921851085326878
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "inputs": {
+    "/workspace/clip/fse_selected_strength_replication_20260929/reports/typography/all_results.json": "6c11f87c36c4a7a513ca443da1019498549aaa056595256c5076984fe18f5d3a",
+    "/workspace/clip/fse_typographic_backbone_replication_20260929/openai_clip_l14/evaluation/summary.csv": "74718470c0ec3310b8cb1c2a61b2bb6496a0ca0777a62d74fff0242e6e8f0ac5",
+    "/workspace/clip/fse_typographic_backbone_replication_20260929/openai_clip_l14/evaluation/all_targets/summary.csv": "196d2c527a7de151aab51f553f6bcb5fc59cb17c4c416afd86f8227efc7cb828",
+    "/workspace/clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/evaluation/summary.csv": "26f121da0c34c097a2cabeaaf3a9f81cb6b9cab9eeb927c7c31833c90aa21c44",
+    "/workspace/clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/evaluation/all_targets/summary.csv": "16cc83b99b8e9af8d09da14422922a9567b35842a870e659edbf11614296ff2a"
+  },
+  "files": {
+    "/workspace/clip/fse_typographic_backbone_replication_20260929/consolidated/results.json": "b464761cfbfaaf1a61b2b536302ecc8522846308e61136caab85a55e5a46b7e2",
+    "/workspace/clip/fse_typographic_backbone_replication_20260929/consolidated/checkpoints.json": "edf99fc22cd72e96a8b278b2c16137c5a07b82260362b370e8cc5d65ac430bcf",
+    "/workspace/clip/fse_typographic_backbone_replication_20260929/consolidated/RESULTS.md": "290cdbe890214952428940aa7451e7a3f3e970806a67741ce977240f1eb54f10"
+  },
+  "all_seeds": true,
+  "shared_recipe": true
+}

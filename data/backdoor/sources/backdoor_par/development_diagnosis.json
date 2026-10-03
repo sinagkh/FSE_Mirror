@@ -1,0 +1,28 @@
+{
+  "victim": {
+    "clean_top1": 0.6300518134715026,
+    "trigger_1_top1": 0.039378238341968914,
+    "trigger_2_top1": 0.03626943005181347,
+    "mean_patch_sham_top1": 0.6300518134715026,
+    "n": 965,
+    "asr": 0.9935691318327974,
+    "genuine_target_clean": 0.59375,
+    "genuine_target_attack": 1.0,
+    "clean_correct_trigger_wrong": 583,
+    "clean_correct_sham_wrong": 25,
+    "interaction_abs": 0.22289881110191345
+  },
+  "PAR": {
+    "clean_top1": 0.5989637305699482,
+    "trigger_1_top1": 0.22383419689119172,
+    "trigger_2_top1": 0.22383419689119172,
+    "mean_patch_sham_top1": 0.5979274611398964,
+    "n": 965,
+    "asr": 0.6956055734190782,
+    "genuine_target_clean": 0.8125,
+    "genuine_target_attack": 0.9375,
+    "clean_correct_trigger_wrong": 375,
+    "clean_correct_sham_wrong": 13,
+    "interaction_abs": 0.11413120478391647
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "source_id": "test_seen:1339759",
+  "seed": 42,
+  "backbone": "OpenAI CLIP B/32",
+  "score_units": "cosine similarity times 100",
+  "captions": "car and handbag abbreviate the pooled descriptions used in the evaluation",
+  "example_selection": "Reuse the exact illustrative source already in Figure 1; no new search.",
+  "purpose": "Illustrative example, not a population estimate. No training on this held-out example.",
+  "files": {
+    "clip/fse_typographic_strength_20260929/characterization/w4/retest/digital_retest/test_seen_standard/rows.json": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
+    "clip/fse_typographic_strength_20260929/characterization/w4/retest/digital_retest/test_seen_standard/frozen.npz": "55664bf5b1111207ab65baa04f4c9a1a44bc905c3dbef871901b9705ae8d938a",
+    "clip/fse_typographic_strength_20260929/characterization/w4/retest/digital_retest/test_seen_standard/ranking.npz": "9d03da58b24b1dec6566b97be437cf54b6aba8fbd8215a4750587d4a87198238",
+    "clip/fse_typographic_strength_20260929/characterization/w4/retest/digital_retest/test_seen_standard/IS.npz": "07a9857183e72e07c7fd0f2633067cf6e0f4ad6886a499d7d7341dcbd339f816",
+    "clip/fse_typographic_strength_20260929/characterization/w4/retest/digital_retest/test_seen_serif/rows.json": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
+    "clip/fse_typographic_strength_20260929/characterization/w4/retest/digital_retest/test_seen_serif/frozen.npz": "2994f02d4aa4704ef6a0db64efa3780dbdaad714882a6dabf7b693f167535880",
+    "clip/fse_typographic_strength_20260929/characterization/w4/retest/digital_retest/test_seen_serif/ranking.npz": "9b38d79c041df85efa896c92270b501d44389ca37babac053b2d5bf0be39e3f8",
+    "clip/fse_typographic_strength_20260929/characterization/w4/retest/digital_retest/test_seen_serif/IS.npz": "a07b0ecaeca7d708fc3cbdc31696f238823225c668375b2fd0b26c88a1046581",
+    "FSE_VLM/manuscript_v6_3/figures/photo_assets/typography_blank.png": "98d6d8fa0b34c956157dd2e59bb2ce626989a34f11bf4641c2a20ceea6360fb4",
+    "FSE_VLM/manuscript_v6_3/figures/photo_assets/typography_word.png": "037ae6f0a41d924dd078db63f3aeb8a93f1ab7e9cb8e9c8515e9ee5b9594d3d8"
+  },
+  "banks": {
+    "test_seen_standard": {
+      "frozen": {
+        "corners": [
+          [
+            27.499130368232727,
+            19.727925956249237
+          ],
+          [
+            26.387810707092285,
+            30.378693342208862
+          ]
+        ],
+        "blank_margin": 7.77120441198349,
+        "word_margin": -3.990882635116577,
+        "interaction": -11.762087047100067,
+        "blank_correct": true,
+        "word_correct": false
+      },
+      "ranking": {
+        "corners": [
+          [
+            27.59302258491516,
+            20.119820535182953
+          ],
+          [
+            27.02840268611908,
+            27.334052324295044
+          ]
+        ],
+        "blank_margin": 7.473202049732208,
+        "word_margin": -0.30564963817596436,
+        "interaction": -7.778851687908173,
+        "blank_correct": true,
+        "word_correct": false
+      },
+      "IS": {
+        "corners": [
+          [
+            28.444451093673706,
+            22.33511358499527
+          ],
+          [
+            28.669169545173645,
+            27.30962336063385
+          ]
+        ],
+        "blank_margin": 6.109337508678436,
+        "word_margin": 1.359546184539795,
+        "interaction": -4.749791324138641,
+        "blank_correct": true,
+        "word_correct": true
+      }
+    },
+    "test_seen_serif": {
+      "frozen": {
+        "corners": [
+          [
+            27.499130368232727,
+            19.727925956249237
+          ],
+          [
+            26.698964834213257,
+            30.86230456829071
+          ]
+        ],
+        "blank_margin": 7.77120441198349,
+        "word_margin": -4.163339734077454,
+        "interaction": -11.934544146060944,
+        "blank_correct": true,
+        "word_correct": false
+      },
+      "ranking": {
+        "corners": [
+          [
+            27.59302258491516,
+            20.119820535182953
+          ],
+          [
+            27.180269360542297,
+            27.534785866737366
+          ]
+        ],
+        "blank_margin": 7.473202049732208,
+        "word_margin": -0.35451650619506836,
+        "interaction": -7.827718555927277,
+        "blank_correct": true,
+        "word_correct": false
+      },
+      "IS": {
+        "corners": [
+          [
+            28.444451093673706,
+            22.33511358499527
+          ],
+          [
+            28.55045199394226,
+            27.374619245529175
+          ]
+        ],
+        "blank_margin": 6.109337508678436,
+        "word_margin": 1.175832748413086,
+        "interaction": -4.93350476026535,
+        "blank_correct": true,
+        "word_correct": true
+      }
+    }
+  },
+  "source": {
+    "id": "test_seen:1339759",
+    "image_id": 284084,
+    "ann_id": 1339759,
+    "file": "000000284084.jpg",
+    "label": "car",
+    "words": [
+      "car",
+      "handbag",
+      "backpack"
+    ],
+    "bbox": [
+      305.26,
+      273.98,
+      332.22,
+      199.55
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  "script_sha256": "eae7dcf625459c9cabd0a191b2e744f8b63253a6438e5c8336c6e4831d7bb59a"
+}

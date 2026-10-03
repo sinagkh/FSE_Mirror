@@ -1,0 +1,24 @@
+{
+  "url": "https://dl.fbaipublicfiles.com/LVIS/lvis_v1_train.json.zip",
+  "final_url": "https://dl.fbaipublicfiles.com/LVIS/lvis_v1_train.json.zip",
+  "bytes": 350264821,
+  "sha256": "334a4caa374030a7817cf050364525e910f7960f9b6968cef47cffbf3893f8ba",
+  "headers": {
+    "Content-Type": "application/zip",
+    "Content-Length": "350264821",
+    "Connection": "keep-alive",
+    "Date": "Fri, 25 Sep 2026 17:20:00 GMT",
+    "Last-Modified": "Wed, 17 Jun 2020 18:33:51 GMT",
+    "ETag": "\"8779cd98ba10bbad605de77de9e979e4-21\"",
+    "x-amz-storage-class": "INTELLIGENT_TIERING",
+    "x-amz-server-side-encryption": "AES256",
+    "x-amz-version-id": "9bSfXVPoXR619ZtfFN1k0kkJDewsm4dc",
+    "Accept-Ranges": "bytes",
+    "Server": "AmazonS3",
+    "X-Cache": "Hit from cloudfront",
+    "Via": "1.1 70b45454845a4165f8fae956a855992c.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "CMH68-P7",
+    "X-Amz-Cf-Id": "kuMrRd3SzxJRaH_bltnomP8KQToba0ZEX62Rsst8wAPBe3L9UoQIPg==",
+    "Age": "49880"
+  }
+}

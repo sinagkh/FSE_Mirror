@@ -1,0 +1,25 @@
+{
+  "files": {
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/sugarcrepe_replace_obj_per_example.jsonl": "a8cdbda678975fecbc696e7588f4807f955dab37e1a2bad04fdbc5f36231d290",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/score_index.json": "429f583401ab2f6993b9fbe3a98b2b19d92f06e0158e2db3636bf844f7aeae35",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/sugarcrepe_full_per_example.jsonl": "5166d53bb1a162aa5fdfd282fc0e1eb5d1dfc2da0f2549a1a531ce604c8f0e4d",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/aro_raw.npz": "fa5e682029055114ea6f0eec3c4876a8f2cd339e9e3a2eaf0d70ee4506d1a518",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/sugarcrepe_add_att_per_example.jsonl": "78f6668ff94532a499fdd28dfd9e274a87f99f5775752977db9ffdb520041c1a",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/sugarcrepe_rows.json": "370d8e6e607ca45baf47d6c82596f175b7d7ff67a70bd79bae80415997986927",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/aro_full_per_example.jsonl": "0ce77bf01fe29fdba17afa3ea56336b97ad28fa61aedb7506c227c1611dcbee5",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/sugarcrepe_replace_rel_per_example.jsonl": "c12d57c94ef15c99abd8d9a5af62ddefdb9221599e73a0ec8ce2e2470ffe0368",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/aro_rows.json": "329c6347f9c4748306abcd9e57d1ac40cbad0c28a54bd0d1822bc5f270375617",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/aro_either_red_blue_per_example.jsonl": "da74241d8ade426d31b795dc7dc2c356f4d756c54ded84c0dc3b4da462449b06",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/summary.jsonl": "ad2c599775aa529fb5910ba4f6044a49b944fb7cfb16e03cf95c8e1d08e229f0",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/sugarcrepe_add_obj_per_example.jsonl": "cc62b6e7f47cee6f79bffbd3dfa69f07f25ec2a26505b2c90f3ba2a6337a2beb",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/sugarcrepe_replace_att_per_example.jsonl": "8365577a75ca2e3c636ead2bf8266223a9ac04172b701a1b78fe3329e34c4ff1",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/sugarcrepe_swap_att_per_example.jsonl": "124fd8a4412fab78c4b3181e0a3cce1f0b86eb9b23e81b203689c81779e40ceb",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/coco_rows.json": "f887bf20ba14b28081800fdba7036613810090dab7302946f1703028b7b78609",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/coco_raw.npz": "1040887c9c4307d63ef52ce18647702738df6747ff89413b1a2957f775819c01",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/coco_t2i_per_example.jsonl": "43cca8feb5bcb0d2ea81113fe4ba943a90224bdfd6ec3556c0d1b9d9ca38d107",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/coco_i2t_per_example.jsonl": "ab27eb47f2d0ecc7b8b5f3fdd58eab6e1fc5b140eb6132449fe6f44b82e5f5aa",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/sugarcrepe_raw.npz": "27e229b1f25586e2b2b47e1a24ba64a8b6087cbd99073a4bf3ee2a134df760bc",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/aro_exact_red_blue_per_example.jsonl": "0da4850eee4742f41020407408982893fc8054c03418b114c6f9a8551de15d06",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/natural/sugarcrepe_swap_obj_per_example.jsonl": "9eb15d0fbb1110d481f07423630c9a568d0b00770500162ad9752c35e4c15100"
+  }
+}

@@ -1,0 +1,8802 @@
+[
+  {
+    "id": "banana-preservation:120127",
+    "image_id": 120127,
+    "ann_id": 1042145,
+    "file": "000000120127.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      150.52,
+      216.93,
+      322.11,
+      66.17
+    ],
+    "area": 15690.22,
+    "width": 500,
+    "height": 333,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:317474",
+    "image_id": 317474,
+    "ann_id": 1045893,
+    "file": "000000317474.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      177.39,
+      162.64,
+      293.65
+    ],
+    "area": 38806.71875,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:388853",
+    "image_id": 388853,
+    "ann_id": 1042302,
+    "file": "000000388853.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      98.16,
+      159.71,
+      402.33,
+      248.09
+    ],
+    "area": 54026.47514999997,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:419171",
+    "image_id": 419171,
+    "ann_id": 1043026,
+    "file": "000000419171.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      78.03,
+      1.0,
+      222.6,
+      473.33
+    ],
+    "area": 57820.482050000006,
+    "width": 640,
+    "height": 481,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:554778",
+    "image_id": 554778,
+    "ann_id": 1042029,
+    "file": "000000554778.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      144.47,
+      1.08,
+      238.37,
+      239.82
+    ],
+    "area": 40604.9821,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:407477",
+    "image_id": 407477,
+    "ann_id": 1544252,
+    "file": "000000407477.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      285.28,
+      297.43,
+      328.35,
+      123.5
+    ],
+    "area": 33122.62285,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:320918",
+    "image_id": 320918,
+    "ann_id": 1042049,
+    "file": "000000320918.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      220.04,
+      328.27,
+      368.58,
+      268.18
+    ],
+    "area": 42809.705450000016,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:23840",
+    "image_id": 23840,
+    "ann_id": 1043750,
+    "file": "000000023840.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      337.89,
+      155.61,
+      299.21,
+      270.3
+    ],
+    "area": 30123.76845000001,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:394801",
+    "image_id": 394801,
+    "ann_id": 1543649,
+    "file": "000000394801.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      4.31,
+      277.57,
+      303.47,
+      195.6
+    ],
+    "area": 33722.426499999994,
+    "width": 361,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:984",
+    "image_id": 984,
+    "ann_id": 1042903,
+    "file": "000000000984.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      85.73,
+      254.75,
+      229.94,
+      305.91
+    ],
+    "area": 37055.98359999998,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:576517",
+    "image_id": 576517,
+    "ann_id": 1041768,
+    "file": "000000576517.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      28.76,
+      102.92,
+      451.24,
+      384.73
+    ],
+    "area": 47806.768299999974,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:337247",
+    "image_id": 337247,
+    "ann_id": 1045477,
+    "file": "000000337247.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      158.12,
+      85.84,
+      356.89,
+      105.03
+    ],
+    "area": 28339.335199999998,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:467113",
+    "image_id": 467113,
+    "ann_id": 1043678,
+    "file": "000000467113.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      110.74,
+      175.56,
+      221.48,
+      240.18
+    ],
+    "area": 26762.700500000003,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:295553",
+    "image_id": 295553,
+    "ann_id": 1043461,
+    "file": "000000295553.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      59.57,
+      214.1,
+      357.45,
+      309.79
+    ],
+    "area": 70715.13895,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:375840",
+    "image_id": 375840,
+    "ann_id": 1042397,
+    "file": "000000375840.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      148.64,
+      227.7,
+      192.82,
+      360.75
+    ],
+    "area": 36492.16190000001,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:60126",
+    "image_id": 60126,
+    "ann_id": 1041822,
+    "file": "000000060126.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      65.88,
+      31.37,
+      323.67,
+      278.22
+    ],
+    "area": 55501.8574,
+    "width": 432,
+    "height": 354,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:474479",
+    "image_id": 474479,
+    "ann_id": 1044083,
+    "file": "000000474479.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      131.28,
+      0.0,
+      354.25,
+      477.47
+    ],
+    "area": 112153.91359999999,
+    "width": 640,
+    "height": 481,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:283144",
+    "image_id": 283144,
+    "ann_id": 1043854,
+    "file": "000000283144.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      21.66,
+      0.0,
+      606.48,
+      473.78
+    ],
+    "area": 180260.9938500001,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:436407",
+    "image_id": 436407,
+    "ann_id": 1042248,
+    "file": "000000436407.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      61.84,
+      398.48,
+      456.16,
+      232.99
+    ],
+    "area": 65737.78514999998,
+    "width": 518,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:417458",
+    "image_id": 417458,
+    "ann_id": 1042444,
+    "file": "000000417458.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      126.03,
+      68.99,
+      397.57,
+      135.26
+    ],
+    "area": 25660.231750000003,
+    "width": 640,
+    "height": 457,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:149196",
+    "image_id": 149196,
+    "ann_id": 1904376,
+    "file": "000000149196.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      137.81,
+      70.77,
+      502.19,
+      399.78
+    ],
+    "area": 69585.47515000001,
+    "width": 640,
+    "height": 478,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:511133",
+    "image_id": 511133,
+    "ann_id": 1042104,
+    "file": "000000511133.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      23.03,
+      101.78,
+      564.21,
+      316.65
+    ],
+    "area": 120932.05670000002,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:18554",
+    "image_id": 18554,
+    "ann_id": 1041972,
+    "file": "000000018554.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      127.56,
+      296.69,
+      161.77,
+      342.09
+    ],
+    "area": 22230.333150000002,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:188606",
+    "image_id": 188606,
+    "ann_id": 1042021,
+    "file": "000000188606.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      353.29,
+      0.0,
+      286.71,
+      331.92
+    ],
+    "area": 46879.93549999999,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:220860",
+    "image_id": 220860,
+    "ann_id": 1043606,
+    "file": "000000220860.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      152.73,
+      111.66,
+      207.31,
+      227.51
+    ],
+    "area": 31039.506299999994,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:100343",
+    "image_id": 100343,
+    "ann_id": 1041973,
+    "file": "000000100343.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      250.01,
+      480.0,
+      379.68
+    ],
+    "area": 137824.77824999994,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:207738",
+    "image_id": 207738,
+    "ann_id": 1041665,
+    "file": "000000207738.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      50.7,
+      71.01,
+      588.94,
+      385.08
+    ],
+    "area": 91994.33370000005,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:98707",
+    "image_id": 98707,
+    "ann_id": 1045755,
+    "file": "000000098707.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      60.24,
+      97.42,
+      210.82,
+      251.48
+    ],
+    "area": 33512.087499999994,
+    "width": 481,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:527571",
+    "image_id": 527571,
+    "ann_id": 1044336,
+    "file": "000000527571.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      73.05,
+      146.89,
+      566.95,
+      141.91
+    ],
+    "area": 56433.96304999999,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:93031",
+    "image_id": 93031,
+    "ann_id": 1043594,
+    "file": "000000093031.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      246.6,
+      5.76,
+      253.33,
+      346.4
+    ],
+    "area": 58365.746900000006,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:514666",
+    "image_id": 514666,
+    "ann_id": 1043261,
+    "file": "000000514666.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      114.89,
+      70.94,
+      208.71,
+      259.46
+    ],
+    "area": 23874.97185,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:44749",
+    "image_id": 44749,
+    "ann_id": 1041484,
+    "file": "000000044749.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      25.97,
+      19.93,
+      294.81,
+      487.24
+    ],
+    "area": 96289.78504999996,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:493994",
+    "image_id": 493994,
+    "ann_id": 1043108,
+    "file": "000000493994.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      37.08,
+      76.69,
+      444.1,
+      166.85
+    ],
+    "area": 42571.1122,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:556399",
+    "image_id": 556399,
+    "ann_id": 2111032,
+    "file": "000000556399.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      3.82,
+      81.45,
+      296.54,
+      188.37
+    ],
+    "area": 36861.29305000001,
+    "width": 640,
+    "height": 490,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:388157",
+    "image_id": 388157,
+    "ann_id": 1042100,
+    "file": "000000388157.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      103.55,
+      89.17,
+      263.19,
+      465.98
+    ],
+    "area": 87253.53055000002,
+    "width": 425,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:10403",
+    "image_id": 10403,
+    "ann_id": 1046246,
+    "file": "000000010403.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      111.59,
+      92.69,
+      189.89,
+      237.85
+    ],
+    "area": 22627.262500000008,
+    "width": 640,
+    "height": 416,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:534035",
+    "image_id": 534035,
+    "ann_id": 1043186,
+    "file": "000000534035.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      110.02,
+      147.78,
+      492.95,
+      160.71
+    ],
+    "area": 45948.14995,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:333075",
+    "image_id": 333075,
+    "ann_id": 1044520,
+    "file": "000000333075.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      46.0,
+      0.0,
+      439.0,
+      161.1
+    ],
+    "area": 42459.95,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:44436",
+    "image_id": 44436,
+    "ann_id": 1042790,
+    "file": "000000044436.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      53.21,
+      4.31,
+      426.79,
+      484.68
+    ],
+    "area": 118841.57490000002,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:389472",
+    "image_id": 389472,
+    "ann_id": 1044093,
+    "file": "000000389472.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      61.74,
+      67.76,
+      124.99,
+      435.2
+    ],
+    "area": 30391.443049999998,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:140797",
+    "image_id": 140797,
+    "ann_id": 1041522,
+    "file": "000000140797.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      13.69,
+      289.02,
+      464.14,
+      266.98
+    ],
+    "area": 53299.62575,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:513241",
+    "image_id": 513241,
+    "ann_id": 1905393,
+    "file": "000000513241.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      132.95,
+      224.85,
+      431.12,
+      130.02
+    ],
+    "area": 28624.311199999996,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:511554",
+    "image_id": 511554,
+    "ann_id": 1541782,
+    "file": "000000511554.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      208.53,
+      348.46,
+      213.48
+    ],
+    "area": 57452.76004999999,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:70657",
+    "image_id": 70657,
+    "ann_id": 1041414,
+    "file": "000000070657.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      24.8,
+      109.88,
+      260.0,
+      237.33
+    ],
+    "area": 33772.34275,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:486139",
+    "image_id": 486139,
+    "ann_id": 1045662,
+    "file": "000000486139.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      61.89,
+      138.87,
+      386.41,
+      412.07
+    ],
+    "area": 82059.49685,
+    "width": 632,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:254431",
+    "image_id": 254431,
+    "ann_id": 1042268,
+    "file": "000000254431.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      279.12,
+      0.84,
+      190.27,
+      168.48
+    ],
+    "area": 17129.326,
+    "width": 500,
+    "height": 373,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:120369",
+    "image_id": 120369,
+    "ann_id": 1042271,
+    "file": "000000120369.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      0.0,
+      604.13,
+      617.9
+    ],
+    "area": 202889.20564999996,
+    "width": 640,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:93708",
+    "image_id": 93708,
+    "ann_id": 1046480,
+    "file": "000000093708.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      1.51,
+      8.07,
+      270.83,
+      476.6
+    ],
+    "area": 91264.78934999998,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:93666",
+    "image_id": 93666,
+    "ann_id": 1041463,
+    "file": "000000093666.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      12.32,
+      180.86,
+      408.0,
+      424.43
+    ],
+    "area": 82435.09765,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:9768",
+    "image_id": 9768,
+    "ann_id": 1043905,
+    "file": "000000009768.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      36.0,
+      1.0,
+      604.0,
+      381.0
+    ],
+    "area": 144520.0,
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:403096",
+    "image_id": 403096,
+    "ann_id": 1044096,
+    "file": "000000403096.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      227.01,
+      0.0,
+      330.92,
+      480.0
+    ],
+    "area": 111844.20470000002,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:519376",
+    "image_id": 519376,
+    "ann_id": 1042912,
+    "file": "000000519376.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      77.08,
+      51.63,
+      361.43,
+      136.95
+    ],
+    "area": 33352.39785000001,
+    "width": 500,
+    "height": 333,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:373666",
+    "image_id": 373666,
+    "ann_id": 1042018,
+    "file": "000000373666.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      334.88,
+      19.03,
+      242.77,
+      273.47
+    ],
+    "area": 33116.777,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:203178",
+    "image_id": 203178,
+    "ann_id": 1041574,
+    "file": "000000203178.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      14.9,
+      9.17,
+      592.27,
+      278.49
+    ],
+    "area": 58279.25545,
+    "width": 640,
+    "height": 510,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:360185",
+    "image_id": 360185,
+    "ann_id": 1042678,
+    "file": "000000360185.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      52.66,
+      68.76,
+      299.04,
+      169.93
+    ],
+    "area": 23807.375150000003,
+    "width": 500,
+    "height": 322,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:269477",
+    "image_id": 269477,
+    "ann_id": 1042621,
+    "file": "000000269477.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      263.19,
+      3.24,
+      375.37,
+      376.45
+    ],
+    "area": 117560.52135,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:246382",
+    "image_id": 246382,
+    "ann_id": 1041759,
+    "file": "000000246382.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      121.5,
+      327.62,
+      358.61,
+      206.85
+    ],
+    "area": 37214.2455,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:66881",
+    "image_id": 66881,
+    "ann_id": 1045628,
+    "file": "000000066881.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      259.76,
+      7.91,
+      380.24,
+      441.6
+    ],
+    "area": 66768.53490000001,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:510080",
+    "image_id": 510080,
+    "ann_id": 1044291,
+    "file": "000000510080.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      343.0,
+      108.3,
+      297.0,
+      143.0
+    ],
+    "area": 24561.0,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:392506",
+    "image_id": 392506,
+    "ann_id": 1042109,
+    "file": "000000392506.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.31,
+      47.09,
+      182.39,
+      188.01
+    ],
+    "area": 25462.535000000003,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:302997",
+    "image_id": 302997,
+    "ann_id": 1042483,
+    "file": "000000302997.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      176.17,
+      27.86,
+      228.92,
+      278.9
+    ],
+    "area": 44518.3644,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:448402",
+    "image_id": 448402,
+    "ann_id": 1544254,
+    "file": "000000448402.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      90.17,
+      16.85,
+      350.56,
+      342.98
+    ],
+    "area": 39181.525149999994,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:473427",
+    "image_id": 473427,
+    "ann_id": 1548125,
+    "file": "000000473427.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      357.91,
+      186.15,
+      257.16,
+      235.09
+    ],
+    "area": 26118.735650000002,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:568052",
+    "image_id": 568052,
+    "ann_id": 1042421,
+    "file": "000000568052.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      65.16,
+      188.1,
+      234.13,
+      314.88
+    ],
+    "area": 29019.159000000003,
+    "width": 426,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:137273",
+    "image_id": 137273,
+    "ann_id": 1041802,
+    "file": "000000137273.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      5.76,
+      0.67,
+      489.37,
+      419.32
+    ],
+    "area": 104163.37855,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:362971",
+    "image_id": 362971,
+    "ann_id": 1543000,
+    "file": "000000362971.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      57.17,
+      55.26,
+      230.58,
+      260.12
+    ],
+    "area": 37633.262350000005,
+    "width": 640,
+    "height": 424,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:232341",
+    "image_id": 232341,
+    "ann_id": 1044141,
+    "file": "000000232341.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      80.9,
+      131.84,
+      485.39,
+      314.16
+    ],
+    "area": 70869.5416,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:142",
+    "image_id": 142,
+    "ann_id": 1041642,
+    "file": "000000000142.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      106.19,
+      374.53,
+      272.64,
+      192.29
+    ],
+    "area": 35139.77775000002,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:9511",
+    "image_id": 9511,
+    "ann_id": 1041758,
+    "file": "000000009511.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      180.13,
+      58.25,
+      365.67,
+      240.54
+    ],
+    "area": 43093.95655000001,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:238299",
+    "image_id": 238299,
+    "ann_id": 1542914,
+    "file": "000000238299.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      239.89,
+      32.62,
+      268.67,
+      388.62
+    ],
+    "area": 67915.17229999999,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:161947",
+    "image_id": 161947,
+    "ann_id": 1043002,
+    "file": "000000161947.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      87.73,
+      79.1,
+      243.06,
+      389.75
+    ],
+    "area": 62888.36740000001,
+    "width": 481,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:525640",
+    "image_id": 525640,
+    "ann_id": 1043372,
+    "file": "000000525640.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      106.51,
+      171.76,
+      317.61,
+      194.79
+    ],
+    "area": 29507.420850000013,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:422954",
+    "image_id": 422954,
+    "ann_id": 1041978,
+    "file": "000000422954.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      158.64,
+      246.27,
+      216.36,
+      200.27
+    ],
+    "area": 20319.982599999996,
+    "width": 375,
+    "height": 500,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:261182",
+    "image_id": 261182,
+    "ann_id": 1904488,
+    "file": "000000261182.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      245.73,
+      11.56,
+      222.26,
+      368.86
+    ],
+    "area": 26693.047400000003,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:470931",
+    "image_id": 470931,
+    "ann_id": 1043040,
+    "file": "000000470931.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      6.8,
+      8.8,
+      525.19,
+      417.44
+    ],
+    "area": 161254.70065,
+    "width": 640,
+    "height": 432,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:564348",
+    "image_id": 564348,
+    "ann_id": 1043587,
+    "file": "000000564348.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      166.83,
+      284.76,
+      245.93,
+      184.09
+    ],
+    "area": 22509.70475,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:220834",
+    "image_id": 220834,
+    "ann_id": 1042209,
+    "file": "000000220834.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      0.0,
+      640.0,
+      426.0
+    ],
+    "area": 220562.9547,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:93068",
+    "image_id": 93068,
+    "ann_id": 1042698,
+    "file": "000000093068.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      63.28,
+      233.08,
+      404.14,
+      247.38
+    ],
+    "area": 52857.723200000015,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:128258",
+    "image_id": 128258,
+    "ann_id": 1046559,
+    "file": "000000128258.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      15.61,
+      565.98,
+      368.59
+    ],
+    "area": 70520.90210000005,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:158028",
+    "image_id": 158028,
+    "ann_id": 1541784,
+    "file": "000000158028.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      138.07,
+      287.19,
+      238.38,
+      186.61
+    ],
+    "area": 26082.76405,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:346190",
+    "image_id": 346190,
+    "ann_id": 1042613,
+    "file": "000000346190.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      128.41,
+      25.12,
+      483.85,
+      345.22
+    ],
+    "area": 116701.21729999999,
+    "width": 640,
+    "height": 415,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:342478",
+    "image_id": 342478,
+    "ann_id": 1042646,
+    "file": "000000342478.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      60.89,
+      131.3,
+      326.23,
+      376.44
+    ],
+    "area": 54571.76665,
+    "width": 425,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:64146",
+    "image_id": 64146,
+    "ann_id": 1543803,
+    "file": "000000064146.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      96.58,
+      22.34,
+      347.38,
+      318.56
+    ],
+    "area": 61714.328800000025,
+    "width": 458,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:546963",
+    "image_id": 546963,
+    "ann_id": 1043524,
+    "file": "000000546963.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      93.84,
+      137.06,
+      464.9,
+      278.29
+    ],
+    "area": 57582.256,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:347121",
+    "image_id": 347121,
+    "ann_id": 1045046,
+    "file": "000000347121.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      87.48,
+      47.43,
+      317.38,
+      405.99
+    ],
+    "area": 70366.32694999999,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:347675",
+    "image_id": 347675,
+    "ann_id": 1043364,
+    "file": "000000347675.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      138.9,
+      70.14,
+      411.21,
+      521.23
+    ],
+    "area": 85576.573,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:533011",
+    "image_id": 533011,
+    "ann_id": 1545062,
+    "file": "000000533011.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      327.17,
+      218.04,
+      207.72,
+      213.1
+    ],
+    "area": 31154.863950000003,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:557360",
+    "image_id": 557360,
+    "ann_id": 1904932,
+    "file": "000000557360.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      217.71,
+      168.38,
+      242.69,
+      265.42
+    ],
+    "area": 38193.14280000001,
+    "width": 640,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:246199",
+    "image_id": 246199,
+    "ann_id": 1042225,
+    "file": "000000246199.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      266.16,
+      428.58,
+      373.84
+    ],
+    "area": 126605.59224999999,
+    "width": 429,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:289187",
+    "image_id": 289187,
+    "ann_id": 1043687,
+    "file": "000000289187.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      2.16,
+      3.24,
+      613.75,
+      264.27
+    ],
+    "area": 64764.344750000004,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:257328",
+    "image_id": 257328,
+    "ann_id": 1543729,
+    "file": "000000257328.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      17.26,
+      81.98,
+      442.96,
+      493.3
+    ],
+    "area": 144983.98439999996,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:224108",
+    "image_id": 224108,
+    "ann_id": 1043015,
+    "file": "000000224108.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      89.99,
+      202.71,
+      367.6,
+      219.22
+    ],
+    "area": 43092.59079999998,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:476562",
+    "image_id": 476562,
+    "ann_id": 1042447,
+    "file": "000000476562.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      375.45,
+      154.12,
+      236.55,
+      389.21
+    ],
+    "area": 58922.918750000004,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:84005",
+    "image_id": 84005,
+    "ann_id": 1541891,
+    "file": "000000084005.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      139.44,
+      81.02,
+      222.53,
+      266.46
+    ],
+    "area": 39705.62930000001,
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:427666",
+    "image_id": 427666,
+    "ann_id": 1042079,
+    "file": "000000427666.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      292.01,
+      39.25,
+      195.31,
+      335.09
+    ],
+    "area": 24223.791600000004,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:153618",
+    "image_id": 153618,
+    "ann_id": 1543900,
+    "file": "000000153618.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      208.07,
+      111.93,
+      154.98,
+      433.36
+    ],
+    "area": 35753.42320000001,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:298142",
+    "image_id": 298142,
+    "ann_id": 1041439,
+    "file": "000000298142.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      257.76,
+      250.07,
+      277.0,
+      147.15
+    ],
+    "area": 28399.438050000004,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:2279",
+    "image_id": 2279,
+    "ann_id": 1545498,
+    "file": "000000002279.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      170.25,
+      62.63,
+      147.75,
+      238.5
+    ],
+    "area": 28115.23125,
+    "width": 500,
+    "height": 333,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:491029",
+    "image_id": 491029,
+    "ann_id": 1042569,
+    "file": "000000491029.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      205.53,
+      15.04,
+      434.47,
+      225.96
+    ],
+    "area": 64856.38124999998,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:264389",
+    "image_id": 264389,
+    "ann_id": 1043691,
+    "file": "000000264389.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      232.21,
+      34.54,
+      261.96,
+      387.66
+    ],
+    "area": 53565.3333,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:378790",
+    "image_id": 378790,
+    "ann_id": 1042199,
+    "file": "000000378790.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      142.95,
+      55.41,
+      434.61,
+      365.44
+    ],
+    "area": 64762.93014999999,
+    "width": 640,
+    "height": 513,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:117512",
+    "image_id": 117512,
+    "ann_id": 1044438,
+    "file": "000000117512.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      45.18,
+      208.94,
+      454.02,
+      150.21
+    ],
+    "area": 34531.458849999995,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:160889",
+    "image_id": 160889,
+    "ann_id": 1043300,
+    "file": "000000160889.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      33.71,
+      64.72,
+      303.37,
+      160.45
+    ],
+    "area": 31323.46959999999,
+    "width": 500,
+    "height": 300,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:397693",
+    "image_id": 397693,
+    "ann_id": 1542408,
+    "file": "000000397693.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      152.22,
+      17.02,
+      340.03,
+      311.25
+    ],
+    "area": 67916.15365000001,
+    "width": 500,
+    "height": 337,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:383762",
+    "image_id": 383762,
+    "ann_id": 1544004,
+    "file": "000000383762.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      3.14,
+      0.78,
+      245.47,
+      186.66
+    ],
+    "area": 36374.9087,
+    "width": 640,
+    "height": 349,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:370388",
+    "image_id": 370388,
+    "ann_id": 1543246,
+    "file": "000000370388.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      14.93,
+      8.0,
+      338.61,
+      281.82
+    ],
+    "area": 72456.94409999998,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:516895",
+    "image_id": 516895,
+    "ann_id": 1042264,
+    "file": "000000516895.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      230.38,
+      411.17,
+      160.31,
+      228.13
+    ],
+    "area": 26091.692349999994,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:450961",
+    "image_id": 450961,
+    "ann_id": 1548118,
+    "file": "000000450961.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      3.24,
+      171.33,
+      148.85,
+      299.86
+    ],
+    "area": 34006.91115,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:45558",
+    "image_id": 45558,
+    "ann_id": 1542258,
+    "file": "000000045558.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      128.36,
+      252.4,
+      408.81,
+      148.86
+    ],
+    "area": 34366.91075,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:384512",
+    "image_id": 384512,
+    "ann_id": 1041938,
+    "file": "000000384512.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      15.79,
+      35.4,
+      484.21,
+      300.6
+    ],
+    "area": 112415.76985,
+    "width": 500,
+    "height": 336,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:313244",
+    "image_id": 313244,
+    "ann_id": 1043032,
+    "file": "000000313244.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.75,
+      0.75,
+      177.35,
+      327.76
+    ],
+    "area": 39503.704750000004,
+    "width": 500,
+    "height": 333,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:376454",
+    "image_id": 376454,
+    "ann_id": 1045030,
+    "file": "000000376454.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      73.25,
+      12.86,
+      256.87,
+      270.14
+    ],
+    "area": 42499.902400000006,
+    "width": 640,
+    "height": 478,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:434884",
+    "image_id": 434884,
+    "ann_id": 1548157,
+    "file": "000000434884.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      1.08,
+      74.25,
+      204.94,
+      256.72
+    ],
+    "area": 40071.788550000005,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:573829",
+    "image_id": 573829,
+    "ann_id": 1045035,
+    "file": "000000573829.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      33.13,
+      236.25,
+      582.78,
+      171.67
+    ],
+    "area": 78317.1313,
+    "width": 640,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:44815",
+    "image_id": 44815,
+    "ann_id": 1046281,
+    "file": "000000044815.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      1.13,
+      40.19,
+      554.72,
+      404.15
+    ],
+    "area": 116515.61954999999,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:204683",
+    "image_id": 204683,
+    "ann_id": 1042740,
+    "file": "000000204683.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      62.37,
+      73.89,
+      220.7,
+      239.88
+    ],
+    "area": 23121.84534999999,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:538776",
+    "image_id": 538776,
+    "ann_id": 1042581,
+    "file": "000000538776.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      209.49,
+      139.88,
+      261.63,
+      226.02
+    ],
+    "area": 24284.617049999993,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:543573",
+    "image_id": 543573,
+    "ann_id": 1548124,
+    "file": "000000543573.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      105.34,
+      179.49,
+      214.88
+    ],
+    "area": 16329.293500000002,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:172910",
+    "image_id": 172910,
+    "ann_id": 1542198,
+    "file": "000000172910.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      166.83,
+      5.51,
+      145.26,
+      545.08
+    ],
+    "area": 36156.678700000004,
+    "width": 428,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:533041",
+    "image_id": 533041,
+    "ann_id": 1542955,
+    "file": "000000533041.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      172.92,
+      197.9,
+      293.91,
+      281.1
+    ],
+    "area": 50696.71795,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:215405",
+    "image_id": 215405,
+    "ann_id": 1043823,
+    "file": "000000215405.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      46.16,
+      133.17,
+      552.99,
+      193.81
+    ],
+    "area": 45170.49580000001,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:64602",
+    "image_id": 64602,
+    "ann_id": 1042705,
+    "file": "000000064602.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      422.21,
+      164.03,
+      217.79,
+      262.97
+    ],
+    "area": 44673.48304999999,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:61755",
+    "image_id": 61755,
+    "ann_id": 1045230,
+    "file": "000000061755.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      237.36,
+      18.01,
+      161.43,
+      164.72
+    ],
+    "area": 17121.4396,
+    "width": 500,
+    "height": 333,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:93469",
+    "image_id": 93469,
+    "ann_id": 1043851,
+    "file": "000000093469.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      296.02,
+      205.8,
+      193.49,
+      273.61
+    ],
+    "area": 33263.656599999995,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:458756",
+    "image_id": 458756,
+    "ann_id": 1041551,
+    "file": "000000458756.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      92.02,
+      232.13,
+      393.93,
+      113.51
+    ],
+    "area": 24763.35005,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:168738",
+    "image_id": 168738,
+    "ann_id": 1042567,
+    "file": "000000168738.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      35.87,
+      125.32,
+      351.57,
+      180.81
+    ],
+    "area": 25663.410849999997,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:559425",
+    "image_id": 559425,
+    "ann_id": 1042538,
+    "file": "000000559425.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      204.93,
+      80.82,
+      154.07,
+      373.93
+    ],
+    "area": 41227.35089999999,
+    "width": 359,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:61382",
+    "image_id": 61382,
+    "ann_id": 1044168,
+    "file": "000000061382.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      28.61,
+      310.21,
+      334.31,
+      301.18
+    ],
+    "area": 66211.87325000002,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:578652",
+    "image_id": 578652,
+    "ann_id": 1545854,
+    "file": "000000578652.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      73.35,
+      282.61,
+      270.74
+    ],
+    "area": 45532.76765,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:108669",
+    "image_id": 108669,
+    "ann_id": 1044490,
+    "file": "000000108669.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      127.89,
+      0.0,
+      512.11,
+      310.1
+    ],
+    "area": 114149.0836,
+    "width": 640,
+    "height": 481,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:497855",
+    "image_id": 497855,
+    "ann_id": 1041636,
+    "file": "000000497855.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      49.66,
+      0.0,
+      189.1,
+      363.58
+    ],
+    "area": 57398.4019,
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:224289",
+    "image_id": 224289,
+    "ann_id": 1044404,
+    "file": "000000224289.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      338.82,
+      44.05,
+      136.66,
+      370.44
+    ],
+    "area": 27573.61760000001,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:715",
+    "image_id": 715,
+    "ann_id": 1044098,
+    "file": "000000000715.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      227.25,
+      244.91,
+      283.06,
+      188.98
+    ],
+    "area": 27627.36860000001,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:433063",
+    "image_id": 433063,
+    "ann_id": 1543426,
+    "file": "000000433063.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      410.67,
+      13.08,
+      229.22,
+      318.03
+    ],
+    "area": 35297.471000000005,
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:267956",
+    "image_id": 267956,
+    "ann_id": 1043729,
+    "file": "000000267956.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      38.59,
+      38.31,
+      305.37,
+      332.22
+    ],
+    "area": 47996.9649,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:110252",
+    "image_id": 110252,
+    "ann_id": 1544196,
+    "file": "000000110252.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      116.01,
+      640.0,
+      308.31
+    ],
+    "area": 69977.90869999999,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:434039",
+    "image_id": 434039,
+    "ann_id": 1543258,
+    "file": "000000434039.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      28.85,
+      311.62,
+      393.38
+    ],
+    "area": 98129.08864999999,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:250949",
+    "image_id": 250949,
+    "ann_id": 1042041,
+    "file": "000000250949.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      159.01,
+      158.15,
+      302.33,
+      204.23
+    ],
+    "area": 37023.98205000002,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:96958",
+    "image_id": 96958,
+    "ann_id": 1904848,
+    "file": "000000096958.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      159.58,
+      129.13,
+      213.18,
+      320.38
+    ],
+    "area": 29271.550249999993,
+    "width": 640,
+    "height": 469,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:529786",
+    "image_id": 529786,
+    "ann_id": 1042383,
+    "file": "000000529786.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      169.34,
+      99.61,
+      198.63,
+      540.39
+    ],
+    "area": 72925.71649999998,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:58307",
+    "image_id": 58307,
+    "ann_id": 1043501,
+    "file": "000000058307.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      220.13,
+      145.25,
+      227.1,
+      291.9
+    ],
+    "area": 36248.230650000005,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:315974",
+    "image_id": 315974,
+    "ann_id": 1043088,
+    "file": "000000315974.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      4.8,
+      25.91,
+      620.83,
+      282.11
+    ],
+    "area": 115261.88339999998,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:430396",
+    "image_id": 430396,
+    "ann_id": 1044102,
+    "file": "000000430396.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      121.41,
+      121.55,
+      355.22,
+      404.68
+    ],
+    "area": 40035.26489999999,
+    "width": 640,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:255992",
+    "image_id": 255992,
+    "ann_id": 1546090,
+    "file": "000000255992.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      11.54,
+      4.33,
+      216.39,
+      321.21
+    ],
+    "area": 54137.749599999996,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:230490",
+    "image_id": 230490,
+    "ann_id": 1044362,
+    "file": "000000230490.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      44.35,
+      70.34,
+      356.33,
+      218.95
+    ],
+    "area": 43939.87709999998,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:192744",
+    "image_id": 192744,
+    "ann_id": 1042182,
+    "file": "000000192744.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      344.0,
+      5.28,
+      259.53,
+      220.0
+    ],
+    "area": 24310.447150000015,
+    "width": 640,
+    "height": 408,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:9452",
+    "image_id": 9452,
+    "ann_id": 1543266,
+    "file": "000000009452.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      237.98,
+      335.1,
+      369.62
+    ],
+    "area": 42435.403949999985,
+    "width": 425,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:400612",
+    "image_id": 400612,
+    "ann_id": 1544170,
+    "file": "000000400612.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      24.45,
+      0.1,
+      317.01,
+      547.83
+    ],
+    "area": 120386.00399999996,
+    "width": 360,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:557005",
+    "image_id": 557005,
+    "ann_id": 1042814,
+    "file": "000000557005.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      71.03,
+      100.98,
+      539.19,
+      259.02
+    ],
+    "area": 50445.233950000016,
+    "width": 640,
+    "height": 360,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:133275",
+    "image_id": 133275,
+    "ann_id": 1042393,
+    "file": "000000133275.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      83.08,
+      291.13,
+      244.48,
+      321.91
+    ],
+    "area": 44619.85074999999,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:58117",
+    "image_id": 58117,
+    "ann_id": 1042927,
+    "file": "000000058117.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      74.74,
+      232.95,
+      404.96,
+      407.05
+    ],
+    "area": 96555.3648,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:158279",
+    "image_id": 158279,
+    "ann_id": 1043129,
+    "file": "000000158279.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      124.26,
+      403.04,
+      515.74,
+      222.97
+    ],
+    "area": 67726.4898,
+    "width": 640,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:371683",
+    "image_id": 371683,
+    "ann_id": 1042250,
+    "file": "000000371683.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      229.62,
+      163.37,
+      172.1,
+      455.47
+    ],
+    "area": 51760.23145000001,
+    "width": 422,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:432506",
+    "image_id": 432506,
+    "ann_id": 1548111,
+    "file": "000000432506.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      2.36,
+      242.07,
+      269.46,
+      169.45
+    ],
+    "area": 36507.9813,
+    "width": 640,
+    "height": 423,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:511828",
+    "image_id": 511828,
+    "ann_id": 1042588,
+    "file": "000000511828.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      156.18,
+      49.14,
+      269.82,
+      204.26
+    ],
+    "area": 30623.124499999998,
+    "width": 426,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:187132",
+    "image_id": 187132,
+    "ann_id": 1042415,
+    "file": "000000187132.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      260.31,
+      0.0,
+      176.69,
+      177.9
+    ],
+    "area": 23425.48285,
+    "width": 437,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:100078",
+    "image_id": 100078,
+    "ann_id": 1045088,
+    "file": "000000100078.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      230.37,
+      2.08,
+      409.63,
+      259.17
+    ],
+    "area": 87217.34494999998,
+    "width": 640,
+    "height": 424,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:528176",
+    "image_id": 528176,
+    "ann_id": 1042160,
+    "file": "000000528176.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      128.47,
+      1.5,
+      371.53,
+      251.87
+    ],
+    "area": 69377.39464999997,
+    "width": 500,
+    "height": 323,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:158854",
+    "image_id": 158854,
+    "ann_id": 1044259,
+    "file": "000000158854.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      78.39,
+      126.11,
+      171.3,
+      326.19
+    ],
+    "area": 43614.2041,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:543541",
+    "image_id": 543541,
+    "ann_id": 1042610,
+    "file": "000000543541.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      132.6,
+      100.93,
+      327.7,
+      269.42
+    ],
+    "area": 57919.765199999994,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:198367",
+    "image_id": 198367,
+    "ann_id": 1042060,
+    "file": "000000198367.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      206.64,
+      96.14,
+      245.38,
+      328.61
+    ],
+    "area": 42016.35519999999,
+    "width": 639,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:306722",
+    "image_id": 306722,
+    "ann_id": 1042764,
+    "file": "000000306722.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      136.26,
+      72.93,
+      503.74,
+      246.6
+    ],
+    "area": 57533.034799999994,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:541472",
+    "image_id": 541472,
+    "ann_id": 1041569,
+    "file": "000000541472.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.97,
+      2.66,
+      639.03,
+      320.76
+    ],
+    "area": 119295.91840000002,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:383805",
+    "image_id": 383805,
+    "ann_id": 1045253,
+    "file": "000000383805.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      44.05,
+      169.22,
+      328.66,
+      195.39
+    ],
+    "area": 35214.03040000001,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:484103",
+    "image_id": 484103,
+    "ann_id": 1543180,
+    "file": "000000484103.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      20.13,
+      117.49,
+      503.38,
+      319.28
+    ],
+    "area": 89623.54315,
+    "width": 571,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:335810",
+    "image_id": 335810,
+    "ann_id": 1043441,
+    "file": "000000335810.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      203.09,
+      0.89,
+      436.91,
+      224.77
+    ],
+    "area": 30216.32325000002,
+    "width": 640,
+    "height": 429,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:80517",
+    "image_id": 80517,
+    "ann_id": 1046320,
+    "file": "000000080517.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      149.87,
+      397.8,
+      335.13,
+      175.53
+    ],
+    "area": 42851.648499999974,
+    "width": 485,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:540164",
+    "image_id": 540164,
+    "ann_id": 1043633,
+    "file": "000000540164.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      135.36,
+      0.83,
+      304.27,
+      212.2
+    ],
+    "area": 36257.872899999995,
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:132019",
+    "image_id": 132019,
+    "ann_id": 1545965,
+    "file": "000000132019.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      75.85,
+      175.13,
+      564.15,
+      207.87
+    ],
+    "area": 98386.71184999996,
+    "width": 640,
+    "height": 383,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:229274",
+    "image_id": 229274,
+    "ann_id": 1042998,
+    "file": "000000229274.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      20.13,
+      48.46,
+      442.97,
+      543.64
+    ],
+    "area": 111638.97415000001,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:319452",
+    "image_id": 319452,
+    "ann_id": 1043993,
+    "file": "000000319452.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      68.89,
+      277.84,
+      422.4,
+      168.28
+    ],
+    "area": 41530.22880000002,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:203676",
+    "image_id": 203676,
+    "ann_id": 1044987,
+    "file": "000000203676.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      292.01,
+      21.66,
+      304.66,
+      563.16
+    ],
+    "area": 121883.75460000004,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:176758",
+    "image_id": 176758,
+    "ann_id": 1041506,
+    "file": "000000176758.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      14.06,
+      640.0,
+      460.67
+    ],
+    "area": 208688.85415,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:427749",
+    "image_id": 427749,
+    "ann_id": 1042297,
+    "file": "000000427749.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      16.28,
+      1.27,
+      294.6,
+      367.86
+    ],
+    "area": 61993.87625,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:58231",
+    "image_id": 58231,
+    "ann_id": 1541565,
+    "file": "000000058231.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      204.94,
+      142.89,
+      261.04,
+      337.11
+    ],
+    "area": 41228.0716,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:16123",
+    "image_id": 16123,
+    "ann_id": 1042756,
+    "file": "000000016123.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      18.26,
+      477.48,
+      359.55
+    ],
+    "area": 92663.39735,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:188752",
+    "image_id": 188752,
+    "ann_id": 1045836,
+    "file": "000000188752.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      235.92,
+      213.02,
+      167.17,
+      114.05
+    ],
+    "area": 15351.7873,
+    "width": 500,
+    "height": 332,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:372058",
+    "image_id": 372058,
+    "ann_id": 1044230,
+    "file": "000000372058.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      42.92,
+      138.92,
+      129.88,
+      339.95
+    ],
+    "area": 38000.13144999999,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:182812",
+    "image_id": 182812,
+    "ann_id": 1044604,
+    "file": "000000182812.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      1.0,
+      9.28,
+      194.54,
+      417.72
+    ],
+    "area": 37826.97405,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:389615",
+    "image_id": 389615,
+    "ann_id": 1543114,
+    "file": "000000389615.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      232.34,
+      51.03,
+      144.19,
+      299.65
+    ],
+    "area": 32731.582149999995,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:507533",
+    "image_id": 507533,
+    "ann_id": 1042087,
+    "file": "000000507533.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      155.77,
+      92.45,
+      386.75,
+      298.52
+    ],
+    "area": 68138.77835,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:527453",
+    "image_id": 527453,
+    "ann_id": 1042867,
+    "file": "000000527453.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      79.1,
+      155.42,
+      296.27,
+      457.35
+    ],
+    "area": 87372.00475,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:262748",
+    "image_id": 262748,
+    "ann_id": 1044431,
+    "file": "000000262748.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      95.07,
+      16.98,
+      347.45,
+      392.72
+    ],
+    "area": 27428.3645,
+    "width": 640,
+    "height": 481,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:383047",
+    "image_id": 383047,
+    "ann_id": 1542434,
+    "file": "000000383047.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      125.08,
+      306.77,
+      199.19,
+      179.4
+    ],
+    "area": 25250.021149999997,
+    "width": 346,
+    "height": 500,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:239801",
+    "image_id": 239801,
+    "ann_id": 1045319,
+    "file": "000000239801.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      475.12,
+      0.0,
+      164.88,
+      420.99
+    ],
+    "area": 47804.74875,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:308849",
+    "image_id": 308849,
+    "ann_id": 1041501,
+    "file": "000000308849.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      0.0,
+      500.4,
+      367.35
+    ],
+    "area": 116423.00924999996,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:32468",
+    "image_id": 32468,
+    "ann_id": 1543040,
+    "file": "000000032468.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      149.57,
+      326.47,
+      244.5,
+      304.9
+    ],
+    "area": 56803.1207,
+    "width": 419,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:6407",
+    "image_id": 6407,
+    "ann_id": 1041750,
+    "file": "000000006407.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      20.17,
+      360.45,
+      238.19,
+      139.55
+    ],
+    "area": 22505.914899999992,
+    "width": 375,
+    "height": 500,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:412874",
+    "image_id": 412874,
+    "ann_id": 1042462,
+    "file": "000000412874.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      150.93,
+      0.09,
+      428.91,
+      426.91
+    ],
+    "area": 114387.69820000001,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:45962",
+    "image_id": 45962,
+    "ann_id": 1543964,
+    "file": "000000045962.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      101.63,
+      81.83,
+      376.14,
+      192.69
+    ],
+    "area": 46516.9791,
+    "width": 640,
+    "height": 586,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:105620",
+    "image_id": 105620,
+    "ann_id": 1545157,
+    "file": "000000105620.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      267.03,
+      78.38,
+      372.97,
+      395.67
+    ],
+    "area": 51845.96935000001,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:260715",
+    "image_id": 260715,
+    "ann_id": 1041446,
+    "file": "000000260715.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      184.45,
+      228.75,
+      455.55,
+      243.77
+    ],
+    "area": 50508.688449999994,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:159682",
+    "image_id": 159682,
+    "ann_id": 1043968,
+    "file": "000000159682.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      205.82,
+      3.51,
+      274.81,
+      228.03
+    ],
+    "area": 28154.594599999993,
+    "width": 500,
+    "height": 497,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:21921",
+    "image_id": 21921,
+    "ann_id": 1043866,
+    "file": "000000021921.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      24.45,
+      132.31,
+      402.55,
+      360.99
+    ],
+    "area": 61748.83384999999,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:191078",
+    "image_id": 191078,
+    "ann_id": 1041699,
+    "file": "000000191078.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      291.08,
+      0.0,
+      284.37,
+      196.38
+    ],
+    "area": 33591.554950000005,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:452014",
+    "image_id": 452014,
+    "ann_id": 1044784,
+    "file": "000000452014.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      1.44,
+      612.0,
+      604.81
+    ],
+    "area": 243310.22259999998,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:563920",
+    "image_id": 563920,
+    "ann_id": 1042410,
+    "file": "000000563920.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      186.58,
+      69.77,
+      356.14,
+      217.41
+    ],
+    "area": 32503.46284999999,
+    "width": 640,
+    "height": 361,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:318820",
+    "image_id": 318820,
+    "ann_id": 1043065,
+    "file": "000000318820.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      76.22,
+      395.51,
+      284.77,
+      175.46
+    ],
+    "area": 28228.810500000007,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:414258",
+    "image_id": 414258,
+    "ann_id": 1044843,
+    "file": "000000414258.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      82.45,
+      65.51,
+      533.08,
+      408.84
+    ],
+    "area": 79141.45965,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:422705",
+    "image_id": 422705,
+    "ann_id": 1043971,
+    "file": "000000422705.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      130.63,
+      295.93,
+      257.89,
+      288.16
+    ],
+    "area": 31581.3899,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:71364",
+    "image_id": 71364,
+    "ann_id": 1044215,
+    "file": "000000071364.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      109.71,
+      73.29,
+      379.65,
+      171.11
+    ],
+    "area": 22778.5399,
+    "width": 500,
+    "height": 331,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:7934",
+    "image_id": 7934,
+    "ann_id": 1041440,
+    "file": "000000007934.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      2.16,
+      482.16,
+      303.1
+    ],
+    "area": 62585.46255,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:512630",
+    "image_id": 512630,
+    "ann_id": 1042913,
+    "file": "000000512630.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      283.33,
+      215.73,
+      352.36
+    ],
+    "area": 48884.0098,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:220777",
+    "image_id": 220777,
+    "ann_id": 1044029,
+    "file": "000000220777.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      185.22,
+      319.25,
+      262.03,
+      311.71
+    ],
+    "area": 28669.996300000013,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:429415",
+    "image_id": 429415,
+    "ann_id": 1044787,
+    "file": "000000429415.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      140.05,
+      90.35,
+      219.86,
+      204.8
+    ],
+    "area": 22488.650749999997,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:142698",
+    "image_id": 142698,
+    "ann_id": 1045301,
+    "file": "000000142698.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      76.23,
+      152.22,
+      422.71
+    ],
+    "area": 39441.84985,
+    "width": 375,
+    "height": 500,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:145856",
+    "image_id": 145856,
+    "ann_id": 1545185,
+    "file": "000000145856.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      499.36,
+      114.22,
+      140.64,
+      279.78
+    ],
+    "area": 25456.798550000007,
+    "width": 640,
+    "height": 394,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:512339",
+    "image_id": 512339,
+    "ann_id": 1043835,
+    "file": "000000512339.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      40.4,
+      105.17,
+      598.63,
+      272.82
+    ],
+    "area": 109354.08355000001,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:173684",
+    "image_id": 173684,
+    "ann_id": 1042203,
+    "file": "000000173684.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      169.16,
+      227.88,
+      207.67,
+      320.44
+    ],
+    "area": 39174.3533,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:43892",
+    "image_id": 43892,
+    "ann_id": 1043695,
+    "file": "000000043892.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      45.95,
+      45.95,
+      265.17,
+      348.46
+    ],
+    "area": 54178.91035,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:230152",
+    "image_id": 230152,
+    "ann_id": 1042688,
+    "file": "000000230152.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      60.4,
+      2.91,
+      577.08,
+      443.32
+    ],
+    "area": 111686.1653,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:132000",
+    "image_id": 132000,
+    "ann_id": 1041983,
+    "file": "000000132000.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      10.79,
+      238.2,
+      506.96,
+      114.34
+    ],
+    "area": 41594.4185,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:215910",
+    "image_id": 215910,
+    "ann_id": 1545564,
+    "file": "000000215910.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      157.84,
+      148.65,
+      287.57,
+      148.11
+    ],
+    "area": 27449.8256,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:352724",
+    "image_id": 352724,
+    "ann_id": 1043096,
+    "file": "000000352724.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      79.6,
+      234.72,
+      251.73,
+      202.74
+    ],
+    "area": 27926.582949999996,
+    "width": 540,
+    "height": 455,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:364797",
+    "image_id": 364797,
+    "ann_id": 1044719,
+    "file": "000000364797.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      8.08,
+      113.89,
+      505.75,
+      239.23
+    ],
+    "area": 36212.438850000006,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:48665",
+    "image_id": 48665,
+    "ann_id": 1044534,
+    "file": "000000048665.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      64.75,
+      319.0,
+      478.87,
+      280.09
+    ],
+    "area": 62873.364800000025,
+    "width": 588,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:169858",
+    "image_id": 169858,
+    "ann_id": 1042855,
+    "file": "000000169858.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      250.25,
+      92.04,
+      229.75,
+      542.21
+    ],
+    "area": 69696.68349999998,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:253810",
+    "image_id": 253810,
+    "ann_id": 1041856,
+    "file": "000000253810.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      67.6,
+      93.48,
+      214.29,
+      378.25
+    ],
+    "area": 49099.64105,
+    "width": 426,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:556956",
+    "image_id": 556956,
+    "ann_id": 1043726,
+    "file": "000000556956.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      0.0,
+      256.67,
+      218.04
+    ],
+    "area": 32673.16269999998,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:335834",
+    "image_id": 335834,
+    "ann_id": 1042932,
+    "file": "000000335834.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      2.88,
+      89.23,
+      637.12,
+      332.45
+    ],
+    "area": 162207.91329999996,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:504554",
+    "image_id": 504554,
+    "ann_id": 1044738,
+    "file": "000000504554.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      216.18,
+      0.88,
+      161.47,
+      270.88
+    ],
+    "area": 32072.50975,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:496116",
+    "image_id": 496116,
+    "ann_id": 1046268,
+    "file": "000000496116.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      198.29,
+      248.61,
+      280.19,
+      188.59
+    ],
+    "area": 27833.990000000013,
+    "width": 640,
+    "height": 458,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:576614",
+    "image_id": 576614,
+    "ann_id": 1042668,
+    "file": "000000576614.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      125.28,
+      15.13,
+      229.54,
+      295.13
+    ],
+    "area": 35791.865750000004,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:240798",
+    "image_id": 240798,
+    "ann_id": 1042518,
+    "file": "000000240798.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      121.61,
+      127.1,
+      518.39,
+      260.45
+    ],
+    "area": 89233.6891,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:428109",
+    "image_id": 428109,
+    "ann_id": 1041727,
+    "file": "000000428109.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      1.38,
+      119.65,
+      430.46,
+      185.66
+    ],
+    "area": 39018.517199999995,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:126296",
+    "image_id": 126296,
+    "ann_id": 1041883,
+    "file": "000000126296.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      0.1,
+      359.55,
+      622.74
+    ],
+    "area": 214541.35460000002,
+    "width": 360,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:555368",
+    "image_id": 555368,
+    "ann_id": 1044234,
+    "file": "000000555368.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      93.36,
+      6.02,
+      287.63,
+      185.23
+    ],
+    "area": 28566.2463,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:150367",
+    "image_id": 150367,
+    "ann_id": 1042085,
+    "file": "000000150367.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      193.53,
+      147.76,
+      274.32,
+      199.97
+    ],
+    "area": 28947.010349999997,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:96554",
+    "image_id": 96554,
+    "ann_id": 1541735,
+    "file": "000000096554.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      3.74,
+      78.34,
+      159.39,
+      210.28
+    ],
+    "area": 19751.860549999998,
+    "width": 500,
+    "height": 333,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:326477",
+    "image_id": 326477,
+    "ann_id": 1043762,
+    "file": "000000326477.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      175.6,
+      5.76,
+      219.73,
+      192.87
+    ],
+    "area": 23751.912549999994,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:361656",
+    "image_id": 361656,
+    "ann_id": 1042512,
+    "file": "000000361656.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      41.07,
+      0.32,
+      598.93,
+      425.68
+    ],
+    "area": 220945.54220000003,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:134072",
+    "image_id": 134072,
+    "ann_id": 1041491,
+    "file": "000000134072.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      130.76,
+      63.76,
+      135.79,
+      251.46
+    ],
+    "area": 17082.1333,
+    "width": 356,
+    "height": 373,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:97841",
+    "image_id": 97841,
+    "ann_id": 1041700,
+    "file": "000000097841.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      182.51,
+      0.0,
+      227.23,
+      204.41
+    ],
+    "area": 27792.683300000004,
+    "width": 640,
+    "height": 407,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:222994",
+    "image_id": 222994,
+    "ann_id": 1042935,
+    "file": "000000222994.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      98.88,
+      147.19,
+      266.29,
+      214.61
+    ],
+    "area": 39942.59190000001,
+    "width": 419,
+    "height": 500,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:351057",
+    "image_id": 351057,
+    "ann_id": 1044189,
+    "file": "000000351057.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      46.46,
+      209.98,
+      281.78,
+      254.8
+    ],
+    "area": 27211.913949999995,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:36417",
+    "image_id": 36417,
+    "ann_id": 1044713,
+    "file": "000000036417.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      36.83,
+      113.68,
+      564.39,
+      283.22
+    ],
+    "area": 61523.5046,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:577853",
+    "image_id": 577853,
+    "ann_id": 1542879,
+    "file": "000000577853.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      91.06,
+      81.18,
+      388.24,
+      486.39
+    ],
+    "area": 98908.75499999998,
+    "width": 566,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:523267",
+    "image_id": 523267,
+    "ann_id": 1044968,
+    "file": "000000523267.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      204.16,
+      66.26,
+      238.08,
+      413.74
+    ],
+    "area": 51127.043600000005,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:265472",
+    "image_id": 265472,
+    "ann_id": 1044355,
+    "file": "000000265472.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      90.88,
+      38.0,
+      209.12,
+      135.0
+    ],
+    "area": 16300.884100000005,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:424174",
+    "image_id": 424174,
+    "ann_id": 2186274,
+    "file": "000000424174.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      202.81,
+      189.51,
+      246.02,
+      217.76
+    ],
+    "area": 29097.050450000002,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:373036",
+    "image_id": 373036,
+    "ann_id": 1042249,
+    "file": "000000373036.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.09,
+      180.77,
+      201.38,
+      89.23
+    ],
+    "area": 14067.0006,
+    "width": 360,
+    "height": 270,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:397075",
+    "image_id": 397075,
+    "ann_id": 1042941,
+    "file": "000000397075.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      6.75,
+      67.48,
+      221.73,
+      325.85
+    ],
+    "area": 40579.9349,
+    "width": 640,
+    "height": 429,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:579664",
+    "image_id": 579664,
+    "ann_id": 1042339,
+    "file": "000000579664.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      334.88,
+      213.08,
+      305.12,
+      178.48
+    ],
+    "area": 41849.97179999999,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:46615",
+    "image_id": 46615,
+    "ann_id": 1041510,
+    "file": "000000046615.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      178.09,
+      88.18,
+      353.32,
+      296.83
+    ],
+    "area": 55123.214,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:568137",
+    "image_id": 568137,
+    "ann_id": 1042665,
+    "file": "000000568137.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      326.47,
+      214.29,
+      151.01,
+      300.59
+    ],
+    "area": 27497.08125,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:395444",
+    "image_id": 395444,
+    "ann_id": 1041456,
+    "file": "000000395444.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      88.07,
+      120.68,
+      444.19,
+      272.84
+    ],
+    "area": 50714.814450000005,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:96327",
+    "image_id": 96327,
+    "ann_id": 1042189,
+    "file": "000000096327.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      211.37,
+      115.05,
+      428.63,
+      524.95
+    ],
+    "area": 104071.19699999999,
+    "width": 640,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:513887",
+    "image_id": 513887,
+    "ann_id": 1044146,
+    "file": "000000513887.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      106.16,
+      31.62,
+      423.53,
+      408.85
+    ],
+    "area": 96857.47934999995,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:41438",
+    "image_id": 41438,
+    "ann_id": 1042822,
+    "file": "000000041438.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      21.11,
+      91.15,
+      413.53,
+      260.97
+    ],
+    "area": 68237.56094999998,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:549518",
+    "image_id": 549518,
+    "ann_id": 1043471,
+    "file": "000000549518.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      84.85,
+      359.55,
+      378.25,
+      245.93
+    ],
+    "area": 40095.703050000004,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:560047",
+    "image_id": 560047,
+    "ann_id": 1043520,
+    "file": "000000560047.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      14.78,
+      1.14,
+      229.69,
+      479.84
+    ],
+    "area": 55262.1718,
+    "width": 640,
+    "height": 506,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:234347",
+    "image_id": 234347,
+    "ann_id": 1041660,
+    "file": "000000234347.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      338.7,
+      107.87,
+      249.17,
+      366.74
+    ],
+    "area": 42561.371,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:174892",
+    "image_id": 174892,
+    "ann_id": 2110741,
+    "file": "000000174892.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      55.42,
+      41.13,
+      213.33,
+      126.24
+    ],
+    "area": 20495.916350000003,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:26263",
+    "image_id": 26263,
+    "ann_id": 1043410,
+    "file": "000000026263.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      51.82,
+      166.0,
+      525.83,
+      113.23
+    ],
+    "area": 39754.10294999999,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:240279",
+    "image_id": 240279,
+    "ann_id": 1045155,
+    "file": "000000240279.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      240.0,
+      189.86,
+      173.83,
+      260.19
+    ],
+    "area": 35197.87655,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:310094",
+    "image_id": 310094,
+    "ann_id": 1044439,
+    "file": "000000310094.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      97.82,
+      192.75,
+      196.32,
+      238.95
+    ],
+    "area": 29058.305000000004,
+    "width": 375,
+    "height": 500,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:21260",
+    "image_id": 21260,
+    "ann_id": 1044876,
+    "file": "000000021260.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      282.13,
+      342.03,
+      197.87,
+      252.16
+    ],
+    "area": 28893.208600000005,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:114549",
+    "image_id": 114549,
+    "ann_id": 1042136,
+    "file": "000000114549.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      129.51,
+      70.63,
+      170.03,
+      262.84
+    ],
+    "area": 33343.11695,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:360948",
+    "image_id": 360948,
+    "ann_id": 1043821,
+    "file": "000000360948.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      11.36,
+      24.43,
+      598.14,
+      390.88
+    ],
+    "area": 81768.35100000001,
+    "width": 640,
+    "height": 424,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:428375",
+    "image_id": 428375,
+    "ann_id": 1042586,
+    "file": "000000428375.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      2.16,
+      30.2,
+      637.84,
+      264.27
+    ],
+    "area": 81357.0064,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:454731",
+    "image_id": 454731,
+    "ann_id": 1042096,
+    "file": "000000454731.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      241.75,
+      171.22,
+      398.25,
+      183.34
+    ],
+    "area": 34668.449049999996,
+    "width": 640,
+    "height": 361,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:215655",
+    "image_id": 215655,
+    "ann_id": 1043740,
+    "file": "000000215655.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      14.43,
+      46.17,
+      500.13,
+      381.83
+    ],
+    "area": 39272.74670000001,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:222444",
+    "image_id": 222444,
+    "ann_id": 1543080,
+    "file": "000000222444.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      46.0,
+      54.57,
+      308.26,
+      141.91
+    ],
+    "area": 15210.056199999999,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:122851",
+    "image_id": 122851,
+    "ann_id": 1545878,
+    "file": "000000122851.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      333.19,
+      282.44,
+      211.76,
+      144.56
+    ],
+    "area": 22105.165000000005,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:87096",
+    "image_id": 87096,
+    "ann_id": 1542557,
+    "file": "000000087096.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      0.0,
+      171.57,
+      314.63
+    ],
+    "area": 40769.83355000001,
+    "width": 425,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:495975",
+    "image_id": 495975,
+    "ann_id": 1046254,
+    "file": "000000495975.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      304.23,
+      197.41,
+      335.32,
+      282.59
+    ],
+    "area": 70952.4264,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:198764",
+    "image_id": 198764,
+    "ann_id": 1042072,
+    "file": "000000198764.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      25.89,
+      38.9,
+      516.67,
+      225.44
+    ],
+    "area": 95119.28099999997,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:33946",
+    "image_id": 33946,
+    "ann_id": 1042766,
+    "file": "000000033946.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      202.79,
+      106.52,
+      140.94,
+      427.15
+    ],
+    "area": 31319.112899999996,
+    "width": 483,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:197962",
+    "image_id": 197962,
+    "ann_id": 1041515,
+    "file": "000000197962.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      21.91,
+      117.88,
+      561.34,
+      345.02
+    ],
+    "area": 118323.57115,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:331339",
+    "image_id": 331339,
+    "ann_id": 1043137,
+    "file": "000000331339.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      96.0,
+      38.72,
+      351.91,
+      243.68
+    ],
+    "area": 23182.61105,
+    "width": 640,
+    "height": 359,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:419989",
+    "image_id": 419989,
+    "ann_id": 1045826,
+    "file": "000000419989.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      379.68,
+      1.0,
+      259.31,
+      321.51
+    ],
+    "area": 65441.7349,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:261064",
+    "image_id": 261064,
+    "ann_id": 1541762,
+    "file": "000000261064.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      19.42,
+      0.0,
+      511.28,
+      162.88
+    ],
+    "area": 48871.614100000006,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:6809",
+    "image_id": 6809,
+    "ann_id": 1043192,
+    "file": "000000006809.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      133.75,
+      25.89,
+      261.04,
+      296.63
+    ],
+    "area": 58648.08215,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:78827",
+    "image_id": 78827,
+    "ann_id": 1545022,
+    "file": "000000078827.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      31.71,
+      198.2,
+      396.29,
+      426.66
+    ],
+    "area": 97800.43744999997,
+    "width": 428,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:146841",
+    "image_id": 146841,
+    "ann_id": 1046380,
+    "file": "000000146841.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      37.35,
+      250.68,
+      379.56,
+      169.59
+    ],
+    "area": 30518.400750000008,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:248324",
+    "image_id": 248324,
+    "ann_id": 1542414,
+    "file": "000000248324.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      115.15,
+      0.0,
+      524.85,
+      254.28
+    ],
+    "area": 56443.637,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:521763",
+    "image_id": 521763,
+    "ann_id": 1043121,
+    "file": "000000521763.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      220.7,
+      151.61,
+      270.59,
+      210.14
+    ],
+    "area": 33566.3207,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:65836",
+    "image_id": 65836,
+    "ann_id": 1042313,
+    "file": "000000065836.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      140.04,
+      260.67,
+      305.03,
+      348.01
+    ],
+    "area": 42895.81739999999,
+    "width": 640,
+    "height": 617,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:23729",
+    "image_id": 23729,
+    "ann_id": 1041904,
+    "file": "000000023729.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      38.83,
+      11.94,
+      539.33,
+      460.58
+    ],
+    "area": 134597.55329999997,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:455345",
+    "image_id": 455345,
+    "ann_id": 1042047,
+    "file": "000000455345.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      0.0,
+      480.0,
+      313.53
+    ],
+    "area": 97931.63374999998,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:484364",
+    "image_id": 484364,
+    "ann_id": 1547309,
+    "file": "000000484364.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      73.35,
+      261.75,
+      353.8,
+      257.44
+    ],
+    "area": 33921.586599999995,
+    "width": 428,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:60269",
+    "image_id": 60269,
+    "ann_id": 1041864,
+    "file": "000000060269.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      281.74,
+      194.9,
+      358.26,
+      221.57
+    ],
+    "area": 47855.35850000001,
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:186968",
+    "image_id": 186968,
+    "ann_id": 1042137,
+    "file": "000000186968.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      89.89,
+      333.71,
+      329.21,
+      123.59
+    ],
+    "area": 25515.538750000003,
+    "width": 500,
+    "height": 500,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:147591",
+    "image_id": 147591,
+    "ann_id": 1542911,
+    "file": "000000147591.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      104.84,
+      21.16,
+      408.76,
+      401.07
+    ],
+    "area": 118641.34304999998,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:416026",
+    "image_id": 416026,
+    "ann_id": 1546525,
+    "file": "000000416026.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      163.51,
+      0.96,
+      398.18,
+      304.89
+    ],
+    "area": 56474.34634999999,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:329895",
+    "image_id": 329895,
+    "ann_id": 1044873,
+    "file": "000000329895.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      219.03,
+      54.25,
+      243.13,
+      349.64
+    ],
+    "area": 48221.745899999994,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:420303",
+    "image_id": 420303,
+    "ann_id": 1042112,
+    "file": "000000420303.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      187.69,
+      0.07,
+      416.35,
+      454.11
+    ],
+    "area": 58534.07179999998,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:124157",
+    "image_id": 124157,
+    "ann_id": 2110845,
+    "file": "000000124157.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      56.22,
+      638.84,
+      363.79
+    ],
+    "area": 174664.57745,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:349402",
+    "image_id": 349402,
+    "ann_id": 1546316,
+    "file": "000000349402.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      100.54,
+      92.43,
+      156.76,
+      225.95
+    ],
+    "area": 25336.43115,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:260418",
+    "image_id": 260418,
+    "ann_id": 1042335,
+    "file": "000000260418.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      15.02,
+      248.82,
+      349.79,
+      176.18
+    ],
+    "area": 39704.487499999996,
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:344875",
+    "image_id": 344875,
+    "ann_id": 1041912,
+    "file": "000000344875.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      142.06,
+      98.15,
+      406.82,
+      264.76
+    ],
+    "area": 50794.31165000001,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:499913",
+    "image_id": 499913,
+    "ann_id": 1042693,
+    "file": "000000499913.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      120.81,
+      42.07,
+      496.18,
+      218.96
+    ],
+    "area": 44858.24749999999,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:8081",
+    "image_id": 8081,
+    "ann_id": 1543577,
+    "file": "000000008081.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      67.6,
+      61.4,
+      184.09,
+      379.69
+    ],
+    "area": 55746.45389999999,
+    "width": 385,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:8773",
+    "image_id": 8773,
+    "ann_id": 1041902,
+    "file": "000000008773.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      51.78,
+      83.18,
+      340.85,
+      325.03
+    ],
+    "area": 43359.24549999998,
+    "width": 424,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:95737",
+    "image_id": 95737,
+    "ann_id": 1043815,
+    "file": "000000095737.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      185.32,
+      95.62,
+      262.7,
+      239.77
+    ],
+    "area": 30772.640199999987,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:512275",
+    "image_id": 512275,
+    "ann_id": 1043452,
+    "file": "000000512275.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      248.09,
+      51.78,
+      317.12,
+      392.62
+    ],
+    "area": 68938.24755000001,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:262180",
+    "image_id": 262180,
+    "ann_id": 1042476,
+    "file": "000000262180.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      92.76,
+      136.99,
+      390.48,
+      299.86
+    ],
+    "area": 54302.99240000002,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:479129",
+    "image_id": 479129,
+    "ann_id": 1044081,
+    "file": "000000479129.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      118.93,
+      122.23,
+      292.91,
+      254.37
+    ],
+    "area": 28106.8632,
+    "width": 640,
+    "height": 468,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:304374",
+    "image_id": 304374,
+    "ann_id": 1545064,
+    "file": "000000304374.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      7.96,
+      17.37,
+      338.88,
+      264.9
+    ],
+    "area": 62667.285899999995,
+    "width": 500,
+    "height": 354,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:160260",
+    "image_id": 160260,
+    "ann_id": 1546810,
+    "file": "000000160260.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      203.24,
+      71.35,
+      234.96,
+      283.97
+    ],
+    "area": 35606.499099999986,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:350842",
+    "image_id": 350842,
+    "ann_id": 1046716,
+    "file": "000000350842.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      307.15,
+      69.49,
+      332.85,
+      277.95
+    ],
+    "area": 43031.92185000002,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:433472",
+    "image_id": 433472,
+    "ann_id": 1045795,
+    "file": "000000433472.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      28.8,
+      87.4,
+      264.96,
+      309.6
+    ],
+    "area": 46764.864,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:222987",
+    "image_id": 222987,
+    "ann_id": 1042732,
+    "file": "000000222987.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      157.37,
+      0.06,
+      396.29,
+      250.45
+    ],
+    "area": 71917.14825000001,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:96084",
+    "image_id": 96084,
+    "ann_id": 1041512,
+    "file": "000000096084.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      1.08,
+      1.08,
+      637.48,
+      326.83
+    ],
+    "area": 145430.97739999997,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:113009",
+    "image_id": 113009,
+    "ann_id": 1046675,
+    "file": "000000113009.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      107.17,
+      67.17,
+      341.13,
+      452.83
+    ],
+    "area": 95646.62265,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:428414",
+    "image_id": 428414,
+    "ann_id": 1045703,
+    "file": "000000428414.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      20.56,
+      0.73,
+      378.8,
+      129.21
+    ],
+    "area": 23806.5889,
+    "width": 400,
+    "height": 312,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:324308",
+    "image_id": 324308,
+    "ann_id": 1543825,
+    "file": "000000324308.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      1.08,
+      0.9,
+      382.92,
+      321.44
+    ],
+    "area": 89942.65974999995,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:63409",
+    "image_id": 63409,
+    "ann_id": 1041663,
+    "file": "000000063409.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      384.0,
+      291.52,
+      256.0,
+      294.83
+    ],
+    "area": 49231.317050000005,
+    "width": 640,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:135139",
+    "image_id": 135139,
+    "ann_id": 1542694,
+    "file": "000000135139.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      185.53,
+      86.11,
+      173.66,
+      369.98
+    ],
+    "area": 25154.1201,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:198508",
+    "image_id": 198508,
+    "ann_id": 1043525,
+    "file": "000000198508.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      102.18,
+      67.06,
+      307.0,
+      516.92
+    ],
+    "area": 115678.04545,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:177246",
+    "image_id": 177246,
+    "ann_id": 1042419,
+    "file": "000000177246.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      89.39,
+      88.05,
+      446.74,
+      288.93
+    ],
+    "area": 42708.10734999999,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:438004",
+    "image_id": 438004,
+    "ann_id": 1043621,
+    "file": "000000438004.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      22.07,
+      2.59,
+      357.91,
+      410.68
+    ],
+    "area": 82580.07774999998,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:398744",
+    "image_id": 398744,
+    "ann_id": 1046752,
+    "file": "000000398744.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      33.39,
+      201.03,
+      316.68,
+      222.59
+    ],
+    "area": 41732.97865000001,
+    "width": 640,
+    "height": 430,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:315083",
+    "image_id": 315083,
+    "ann_id": 1541871,
+    "file": "000000315083.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      138.5,
+      406.11,
+      262.93,
+      166.74
+    ],
+    "area": 27796.82445,
+    "width": 426,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:72821",
+    "image_id": 72821,
+    "ann_id": 1044128,
+    "file": "000000072821.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      209.23,
+      148.81,
+      377.06,
+      98.81
+    ],
+    "area": 27297.077249999995,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:351470",
+    "image_id": 351470,
+    "ann_id": 1044112,
+    "file": "000000351470.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      33.5,
+      99.73,
+      568.47,
+      371.9
+    ],
+    "area": 137089.56255,
+    "width": 640,
+    "height": 478,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:325410",
+    "image_id": 325410,
+    "ann_id": 1043951,
+    "file": "000000325410.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      66.24,
+      214.56,
+      347.69,
+      341.34
+    ],
+    "area": 80163.14295000001,
+    "width": 429,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:157192",
+    "image_id": 157192,
+    "ann_id": 1042574,
+    "file": "000000157192.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      137.23,
+      72.07,
+      174.65,
+      297.49
+    ],
+    "area": 23978.3075,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:188215",
+    "image_id": 188215,
+    "ann_id": 1541642,
+    "file": "000000188215.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      31.57,
+      71.17,
+      378.83,
+      381.71
+    ],
+    "area": 74469.41470000001,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:568630",
+    "image_id": 568630,
+    "ann_id": 1041516,
+    "file": "000000568630.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      247.82,
+      19.36,
+      247.18,
+      344.87
+    ],
+    "area": 51979.387350000005,
+    "width": 495,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:122020",
+    "image_id": 122020,
+    "ann_id": 1041438,
+    "file": "000000122020.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      24.39,
+      51.18,
+      601.26,
+      249.69
+    ],
+    "area": 72960.59835,
+    "width": 640,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:327738",
+    "image_id": 327738,
+    "ann_id": 1043507,
+    "file": "000000327738.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      33.24,
+      253.7,
+      146.28,
+      240.69
+    ],
+    "area": 25956.021350000003,
+    "width": 273,
+    "height": 500,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:416215",
+    "image_id": 416215,
+    "ann_id": 1905646,
+    "file": "000000416215.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      74.95,
+      312.53,
+      457.84,
+      171.14
+    ],
+    "area": 43849.25190000001,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:296208",
+    "image_id": 296208,
+    "ann_id": 1041785,
+    "file": "000000296208.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      30.13,
+      229.02,
+      215.25,
+      381.71
+    ],
+    "area": 39601.60890000001,
+    "width": 536,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:367131",
+    "image_id": 367131,
+    "ann_id": 1043380,
+    "file": "000000367131.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      108.94,
+      640.0,
+      364.59
+    ],
+    "area": 150250.73065,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:103490",
+    "image_id": 103490,
+    "ann_id": 1042906,
+    "file": "000000103490.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      90.94,
+      153.17,
+      218.27,
+      251.77
+    ],
+    "area": 27213.989649999996,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:313337",
+    "image_id": 313337,
+    "ann_id": 1042746,
+    "file": "000000313337.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      427.15,
+      113.26,
+      212.85,
+      293.39
+    ],
+    "area": 29164.65530000001,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:458567",
+    "image_id": 458567,
+    "ann_id": 1041975,
+    "file": "000000458567.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      159.99,
+      450.34,
+      264.11
+    ],
+    "area": 88750.54500000003,
+    "width": 451,
+    "height": 500,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:332311",
+    "image_id": 332311,
+    "ann_id": 1542964,
+    "file": "000000332311.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      360.35,
+      103.62,
+      139.65,
+      198.52
+    ],
+    "area": 20572.68895,
+    "width": 500,
+    "height": 324,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:466532",
+    "image_id": 466532,
+    "ann_id": 1042662,
+    "file": "000000466532.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      85.11,
+      25.16,
+      326.8,
+      607.66
+    ],
+    "area": 107088.40239999999,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:289170",
+    "image_id": 289170,
+    "ann_id": 1043350,
+    "file": "000000289170.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      36.04,
+      28.15,
+      343.46,
+      421.17
+    ],
+    "area": 56583.098399999995,
+    "width": 492,
+    "height": 500,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:117094",
+    "image_id": 117094,
+    "ann_id": 1041447,
+    "file": "000000117094.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      24.45,
+      5.75,
+      350.92,
+      631.37
+    ],
+    "area": 143229.04635000002,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:121769",
+    "image_id": 121769,
+    "ann_id": 1046301,
+    "file": "000000121769.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      175.06,
+      12.08,
+      299.29,
+      460.8
+    ],
+    "area": 97471.98434999996,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:368668",
+    "image_id": 368668,
+    "ann_id": 1042696,
+    "file": "000000368668.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      226.1,
+      351.91,
+      180.68
+    ],
+    "area": 28577.155350000005,
+    "width": 450,
+    "height": 600,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:51795",
+    "image_id": 51795,
+    "ann_id": 1041866,
+    "file": "000000051795.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      47.21,
+      16.52,
+      580.02,
+      281.58
+    ],
+    "area": 116150.93410000001,
+    "width": 640,
+    "height": 376,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:344065",
+    "image_id": 344065,
+    "ann_id": 1543023,
+    "file": "000000344065.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      181.09,
+      0.0,
+      133.2,
+      183.34
+    ],
+    "area": 17447.4329,
+    "width": 500,
+    "height": 333,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:436354",
+    "image_id": 436354,
+    "ann_id": 1045346,
+    "file": "000000436354.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      178.0,
+      11.1,
+      201.85,
+      220.2
+    ],
+    "area": 32553.604900000006,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:444496",
+    "image_id": 444496,
+    "ann_id": 1541971,
+    "file": "000000444496.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      130.01,
+      6.04,
+      421.51,
+      275.26
+    ],
+    "area": 83012.41465000002,
+    "width": 640,
+    "height": 453,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:80337",
+    "image_id": 80337,
+    "ann_id": 1043773,
+    "file": "000000080337.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      346.25,
+      201.02,
+      256.8,
+      226.98
+    ],
+    "area": 32514.492299999998,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:57198",
+    "image_id": 57198,
+    "ann_id": 1044582,
+    "file": "000000057198.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      283.11,
+      457.0,
+      269.55
+    ],
+    "area": 47101.28595000001,
+    "width": 457,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:267700",
+    "image_id": 267700,
+    "ann_id": 1904425,
+    "file": "000000267700.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      4.99,
+      61.51,
+      423.01,
+      538.59
+    ],
+    "area": 132256.58119999996,
+    "width": 428,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:202742",
+    "image_id": 202742,
+    "ann_id": 1043938,
+    "file": "000000202742.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      404.64,
+      119.15,
+      191.19,
+      273.22
+    ],
+    "area": 38949.7,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:513342",
+    "image_id": 513342,
+    "ann_id": 1044453,
+    "file": "000000513342.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      30.49,
+      300.42,
+      272.19,
+      155.86
+    ],
+    "area": 21196.279799999997,
+    "width": 365,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:452414",
+    "image_id": 452414,
+    "ann_id": 1043746,
+    "file": "000000452414.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      17.26,
+      378.25,
+      408.74,
+      250.24
+    ],
+    "area": 69635.6372,
+    "width": 426,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:142985",
+    "image_id": 142985,
+    "ann_id": 1544838,
+    "file": "000000142985.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      208.65,
+      167.03,
+      347.03,
+      307.02
+    ],
+    "area": 81157.56015,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:251524",
+    "image_id": 251524,
+    "ann_id": 1043195,
+    "file": "000000251524.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      15.61,
+      27.05,
+      614.9,
+      424.51
+    ],
+    "area": 107732.67904999999,
+    "width": 640,
+    "height": 463,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:161835",
+    "image_id": 161835,
+    "ann_id": 1041488,
+    "file": "000000161835.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      305.53,
+      180.05,
+      261.59,
+      149.84
+    ],
+    "area": 26930.275600000004,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:476910",
+    "image_id": 476910,
+    "ann_id": 1041583,
+    "file": "000000476910.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      80.9,
+      165.78,
+      271.61,
+      459.41
+    ],
+    "area": 89347.59815000003,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:31540",
+    "image_id": 31540,
+    "ann_id": 1044711,
+    "file": "000000031540.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      108.42,
+      19.58,
+      295.16,
+      489.41
+    ],
+    "area": 106880.34765000003,
+    "width": 426,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:74331",
+    "image_id": 74331,
+    "ann_id": 1547201,
+    "file": "000000074331.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      28.76,
+      74.55,
+      126.57,
+      473.17
+    ],
+    "area": 42788.541000000005,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:353997",
+    "image_id": 353997,
+    "ann_id": 1545082,
+    "file": "000000353997.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      195.06,
+      225.55,
+      268.18
+    ],
+    "area": 32305.152000000002,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:52248",
+    "image_id": 52248,
+    "ann_id": 1545657,
+    "file": "000000052248.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      323.6,
+      81.38,
+      158.93,
+      338.92
+    ],
+    "area": 30316.97230000001,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:264365",
+    "image_id": 264365,
+    "ann_id": 1042310,
+    "file": "000000264365.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      406.85,
+      0.0,
+      233.15,
+      163.41
+    ],
+    "area": 29292.3379,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:351686",
+    "image_id": 351686,
+    "ann_id": 1044502,
+    "file": "000000351686.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      106.91,
+      19.04,
+      527.43,
+      207.91
+    ],
+    "area": 34873.78070000001,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:47954",
+    "image_id": 47954,
+    "ann_id": 1041595,
+    "file": "000000047954.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      332.82,
+      332.59,
+      254.42,
+      254.43
+    ],
+    "area": 33742.62515,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:471235",
+    "image_id": 471235,
+    "ann_id": 1041761,
+    "file": "000000471235.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      110.44,
+      180.99,
+      275.17,
+      459.01
+    ],
+    "area": 47248.10465,
+    "width": 493,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:494800",
+    "image_id": 494800,
+    "ann_id": 1045150,
+    "file": "000000494800.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      187.35,
+      150.8,
+      259.1,
+      276.2
+    ],
+    "area": 45076.86979999999,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:559021",
+    "image_id": 559021,
+    "ann_id": 1542777,
+    "file": "000000559021.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      216.86,
+      155.9,
+      369.97,
+      277.21
+    ],
+    "area": 63992.79565000001,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:165639",
+    "image_id": 165639,
+    "ann_id": 1045012,
+    "file": "000000165639.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      169.49,
+      34.39,
+      243.17,
+      384.42
+    ],
+    "area": 44200.061899999986,
+    "width": 640,
+    "height": 436,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:458921",
+    "image_id": 458921,
+    "ann_id": 1044051,
+    "file": "000000458921.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      293.05,
+      52.06,
+      345.43,
+      375.41
+    ],
+    "area": 95855.2428,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:97040",
+    "image_id": 97040,
+    "ann_id": 1044816,
+    "file": "000000097040.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      182.65,
+      229.65,
+      317.35,
+      147.96
+    ],
+    "area": 24185.87955000001,
+    "width": 500,
+    "height": 416,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:331505",
+    "image_id": 331505,
+    "ann_id": 1046057,
+    "file": "000000331505.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      414.85,
+      0.76,
+      225.15,
+      421.93
+    ],
+    "area": 51786.346199999985,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:460559",
+    "image_id": 460559,
+    "ann_id": 1904963,
+    "file": "000000460559.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      83.88,
+      0.0,
+      344.32,
+      490.76
+    ],
+    "area": 117299.92629999998,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:84889",
+    "image_id": 84889,
+    "ann_id": 1044846,
+    "file": "000000084889.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      300.0,
+      15.0,
+      211.0,
+      391.0
+    ],
+    "area": 60628.0,
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:490871",
+    "image_id": 490871,
+    "ann_id": 1045234,
+    "file": "000000490871.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      313.76,
+      263.76,
+      270.66,
+      267.21
+    ],
+    "area": 42037.347149999994,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:212781",
+    "image_id": 212781,
+    "ann_id": 1543300,
+    "file": "000000212781.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      22.07,
+      44.94,
+      189.99,
+      213.02
+    ],
+    "area": 28685.262199999997,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:76462",
+    "image_id": 76462,
+    "ann_id": 1041497,
+    "file": "000000076462.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      198.94,
+      164.91,
+      441.06,
+      202.96
+    ],
+    "area": 58314.8786,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:454969",
+    "image_id": 454969,
+    "ann_id": 1042269,
+    "file": "000000454969.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      117.68,
+      34.43,
+      188.82,
+      288.93
+    ],
+    "area": 29720.440649999997,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:340899",
+    "image_id": 340899,
+    "ann_id": 1041591,
+    "file": "000000340899.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      185.66,
+      27.51,
+      364.45,
+      584.49
+    ],
+    "area": 57996.75645000001,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:43338",
+    "image_id": 43338,
+    "ann_id": 1043268,
+    "file": "000000043338.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      39.25,
+      50.25,
+      313.96,
+      359.91
+    ],
+    "area": 76785.14805,
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:296867",
+    "image_id": 296867,
+    "ann_id": 1544270,
+    "file": "000000296867.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      1.44,
+      1.2,
+      414.2,
+      628.49
+    ],
+    "area": 199446.33285,
+    "width": 490,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:92765",
+    "image_id": 92765,
+    "ann_id": 2110082,
+    "file": "000000092765.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      92.96,
+      323.32,
+      209.95,
+      156.68
+    ],
+    "area": 24653.849450000005,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:529012",
+    "image_id": 529012,
+    "ann_id": 1042190,
+    "file": "000000529012.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      120.81,
+      179.78,
+      333.66,
+      391.19
+    ],
+    "area": 52109.88700000001,
+    "width": 489,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:389152",
+    "image_id": 389152,
+    "ann_id": 1041891,
+    "file": "000000389152.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      215.25,
+      77.49,
+      263.67,
+      329.33
+    ],
+    "area": 65839.58774999999,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:69215",
+    "image_id": 69215,
+    "ann_id": 1042184,
+    "file": "000000069215.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      338.38,
+      18.44,
+      161.62,
+      229.23
+    ],
+    "area": 19400.398299999997,
+    "width": 500,
+    "height": 366,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:467037",
+    "image_id": 467037,
+    "ann_id": 1043021,
+    "file": "000000467037.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.87,
+      9.49,
+      465.33,
+      293.65
+    ],
+    "area": 57181.598450000005,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:331105",
+    "image_id": 331105,
+    "ann_id": 1545037,
+    "file": "000000331105.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      215.39,
+      83.13,
+      225.93,
+      246.02
+    ],
+    "area": 31594.555799999995,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:198030",
+    "image_id": 198030,
+    "ann_id": 1043936,
+    "file": "000000198030.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      156.99,
+      198.78,
+      339.95,
+      156.98
+    ],
+    "area": 24743.334300000006,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:494980",
+    "image_id": 494980,
+    "ann_id": 1042061,
+    "file": "000000494980.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      207.65,
+      80.03,
+      162.24,
+      279.38
+    ],
+    "area": 32928.313600000016,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:26978",
+    "image_id": 26978,
+    "ann_id": 1044606,
+    "file": "000000026978.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      196.44,
+      65.52,
+      341.9,
+      366.38
+    ],
+    "area": 46545.421449999994,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:409754",
+    "image_id": 409754,
+    "ann_id": 2186085,
+    "file": "000000409754.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      241.56,
+      15.58,
+      211.69,
+      202.6
+    ],
+    "area": 20027.552949999998,
+    "width": 500,
+    "height": 500,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:207043",
+    "image_id": 207043,
+    "ann_id": 1041637,
+    "file": "000000207043.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      349.09,
+      152.88,
+      134.02,
+      225.87
+    ],
+    "area": 22506.698249999998,
+    "width": 640,
+    "height": 430,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:311997",
+    "image_id": 311997,
+    "ann_id": 1042454,
+    "file": "000000311997.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      17.92,
+      13.29,
+      342.71,
+      177.7
+    ],
+    "area": 33937.2445,
+    "width": 500,
+    "height": 333,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:468777",
+    "image_id": 468777,
+    "ann_id": 1041931,
+    "file": "000000468777.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      0.0,
+      640.0,
+      479.82
+    ],
+    "area": 202961.40714999993,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:13922",
+    "image_id": 13922,
+    "ann_id": 1042683,
+    "file": "000000013922.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      332.07,
+      142.85,
+      273.07,
+      284.04
+    ],
+    "area": 58495.287099999994,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:296322",
+    "image_id": 296322,
+    "ann_id": 1043052,
+    "file": "000000296322.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      0.0,
+      58.53,
+      395.51,
+      263.19
+    ],
+    "area": 42938.2622,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:238989",
+    "image_id": 238989,
+    "ann_id": 1043126,
+    "file": "000000238989.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      6.43,
+      97.64,
+      472.64,
+      232.57
+    ],
+    "area": 47404.53944999999,
+    "width": 640,
+    "height": 478,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:235244",
+    "image_id": 235244,
+    "ann_id": 1043468,
+    "file": "000000235244.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      105.55,
+      108.43,
+      184.23,
+      235.09
+    ],
+    "area": 27451.940599999994,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:393286",
+    "image_id": 393286,
+    "ann_id": 1045019,
+    "file": "000000393286.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      49.35,
+      138.01,
+      324.48,
+      466.55
+    ],
+    "area": 75863.12484999998,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:132538",
+    "image_id": 132538,
+    "ann_id": 1042901,
+    "file": "000000132538.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      135.67,
+      89.33,
+      246.91,
+      162.64
+    ],
+    "area": 19034.86905,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:53047",
+    "image_id": 53047,
+    "ann_id": 1043001,
+    "file": "000000053047.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      6.18,
+      56.58,
+      209.31,
+      244.63
+    ],
+    "area": 29295.914749999993,
+    "width": 640,
+    "height": 393,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:266310",
+    "image_id": 266310,
+    "ann_id": 1044951,
+    "file": "000000266310.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      161.87,
+      4.64,
+      202.35,
+      206.84
+    ],
+    "area": 24426.50955,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:27370",
+    "image_id": 27370,
+    "ann_id": 1046856,
+    "file": "000000027370.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      424.98,
+      23.86,
+      215.02,
+      224.58
+    ],
+    "area": 25294.449400000012,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:357896",
+    "image_id": 357896,
+    "ann_id": 1041814,
+    "file": "000000357896.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      28.88,
+      294.31,
+      277.81,
+      295.69
+    ],
+    "area": 54151.417550000006,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:266622",
+    "image_id": 266622,
+    "ann_id": 1042328,
+    "file": "000000266622.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      251.68,
+      148.62,
+      323.19,
+      332.82
+    ],
+    "area": 36151.3262,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:332069",
+    "image_id": 332069,
+    "ann_id": 1042521,
+    "file": "000000332069.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      69.03,
+      257.44,
+      291.96,
+      227.23
+    ],
+    "area": 33633.75080000001,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:160629",
+    "image_id": 160629,
+    "ann_id": 1045732,
+    "file": "000000160629.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      32.15,
+      148.7,
+      308.45,
+      175.82
+    ],
+    "area": 27995.023349999996,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:107734",
+    "image_id": 107734,
+    "ann_id": 1043757,
+    "file": "000000107734.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      54.78,
+      119.66,
+      238.48,
+      207.31
+    ],
+    "area": 29117.034399999997,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:340208",
+    "image_id": 340208,
+    "ann_id": 1041466,
+    "file": "000000340208.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      348.32,
+      37.49,
+      230.29,
+      302.25
+    ],
+    "area": 45463.536250000005,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "banana-preservation:365218",
+    "image_id": 365218,
+    "ann_id": 1547847,
+    "file": "000000365218.jpg",
+    "label": "banana",
+    "words": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "bbox": [
+      255.14,
+      291.89,
+      184.5,
+      237.84
+    ],
+    "area": 29582.547749999998,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  }
+]

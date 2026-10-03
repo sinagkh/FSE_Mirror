@@ -1,0 +1,29 @@
+{
+  "inputs": {
+    "/workspace/FSE_VLM/interbind/routing75_results.py": "2f4f98b64070d6ed76d58e2009d59cfc8eab0e165f3ba569939571991040e84b",
+    "/workspace/FSE_VLM/plan/87_routing75_three_seed_replication.md": "c4caa276ade7086a653107b197fa3ab5b68fca04d7540913debc9e8b26159a3a",
+    "/workspace/clip/interbind_routing75_replication_20260930/protocol.json": "ba5601209b1a7ad37f2c0efc4236e92d1c699ed38853c6a20f4b20cd3c08381c",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/complete.json": "8ca825c85f54e1e577f5f65622e21a1c6cf5cb370a13c2be7615f034a8190451",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/complete.json": "ac4eaa80b9688c0f2ca7ef0a007ef695a9d81191595793ee10bb85b5cde88467",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed44/complete.json": "11fa44d1113de257492cfe03b5e851222916654f9379daaffa24438e8d11d984",
+    "/workspace/FSE_VLM/manuscript_v6_3/generated/routing_primary.tex": "ca26afc270b12ea6459c0379de67c681261657979690924e284e88eb5b37b643",
+    "/workspace/FSE_VLM/manuscript_v6_3/generated/routing_transfer.tex": "cd108e794b19bedae10c781a33f33a6c259cf3d391153b7acbb71a0bbcae949b",
+    "/workspace/FSE_VLM/manuscript_v6_3/generated/routing_components.tex": "14726c044ef9e32e6fe5a854c7893d9092adb337087a93e75292d006e2bd6585",
+    "/workspace/FSE_VLM/manuscript_v6_3/generated/routing_diagnosis.tex": "fc27d1dcafcbf1c9695c36e7a03312f2e961e71293cdf120238177dfca73d076",
+    "/workspace/FSE_VLM/manuscript_v6_3/generated/routing_preservation.tex": "33735603079326d94569b3019bee183e29d410c57094bafaf7b7900c1d982b2b"
+  },
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "draws": 5000,
+  "source_rng_seed": 20260930,
+  "seed_rng_seed": 20260931,
+  "ddof": 1,
+  "bootstrap": "Shared connected-source draw across resampled seeds; paired methods; ratios recomputed in every draw",
+  "familywise": "Bonferroni nine transfer tests; other CIs pointwise",
+  "pooled_primary": "Equal average of two trained color pairs and two caption orders within source, before source resampling",
+  "seed42_development": true,
+  "manuscript_not_edited": true
+}

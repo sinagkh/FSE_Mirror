@@ -1,0 +1,15 @@
+{
+  "initial_equal": true,
+  "stream_equal": true,
+  "update_count_equal": true,
+  "shared_losses_unchanged": true,
+  "original": {
+    "seconds": 51.488653848005924,
+    "steps": 1536,
+    "overflow_retries": 0,
+    "seed": 44,
+    "initial_sha256": "304fbebe4725b2f8bcd55957628687aae10bf9767a2537c02d0b4dcdd862a045",
+    "sequence_sha256": "8d76b6cf1af477792dd026b6d19c0f700945f735a22e3fbf8fa5d4d186d0f184",
+    "checkpoint_sha256": "2a5e018f85dedbda30de04d6710866266a9a207290ff62556f796b604bfe223b"
+  }
+}

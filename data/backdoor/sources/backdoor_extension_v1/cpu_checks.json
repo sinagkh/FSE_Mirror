@@ -1,0 +1,161 @@
+{
+  "status": "passed",
+  "tests": [
+    {
+      "case": "stripes",
+      "bank": "development",
+      "rows": 2,
+      "shape": [
+        3,
+        21,
+        3,
+        224,
+        224
+      ]
+    },
+    {
+      "case": "stripes",
+      "bank": "banana87",
+      "rows": 2,
+      "shape": [
+        3,
+        21,
+        3,
+        224,
+        224
+      ]
+    },
+    {
+      "case": "stripes",
+      "bank": "imagenetv2",
+      "rows": 2,
+      "shape": [
+        3,
+        21,
+        3,
+        224,
+        224
+      ]
+    },
+    {
+      "case": "stripes",
+      "bank": "activation",
+      "rows": 2,
+      "shape": [
+        1,
+        21,
+        3,
+        224,
+        224
+      ]
+    },
+    {
+      "case": "triangles",
+      "bank": "development",
+      "rows": 2,
+      "shape": [
+        2,
+        21,
+        3,
+        224,
+        224
+      ]
+    },
+    {
+      "case": "triangles",
+      "bank": "banana87",
+      "rows": 2,
+      "shape": [
+        2,
+        21,
+        3,
+        224,
+        224
+      ]
+    },
+    {
+      "case": "triangles",
+      "bank": "imagenetv2",
+      "rows": 2,
+      "shape": [
+        2,
+        21,
+        3,
+        224,
+        224
+      ]
+    },
+    {
+      "case": "triangles",
+      "bank": "activation",
+      "rows": 2,
+      "shape": [
+        1,
+        21,
+        3,
+        224,
+        224
+      ]
+    },
+    {
+      "case": "text",
+      "bank": "development",
+      "rows": 2,
+      "shape": [
+        2,
+        21,
+        3,
+        224,
+        224
+      ]
+    },
+    {
+      "case": "text",
+      "bank": "banana87",
+      "rows": 2,
+      "shape": [
+        2,
+        21,
+        3,
+        224,
+        224
+      ]
+    },
+    {
+      "case": "text",
+      "bank": "imagenetv2",
+      "rows": 2,
+      "shape": [
+        2,
+        21,
+        3,
+        224,
+        224
+      ]
+    },
+    {
+      "case": "text",
+      "bank": "activation",
+      "rows": 2,
+      "shape": [
+        1,
+        21,
+        3,
+        224,
+        224
+      ]
+    }
+  ],
+  "clean_copy_check": true,
+  "clean_only_interaction_exactly_zero": true,
+  "paired_bootstrap_known_difference": true,
+  "no_model_scores_used": true,
+  "files": {
+    "/workspace/FSE_VLM/four_case/par_extension_data.py": "c1cf9b1bb9ccb1f30ff0386bf1464e6bc58805ee34f53e8078588618f670348a",
+    "/workspace/FSE_VLM/four_case/par_extension_controls.py": "41081f635d8d0ac8f5fb9f4723f4fd6e88f3955c03769af9300068b97dfae582",
+    "/workspace/FSE_VLM/four_case/par_extension_evaluate.py": "0db1345986a35d9e075f1d263a32e4ba2c06e9b225b2b8278ffe2195b8e8c234",
+    "/workspace/FSE_VLM/four_case/par_extension_train.py": "3e502be1eae508a76d3b3ce1dd379d19184ed5a00f136cf1f443fc6740d24b4d",
+    "/workspace/FSE_VLM/four_case/par_extension_analysis.py": "e83b21583fdfddc9c2ac4262e485bb4146fe308ff4e2a865154ea14e9f20eb56",
+    "/workspace/FSE_VLM/four_case/par_extension_cpu_check.py": "0e934b73ae11160847269903bc38f76c1be622f8ca370769471994e5d59cac3e"
+  }
+}

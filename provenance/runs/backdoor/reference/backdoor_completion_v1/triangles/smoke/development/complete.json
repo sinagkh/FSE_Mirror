@@ -1,0 +1,62 @@
+{
+  "case": "triangles",
+  "bank": "development",
+  "seeds": [
+    42
+  ],
+  "n": 8,
+  "seconds": 1.0051884329877794,
+  "source_sha256": "7c3bab818ff8a40ce8bd9823f3a03a139a0e7ec8cb1e350322f31754b5223e6f",
+  "records_sha256": {
+    "clean_only_seed42": "4c2023ca57990eb7a85a3d3559b48890080378e0be4a7e1fb9b0f8dc95cf79f6",
+    "ranking_seed42": "a5ee57f958ed2e9bdc6040687614a8cc0ccaa16e6a11b97baf0e0d240e4469a4",
+    "IS_seed42": "6a4e1cc5e11f5e3daf74b9e6b8b0ce60e066ced51776da78c8e8a06a4ff727eb"
+  },
+  "receipts": {
+    "clean_only_seed42": {
+      "path": "/workspace/clip/fse_four_case_20260927/backdoor_extension_v1/triangles/runs/clean_only_seed42/last.pt",
+      "seconds": 54.62009824800771,
+      "steps": 1536,
+      "overflow_retries": 0,
+      "seed": 42,
+      "initial_sha256": "eabfe8f9063670d57c9fee51f7d0a1a99b708ecf5319f8d68ce8bdf7070d699b",
+      "sequence_sha256": "81ea269a25497fdb935debf3062dc5fba3ad4a93d3486ef4e616452e287b9629",
+      "checkpoint_sha256": "9813648f45979a326947be50411cf3bf862def3e3dae6439b5cc78c85e184889"
+    },
+    "ranking_seed42": {
+      "path": "/workspace/clip/fse_four_case_20260927/backdoor_extension_v1/triangles/runs/ranking_seed42/last.pt",
+      "seconds": 51.147241747996304,
+      "steps": 1536,
+      "overflow_retries": 0,
+      "seed": 42,
+      "initial_sha256": "eabfe8f9063670d57c9fee51f7d0a1a99b708ecf5319f8d68ce8bdf7070d699b",
+      "sequence_sha256": "81ea269a25497fdb935debf3062dc5fba3ad4a93d3486ef4e616452e287b9629",
+      "checkpoint_sha256": "9a9e3200f7590915c44ba5e56506ea5d1ff6204c1622b3d83c8261316f9876ac"
+    },
+    "IS_seed42": {
+      "path": "/workspace/clip/fse_four_case_20260927/backdoor_extension_v1/triangles/runs/IS_seed42/last.pt",
+      "seconds": 51.70313178404467,
+      "steps": 1536,
+      "overflow_retries": 0,
+      "seed": 42,
+      "initial_sha256": "eabfe8f9063670d57c9fee51f7d0a1a99b708ecf5319f8d68ce8bdf7070d699b",
+      "sequence_sha256": "81ea269a25497fdb935debf3062dc5fba3ad4a93d3486ef4e616452e287b9629",
+      "checkpoint_sha256": "079ba1dcc7b136222f694ad9dfd095e8c3b90002cee8a880d1d2dc7434a1c328"
+    }
+  },
+  "smoke_parity": {
+    "clean_only_seed42": {
+      "max_score_error": 0.0,
+      "prediction_agreement": 1.0
+    },
+    "ranking_seed42": {
+      "max_score_error": 0.0,
+      "prediction_agreement": 1.0
+    },
+    "IS_seed42": {
+      "max_score_error": 0.0,
+      "prediction_agreement": 1.0
+    }
+  },
+  "preserved_first_round": "/workspace/clip/fse_four_case_20260927/backdoor_extension_v1/triangles/evaluation/development"
+}

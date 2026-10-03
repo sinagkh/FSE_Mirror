@@ -1,0 +1,11 @@
+{
+  "native_unit": 3.562039852142334,
+  "cosine_unit": 0.03035895878723264,
+  "native_scale": 117.33076477050781,
+  "native_bias": -12.9324369430542,
+  "max_normalized_contrast_error": 5.551115123125783e-16,
+  "all_training_pixels_match_original": true,
+  "same_template_cycle": true,
+  "cache_sha256": "569be224487e87a4477fb872e0b9aefadf554ab764d3f95119afe0e4147c9f81",
+  "dimension": 768
+}

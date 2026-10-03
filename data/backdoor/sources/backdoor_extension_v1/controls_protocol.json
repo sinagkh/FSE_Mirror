@@ -1,0 +1,9 @@
+{
+  "source_sha256": "41081f635d8d0ac8f5fb9f4723f4fd6e88f3955c03769af9300068b97dfae582",
+  "data_protocol_sha256": "e53b99928ef5f10c82520e48ec1ed4348e853679edd053911a191e9bdaa69270",
+  "exact_source_sha256": "5ea28f5d4a45867e9fd4589c8549d0a95b457d2d536f3b54c7dd7eeee0d60329",
+  "tolerant": "12x12 windows: mean horizontal RGB gradient>25, vertical<5, within-channel SD>45; union dilated4pixels; outside-mean fill; exact detector fallback",
+  "inversion": "(input-alpha*known_pattern)/(1-alpha) on known channel support, clamp[0,1], nearest uint8; applied unconditionally to clean AND attacked images",
+  "information": "known pattern/opacity/size; no label, score, source seed, location or clean/attack flag",
+  "tests_sha256": "157cf14f67762d1a3f4919a27bebdb223107105724a577d6dec9e2cc4fd0dbd3"
+}

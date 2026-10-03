@@ -1,0 +1,105 @@
+{
+  "scenario": "routing",
+  "bank": "400 held-out anchors, 75% tint, red/blue + green/yellow, both noun orders, both layouts",
+  "render_threads": 8,
+  "image_batch": 64,
+  "text_batch": 128,
+  "render_chunk_anchors": 16,
+  "precision": "image and text FP32, TF32 off; scores CPU einsum",
+  "gpu": "NVIDIA A10G",
+  "cpu": "x86_64",
+  "torch": "2.3.1+cu121",
+  "setup": {
+    "coco_annotation_index_s": 15.403297497075982,
+    "model_load_and_checkpoint_hash_s": 7.1070037769386545
+  },
+  "timing_s": {
+    "generation": {
+      "median": 14.898106335895136,
+      "min": 14.472886371077038,
+      "max": 15.480882974108681,
+      "runs": [
+        14.898106335895136,
+        15.480882974108681,
+        14.472886371077038
+      ]
+    },
+    "exec_image_prep_encode": {
+      "median": 79.93780803494155,
+      "min": 79.82520183001179,
+      "max": 80.02060732804239,
+      "runs": [
+        79.82520183001179,
+        80.02060732804239,
+        79.93780803494155
+      ]
+    },
+    "exec_text_encode": {
+      "median": 0.21981989301275462,
+      "min": 0.21977809991221875,
+      "max": 0.21999664697796106,
+      "runs": [
+        0.21977809991221875,
+        0.21999664697796106,
+        0.21981989301275462
+      ]
+    },
+    "exec_score_and_checks": {
+      "median": 0.07536263798829168,
+      "min": 0.07485236297361553,
+      "max": 0.07552525796927512,
+      "runs": [
+        0.07552525796927512,
+        0.07536263798829168,
+        0.07485236297361553
+      ]
+    },
+    "execution_total": {
+      "median": 80.23248029092792,
+      "min": 80.12050518789329,
+      "max": 80.31596661300864,
+      "runs": [
+        80.12050518789329,
+        80.31596661300864,
+        80.23248029092792
+      ]
+    },
+    "end_to_end_pipelined": {
+      "median": 93.63866107503418,
+      "min": 93.10152803896926,
+      "max": 94.94874839298427,
+      "runs": [
+        93.63866107503418,
+        94.94874839298427,
+        93.10152803896926
+      ]
+    }
+  },
+  "work": {
+    "sources": 400,
+    "images_rendered": 6400,
+    "image_forwards": 100,
+    "canonical_caption_groups": 32,
+    "caption_strings_encoded": 192,
+    "scores": 51200,
+    "interaction_tests": 54400,
+    "decision_checks": 6400,
+    "failing_decisions": 3054,
+    "exchange_accuracy_pct": 52.28125
+  },
+  "fidelity": {
+    "max_abs_score_diff": 9.238719940185547e-07,
+    "max_abs_score_diff_pipelined": 9.238719940185547e-07,
+    "exchange_decision_flips": 0,
+    "failing_recomputed": 3054,
+    "failing_saved_expected": 3054,
+    "binding_mean": 0.978152360123747,
+    "cross_mean": 0.9770561091961711,
+    "assignment_mean": 0.0130699641949776
+  },
+  "historical_reference": {
+    "cache_bank_elapsed_s": 140.5222575130174,
+    "cache_bank_images": 9600,
+    "note": "Original cache_bank run: 3 color pairs (24 images/anchor) incl. pixel-hash checks and file writes"
+  }
+}

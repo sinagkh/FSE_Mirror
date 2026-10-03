@@ -1,0 +1,36 @@
+schema_version: 1
+id: conjunction/positive-synergy-v1
+bug_type: conjunction
+semantic_intent: A caption may jointly describe two attributes of the same object.
+operational_measurement: Positive second-order synergy is an additional desired scorer property, not entailed by correct ranking of the full conjunction.
+evidence_status: Added operational property; no semantic claim that a zero-synergy but correctly ranking scorer is wrong.
+scorer_output: cosine
+factors:
+  attribute_1: {kind: image, states: [absent, present], generator: attribute_edit}
+  attribute_2: {kind: image, states: [absent, present], generator: attribute_edit}
+  conjunction_word: {kind: caption, states: [target, neutral], slot: conjunction}
+score_lattice:
+  image_states:
+    - {id: neither, factors: {attribute_1: absent, attribute_2: absent}}
+    - {id: first, factors: {attribute_1: present, attribute_2: absent}}
+    - {id: second, factors: {attribute_1: absent, attribute_2: present}}
+    - {id: both, factors: {attribute_1: present, attribute_2: present}}
+  caption_states:
+    - {id: target, factors: {conjunction_word: target}}
+    - {id: neutral, factors: {conjunction_word: neutral}}
+  prompt:
+    templates: ["a {attribute_1} and {attribute_2} {noun}"]
+    aggregation: mean_normalized_embedding
+contrasts:
+  synergy:
+    - {image: neither, caption: target, weight: 1}
+    - {image: first, caption: target, weight: -1}
+    - {image: second, caption: target, weight: -1}
+    - {image: both, caption: target, weight: 1}
+thresholds:
+  rule: A3-v1-fixed-base
+  fractions: {K: 0.1}
+clauses:
+  - {name: positive_synergy, kind: lower, contrast: synergy, bound: K}
+anchors: {source: generated_attribute_bank, selection: frozen_hash_bank}
+guards: default-v1

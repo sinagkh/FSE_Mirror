@@ -1,0 +1,92 @@
+[
+  {
+    "name": "ranking",
+    "seed": 42,
+    "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B1_typography/openai_clip_l14/runs/seed42/ranking/last.pt",
+    "sha256": "dc59c51f2bb887a634a5cdea35467e0558572e4c3b25fc03671f903036f7d7af",
+    "initial_hash": "c0dc7ee70568100989b0080d5ad5cfca63344114699bc0433ed13fdd05a6742c",
+    "sequence_hash": "e82607bd031c85f9a3688c90a4d72988a9db3ebe8c953c422ae0a1ba1ca77d14",
+    "updates": 2752,
+    "selection": "fixed_last",
+    "seconds": 349.4997861900192,
+    "files": {
+      "/workspace/clip/fse_pre_writing_20260926/B1_typography/openai_clip_l14/runs/seed42/ranking/history.json": "75254d4ce76064971303f4c98fbafeff2f9d720c6100b22682f4929dc38500a1",
+      "/workspace/clip/fse_pre_writing_20260926/B1_typography/openai_clip_l14/runs/seed42/ranking/last.pt": "dc59c51f2bb887a634a5cdea35467e0558572e4c3b25fc03671f903036f7d7af"
+    }
+  },
+  {
+    "name": "IS",
+    "seed": 42,
+    "checkpoint": "/workspace/clip/fse_typographic_backbone_replication_20260929/openai_clip_l14/runs/seed42/IS/last.pt",
+    "sha256": "a49a445434b0181a13ec2eef1282f4f54394d281af2659ade4aa925e42435862",
+    "initial_hash": "c0dc7ee70568100989b0080d5ad5cfca63344114699bc0433ed13fdd05a6742c",
+    "sequence_hash": "e82607bd031c85f9a3688c90a4d72988a9db3ebe8c953c422ae0a1ba1ca77d14",
+    "updates": 2752,
+    "selection": "fixed_last",
+    "seconds": 671.5386961170007,
+    "files": {
+      "/workspace/clip/fse_typographic_backbone_replication_20260929/openai_clip_l14/runs/seed42/IS/history.json": "ca21f218e477a5a11fc7e7bd6aaa961c94ea8e4862e55654a8cd42eda49c4b78",
+      "/workspace/clip/fse_typographic_backbone_replication_20260929/openai_clip_l14/runs/seed42/IS/last.pt": "a49a445434b0181a13ec2eef1282f4f54394d281af2659ade4aa925e42435862"
+    }
+  },
+  {
+    "name": "ranking",
+    "seed": 43,
+    "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B1_typography/openai_clip_l14/runs/seed43/ranking/last.pt",
+    "sha256": "73c7f9c486828410a5fca3cf8eabeb7e53afecf288c85354018e152209a253f9",
+    "initial_hash": "496076f4eccf397d037c71946935aae410077e376beb2714e7ab18157e0c7d12",
+    "sequence_hash": "c45d34d6da669be5b498215d6b1335225f67e9f6cfdf68e485109705920af5bf",
+    "updates": 2752,
+    "selection": "fixed_last",
+    "seconds": 329.90752882300876,
+    "files": {
+      "/workspace/clip/fse_pre_writing_20260926/B1_typography/openai_clip_l14/runs/seed43/ranking/history.json": "c1ce8f97a54325d026e24eb8cb0addb5da9e11ec2047c1db9c6554a5cb3e9f1b",
+      "/workspace/clip/fse_pre_writing_20260926/B1_typography/openai_clip_l14/runs/seed43/ranking/last.pt": "73c7f9c486828410a5fca3cf8eabeb7e53afecf288c85354018e152209a253f9"
+    }
+  },
+  {
+    "name": "IS",
+    "seed": 43,
+    "checkpoint": "/workspace/clip/fse_typographic_backbone_replication_20260929/openai_clip_l14/runs/seed43/IS/last.pt",
+    "sha256": "21ef70250fa555a0869df3ce575807205d958bbeac84423d532fda943fd0528a",
+    "initial_hash": "496076f4eccf397d037c71946935aae410077e376beb2714e7ab18157e0c7d12",
+    "sequence_hash": "c45d34d6da669be5b498215d6b1335225f67e9f6cfdf68e485109705920af5bf",
+    "updates": 2752,
+    "selection": "fixed_last",
+    "seconds": 560.4693075399846,
+    "files": {
+      "/workspace/clip/fse_typographic_backbone_replication_20260929/openai_clip_l14/runs/seed43/IS/history.json": "33ab1f7cfcdb8a80d53baf624e11d5cc41eb7354d703486554e1b067a47d3f7c",
+      "/workspace/clip/fse_typographic_backbone_replication_20260929/openai_clip_l14/runs/seed43/IS/last.pt": "21ef70250fa555a0869df3ce575807205d958bbeac84423d532fda943fd0528a"
+    }
+  },
+  {
+    "name": "ranking",
+    "seed": 44,
+    "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B1_typography/openai_clip_l14/runs/seed44/ranking/last.pt",
+    "sha256": "91022d5831d96cac7c92236966f2e4ed50dda8becb5eb1390cc56ea19452a2fd",
+    "initial_hash": "325084ef62a26cdf67c188dae5abd4abfca5fb86cae60464fc59e52f284085e2",
+    "sequence_hash": "fa39bc5aa6f51aeb6ecf5f075fd1720b21ba75328f91bec98a83fa2615853d6a",
+    "updates": 2752,
+    "selection": "fixed_last",
+    "seconds": 499.1670778399857,
+    "files": {
+      "/workspace/clip/fse_pre_writing_20260926/B1_typography/openai_clip_l14/runs/seed44/ranking/history.json": "97044c9a50424bde455c1460299d8e04426c159a3f424f769efd5e97b691d186",
+      "/workspace/clip/fse_pre_writing_20260926/B1_typography/openai_clip_l14/runs/seed44/ranking/last.pt": "91022d5831d96cac7c92236966f2e4ed50dda8becb5eb1390cc56ea19452a2fd"
+    }
+  },
+  {
+    "name": "IS",
+    "seed": 44,
+    "checkpoint": "/workspace/clip/fse_typographic_backbone_replication_20260929/openai_clip_l14/runs/seed44/IS/last.pt",
+    "sha256": "1fe922a98863e38452dcf088f909156e38881c81ded3c56110e82e9c4db025d6",
+    "initial_hash": "325084ef62a26cdf67c188dae5abd4abfca5fb86cae60464fc59e52f284085e2",
+    "sequence_hash": "fa39bc5aa6f51aeb6ecf5f075fd1720b21ba75328f91bec98a83fa2615853d6a",
+    "updates": 2752,
+    "selection": "fixed_last",
+    "seconds": 328.5137197379954,
+    "files": {
+      "/workspace/clip/fse_typographic_backbone_replication_20260929/openai_clip_l14/runs/seed44/IS/history.json": "3ac60892fcda49bd5e8038e38b22595d83e264ff31f746eefa08ff9c551970d5",
+      "/workspace/clip/fse_typographic_backbone_replication_20260929/openai_clip_l14/runs/seed44/IS/last.pt": "1fe922a98863e38452dcf088f909156e38881c81ded3c56110e82e9c4db025d6"
+    }
+  }
+]

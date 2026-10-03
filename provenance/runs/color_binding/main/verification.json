@@ -1,0 +1,134 @@
+{
+  "checkpoints": [
+    {
+      "seed": 43,
+      "arm": "Ranking",
+      "checkpoint": "/workspace/clip/interbind_routing75_replication_20260930/seed43/runs/Ranking/last.pt",
+      "sha256": "5daa36821209b61658990cfbba31f29a33d7f6bb1ddff9d98d001db9667c7f0e",
+      "state_hash": "bf085305a5fb762a3fe9684e74e684a63e519d844a467b34098c924532657892",
+      "updates": 1944,
+      "finite_history": true
+    },
+    {
+      "seed": 43,
+      "arm": "IS",
+      "checkpoint": "/workspace/clip/interbind_routing75_replication_20260930/seed43/runs/IS/last.pt",
+      "sha256": "18600d529d711b9193507c8c323846300f456f8432e0298e53d43570a2de377a",
+      "state_hash": "d103867ff85f26d349d4c6b4caeab5b921caa4a8f3eb736a1ab802520cec1a66",
+      "updates": 1944,
+      "finite_history": true
+    },
+    {
+      "seed": 43,
+      "arm": "no_cross",
+      "checkpoint": "/workspace/clip/interbind_routing75_replication_20260930/seed43/runs/no_cross/last.pt",
+      "sha256": "446b96272d0af6febd99ec11c0f6be6c97e16dbdb896c43510dbdafcbae6eef2",
+      "state_hash": "86b2a63bed0bf3a5f9a99904e26840e352b3aa6cc83b15599e46b081f7c8357e",
+      "updates": 1944,
+      "finite_history": true
+    },
+    {
+      "seed": 43,
+      "arm": "no_response",
+      "checkpoint": "/workspace/clip/interbind_routing75_replication_20260930/seed43/runs/no_response/last.pt",
+      "sha256": "05821fb72c2a1ff414f333d0a1b4f589846e3ebefa0527e443613129ccbdbfd3",
+      "state_hash": "c39c8965a3a540dc87b3ec66d8b163e4cf4d33a07b210ce0e6767a989583658a",
+      "updates": 1944,
+      "finite_history": true
+    },
+    {
+      "seed": 43,
+      "arm": "no_preference",
+      "checkpoint": "/workspace/clip/interbind_routing75_replication_20260930/seed43/runs/no_preference/last.pt",
+      "sha256": "9621de74b1853456fa425125e21fbae66259ff7a3413817d45fa4beea28ede0a",
+      "state_hash": "fa7b858b470267449ce1491127c5069ac532e3360dbd6ab00f5c05a7a7d420f1",
+      "updates": 1944,
+      "finite_history": true
+    },
+    {
+      "seed": 43,
+      "arm": "no_interaction",
+      "checkpoint": "/workspace/clip/interbind_routing75_replication_20260930/seed43/runs/no_interaction/last.pt",
+      "sha256": "6b231bce5a8c5d0bb47395901fc5b4826e796c4e070d51cc55c18c4fd24613c7",
+      "state_hash": "018f79b45cbc23aeb76c2a046abac12efb576d7699d64acf3745c7cbf48c1b60",
+      "updates": 1944,
+      "finite_history": true
+    },
+    {
+      "seed": 44,
+      "arm": "Ranking",
+      "checkpoint": "/workspace/clip/interbind_routing75_replication_20260930/seed44/runs/Ranking/last.pt",
+      "sha256": "0e81a17b0c96ff4d4b49409d952a09d39049a9f4df7a826656d0d076cb96526d",
+      "state_hash": "2bf21ee228b57513713f405f0a13745688fa2dcec69edd4a1371f48aee76307e",
+      "updates": 1944,
+      "finite_history": true
+    },
+    {
+      "seed": 44,
+      "arm": "IS",
+      "checkpoint": "/workspace/clip/interbind_routing75_replication_20260930/seed44/runs/IS/last.pt",
+      "sha256": "79e23e804215a6df47533adf33a9d43e50fa8ee3b69e11bd8539506b4ac916e9",
+      "state_hash": "10897ced028910529e73f07132a0a39b14d6d345ad3e4c7b301e16f128126d56",
+      "updates": 1944,
+      "finite_history": true
+    },
+    {
+      "seed": 44,
+      "arm": "no_cross",
+      "checkpoint": "/workspace/clip/interbind_routing75_replication_20260930/seed44/runs/no_cross/last.pt",
+      "sha256": "eed97d1f55431e35de56f2ace66eac79934dccae966740127584794a693b8edd",
+      "state_hash": "67543acec06c084d3321cace4b37d9cf99cd960be1da9964b5ec4af2779c0dd4",
+      "updates": 1944,
+      "finite_history": true
+    },
+    {
+      "seed": 44,
+      "arm": "no_response",
+      "checkpoint": "/workspace/clip/interbind_routing75_replication_20260930/seed44/runs/no_response/last.pt",
+      "sha256": "c400dac8e01cb0d8a0b17fc485e76640e027a6d109cc3a5ef42fe8ef5b8ec2bc",
+      "state_hash": "6b0b1fc280a50bd0ae1c64e57d55dcf1ee306d398356f2419168aba3b430c7e7",
+      "updates": 1944,
+      "finite_history": true
+    },
+    {
+      "seed": 44,
+      "arm": "no_preference",
+      "checkpoint": "/workspace/clip/interbind_routing75_replication_20260930/seed44/runs/no_preference/last.pt",
+      "sha256": "83acb1512fa28410fcdd571d518af8b2781eea752192fadf983fecaf40e005f6",
+      "state_hash": "7d582c7c46fd030f33ad24a458c0c8aa6f44a0b41405d530581ea4058adcccf3",
+      "updates": 1944,
+      "finite_history": true
+    },
+    {
+      "seed": 44,
+      "arm": "no_interaction",
+      "checkpoint": "/workspace/clip/interbind_routing75_replication_20260930/seed44/runs/no_interaction/last.pt",
+      "sha256": "41222ac4f7ab6a806f4742eda04965d4c48f74f8019e259c6739e0a8293a0942",
+      "state_hash": "352f80f0fe0bc7e9f9f14c901db52f1db435634813817858c086f11fa51191e8",
+      "updates": 1944,
+      "finite_history": true
+    }
+  ],
+  "shared_configuration_guards_streams": true,
+  "seed_specific_initializations_and_schedules": true,
+  "feature_cache_hashes_verified": true,
+  "exact_seed42_replay": {
+    "max_parameter_error": 0.0,
+    "all_1944_updates_replayed": true,
+    "original_checkpoint": "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/runs/75/color_order/IS/last.pt",
+    "replay_checkpoint": "/workspace/clip/interbind_routing75_replication_20260930/replay42/IS/last.pt"
+  },
+  "test_command": [
+    "/workspace/.venv/bin/python",
+    "-m",
+    "pytest",
+    "-q",
+    "/workspace/FSE_VLM/interbind/tests/test_routing75_replication.py",
+    "/workspace/FSE_VLM/interbind/tests/test_routing_common_noise.py",
+    "/workspace/FSE_VLM/interbind/tests/test_routing_context_coverage.py",
+    "/workspace/FSE_VLM/interbind/tests/test_routing_diagnostic.py"
+  ],
+  "test_output": ".............                                                            [100%]\n=============================== warnings summary ===============================\n.venv/lib/python3.10/site-packages/requests/__init__.py:113\n  /workspace/.venv/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.3) doesn't match a supported version!\n    warnings.warn(\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n13 passed, 1 warning in 2.60s\n",
+  "test_stderr": "",
+  "script_sha256": "0f508f02a330cf52075fdb04e8b1157234434543d64ada33305f27bfc25e5dbe"
+}

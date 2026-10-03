@@ -1,0 +1,5606 @@
+[
+  {
+    "file": "results/records/color_binding/main/seed42/primary/green-yellow_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 42,
+    "bank": "green-yellow_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed42/primary/green-yellow_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 42,
+    "bank": "green-yellow_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed42/primary/purple-orange_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 42,
+    "bank": "purple-orange_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed42/primary/red-blue_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 42,
+    "bank": "red-blue_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed42/primary/red-blue_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 42,
+    "bank": "red-blue_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed42/transfer/attribute_clause_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 42,
+    "bank": "attribute_clause_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed42/transfer/attribute_clause_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 42,
+    "bank": "attribute_clause_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed42/transfer/background_shift_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 42,
+    "bank": "background_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed42/transfer/caption_gallery_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 42,
+    "bank": "caption_gallery",
+    "family": "transfer",
+    "format": "gallery_decision_scores",
+    "score_schema": "gallery_decision_v1"
+  },
+  {
+    "file": "results/records/color_binding/main/seed42/transfer/color_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 42,
+    "bank": "color_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed42/transfer/geometry_shift_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 42,
+    "bank": "geometry_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed42/transfer/noun_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 42,
+    "bank": "noun_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed42/transfer/reverse_order_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 42,
+    "bank": "reverse_order_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed42/transfer/reverse_order_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 42,
+    "bank": "reverse_order_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed43/primary/green-yellow_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 43,
+    "bank": "green-yellow_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed43/primary/green-yellow_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 43,
+    "bank": "green-yellow_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed43/primary/purple-orange_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 43,
+    "bank": "purple-orange_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed43/primary/red-blue_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 43,
+    "bank": "red-blue_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed43/primary/red-blue_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 43,
+    "bank": "red-blue_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed43/transfer/attribute_clause_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 43,
+    "bank": "attribute_clause_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed43/transfer/attribute_clause_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 43,
+    "bank": "attribute_clause_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed43/transfer/background_shift_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 43,
+    "bank": "background_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed43/transfer/caption_gallery_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 43,
+    "bank": "caption_gallery",
+    "family": "transfer",
+    "format": "gallery_decision_scores",
+    "score_schema": "gallery_decision_v1"
+  },
+  {
+    "file": "results/records/color_binding/main/seed43/transfer/color_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 43,
+    "bank": "color_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed43/transfer/geometry_shift_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 43,
+    "bank": "geometry_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed43/transfer/noun_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 43,
+    "bank": "noun_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed43/transfer/reverse_order_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 43,
+    "bank": "reverse_order_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed43/transfer/reverse_order_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 43,
+    "bank": "reverse_order_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed44/primary/green-yellow_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 44,
+    "bank": "green-yellow_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed44/primary/green-yellow_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 44,
+    "bank": "green-yellow_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed44/primary/purple-orange_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 44,
+    "bank": "purple-orange_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed44/primary/red-blue_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 44,
+    "bank": "red-blue_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed44/primary/red-blue_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 44,
+    "bank": "red-blue_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed44/transfer/attribute_clause_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 44,
+    "bank": "attribute_clause_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed44/transfer/attribute_clause_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 44,
+    "bank": "attribute_clause_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed44/transfer/background_shift_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 44,
+    "bank": "background_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed44/transfer/caption_gallery_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 44,
+    "bank": "caption_gallery",
+    "family": "transfer",
+    "format": "gallery_decision_scores",
+    "score_schema": "gallery_decision_v1"
+  },
+  {
+    "file": "results/records/color_binding/main/seed44/transfer/color_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 44,
+    "bank": "color_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed44/transfer/geometry_shift_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 44,
+    "bank": "geometry_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed44/transfer/noun_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 44,
+    "bank": "noun_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed44/transfer/reverse_order_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 44,
+    "bank": "reverse_order_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/main/seed44/transfer/reverse_order_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "main",
+    "seed": 44,
+    "bank": "reverse_order_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed42/primary/green-yellow_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "green-yellow_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed42/primary/green-yellow_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "green-yellow_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed42/primary/purple-orange_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "purple-orange_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed42/primary/red-blue_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "red-blue_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed42/primary/red-blue_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "red-blue_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed42/transfer/attribute_clause_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "attribute_clause_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed42/transfer/attribute_clause_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "attribute_clause_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed42/transfer/background_shift_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "background_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed42/transfer/caption_gallery_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "caption_gallery",
+    "family": "transfer",
+    "format": "gallery_decision_scores",
+    "score_schema": "gallery_decision_v1"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed42/transfer/color_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "color_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed42/transfer/geometry_shift_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "geometry_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed42/transfer/noun_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "noun_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed42/transfer/reverse_order_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "reverse_order_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed42/transfer/reverse_order_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "reverse_order_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed43/primary/green-yellow_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "green-yellow_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed43/primary/green-yellow_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "green-yellow_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed43/primary/purple-orange_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "purple-orange_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed43/primary/red-blue_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "red-blue_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed43/primary/red-blue_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "red-blue_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed43/transfer/attribute_clause_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "attribute_clause_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed43/transfer/attribute_clause_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "attribute_clause_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed43/transfer/background_shift_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "background_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed43/transfer/caption_gallery_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "caption_gallery",
+    "family": "transfer",
+    "format": "gallery_decision_scores",
+    "score_schema": "gallery_decision_v1"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed43/transfer/color_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "color_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed43/transfer/geometry_shift_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "geometry_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed43/transfer/noun_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "noun_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed43/transfer/reverse_order_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "reverse_order_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed43/transfer/reverse_order_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "reverse_order_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed44/primary/green-yellow_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "green-yellow_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed44/primary/green-yellow_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "green-yellow_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed44/primary/purple-orange_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "purple-orange_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed44/primary/red-blue_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "red-blue_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed44/primary/red-blue_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "red-blue_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed44/transfer/attribute_clause_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "attribute_clause_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed44/transfer/attribute_clause_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "attribute_clause_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed44/transfer/background_shift_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "background_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed44/transfer/caption_gallery_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "caption_gallery",
+    "family": "transfer",
+    "format": "gallery_decision_scores",
+    "score_schema": "gallery_decision_v1"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed44/transfer/color_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "color_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed44/transfer/geometry_shift_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "geometry_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed44/transfer/noun_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "noun_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed44/transfer/reverse_order_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "reverse_order_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openai_clip_l14/seed44/transfer/reverse_order_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "reverse_order_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed42/primary/green-yellow_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 42,
+    "bank": "green-yellow_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed42/primary/green-yellow_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 42,
+    "bank": "green-yellow_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed42/primary/purple-orange_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 42,
+    "bank": "purple-orange_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed42/primary/red-blue_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 42,
+    "bank": "red-blue_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed42/primary/red-blue_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 42,
+    "bank": "red-blue_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed42/transfer/attribute_clause_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 42,
+    "bank": "attribute_clause_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed42/transfer/attribute_clause_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 42,
+    "bank": "attribute_clause_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed42/transfer/background_shift_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 42,
+    "bank": "background_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed42/transfer/caption_gallery_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 42,
+    "bank": "caption_gallery",
+    "family": "transfer",
+    "format": "gallery_decision_scores",
+    "score_schema": "gallery_decision_v1"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed42/transfer/color_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 42,
+    "bank": "color_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed42/transfer/geometry_shift_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 42,
+    "bank": "geometry_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed42/transfer/noun_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 42,
+    "bank": "noun_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed42/transfer/reverse_order_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 42,
+    "bank": "reverse_order_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed42/transfer/reverse_order_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 42,
+    "bank": "reverse_order_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed43/primary/green-yellow_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 43,
+    "bank": "green-yellow_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed43/primary/green-yellow_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 43,
+    "bank": "green-yellow_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed43/primary/purple-orange_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 43,
+    "bank": "purple-orange_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed43/primary/red-blue_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 43,
+    "bank": "red-blue_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed43/primary/red-blue_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 43,
+    "bank": "red-blue_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed43/transfer/attribute_clause_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 43,
+    "bank": "attribute_clause_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed43/transfer/attribute_clause_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 43,
+    "bank": "attribute_clause_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed43/transfer/background_shift_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 43,
+    "bank": "background_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed43/transfer/caption_gallery_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 43,
+    "bank": "caption_gallery",
+    "family": "transfer",
+    "format": "gallery_decision_scores",
+    "score_schema": "gallery_decision_v1"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed43/transfer/color_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 43,
+    "bank": "color_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed43/transfer/geometry_shift_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 43,
+    "bank": "geometry_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed43/transfer/noun_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 43,
+    "bank": "noun_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed43/transfer/reverse_order_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 43,
+    "bank": "reverse_order_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed43/transfer/reverse_order_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 43,
+    "bank": "reverse_order_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed44/primary/green-yellow_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 44,
+    "bank": "green-yellow_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed44/primary/green-yellow_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 44,
+    "bank": "green-yellow_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed44/primary/purple-orange_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 44,
+    "bank": "purple-orange_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed44/primary/red-blue_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 44,
+    "bank": "red-blue_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed44/primary/red-blue_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 44,
+    "bank": "red-blue_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed44/transfer/attribute_clause_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 44,
+    "bank": "attribute_clause_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed44/transfer/attribute_clause_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 44,
+    "bank": "attribute_clause_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed44/transfer/background_shift_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 44,
+    "bank": "background_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed44/transfer/caption_gallery_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 44,
+    "bank": "caption_gallery",
+    "family": "transfer",
+    "format": "gallery_decision_scores",
+    "score_schema": "gallery_decision_v1"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed44/transfer/color_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 44,
+    "bank": "color_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed44/transfer/geometry_shift_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 44,
+    "bank": "geometry_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed44/transfer/noun_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 44,
+    "bank": "noun_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed44/transfer/reverse_order_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 44,
+    "bank": "reverse_order_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/google_siglip_b16_224/seed44/transfer/reverse_order_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "google_siglip_b16_224",
+    "seed": 44,
+    "bank": "reverse_order_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed42/primary/green-yellow_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 42,
+    "bank": "green-yellow_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed42/primary/green-yellow_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 42,
+    "bank": "green-yellow_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed42/primary/purple-orange_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 42,
+    "bank": "purple-orange_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed42/primary/red-blue_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 42,
+    "bank": "red-blue_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed42/primary/red-blue_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 42,
+    "bank": "red-blue_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed42/transfer/attribute_clause_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 42,
+    "bank": "attribute_clause_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed42/transfer/attribute_clause_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 42,
+    "bank": "attribute_clause_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed42/transfer/background_shift_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 42,
+    "bank": "background_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed42/transfer/caption_gallery_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 42,
+    "bank": "caption_gallery",
+    "family": "transfer",
+    "format": "gallery_decision_scores",
+    "score_schema": "gallery_decision_v1"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed42/transfer/color_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 42,
+    "bank": "color_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed42/transfer/geometry_shift_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 42,
+    "bank": "geometry_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed42/transfer/noun_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 42,
+    "bank": "noun_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed42/transfer/reverse_order_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 42,
+    "bank": "reverse_order_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed42/transfer/reverse_order_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 42,
+    "bank": "reverse_order_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed43/primary/green-yellow_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 43,
+    "bank": "green-yellow_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed43/primary/green-yellow_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 43,
+    "bank": "green-yellow_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed43/primary/purple-orange_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 43,
+    "bank": "purple-orange_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed43/primary/red-blue_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 43,
+    "bank": "red-blue_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed43/primary/red-blue_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 43,
+    "bank": "red-blue_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed43/transfer/attribute_clause_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 43,
+    "bank": "attribute_clause_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed43/transfer/attribute_clause_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 43,
+    "bank": "attribute_clause_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed43/transfer/background_shift_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 43,
+    "bank": "background_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed43/transfer/caption_gallery_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 43,
+    "bank": "caption_gallery",
+    "family": "transfer",
+    "format": "gallery_decision_scores",
+    "score_schema": "gallery_decision_v1"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed43/transfer/color_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 43,
+    "bank": "color_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed43/transfer/geometry_shift_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 43,
+    "bank": "geometry_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed43/transfer/noun_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 43,
+    "bank": "noun_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed43/transfer/reverse_order_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 43,
+    "bank": "reverse_order_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed43/transfer/reverse_order_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 43,
+    "bank": "reverse_order_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed44/primary/green-yellow_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 44,
+    "bank": "green-yellow_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed44/primary/green-yellow_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 44,
+    "bank": "green-yellow_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed44/primary/purple-orange_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 44,
+    "bank": "purple-orange_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed44/primary/red-blue_canonical_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 44,
+    "bank": "red-blue_canonical",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed44/primary/red-blue_reversed_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 44,
+    "bank": "red-blue_reversed",
+    "family": "primary",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed44/transfer/attribute_clause_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 44,
+    "bank": "attribute_clause_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed44/transfer/attribute_clause_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 44,
+    "bank": "attribute_clause_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed44/transfer/background_shift_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 44,
+    "bank": "background_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed44/transfer/caption_gallery_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 44,
+    "bank": "caption_gallery",
+    "family": "transfer",
+    "format": "gallery_decision_scores",
+    "score_schema": "gallery_decision_v1"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed44/transfer/color_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 44,
+    "bank": "color_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed44/transfer/geometry_shift_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 44,
+    "bank": "geometry_shift",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed44/transfer/noun_recombination_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 44,
+    "bank": "noun_recombination",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed44/transfer/reverse_order_green-yellow_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 44,
+    "bank": "reverse_order_green-yellow",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/color_binding/openclip_laion_l14/seed44/transfer/reverse_order_red-blue_scores.npz",
+    "case": "color_binding",
+    "study": "openclip_laion_l14",
+    "seed": 44,
+    "bank": "reverse_order_red-blue",
+    "family": "transfer",
+    "format": "score_matrix"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_heldout/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_heldout/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_heldout/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_heldout/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_heldout/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_heldout/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_heldout/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_heldout/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_seen/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_seen/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_seen/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_seen/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_seen/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_seen/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_seen/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/fresh_seen/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_heldout_standard/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_heldout_standard/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_heldout_standard/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_heldout_standard/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_heldout_standard/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_heldout_standard/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_heldout_standard/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_heldout_standard/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_serif/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_serif/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_serif/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_serif/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_serif/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_serif/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_serif/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_serif/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_standard/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_standard/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_standard/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_standard/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_standard/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_standard/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_standard/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_standard/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_top/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_top/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_top/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_top/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_top/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_top/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_top/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed42/test_seen_top/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_heldout/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_heldout/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_heldout/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_heldout/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_heldout/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_heldout/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_heldout/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_heldout/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_seen/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_seen/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_seen/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_seen/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_seen/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_seen/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_seen/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/fresh_seen/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_heldout_standard/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_heldout_standard/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_heldout_standard/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_heldout_standard/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_heldout_standard/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_heldout_standard/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_heldout_standard/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_heldout_standard/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_serif/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_serif/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_serif/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_serif/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_serif/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_serif/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_serif/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_serif/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_standard/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_standard/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_standard/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_standard/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_standard/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_standard/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_standard/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_standard/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_top/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_top/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_top/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_top/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_top/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_top/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_top/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed43/test_seen_top/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_heldout/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_heldout/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_heldout/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_heldout/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_heldout/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_heldout/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_heldout/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_heldout/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_seen/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_seen/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_seen/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_seen/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_seen/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_seen/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_seen/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/fresh_seen/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_heldout_standard/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_heldout_standard/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_heldout_standard/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_heldout_standard/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_heldout_standard/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_heldout_standard/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_heldout_standard/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_heldout_standard/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_serif/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_serif/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_serif/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_serif/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_serif/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_serif/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_serif/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_serif/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_standard/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_standard/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_standard/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_standard/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_standard/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_standard/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_standard/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_standard/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_top/IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_top/IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_top/frozen.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_top/frozen_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "frozen",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_top/previous_IS.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "previous_IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_top/previous_IS_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "previous_IS",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_top/ranking.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/main/seed44/test_seen_top/ranking_all12.npz",
+    "case": "typography",
+    "study": "main",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "ranking",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/fresh_heldout/IS_seed42.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/fresh_heldout/IS_seed43.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/fresh_heldout/IS_seed44.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/fresh_heldout/frozen_seed0.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 0,
+    "bank": "fresh_heldout",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/fresh_heldout/ranking_seed42.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/fresh_heldout/ranking_seed43.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/fresh_heldout/ranking_seed44.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/fresh_seen/IS_seed42.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/fresh_seen/IS_seed43.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/fresh_seen/IS_seed44.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/fresh_seen/frozen_seed0.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 0,
+    "bank": "fresh_seen",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/fresh_seen/ranking_seed42.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/fresh_seen/ranking_seed43.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/fresh_seen/ranking_seed44.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_heldout_standard/IS_seed42.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_heldout_standard/IS_seed43.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_heldout_standard/IS_seed44.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_heldout_standard/frozen_seed0.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 0,
+    "bank": "test_heldout_standard",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_heldout_standard/ranking_seed42.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_heldout_standard/ranking_seed43.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_heldout_standard/ranking_seed44.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_serif/IS_seed42.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_serif/IS_seed43.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_serif/IS_seed44.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_serif/frozen_seed0.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 0,
+    "bank": "test_seen_serif",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_serif/ranking_seed42.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_serif/ranking_seed43.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_serif/ranking_seed44.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_standard/IS_seed42.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_standard/IS_seed43.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_standard/IS_seed44.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_standard/frozen_seed0.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 0,
+    "bank": "test_seen_standard",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_standard/ranking_seed42.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_standard/ranking_seed43.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_standard/ranking_seed44.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_top/IS_seed42.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_top/IS_seed43.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_top/IS_seed44.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_top/frozen_seed0.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 0,
+    "bank": "test_seen_top",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_top/ranking_seed42.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_top/ranking_seed43.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openai_clip_l14/test_seen_top/ranking_seed44.npz",
+    "case": "typography",
+    "study": "openai_clip_l14",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/fresh_heldout/IS_seed42.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/fresh_heldout/IS_seed43.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/fresh_heldout/IS_seed44.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/fresh_heldout/frozen_seed0.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 0,
+    "bank": "fresh_heldout",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/fresh_heldout/ranking_seed42.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/fresh_heldout/ranking_seed43.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/fresh_heldout/ranking_seed44.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/fresh_seen/IS_seed42.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/fresh_seen/IS_seed43.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/fresh_seen/IS_seed44.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/fresh_seen/frozen_seed0.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 0,
+    "bank": "fresh_seen",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/fresh_seen/ranking_seed42.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/fresh_seen/ranking_seed43.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/fresh_seen/ranking_seed44.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_heldout_standard/IS_seed42.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_heldout_standard/IS_seed43.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_heldout_standard/IS_seed44.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_heldout_standard/frozen_seed0.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 0,
+    "bank": "test_heldout_standard",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_heldout_standard/ranking_seed42.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_heldout_standard/ranking_seed43.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_heldout_standard/ranking_seed44.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_serif/IS_seed42.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_serif/IS_seed43.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_serif/IS_seed44.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_serif/frozen_seed0.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 0,
+    "bank": "test_seen_serif",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_serif/ranking_seed42.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_serif/ranking_seed43.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_serif/ranking_seed44.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_standard/IS_seed42.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_standard/IS_seed43.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_standard/IS_seed44.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_standard/frozen_seed0.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 0,
+    "bank": "test_seen_standard",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_standard/ranking_seed42.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_standard/ranking_seed43.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_standard/ranking_seed44.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_top/IS_seed42.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_top/IS_seed43.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_top/IS_seed44.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "IS",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_top/frozen_seed0.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 0,
+    "bank": "test_seen_top",
+    "method": "frozen",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_top/ranking_seed42.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_top/ranking_seed43.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/openclip_laion_b32/test_seen_top/ranking_seed44.npz",
+    "case": "typography",
+    "study": "openclip_laion_b32",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "ranking",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/fresh_heldout/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/fresh_heldout/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/fresh_seen/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/fresh_seen/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_heldout_standard/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_heldout_standard/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_seen_serif/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_seen_serif/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_seen_standard/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_seen_standard/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_seen_top/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_seen_top/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/fresh_heldout/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/fresh_heldout/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "fresh_heldout",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/fresh_seen/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/fresh_seen/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "fresh_seen",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_heldout_standard/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_heldout_standard/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_heldout_standard",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_seen_serif/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_seen_serif/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_seen_serif",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_seen_standard/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_seen_standard/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_seen_standard",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_seen_top/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed42/test_seen_top/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 42,
+    "bank": "test_seen_top",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/fresh_heldout/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/fresh_heldout/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/fresh_seen/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/fresh_seen/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_heldout_standard/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_heldout_standard/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_seen_serif/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_seen_serif/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_seen_standard/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_seen_standard/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_seen_top/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_seen_top/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/fresh_heldout/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/fresh_heldout/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "fresh_heldout",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/fresh_seen/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/fresh_seen/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "fresh_seen",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_heldout_standard/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_heldout_standard/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_heldout_standard",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_seen_serif/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_seen_serif/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_seen_serif",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_seen_standard/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_seen_standard/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_seen_standard",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_seen_top/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed43/test_seen_top/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 43,
+    "bank": "test_seen_top",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/fresh_heldout/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/fresh_heldout/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/fresh_seen/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/fresh_seen/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_heldout_standard/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_heldout_standard/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_seen_serif/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_seen_serif/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_seen_standard/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_seen_standard/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_seen_top/ranking_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "ranking_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_seen_top/ranking_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "ranking_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/fresh_heldout/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/fresh_heldout/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "fresh_heldout",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/fresh_seen/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/fresh_seen/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "fresh_seen",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_heldout_standard/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_heldout_standard/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_heldout_standard",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_seen_serif/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_seen_serif/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_seen_serif",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_seen_standard/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_seen_standard/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_seen_standard",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_seen_top/IS8_P.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "IS8_P",
+    "format": "digital_scores",
+    "score_schema": "typography_audit_and_recognition_v1"
+  },
+  {
+    "file": "results/records/typography/additional_retention/seed44/test_seen_top/IS8_P_all12.npz",
+    "case": "typography",
+    "study": "additional_retention",
+    "seed": 44,
+    "bank": "test_seen_top",
+    "method": "IS8_P",
+    "format": "all12"
+  },
+  {
+    "file": "results/records/backdoor/stripes/development/victim_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "development",
+    "method": "victim",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/development/ranking_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "development",
+    "method": "ranking",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/development/PAR_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "development",
+    "method": "PAR",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/development/clean_only_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "development",
+    "method": "clean_only",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/development/clean_only_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "development",
+    "method": "clean_only",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/development/ranking_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "development",
+    "method": "ranking",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/development/clean_only_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "development",
+    "method": "clean_only",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/development/ranking_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "development",
+    "method": "ranking",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/development/IS2_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "development",
+    "method": "IS2",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/development/IS2_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "development",
+    "method": "IS2",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/development/IS2_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "development",
+    "method": "IS2",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana87/victim_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana87",
+    "method": "victim",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana87/ranking_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana87",
+    "method": "ranking",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana87/PAR_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana87",
+    "method": "PAR",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana87/clean_only_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana87",
+    "method": "clean_only",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana87/clean_only_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana87",
+    "method": "clean_only",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana87/ranking_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana87",
+    "method": "ranking",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana87/clean_only_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana87",
+    "method": "clean_only",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana87/ranking_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana87",
+    "method": "ranking",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana87/IS2_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana87",
+    "method": "IS2",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana87/IS2_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana87",
+    "method": "IS2",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana87/IS2_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana87",
+    "method": "IS2",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana1000/victim_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana1000",
+    "method": "victim",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana1000/ranking_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana1000",
+    "method": "ranking",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana1000/PAR_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana1000",
+    "method": "PAR",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana1000/clean_only_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana1000",
+    "method": "clean_only",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana1000/clean_only_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana1000",
+    "method": "clean_only",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana1000/ranking_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana1000",
+    "method": "ranking",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana1000/clean_only_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana1000",
+    "method": "clean_only",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana1000/ranking_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana1000",
+    "method": "ranking",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana1000/IS2_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana1000",
+    "method": "IS2",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana1000/IS2_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana1000",
+    "method": "IS2",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/banana1000/IS2_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "banana1000",
+    "method": "IS2",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/imagenetv2/victim_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "imagenetv2",
+    "method": "victim",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/imagenetv2/ranking_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "imagenetv2",
+    "method": "ranking",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/imagenetv2/PAR_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "imagenetv2",
+    "method": "PAR",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/imagenetv2/clean_only_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "imagenetv2",
+    "method": "clean_only",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/imagenetv2/clean_only_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "imagenetv2",
+    "method": "clean_only",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/imagenetv2/ranking_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "imagenetv2",
+    "method": "ranking",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/imagenetv2/clean_only_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "imagenetv2",
+    "method": "clean_only",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/imagenetv2/ranking_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "imagenetv2",
+    "method": "ranking",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/imagenetv2/IS2_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "imagenetv2",
+    "method": "IS2",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/imagenetv2/IS2_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "imagenetv2",
+    "method": "IS2",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/stripes/imagenetv2/IS2_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "stripes",
+    "bank": "imagenetv2",
+    "method": "IS2",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/development/victim_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "development",
+    "method": "victim",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/development/ranking_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "development",
+    "method": "ranking",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/development/PAR_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "development",
+    "method": "PAR",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/development/clean_only_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "development",
+    "method": "clean_only",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/development/clean_only_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "development",
+    "method": "clean_only",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/development/ranking_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "development",
+    "method": "ranking",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/development/clean_only_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "development",
+    "method": "clean_only",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/development/ranking_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "development",
+    "method": "ranking",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/development/IS2_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "development",
+    "method": "IS2",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/development/IS2_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "development",
+    "method": "IS2",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/development/IS2_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "development",
+    "method": "IS2",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana87/victim_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana87",
+    "method": "victim",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana87/ranking_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana87",
+    "method": "ranking",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana87/PAR_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana87",
+    "method": "PAR",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana87/clean_only_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana87",
+    "method": "clean_only",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana87/clean_only_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana87",
+    "method": "clean_only",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana87/ranking_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana87",
+    "method": "ranking",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana87/clean_only_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana87",
+    "method": "clean_only",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana87/ranking_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana87",
+    "method": "ranking",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana87/IS2_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana87",
+    "method": "IS2",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana87/IS2_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana87",
+    "method": "IS2",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana87/IS2_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana87",
+    "method": "IS2",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana1000/victim_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana1000",
+    "method": "victim",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana1000/ranking_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana1000",
+    "method": "ranking",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana1000/PAR_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana1000",
+    "method": "PAR",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana1000/clean_only_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana1000",
+    "method": "clean_only",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana1000/clean_only_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana1000",
+    "method": "clean_only",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana1000/ranking_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana1000",
+    "method": "ranking",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana1000/clean_only_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana1000",
+    "method": "clean_only",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana1000/ranking_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana1000",
+    "method": "ranking",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana1000/IS2_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana1000",
+    "method": "IS2",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana1000/IS2_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana1000",
+    "method": "IS2",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/banana1000/IS2_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "banana1000",
+    "method": "IS2",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/imagenetv2/victim_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "imagenetv2",
+    "method": "victim",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/imagenetv2/ranking_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "imagenetv2",
+    "method": "ranking",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/imagenetv2/PAR_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "imagenetv2",
+    "method": "PAR",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/imagenetv2/clean_only_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "imagenetv2",
+    "method": "clean_only",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/imagenetv2/clean_only_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "imagenetv2",
+    "method": "clean_only",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/imagenetv2/ranking_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "imagenetv2",
+    "method": "ranking",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/imagenetv2/clean_only_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "imagenetv2",
+    "method": "clean_only",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/imagenetv2/ranking_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "imagenetv2",
+    "method": "ranking",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/imagenetv2/IS2_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "imagenetv2",
+    "method": "IS2",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/imagenetv2/IS2_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "imagenetv2",
+    "method": "IS2",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/triangles/imagenetv2/IS2_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "triangles",
+    "bank": "imagenetv2",
+    "method": "IS2",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/development/victim_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "development",
+    "method": "victim",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/development/ranking_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "development",
+    "method": "ranking",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/development/PAR_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "development",
+    "method": "PAR",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/development/clean_only_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "development",
+    "method": "clean_only",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/development/clean_only_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "development",
+    "method": "clean_only",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/development/ranking_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "development",
+    "method": "ranking",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/development/clean_only_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "development",
+    "method": "clean_only",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/development/ranking_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "development",
+    "method": "ranking",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/development/IS2_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "development",
+    "method": "IS2",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/development/IS2_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "development",
+    "method": "IS2",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/development/IS2_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "development",
+    "method": "IS2",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana87/victim_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana87",
+    "method": "victim",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana87/ranking_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana87",
+    "method": "ranking",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana87/PAR_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana87",
+    "method": "PAR",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana87/clean_only_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana87",
+    "method": "clean_only",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana87/clean_only_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana87",
+    "method": "clean_only",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana87/ranking_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana87",
+    "method": "ranking",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana87/clean_only_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana87",
+    "method": "clean_only",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana87/ranking_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana87",
+    "method": "ranking",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana87/IS2_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana87",
+    "method": "IS2",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana87/IS2_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana87",
+    "method": "IS2",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana87/IS2_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana87",
+    "method": "IS2",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana1000/victim_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana1000",
+    "method": "victim",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana1000/ranking_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana1000",
+    "method": "ranking",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana1000/PAR_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana1000",
+    "method": "PAR",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana1000/clean_only_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana1000",
+    "method": "clean_only",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana1000/clean_only_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana1000",
+    "method": "clean_only",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana1000/ranking_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana1000",
+    "method": "ranking",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana1000/clean_only_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana1000",
+    "method": "clean_only",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana1000/ranking_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana1000",
+    "method": "ranking",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana1000/IS2_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana1000",
+    "method": "IS2",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana1000/IS2_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana1000",
+    "method": "IS2",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/banana1000/IS2_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "banana1000",
+    "method": "IS2",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/imagenetv2/victim_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "imagenetv2",
+    "method": "victim",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/imagenetv2/ranking_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "imagenetv2",
+    "method": "ranking",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/imagenetv2/PAR_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "imagenetv2",
+    "method": "PAR",
+    "seed": 0,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/imagenetv2/clean_only_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "imagenetv2",
+    "method": "clean_only",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/imagenetv2/clean_only_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "imagenetv2",
+    "method": "clean_only",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/imagenetv2/ranking_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "imagenetv2",
+    "method": "ranking",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/imagenetv2/clean_only_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "imagenetv2",
+    "method": "clean_only",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/imagenetv2/ranking_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "imagenetv2",
+    "method": "ranking",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/imagenetv2/IS2_seed42_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "imagenetv2",
+    "method": "IS2",
+    "seed": 42,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/imagenetv2/IS2_seed43_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "imagenetv2",
+    "method": "IS2",
+    "seed": 43,
+    "format": "backdoor_predictions"
+  },
+  {
+    "file": "results/records/backdoor/text/imagenetv2/IS2_seed44_records.npz",
+    "case": "backdoor",
+    "attack": "text",
+    "bank": "imagenetv2",
+    "method": "IS2",
+    "seed": 44,
+    "format": "backdoor_predictions"
+  }
+]

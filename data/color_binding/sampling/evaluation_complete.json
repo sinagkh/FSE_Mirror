@@ -1,0 +1,8 @@
+{
+  "matched_sha256": "7d6d7a0727de67e59b1508083fe877bd924988c1748d893f6b7358b8bb747f81",
+  "sugarcrepe_sha256": "510e3ce4a690705237dcbe198becae75175d4cdc24800b4fe8fa5b2c54a7d918",
+  "controls_replay_sha256": "20451aedbee54bed08a9e900b30d7f43445527b006e9063d0582f8adace8a8fa",
+  "seed": 42,
+  "development": true,
+  "no_additional_seeds": true
+}

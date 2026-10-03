@@ -1,0 +1,27 @@
+{
+  "protocol_sha256": "6a0902a879a6401efc762b0f8c2ca761c524a0fa20bf0e385847e9e6e8234038",
+  "rows_sha256": "85f11ff6dc4a427b385e1a5261f1c4d15e66e6c50558e24de2bd027ef08536b5",
+  "excluded_sha256": "2a3b0c459a6018672aa062dfae2d7a16fd0b527fbb22a4fcd66635f6c28292e3",
+  "n_anchors": 1408,
+  "n_pair_specific_training_rows": 2816,
+  "source_overlap": 0,
+  "by_class_or_pair": {
+    "bicycle": 128,
+    "boat": 128,
+    "bus": 128,
+    "car": 128,
+    "train": 128,
+    "truck": 128,
+    "bus+airplane": 128,
+    "car+boat": 128,
+    "cat+couch": 128,
+    "dog+sports ball": 128,
+    "person+bicycle": 128
+  },
+  "rejected_before_quota": {
+    "crop_visibility": 497,
+    "source_geometry": 1421
+  },
+  "gpu_used": false,
+  "training_launched": false
+}

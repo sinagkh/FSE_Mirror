@@ -1,0 +1,17 @@
+{
+  "scope": "typography",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "source_sha256": "7a7083252df019349a9cf3a61d65b460be3d9cd92a0c9162060eaa645a7c3127",
+  "protocol_sha256": "51f3c64ce1a463a44360f86957c02a4a3a0bfe6c06f4798ce705d2a29b2f7dc3",
+  "outputs_sha256": {
+    "paired_contrasts.csv": "345fda5516189466ec9aff298e72cd4002af1b4305958772596b4a7da6fe3344",
+    "all_results.json": "6c11f87c36c4a7a513ca443da1019498549aaa056595256c5076984fe18f5d3a",
+    "per_seed.csv": "1aa6e6f204ebe3a6eebf9427906b11c039608ba971f35c589d46aaa46ff2c353",
+    "RESULTS.md": "6db58d0b2b8c960d9554190e2e294ddeea51e321c540ae4e3892506868b764aa",
+    "all_metrics.csv": "49019d6098e43e6250ecfa0f4b591a2272c8a176e79ca715ed91b48103bc2f98"
+  }
+}

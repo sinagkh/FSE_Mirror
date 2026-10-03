@@ -1,0 +1,1001 @@
+id,source_id,bank,model,object_label,attack_word,object_score,attack_score,margin,correct,top1,predicted_label
+label=DVD_text=adapter.jpg,label=DVD_text=adapter.jpg,RTA100,previous_IS,DVD,adapter,0.2791646122932434,0.24898767471313477,0.030176937580108643,True,False,mousepad
+label=DVD_text=bag.jpg,label=DVD_text=bag.jpg,RTA100,previous_IS,DVD,bag,0.2876007854938507,0.22317004203796387,0.06443074345588684,True,True,DVD
+label=DVD_text=ball.jpg,label=DVD_text=ball.jpg,RTA100,previous_IS,DVD,ball,0.2850498557090759,0.2674599587917328,0.01758989691734314,True,True,DVD
+label=DVD_text=bed.jpg,label=DVD_text=bed.jpg,RTA100,previous_IS,DVD,bed,0.29118865728378296,0.2461288869380951,0.045059770345687866,True,True,DVD
+label=DVD_text=controller.jpg,label=DVD_text=controller.jpg,RTA100,previous_IS,DVD,controller,0.2569202184677124,0.24589523673057556,0.01102498173713684,True,True,DVD
+label=DVD_text=frisbee.jpg,label=DVD_text=frisbee.jpg,RTA100,previous_IS,DVD,frisbee,0.2518198788166046,0.21308749914169312,0.0387323796749115,True,True,DVD
+label=DVD_text=mango.jpg,label=DVD_text=mango.jpg,RTA100,previous_IS,DVD,mango,0.26454269886016846,0.23149758577346802,0.03304511308670044,True,True,DVD
+label=DVD_text=oven.jpg,label=DVD_text=oven.jpg,RTA100,previous_IS,DVD,oven,0.2956274747848511,0.23362143337726593,0.062006041407585144,True,True,DVD
+label=DVD_text=slipper.jpg,label=DVD_text=slipper.jpg,RTA100,previous_IS,DVD,slipper,0.28835761547088623,0.23448115587234497,0.05387645959854126,True,True,DVD
+label=DVD_text=umbrella.jpg,label=DVD_text=umbrella.jpg,RTA100,previous_IS,DVD,umbrella,0.24776515364646912,0.2081678807735443,0.039597272872924805,True,True,DVD
+label=adapter_text=apple.jpg,label=adapter_text=apple.jpg,RTA100,previous_IS,adapter,apple,0.28176718950271606,0.2683870196342468,0.013380169868469238,True,True,adapter
+label=adapter_text=basket.jpg,label=adapter_text=basket.jpg,RTA100,previous_IS,adapter,basket,0.2709426283836365,0.20449040830135345,0.06645222008228302,True,True,adapter
+label=adapter_text=hand.jpg,label=adapter_text=hand.jpg,RTA100,previous_IS,adapter,hand,0.2510492503643036,0.2512317895889282,-0.0001825392246246338,False,False,mousepad
+label=adapter_text=jacket.jpg,label=adapter_text=jacket.jpg,RTA100,previous_IS,adapter,jacket,0.2553325295448303,0.24413937330245972,0.011193156242370605,True,False,headphone
+label=adapter_text=mic.jpg,label=adapter_text=mic.jpg,RTA100,previous_IS,adapter,mic,0.2630160450935364,0.2387547791004181,0.024261265993118286,True,True,adapter
+label=adapter_text=microwave.jpg,label=adapter_text=microwave.jpg,RTA100,previous_IS,adapter,microwave,0.24676057696342468,0.24848952889442444,-0.0017289519309997559,False,False,microwave
+label=adapter_text=ruler.jpg,label=adapter_text=ruler.jpg,RTA100,previous_IS,adapter,ruler,0.25018295645713806,0.20637772977352142,0.04380522668361664,True,False,headphone
+label=adapter_text=speaker.jpg,label=adapter_text=speaker.jpg,RTA100,previous_IS,adapter,speaker,0.2919301986694336,0.2747892737388611,0.01714092493057251,True,True,adapter
+label=adapter_text=thermometer.jpg,label=adapter_text=thermometer.jpg,RTA100,previous_IS,adapter,thermometer,0.2267674207687378,0.19188204407691956,0.03488537669181824,True,False,headphone
+label=adapter_text=trash box.jpg,label=adapter_text=trash box.jpg,RTA100,previous_IS,adapter,trash box,0.2659229636192322,0.2385527789592743,0.027370184659957886,True,True,adapter
+label=airconditioner_text=bag.jpg,label=airconditioner_text=bag.jpg,RTA100,previous_IS,airconditioner,bag,0.29523178935050964,0.28287872672080994,0.012353062629699707,True,False,whiteboard
+label=airconditioner_text=bookshelf.jpg,label=airconditioner_text=bookshelf.jpg,RTA100,previous_IS,airconditioner,bookshelf,0.3000848889350891,0.24667224287986755,0.05341264605522156,True,False,whiteboard
+label=airconditioner_text=keyboard.jpg,label=airconditioner_text=keyboard.jpg,RTA100,previous_IS,airconditioner,keyboard,0.2790117561817169,0.21493181586265564,0.06407994031906128,True,False,microwave
+label=airconditioner_text=light bulb.jpg,label=airconditioner_text=light bulb.jpg,RTA100,previous_IS,airconditioner,light bulb,0.29701176285743713,0.26212888956069946,0.03488287329673767,True,False,whiteboard
+label=airconditioner_text=pants.jpg,label=airconditioner_text=pants.jpg,RTA100,previous_IS,airconditioner,pants,0.27433085441589355,0.24344366788864136,0.030887186527252197,True,True,airconditioner
+label=airconditioner_text=pen.jpg,label=airconditioner_text=pen.jpg,RTA100,previous_IS,airconditioner,pen,0.28435468673706055,0.20961274206638336,0.07474194467067719,True,True,airconditioner
+label=airconditioner_text=plate.jpg,label=airconditioner_text=plate.jpg,RTA100,previous_IS,airconditioner,plate,0.27388250827789307,0.22639411687850952,0.047488391399383545,True,False,whiteboard
+label=airconditioner_text=scissors.jpg,label=airconditioner_text=scissors.jpg,RTA100,previous_IS,airconditioner,scissors,0.289600133895874,0.24960163235664368,0.03999850153923035,True,False,whiteboard
+label=airconditioner_text=tissue.jpg,label=airconditioner_text=tissue.jpg,RTA100,previous_IS,airconditioner,tissue,0.2867078185081482,0.23989105224609375,0.04681676626205444,True,False,fridge
+label=airconditioner_text=towel.jpg,label=airconditioner_text=towel.jpg,RTA100,previous_IS,airconditioner,towel,0.29649996757507324,0.2563435137271881,0.04015645384788513,True,False,whiteboard
+label=apple_text=airconditioner.jpg,label=apple_text=airconditioner.jpg,RTA100,previous_IS,apple,airconditioner,0.275550901889801,0.210676908493042,0.06487399339675903,True,True,apple
+label=apple_text=bag.jpg,label=apple_text=bag.jpg,RTA100,previous_IS,apple,bag,0.32155153155326843,0.278144896030426,0.04340663552284241,True,True,apple
+label=apple_text=doll.jpg,label=apple_text=doll.jpg,RTA100,previous_IS,apple,doll,0.30642977356910706,0.232130765914917,0.07429900765419006,True,True,apple
+label=apple_text=drill.jpg,label=apple_text=drill.jpg,RTA100,previous_IS,apple,drill,0.3043520748615265,0.21793419122695923,0.08641788363456726,True,True,apple
+label=apple_text=earphones.jpg,label=apple_text=earphones.jpg,RTA100,previous_IS,apple,earphones,0.26799309253692627,0.250067800283432,0.017925292253494263,True,False,iPhone
+label=apple_text=glasses.jpg,label=apple_text=glasses.jpg,RTA100,previous_IS,apple,glasses,0.2838306725025177,0.2870382070541382,-0.0032075345516204834,False,False,glasses
+label=apple_text=glove.jpg,label=apple_text=glove.jpg,RTA100,previous_IS,apple,glove,0.32738789916038513,0.2317216694355011,0.09566622972488403,True,True,apple
+label=apple_text=pen.jpg,label=apple_text=pen.jpg,RTA100,previous_IS,apple,pen,0.3094772696495056,0.28015923500061035,0.029318034648895264,True,True,apple
+label=apple_text=scissors.jpg,label=apple_text=scissors.jpg,RTA100,previous_IS,apple,scissors,0.28124183416366577,0.25411105155944824,0.02713078260421753,True,True,apple
+label=apple_text=whiteboard.jpg,label=apple_text=whiteboard.jpg,RTA100,previous_IS,apple,whiteboard,0.2793446183204651,0.27579987049102783,0.003544747829437256,True,True,apple
+label=bag_text=card.jpg,label=bag_text=card.jpg,RTA100,previous_IS,bag,card,0.2694218158721924,0.18999668955802917,0.07942512631416321,True,True,bag
+label=bag_text=chair.jpg,label=bag_text=chair.jpg,RTA100,previous_IS,bag,chair,0.26931673288345337,0.2002885937690735,0.06902813911437988,True,True,bag
+label=bag_text=dog.jpg,label=bag_text=dog.jpg,RTA100,previous_IS,bag,dog,0.2860616445541382,0.19041065871715546,0.09565098583698273,True,True,bag
+label=bag_text=fridge.jpg,label=bag_text=fridge.jpg,RTA100,previous_IS,bag,fridge,0.2557269334793091,0.18867334723472595,0.06705358624458313,True,True,bag
+label=bag_text=iron.jpg,label=bag_text=iron.jpg,RTA100,previous_IS,bag,iron,0.2872351408004761,0.24020108580589294,0.04703405499458313,True,True,bag
+label=bag_text=key.jpg,label=bag_text=key.jpg,RTA100,previous_IS,bag,key,0.2897208631038666,0.21194902062416077,0.07777184247970581,True,True,bag
+label=bag_text=melon.jpg,label=bag_text=melon.jpg,RTA100,previous_IS,bag,melon,0.27576959133148193,0.18149136006832123,0.0942782312631607,True,True,bag
+label=bag_text=monitor.jpg,label=bag_text=monitor.jpg,RTA100,previous_IS,bag,monitor,0.2600870728492737,0.21189790964126587,0.04818916320800781,True,True,bag
+label=bag_text=sofa.jpg,label=bag_text=sofa.jpg,RTA100,previous_IS,bag,sofa,0.2833603322505951,0.20720474421977997,0.07615558803081512,True,True,bag
+label=bag_text=toothbrush.jpg,label=bag_text=toothbrush.jpg,RTA100,previous_IS,bag,toothbrush,0.25985097885131836,0.17735490202903748,0.08249607682228088,True,True,bag
+label=ball_text=bag.jpg,label=ball_text=bag.jpg,RTA100,previous_IS,ball,bag,0.28523123264312744,0.26844513416290283,0.01678609848022461,True,True,ball
+label=ball_text=chair.jpg,label=ball_text=chair.jpg,RTA100,previous_IS,ball,chair,0.274337500333786,0.20542432367801666,0.06891317665576935,True,True,ball
+label=ball_text=frisbee.jpg,label=ball_text=frisbee.jpg,RTA100,previous_IS,ball,frisbee,0.2675636410713196,0.22969020903110504,0.03787343204021454,True,True,ball
+label=ball_text=hat.jpg,label=ball_text=hat.jpg,RTA100,previous_IS,ball,hat,0.2879215180873871,0.23229259252548218,0.05562892556190491,True,True,ball
+label=ball_text=headphone.jpg,label=ball_text=headphone.jpg,RTA100,previous_IS,ball,headphone,0.2598307132720947,0.2485942244529724,0.011236488819122314,True,False,iPhone
+label=ball_text=light bulb.jpg,label=ball_text=light bulb.jpg,RTA100,previous_IS,ball,light bulb,0.279771089553833,0.21571743488311768,0.06405365467071533,True,True,ball
+label=ball_text=mirror.jpg,label=ball_text=mirror.jpg,RTA100,previous_IS,ball,mirror,0.25145280361175537,0.21289359033107758,0.038559213280677795,True,True,ball
+label=ball_text=pen case.jpg,label=ball_text=pen case.jpg,RTA100,previous_IS,ball,pen case,0.27225130796432495,0.22523915767669678,0.047012150287628174,True,True,ball
+label=ball_text=towel.jpg,label=ball_text=towel.jpg,RTA100,previous_IS,ball,towel,0.28217822313308716,0.20110349357128143,0.08107472956180573,True,True,ball
+label=ball_text=umbrella.jpg,label=ball_text=umbrella.jpg,RTA100,previous_IS,ball,umbrella,0.2402043640613556,0.23052409291267395,0.00968027114868164,True,True,ball
+label=basket_text=can.jpg,label=basket_text=can.jpg,RTA100,previous_IS,basket,can,0.24478501081466675,0.23611535131931305,0.008669659495353699,True,False,trash box
+label=basket_text=dog.jpg,label=basket_text=dog.jpg,RTA100,previous_IS,basket,dog,0.3144749104976654,0.20203442871570587,0.11244048178195953,True,True,basket
+label=basket_text=earphones.jpg,label=basket_text=earphones.jpg,RTA100,previous_IS,basket,earphones,0.22318395972251892,0.19163420796394348,0.03154975175857544,True,False,trash box
+label=basket_text=keyboard.jpg,label=basket_text=keyboard.jpg,RTA100,previous_IS,basket,keyboard,0.2991386651992798,0.21058416366577148,0.0885545015335083,True,True,basket
+label=basket_text=lemon.jpg,label=basket_text=lemon.jpg,RTA100,previous_IS,basket,lemon,0.3123764395713806,0.20968863368034363,0.10268780589103699,True,True,basket
+label=basket_text=microwave.jpg,label=basket_text=microwave.jpg,RTA100,previous_IS,basket,microwave,0.2235461324453354,0.23318511247634888,-0.009638980031013489,False,False,trash box
+label=basket_text=plate.jpg,label=basket_text=plate.jpg,RTA100,previous_IS,basket,plate,0.2299453616142273,0.21059928834438324,0.019346073269844055,True,False,trash box
+label=basket_text=shoes.jpg,label=basket_text=shoes.jpg,RTA100,previous_IS,basket,shoes,0.29637467861175537,0.2605547606945038,0.03581991791725159,True,True,basket
+label=basket_text=t-shirt.jpg,label=basket_text=t-shirt.jpg,RTA100,previous_IS,basket,t-shirt,0.3005414307117462,0.19794833660125732,0.10259309411048889,True,True,basket
+label=basket_text=wallet.jpg,label=basket_text=wallet.jpg,RTA100,previous_IS,basket,wallet,0.2087050974369049,0.23935523629188538,-0.03065013885498047,False,False,trash box
+label=bed_text=adapter.jpg,label=bed_text=adapter.jpg,RTA100,previous_IS,bed,adapter,0.30481353402137756,0.21975865960121155,0.08505487442016602,True,True,bed
+label=bed_text=chopsticks.jpg,label=bed_text=chopsticks.jpg,RTA100,previous_IS,bed,chopsticks,0.2850201427936554,0.2068009078502655,0.07821923494338989,True,True,bed
+label=bed_text=cone.jpg,label=bed_text=cone.jpg,RTA100,previous_IS,bed,cone,0.27801868319511414,0.2181534469127655,0.05986523628234863,True,False,pillow
+label=bed_text=hair dryer.jpg,label=bed_text=hair dryer.jpg,RTA100,previous_IS,bed,hair dryer,0.30562442541122437,0.21449725329875946,0.0911271721124649,True,True,bed
+label=bed_text=lemon.jpg,label=bed_text=lemon.jpg,RTA100,previous_IS,bed,lemon,0.2923174500465393,0.19757601618766785,0.09474143385887146,True,True,bed
+label=bed_text=mask.jpg,label=bed_text=mask.jpg,RTA100,previous_IS,bed,mask,0.28282418847084045,0.21766573190689087,0.06515845656394958,True,False,pillow
+label=bed_text=onion.jpg,label=bed_text=onion.jpg,RTA100,previous_IS,bed,onion,0.28937968611717224,0.20725002884864807,0.08212965726852417,True,True,bed
+label=bed_text=pot.jpg,label=bed_text=pot.jpg,RTA100,previous_IS,bed,pot,0.28509384393692017,0.19252601265907288,0.09256783127784729,True,True,bed
+label=bed_text=shoes.jpg,label=bed_text=shoes.jpg,RTA100,previous_IS,bed,shoes,0.295398473739624,0.2062108963727951,0.08918757736682892,True,True,bed
+label=bed_text=suitcase.jpg,label=bed_text=suitcase.jpg,RTA100,previous_IS,bed,suitcase,0.2681962847709656,0.24797098338603973,0.020225301384925842,True,False,pillow
+label=book_text=adapter.jpg,label=book_text=adapter.jpg,RTA100,previous_IS,book,adapter,0.29376357793807983,0.2502182722091675,0.043545305728912354,True,True,book
+label=book_text=bottle.jpg,label=book_text=bottle.jpg,RTA100,previous_IS,book,bottle,0.2658149003982544,0.27436280250549316,-0.00854790210723877,False,False,bottle
+label=book_text=floor.jpg,label=book_text=floor.jpg,RTA100,previous_IS,book,floor,0.23880615830421448,0.23923683166503906,-0.00043067336082458496,False,False,floor
+label=book_text=glove.jpg,label=book_text=glove.jpg,RTA100,previous_IS,book,glove,0.27455025911331177,0.24192175269126892,0.03262850642204285,True,True,book
+label=book_text=light bulb.jpg,label=book_text=light bulb.jpg,RTA100,previous_IS,book,light bulb,0.2648105323314667,0.2216113805770874,0.04319915175437927,True,True,book
+label=book_text=marker.jpg,label=book_text=marker.jpg,RTA100,previous_IS,book,marker,0.2620652914047241,0.22489294409751892,0.0371723473072052,True,True,book
+label=book_text=mug.jpg,label=book_text=mug.jpg,RTA100,previous_IS,book,mug,0.24797958135604858,0.19749146699905396,0.05048811435699463,True,True,book
+label=book_text=pen case.jpg,label=book_text=pen case.jpg,RTA100,previous_IS,book,pen case,0.2612394094467163,0.19908735156059265,0.06215205788612366,True,False,card
+label=book_text=table.jpg,label=book_text=table.jpg,RTA100,previous_IS,book,table,0.2752397656440735,0.3114403784275055,-0.03620061278343201,False,False,table
+label=book_text=vacuum cleaner.jpg,label=book_text=vacuum cleaner.jpg,RTA100,previous_IS,book,vacuum cleaner,0.27271461486816406,0.1810685247182846,0.09164609014987946,True,True,book
+label=bookshelf_text=airconditioner.jpg,label=bookshelf_text=airconditioner.jpg,RTA100,previous_IS,bookshelf,airconditioner,0.2868604362010956,0.22416046261787415,0.06269997358322144,True,True,bookshelf
+label=bookshelf_text=can.jpg,label=bookshelf_text=can.jpg,RTA100,previous_IS,bookshelf,can,0.29195642471313477,0.21112751960754395,0.08082890510559082,True,True,bookshelf
+label=bookshelf_text=hair dryer.jpg,label=bookshelf_text=hair dryer.jpg,RTA100,previous_IS,bookshelf,hair dryer,0.2605167329311371,0.17952363193035126,0.08099310100078583,True,True,bookshelf
+label=bookshelf_text=headphone.jpg,label=bookshelf_text=headphone.jpg,RTA100,previous_IS,bookshelf,headphone,0.2623603940010071,0.19853000342845917,0.06383039057254791,True,True,bookshelf
+label=bookshelf_text=iPhone.jpg,label=bookshelf_text=iPhone.jpg,RTA100,previous_IS,bookshelf,iPhone,0.2523336112499237,0.2560046911239624,-0.0036710798740386963,False,False,whiteboard
+label=bookshelf_text=laptop.jpg,label=bookshelf_text=laptop.jpg,RTA100,previous_IS,bookshelf,laptop,0.31288284063339233,0.26384133100509644,0.0490415096282959,True,True,bookshelf
+label=bookshelf_text=pen case.jpg,label=bookshelf_text=pen case.jpg,RTA100,previous_IS,bookshelf,pen case,0.23435872793197632,0.2391158640384674,-0.004757136106491089,False,False,pen case
+label=bookshelf_text=remote.jpg,label=bookshelf_text=remote.jpg,RTA100,previous_IS,bookshelf,remote,0.24887652695178986,0.2639400362968445,-0.015063509345054626,False,False,monitor
+label=bookshelf_text=tissue.jpg,label=bookshelf_text=tissue.jpg,RTA100,previous_IS,bookshelf,tissue,0.2685701251029968,0.1947585940361023,0.07381153106689453,True,True,bookshelf
+label=bookshelf_text=watch.jpg,label=bookshelf_text=watch.jpg,RTA100,previous_IS,bookshelf,watch,0.2814578115940094,0.20986801385879517,0.07158979773521423,True,True,bookshelf
+label=bottle_text=cookie.jpg,label=bottle_text=cookie.jpg,RTA100,previous_IS,bottle,cookie,0.2708485722541809,0.25006622076034546,0.02078235149383545,True,True,bottle
+label=bottle_text=cup.jpg,label=bottle_text=cup.jpg,RTA100,previous_IS,bottle,cup,0.2875124514102936,0.28019896149635315,0.00731348991394043,True,True,bottle
+label=bottle_text=glove.jpg,label=bottle_text=glove.jpg,RTA100,previous_IS,bottle,glove,0.2853441536426544,0.26473528146743774,0.020608872175216675,True,True,bottle
+label=bottle_text=mirror.jpg,label=bottle_text=mirror.jpg,RTA100,previous_IS,bottle,mirror,0.2786429226398468,0.2654970586299896,0.013145864009857178,True,True,bottle
+label=bottle_text=oven.jpg,label=bottle_text=oven.jpg,RTA100,previous_IS,bottle,oven,0.25346988439559937,0.2524615228176117,0.001008361577987671,True,False,tissue
+label=bottle_text=thermometer.jpg,label=bottle_text=thermometer.jpg,RTA100,previous_IS,bottle,thermometer,0.23090264201164246,0.20706993341445923,0.023832708597183228,True,False,marker
+label=bottle_text=toothbrush.jpg,label=bottle_text=toothbrush.jpg,RTA100,previous_IS,bottle,toothbrush,0.25461626052856445,0.2506614327430725,0.003954827785491943,True,True,bottle
+label=bottle_text=towel.jpg,label=bottle_text=towel.jpg,RTA100,previous_IS,bottle,towel,0.25419366359710693,0.2543119490146637,-0.0001182854175567627,False,False,eraser
+label=bottle_text=tray.jpg,label=bottle_text=tray.jpg,RTA100,previous_IS,bottle,tray,0.2521113157272339,0.22718402743339539,0.0249272882938385,True,False,milk
+label=bottle_text=vacuum cleaner.jpg,label=bottle_text=vacuum cleaner.jpg,RTA100,previous_IS,bottle,vacuum cleaner,0.2404378056526184,0.2657504379749298,-0.0253126323223114,False,False,vacuum cleaner
+label=bowl_text=DVD.jpg,label=bowl_text=DVD.jpg,RTA100,previous_IS,bowl,DVD,0.2801492214202881,0.22112615406513214,0.059023067355155945,True,True,bowl
+label=bowl_text=airconditioner.jpg,label=bowl_text=airconditioner.jpg,RTA100,previous_IS,bowl,airconditioner,0.21247641742229462,0.1583646684885025,0.054111748933792114,True,False,bottle
+label=bowl_text=cookie.jpg,label=bowl_text=cookie.jpg,RTA100,previous_IS,bowl,cookie,0.316694974899292,0.2937326431274414,0.022962331771850586,True,True,bowl
+label=bowl_text=hand.jpg,label=bowl_text=hand.jpg,RTA100,previous_IS,bowl,hand,0.28014951944351196,0.2546130120754242,0.02553650736808777,True,True,bowl
+label=bowl_text=key.jpg,label=bowl_text=key.jpg,RTA100,previous_IS,bowl,key,0.20534157752990723,0.2825174331665039,-0.07717585563659668,False,False,key
+label=bowl_text=map.jpg,label=bowl_text=map.jpg,RTA100,previous_IS,bowl,map,0.2735269069671631,0.21705499291419983,0.05647191405296326,True,True,bowl
+label=bowl_text=monitor.jpg,label=bowl_text=monitor.jpg,RTA100,previous_IS,bowl,monitor,0.24418264627456665,0.21251925826072693,0.03166338801383972,True,True,bowl
+label=bowl_text=onion.jpg,label=bowl_text=onion.jpg,RTA100,previous_IS,bowl,onion,0.2960784435272217,0.2849086821079254,0.011169761419296265,True,True,bowl
+label=bowl_text=suitcase.jpg,label=bowl_text=suitcase.jpg,RTA100,previous_IS,bowl,suitcase,0.3078305423259735,0.20885533094406128,0.09897521138191223,True,True,bowl
+label=bowl_text=toothbrush.jpg,label=bowl_text=toothbrush.jpg,RTA100,previous_IS,bowl,toothbrush,0.28364282846450806,0.24897238612174988,0.03467044234275818,True,True,bowl
+label=camera_text=basket.jpg,label=camera_text=basket.jpg,RTA100,previous_IS,camera,basket,0.2576793432235718,0.21248891949653625,0.04519042372703552,True,True,camera
+label=camera_text=dog.jpg,label=camera_text=dog.jpg,RTA100,previous_IS,camera,dog,0.26385411620140076,0.21750402450561523,0.04635009169578552,True,True,camera
+label=camera_text=egg.jpg,label=camera_text=egg.jpg,RTA100,previous_IS,camera,egg,0.26975923776626587,0.2282288372516632,0.04153040051460266,True,True,camera
+label=camera_text=floor.jpg,label=camera_text=floor.jpg,RTA100,previous_IS,camera,floor,0.250304251909256,0.23482878506183624,0.015475466847419739,True,False,scissors
+label=camera_text=glove.jpg,label=camera_text=glove.jpg,RTA100,previous_IS,camera,glove,0.2973672151565552,0.26844751834869385,0.028919696807861328,True,True,camera
+label=camera_text=iPad.jpg,label=camera_text=iPad.jpg,RTA100,previous_IS,camera,iPad,0.24184583127498627,0.2421029955148697,-0.00025716423988342285,False,False,remote
+label=camera_text=sofa.jpg,label=camera_text=sofa.jpg,RTA100,previous_IS,camera,sofa,0.24218648672103882,0.1905076801776886,0.05167880654335022,True,True,camera
+label=camera_text=suitcase.jpg,label=camera_text=suitcase.jpg,RTA100,previous_IS,camera,suitcase,0.24357911944389343,0.24901199340820312,-0.005432873964309692,False,False,pen case
+label=camera_text=tissue.jpg,label=camera_text=tissue.jpg,RTA100,previous_IS,camera,tissue,0.28557464480400085,0.2339593470096588,0.05161529779434204,True,True,camera
+label=camera_text=tray.jpg,label=camera_text=tray.jpg,RTA100,previous_IS,camera,tray,0.23301908373832703,0.251073956489563,-0.018054872751235962,False,False,tray
+label=can_text=bottle.jpg,label=can_text=bottle.jpg,RTA100,previous_IS,can,bottle,0.27397453784942627,0.3036435842514038,-0.02966904640197754,False,False,bottle
+label=can_text=dog.jpg,label=can_text=dog.jpg,RTA100,previous_IS,can,dog,0.27513158321380615,0.25049829483032227,0.024633288383483887,True,True,can
+label=can_text=fridge.jpg,label=can_text=fridge.jpg,RTA100,previous_IS,can,fridge,0.27445870637893677,0.26730790734291077,0.007150799036026001,True,True,can
+label=can_text=iPad.jpg,label=can_text=iPad.jpg,RTA100,previous_IS,can,iPad,0.28095489740371704,0.24693256616592407,0.03402233123779297,True,True,can
+label=can_text=monitor.jpg,label=can_text=monitor.jpg,RTA100,previous_IS,can,monitor,0.2741997241973877,0.21144349873065948,0.06275622546672821,True,True,can
+label=can_text=mug.jpg,label=can_text=mug.jpg,RTA100,previous_IS,can,mug,0.2670394778251648,0.2335035502910614,0.033535927534103394,True,True,can
+label=can_text=scissors.jpg,label=can_text=scissors.jpg,RTA100,previous_IS,can,scissors,0.27318984270095825,0.20541222393512726,0.067777618765831,True,True,can
+label=can_text=sofa.jpg,label=can_text=sofa.jpg,RTA100,previous_IS,can,sofa,0.2309221625328064,0.19008803367614746,0.040834128856658936,True,False,key
+label=can_text=suitcase.jpg,label=can_text=suitcase.jpg,RTA100,previous_IS,can,suitcase,0.29766184091567993,0.23379521071910858,0.06386663019657135,True,True,can
+label=can_text=thermometer.jpg,label=can_text=thermometer.jpg,RTA100,previous_IS,can,thermometer,0.24359458684921265,0.22557170689105988,0.01802287995815277,True,True,can
+label=card_text=chopsticks.jpg,label=card_text=chopsticks.jpg,RTA100,previous_IS,card,chopsticks,0.2721666693687439,0.29564428329467773,-0.023477613925933838,False,False,chopsticks
+label=card_text=dog.jpg,label=card_text=dog.jpg,RTA100,previous_IS,card,dog,0.2501111328601837,0.21973943710327148,0.03037169575691223,True,False,wallet
+label=card_text=egg.jpg,label=card_text=egg.jpg,RTA100,previous_IS,card,egg,0.27370670437812805,0.24200081825256348,0.031705886125564575,True,False,eraser
+label=card_text=headphone.jpg,label=card_text=headphone.jpg,RTA100,previous_IS,card,headphone,0.24930480122566223,0.23983943462371826,0.00946536660194397,True,False,mousepad
+label=card_text=marker.jpg,label=card_text=marker.jpg,RTA100,previous_IS,card,marker,0.2351393848657608,0.23154649138450623,0.0035928934812545776,True,False,scissors
+label=card_text=plate.jpg,label=card_text=plate.jpg,RTA100,previous_IS,card,plate,0.2233102023601532,0.260190486907959,-0.036880284547805786,False,False,plate
+label=card_text=shoes.jpg,label=card_text=shoes.jpg,RTA100,previous_IS,card,shoes,0.24760359525680542,0.25180548429489136,-0.0042018890380859375,False,False,wallet
+label=card_text=toaster.jpg,label=card_text=toaster.jpg,RTA100,previous_IS,card,toaster,0.23365595936775208,0.24113234877586365,-0.007476389408111572,False,False,oven
+label=card_text=umbrella.jpg,label=card_text=umbrella.jpg,RTA100,previous_IS,card,umbrella,0.2178657352924347,0.1961115002632141,0.02175423502922058,True,True,card
+label=card_text=whiteboard.jpg,label=card_text=whiteboard.jpg,RTA100,previous_IS,card,whiteboard,0.2523072063922882,0.27483436465263367,-0.02252715826034546,False,False,whiteboard
+label=chair_text=DVD.jpg,label=chair_text=DVD.jpg,RTA100,previous_IS,chair,DVD,0.2432728111743927,0.27183231711387634,-0.028559505939483643,False,False,DVD
+label=chair_text=chopsticks.jpg,label=chair_text=chopsticks.jpg,RTA100,previous_IS,chair,chopsticks,0.2856858968734741,0.19534757733345032,0.0903383195400238,True,True,chair
+label=chair_text=doll.jpg,label=chair_text=doll.jpg,RTA100,previous_IS,chair,doll,0.2804233431816101,0.22807246446609497,0.05235087871551514,True,False,suitcase
+label=chair_text=iPad.jpg,label=chair_text=iPad.jpg,RTA100,previous_IS,chair,iPad,0.28050220012664795,0.24234527349472046,0.03815692663192749,True,True,chair
+label=chair_text=map.jpg,label=chair_text=map.jpg,RTA100,previous_IS,chair,map,0.25789737701416016,0.2065470665693283,0.05135031044483185,True,False,trash box
+label=chair_text=mouse.jpg,label=chair_text=mouse.jpg,RTA100,previous_IS,chair,mouse,0.3130061626434326,0.22118452191352844,0.09182164072990417,True,True,chair
+label=chair_text=pot.jpg,label=chair_text=pot.jpg,RTA100,previous_IS,chair,pot,0.31268996000289917,0.20148929953575134,0.11120066046714783,True,True,chair
+label=chair_text=sofa.jpg,label=chair_text=sofa.jpg,RTA100,previous_IS,chair,sofa,0.27025291323661804,0.24483639001846313,0.025416523218154907,True,True,chair
+label=chair_text=spoon.jpg,label=chair_text=spoon.jpg,RTA100,previous_IS,chair,spoon,0.3168122172355652,0.2433072328567505,0.0735049843788147,True,True,chair
+label=chair_text=toaster.jpg,label=chair_text=toaster.jpg,RTA100,previous_IS,chair,toaster,0.24248577654361725,0.23806017637252808,0.004425600171089172,True,False,bag
+label=chopsticks_text=book.jpg,label=chopsticks_text=book.jpg,RTA100,previous_IS,chopsticks,book,0.3332216739654541,0.3071099519729614,0.026111721992492676,True,True,chopsticks
+label=chopsticks_text=camera.jpg,label=chopsticks_text=camera.jpg,RTA100,previous_IS,chopsticks,camera,0.2680029571056366,0.20961900055408478,0.05838395655155182,True,False,pen
+label=chopsticks_text=dog.jpg,label=chopsticks_text=dog.jpg,RTA100,previous_IS,chopsticks,dog,0.3023570477962494,0.24396908283233643,0.058387964963912964,True,True,chopsticks
+label=chopsticks_text=fridge.jpg,label=chopsticks_text=fridge.jpg,RTA100,previous_IS,chopsticks,fridge,0.26700538396835327,0.22397899627685547,0.0430263876914978,True,True,chopsticks
+label=chopsticks_text=guitar.jpg,label=chopsticks_text=guitar.jpg,RTA100,previous_IS,chopsticks,guitar,0.33960551023483276,0.2765478789806366,0.06305763125419617,True,True,chopsticks
+label=chopsticks_text=notebook.jpg,label=chopsticks_text=notebook.jpg,RTA100,previous_IS,chopsticks,notebook,0.3264320194721222,0.31965216994285583,0.006779849529266357,True,True,chopsticks
+label=chopsticks_text=onion.jpg,label=chopsticks_text=onion.jpg,RTA100,previous_IS,chopsticks,onion,0.30328965187072754,0.23966167867183685,0.06362797319889069,True,True,chopsticks
+label=chopsticks_text=plate.jpg,label=chopsticks_text=plate.jpg,RTA100,previous_IS,chopsticks,plate,0.3046591877937317,0.2696535587310791,0.03500562906265259,True,True,chopsticks
+label=chopsticks_text=toaster.jpg,label=chopsticks_text=toaster.jpg,RTA100,previous_IS,chopsticks,toaster,0.2707998752593994,0.24294044077396393,0.027859434485435486,True,False,fork
+label=chopsticks_text=tray.jpg,label=chopsticks_text=tray.jpg,RTA100,previous_IS,chopsticks,tray,0.2943456768989563,0.23333904147148132,0.061006635427474976,True,True,chopsticks
+label=cone_text=apple.jpg,label=cone_text=apple.jpg,RTA100,previous_IS,cone,apple,0.2725549042224884,0.19431111216545105,0.07824379205703735,True,False,marker
+label=cone_text=floor.jpg,label=cone_text=floor.jpg,RTA100,previous_IS,cone,floor,0.27655863761901855,0.2612604796886444,0.015298157930374146,True,False,vacuum cleaner
+label=cone_text=flower.jpg,label=cone_text=flower.jpg,RTA100,previous_IS,cone,flower,0.2774299085140228,0.2054080367088318,0.07202187180519104,True,True,cone
+label=cone_text=glove.jpg,label=cone_text=glove.jpg,RTA100,previous_IS,cone,glove,0.2624211013317108,0.2649514377117157,-0.002530336380004883,False,False,eraser
+label=cone_text=guitar.jpg,label=cone_text=guitar.jpg,RTA100,previous_IS,cone,guitar,0.2731911540031433,0.19718457758426666,0.07600657641887665,True,False,trash box
+label=cone_text=onion.jpg,label=cone_text=onion.jpg,RTA100,previous_IS,cone,onion,0.28339365124702454,0.19084888696670532,0.09254476428031921,True,True,cone
+label=cone_text=peach.jpg,label=cone_text=peach.jpg,RTA100,previous_IS,cone,peach,0.2847849726676941,0.20173031091690063,0.08305466175079346,True,False,marker
+label=cone_text=pen.jpg,label=cone_text=pen.jpg,RTA100,previous_IS,cone,pen,0.2956826090812683,0.24125103652477264,0.054431572556495667,True,True,cone
+label=cone_text=remote.jpg,label=cone_text=remote.jpg,RTA100,previous_IS,cone,remote,0.2927163541316986,0.2018933743238449,0.0908229798078537,True,True,cone
+label=cone_text=tie.jpg,label=cone_text=tie.jpg,RTA100,previous_IS,cone,tie,0.2792893052101135,0.20989710092544556,0.06939220428466797,True,True,cone
+label=controller_text=bag.jpg,label=controller_text=bag.jpg,RTA100,previous_IS,controller,bag,0.31088536977767944,0.26949065923690796,0.041394710540771484,True,True,controller
+label=controller_text=camera.jpg,label=controller_text=camera.jpg,RTA100,previous_IS,controller,camera,0.29681527614593506,0.23883554339408875,0.057979732751846313,True,True,controller
+label=controller_text=egg.jpg,label=controller_text=egg.jpg,RTA100,previous_IS,controller,egg,0.29541832208633423,0.2552925944328308,0.04012572765350342,True,True,controller
+label=controller_text=fork.jpg,label=controller_text=fork.jpg,RTA100,previous_IS,controller,fork,0.31479889154434204,0.24681320786476135,0.06798568367958069,True,True,controller
+label=controller_text=marker.jpg,label=controller_text=marker.jpg,RTA100,previous_IS,controller,marker,0.2836865484714508,0.2061627358198166,0.07752381265163422,True,True,controller
+label=controller_text=peach.jpg,label=controller_text=peach.jpg,RTA100,previous_IS,controller,peach,0.2785777449607849,0.24266068637371063,0.03591705858707428,True,True,controller
+label=controller_text=sofa.jpg,label=controller_text=sofa.jpg,RTA100,previous_IS,controller,sofa,0.2917098104953766,0.20840686559677124,0.08330294489860535,True,True,controller
+label=controller_text=spoon.jpg,label=controller_text=spoon.jpg,RTA100,previous_IS,controller,spoon,0.30006474256515503,0.23260632157325745,0.06745842099189758,True,True,controller
+label=controller_text=tray.jpg,label=controller_text=tray.jpg,RTA100,previous_IS,controller,tray,0.2737402617931366,0.1927347481250763,0.0810055136680603,True,True,controller
+label=controller_text=umbrella.jpg,label=controller_text=umbrella.jpg,RTA100,previous_IS,controller,umbrella,0.2623283565044403,0.18434590101242065,0.07798245549201965,True,True,controller
+label=cookie_text=ball.jpg,label=cookie_text=ball.jpg,RTA100,previous_IS,cookie,ball,0.29557061195373535,0.27718597650527954,0.01838463544845581,True,True,cookie
+label=cookie_text=hair dryer.jpg,label=cookie_text=hair dryer.jpg,RTA100,previous_IS,cookie,hair dryer,0.19500043988227844,0.19797226786613464,-0.002971827983856201,False,False,plate
+label=cookie_text=iron.jpg,label=cookie_text=iron.jpg,RTA100,previous_IS,cookie,iron,0.2784474194049835,0.28365713357925415,-0.00520971417427063,False,False,iron
+label=cookie_text=light bulb.jpg,label=cookie_text=light bulb.jpg,RTA100,previous_IS,cookie,light bulb,0.2676655650138855,0.24603985249996185,0.021625712513923645,True,True,cookie
+label=cookie_text=marker.jpg,label=cookie_text=marker.jpg,RTA100,previous_IS,cookie,marker,0.22610008716583252,0.18191245198249817,0.04418763518333435,True,False,plate
+label=cookie_text=milk.jpg,label=cookie_text=milk.jpg,RTA100,previous_IS,cookie,milk,0.25210458040237427,0.2551182508468628,-0.0030136704444885254,False,False,plate
+label=cookie_text=mousepad.jpg,label=cookie_text=mousepad.jpg,RTA100,previous_IS,cookie,mousepad,0.2578451335430145,0.22840845584869385,0.02943667769432068,True,True,cookie
+label=cookie_text=socks.jpg,label=cookie_text=socks.jpg,RTA100,previous_IS,cookie,socks,0.253704696893692,0.29833996295928955,-0.044635266065597534,False,False,socks
+label=cookie_text=t-shirt.jpg,label=cookie_text=t-shirt.jpg,RTA100,previous_IS,cookie,t-shirt,0.2480698823928833,0.24787035584449768,0.00019952654838562012,True,False,plate
+label=cookie_text=toaster.jpg,label=cookie_text=toaster.jpg,RTA100,previous_IS,cookie,toaster,0.2636493742465973,0.24216991662979126,0.02147945761680603,True,True,cookie
+label=cup_text=adapter.jpg,label=cup_text=adapter.jpg,RTA100,previous_IS,cup,adapter,0.2895418405532837,0.24196884036064148,0.04757300019264221,True,False,mug
+label=cup_text=bag.jpg,label=cup_text=bag.jpg,RTA100,previous_IS,cup,bag,0.2881576418876648,0.22534090280532837,0.06281673908233643,True,False,mug
+label=cup_text=book.jpg,label=cup_text=book.jpg,RTA100,previous_IS,cup,book,0.2982036769390106,0.26829707622528076,0.02990660071372986,True,False,mug
+label=cup_text=cone.jpg,label=cup_text=cone.jpg,RTA100,previous_IS,cup,cone,0.27635541558265686,0.24050861597061157,0.03584679961204529,True,True,cup
+label=cup_text=controller.jpg,label=cup_text=controller.jpg,RTA100,previous_IS,cup,controller,0.22078824043273926,0.2084699124097824,0.012318328022956848,True,False,mug
+label=cup_text=iPad.jpg,label=cup_text=iPad.jpg,RTA100,previous_IS,cup,iPad,0.2587164044380188,0.2494000494480133,0.009316354990005493,True,False,spoon
+label=cup_text=iPhone.jpg,label=cup_text=iPhone.jpg,RTA100,previous_IS,cup,iPhone,0.2437540888786316,0.2518722414970398,-0.008118152618408203,False,False,iPhone
+label=cup_text=mango.jpg,label=cup_text=mango.jpg,RTA100,previous_IS,cup,mango,0.2185390144586563,0.21206311881542206,0.006475895643234253,True,False,mug
+label=cup_text=pillow.jpg,label=cup_text=pillow.jpg,RTA100,previous_IS,cup,pillow,0.25184208154678345,0.23370054364204407,0.01814153790473938,True,True,cup
+label=cup_text=toothbrush.jpg,label=cup_text=toothbrush.jpg,RTA100,previous_IS,cup,toothbrush,0.2890675961971283,0.26290014386177063,0.026167452335357666,True,False,mug
+label=curtain_text=book.jpg,label=curtain_text=book.jpg,RTA100,previous_IS,curtain,book,0.3201116621494293,0.23754656314849854,0.08256509900093079,True,True,curtain
+label=curtain_text=cone.jpg,label=curtain_text=cone.jpg,RTA100,previous_IS,curtain,cone,0.28014492988586426,0.22102676331996918,0.05911816656589508,True,True,curtain
+label=curtain_text=controller.jpg,label=curtain_text=controller.jpg,RTA100,previous_IS,curtain,controller,0.26843512058258057,0.2188606560230255,0.049574464559555054,True,True,curtain
+label=curtain_text=doll.jpg,label=curtain_text=doll.jpg,RTA100,previous_IS,curtain,doll,0.29082486033439636,0.22637711465358734,0.06444774568080902,True,True,curtain
+label=curtain_text=floor.jpg,label=curtain_text=floor.jpg,RTA100,previous_IS,curtain,floor,0.2917783260345459,0.2733759880065918,0.0184023380279541,True,True,curtain
+label=curtain_text=map.jpg,label=curtain_text=map.jpg,RTA100,previous_IS,curtain,map,0.27968886494636536,0.29629912972450256,-0.016610264778137207,False,False,map
+label=curtain_text=mask.jpg,label=curtain_text=mask.jpg,RTA100,previous_IS,curtain,mask,0.3080095946788788,0.23200266063213348,0.0760069340467453,True,True,curtain
+label=curtain_text=ruler.jpg,label=curtain_text=ruler.jpg,RTA100,previous_IS,curtain,ruler,0.28094547986984253,0.2574939727783203,0.023451507091522217,True,True,curtain
+label=curtain_text=slipper.jpg,label=curtain_text=slipper.jpg,RTA100,previous_IS,curtain,slipper,0.2875205874443054,0.23798707127571106,0.04953351616859436,True,True,curtain
+label=curtain_text=tie.jpg,label=curtain_text=tie.jpg,RTA100,previous_IS,curtain,tie,0.2963128387928009,0.23367813229560852,0.06263470649719238,True,True,curtain
+label=dish_text=card.jpg,label=dish_text=card.jpg,RTA100,previous_IS,dish,card,0.2391173243522644,0.24719014763832092,-0.008072823286056519,False,False,bowl
+label=dish_text=cone.jpg,label=dish_text=cone.jpg,RTA100,previous_IS,dish,cone,0.2088422179222107,0.21948108077049255,-0.01063886284828186,False,False,tray
+label=dish_text=dog.jpg,label=dish_text=dog.jpg,RTA100,previous_IS,dish,dog,0.23930060863494873,0.22478802502155304,0.014512583613395691,True,False,tray
+label=dish_text=frisbee.jpg,label=dish_text=frisbee.jpg,RTA100,previous_IS,dish,frisbee,0.2355559915304184,0.24601183831691742,-0.010455846786499023,False,False,bowl
+label=dish_text=iPhone.jpg,label=dish_text=iPhone.jpg,RTA100,previous_IS,dish,iPhone,0.23521476984024048,0.275208055973053,-0.0399932861328125,False,False,iPhone
+label=dish_text=map.jpg,label=dish_text=map.jpg,RTA100,previous_IS,dish,map,0.23637352883815765,0.27759793400764465,-0.041224405169487,False,False,iPad
+label=dish_text=pen case.jpg,label=dish_text=pen case.jpg,RTA100,previous_IS,dish,pen case,0.20452240109443665,0.20747467875480652,-0.002952277660369873,False,False,tissue
+label=dish_text=racquet.jpg,label=dish_text=racquet.jpg,RTA100,previous_IS,dish,racquet,0.2490081787109375,0.22325041890144348,0.02575775980949402,True,False,iPad
+label=dish_text=umbrella.jpg,label=dish_text=umbrella.jpg,RTA100,previous_IS,dish,umbrella,0.16912712156772614,0.13269804418087006,0.03642907738685608,True,False,iPad
+label=dish_text=watch.jpg,label=dish_text=watch.jpg,RTA100,previous_IS,dish,watch,0.23648764193058014,0.2493356168270111,-0.01284797489643097,False,False,watch
+label=dog_text=book.jpg,label=dog_text=book.jpg,RTA100,previous_IS,dog,book,0.2629435062408447,0.19272936880588531,0.07021413743495941,True,True,dog
+label=dog_text=hat.jpg,label=dog_text=hat.jpg,RTA100,previous_IS,dog,hat,0.2708601653575897,0.2284766435623169,0.04238352179527283,True,True,dog
+label=dog_text=iPhone.jpg,label=dog_text=iPhone.jpg,RTA100,previous_IS,dog,iPhone,0.273806631565094,0.22795577347278595,0.045850858092308044,True,True,dog
+label=dog_text=iron.jpg,label=dog_text=iron.jpg,RTA100,previous_IS,dog,iron,0.2556595504283905,0.22873611748218536,0.02692343294620514,True,True,dog
+label=dog_text=key.jpg,label=dog_text=key.jpg,RTA100,previous_IS,dog,key,0.24488121271133423,0.2316874861717224,0.013193726539611816,True,True,dog
+label=dog_text=onion.jpg,label=dog_text=onion.jpg,RTA100,previous_IS,dog,onion,0.27927958965301514,0.2291208654642105,0.050158724188804626,True,True,dog
+label=dog_text=racquet.jpg,label=dog_text=racquet.jpg,RTA100,previous_IS,dog,racquet,0.2570948302745819,0.18021810054779053,0.07687672972679138,True,True,dog
+label=dog_text=sofa.jpg,label=dog_text=sofa.jpg,RTA100,previous_IS,dog,sofa,0.25634145736694336,0.22609567642211914,0.03024578094482422,True,True,dog
+label=dog_text=watch.jpg,label=dog_text=watch.jpg,RTA100,previous_IS,dog,watch,0.26064690947532654,0.2324148416519165,0.028232067823410034,True,True,dog
+label=dog_text=whiteboard.jpg,label=dog_text=whiteboard.jpg,RTA100,previous_IS,dog,whiteboard,0.23344096541404724,0.21560323238372803,0.017837733030319214,True,True,dog
+label=doll_text=cone.jpg,label=doll_text=cone.jpg,RTA100,previous_IS,doll,cone,0.22666078805923462,0.21386921405792236,0.012791574001312256,True,True,doll
+label=doll_text=controller.jpg,label=doll_text=controller.jpg,RTA100,previous_IS,doll,controller,0.19990724325180054,0.19533506035804749,0.004572182893753052,True,True,doll
+label=doll_text=flower.jpg,label=doll_text=flower.jpg,RTA100,previous_IS,doll,flower,0.2691296935081482,0.22619588673114777,0.04293380677700043,True,True,doll
+label=doll_text=guitar.jpg,label=doll_text=guitar.jpg,RTA100,previous_IS,doll,guitar,0.24678294360637665,0.1837533712387085,0.06302957236766815,True,True,doll
+label=doll_text=iPad.jpg,label=doll_text=iPad.jpg,RTA100,previous_IS,doll,iPad,0.2304650843143463,0.23683959245681763,-0.0063745081424713135,False,False,iPad
+label=doll_text=lemon.jpg,label=doll_text=lemon.jpg,RTA100,previous_IS,doll,lemon,0.27147364616394043,0.25844594836235046,0.013027697801589966,True,True,doll
+label=doll_text=shoes.jpg,label=doll_text=shoes.jpg,RTA100,previous_IS,doll,shoes,0.23822979629039764,0.2507927119731903,-0.012562915682792664,False,False,slipper
+label=doll_text=speaker.jpg,label=doll_text=speaker.jpg,RTA100,previous_IS,doll,speaker,0.24134954810142517,0.21160458028316498,0.029744967818260193,True,True,doll
+label=doll_text=towel.jpg,label=doll_text=towel.jpg,RTA100,previous_IS,doll,towel,0.2680862843990326,0.26701489090919495,0.0010713934898376465,True,True,doll
+label=doll_text=watch.jpg,label=doll_text=watch.jpg,RTA100,previous_IS,doll,watch,0.2591702342033386,0.20375092327594757,0.05541931092739105,True,True,doll
+label=drill_text=earphones.jpg,label=drill_text=earphones.jpg,RTA100,previous_IS,drill,earphones,0.21399995684623718,0.2847096920013428,-0.07070973515510559,False,False,earphones
+label=drill_text=melon.jpg,label=drill_text=melon.jpg,RTA100,previous_IS,drill,melon,0.2716270685195923,0.23153772950172424,0.04008933901786804,True,False,mic
+label=drill_text=mouse.jpg,label=drill_text=mouse.jpg,RTA100,previous_IS,drill,mouse,0.22709932923316956,0.2561948895454407,-0.029095560312271118,False,False,adapter
+label=drill_text=onion.jpg,label=drill_text=onion.jpg,RTA100,previous_IS,drill,onion,0.28152960538864136,0.25260794162750244,0.028921663761138916,True,False,adapter
+label=drill_text=oven.jpg,label=drill_text=oven.jpg,RTA100,previous_IS,drill,oven,0.27208101749420166,0.2356691062450409,0.03641191124916077,True,False,mic
+label=drill_text=pen.jpg,label=drill_text=pen.jpg,RTA100,previous_IS,drill,pen,0.2469159960746765,0.2886037230491638,-0.041687726974487305,False,False,pen case
+label=drill_text=pillow.jpg,label=drill_text=pillow.jpg,RTA100,previous_IS,drill,pillow,0.24176140129566193,0.18741343915462494,0.05434796214103699,True,False,adapter
+label=drill_text=tie.jpg,label=drill_text=tie.jpg,RTA100,previous_IS,drill,tie,0.28303998708724976,0.23733502626419067,0.04570496082305908,True,False,adapter
+label=drill_text=umbrella.jpg,label=drill_text=umbrella.jpg,RTA100,previous_IS,drill,umbrella,0.2425088882446289,0.23559066653251648,0.006918221712112427,True,False,mic
+label=drill_text=wallet.jpg,label=drill_text=wallet.jpg,RTA100,previous_IS,drill,wallet,0.20509138703346252,0.2509361505508423,-0.04584476351737976,False,False,wallet
+label=earphones_text=DVD.jpg,label=earphones_text=DVD.jpg,RTA100,previous_IS,earphones,DVD,0.2595329284667969,0.23010504245758057,0.02942788600921631,True,True,earphones
+label=earphones_text=adapter.jpg,label=earphones_text=adapter.jpg,RTA100,previous_IS,earphones,adapter,0.23566195368766785,0.25673356652259827,-0.02107161283493042,False,False,headphone
+label=earphones_text=bag.jpg,label=earphones_text=bag.jpg,RTA100,previous_IS,earphones,bag,0.2790966033935547,0.26640865206718445,0.01268795132637024,True,False,iron
+label=earphones_text=cone.jpg,label=earphones_text=cone.jpg,RTA100,previous_IS,earphones,cone,0.25939610600471497,0.21000242233276367,0.049393683671951294,True,False,headphone
+label=earphones_text=hand.jpg,label=earphones_text=hand.jpg,RTA100,previous_IS,earphones,hand,0.2097056657075882,0.2209300547838211,-0.01122438907623291,False,False,hand
+label=earphones_text=hat.jpg,label=earphones_text=hat.jpg,RTA100,previous_IS,earphones,hat,0.2643825113773346,0.21139654517173767,0.052985966205596924,True,False,headphone
+label=earphones_text=map.jpg,label=earphones_text=map.jpg,RTA100,previous_IS,earphones,map,0.24327769875526428,0.2546761929988861,-0.011398494243621826,False,False,mousepad
+label=earphones_text=mic.jpg,label=earphones_text=mic.jpg,RTA100,previous_IS,earphones,mic,0.2382526397705078,0.2412446141242981,-0.002991974353790283,False,False,headphone
+label=earphones_text=milk.jpg,label=earphones_text=milk.jpg,RTA100,previous_IS,earphones,milk,0.23399123549461365,0.18934856355190277,0.044642671942710876,True,False,eraser
+label=earphones_text=toaster.jpg,label=earphones_text=toaster.jpg,RTA100,previous_IS,earphones,toaster,0.22845450043678284,0.27535757422447205,-0.04690307378768921,False,False,toaster
+label=egg_text=apple.jpg,label=egg_text=apple.jpg,RTA100,previous_IS,egg,apple,0.2721419334411621,0.2555716931819916,0.016570240259170532,True,True,egg
+label=egg_text=chopsticks.jpg,label=egg_text=chopsticks.jpg,RTA100,previous_IS,egg,chopsticks,0.25920605659484863,0.2240341305732727,0.03517192602157593,True,True,egg
+label=egg_text=drill.jpg,label=egg_text=drill.jpg,RTA100,previous_IS,egg,drill,0.22273722290992737,0.18261578679084778,0.04012143611907959,True,True,egg
+label=egg_text=eraser.jpg,label=egg_text=eraser.jpg,RTA100,previous_IS,egg,eraser,0.26221176981925964,0.17932656407356262,0.08288520574569702,True,True,egg
+label=egg_text=floor.jpg,label=egg_text=floor.jpg,RTA100,previous_IS,egg,floor,0.2581627070903778,0.24307198822498322,0.015090718865394592,True,True,egg
+label=egg_text=hair dryer.jpg,label=egg_text=hair dryer.jpg,RTA100,previous_IS,egg,hair dryer,0.2511003017425537,0.19279879331588745,0.05830150842666626,True,True,egg
+label=egg_text=mirror.jpg,label=egg_text=mirror.jpg,RTA100,previous_IS,egg,mirror,0.27048176527023315,0.21836605668067932,0.05211570858955383,True,True,egg
+label=egg_text=paper.jpg,label=egg_text=paper.jpg,RTA100,previous_IS,egg,paper,0.25817811489105225,0.20621004700660706,0.05196806788444519,True,True,egg
+label=egg_text=pen.jpg,label=egg_text=pen.jpg,RTA100,previous_IS,egg,pen,0.2640320658683777,0.2680531144142151,-0.004021048545837402,False,False,pen case
+label=egg_text=tie.jpg,label=egg_text=tie.jpg,RTA100,previous_IS,egg,tie,0.27331817150115967,0.2008228451013565,0.07249532639980316,True,True,egg
+label=eraser_text=can.jpg,label=eraser_text=can.jpg,RTA100,previous_IS,eraser,can,0.2783066928386688,0.2842317223548889,-0.005925029516220093,False,False,can
+label=eraser_text=glasses.jpg,label=eraser_text=glasses.jpg,RTA100,previous_IS,eraser,glasses,0.25942108035087585,0.28945285081863403,-0.03003177046775818,False,False,glasses
+label=eraser_text=map.jpg,label=eraser_text=map.jpg,RTA100,previous_IS,eraser,map,0.3293820023536682,0.2793619930744171,0.0500200092792511,True,True,eraser
+label=eraser_text=mic.jpg,label=eraser_text=mic.jpg,RTA100,previous_IS,eraser,mic,0.24891464412212372,0.22359082102775574,0.02532382309436798,True,False,ruler
+label=eraser_text=peach.jpg,label=eraser_text=peach.jpg,RTA100,previous_IS,eraser,peach,0.26025035977363586,0.2429269552230835,0.017323404550552368,True,True,eraser
+label=eraser_text=sofa.jpg,label=eraser_text=sofa.jpg,RTA100,previous_IS,eraser,sofa,0.2107267528772354,0.20050761103630066,0.010219141840934753,True,False,card
+label=eraser_text=t-shirt.jpg,label=eraser_text=t-shirt.jpg,RTA100,previous_IS,eraser,t-shirt,0.2783261239528656,0.2972114682197571,-0.01888534426689148,False,False,t-shirt
+label=eraser_text=tissue.jpg,label=eraser_text=tissue.jpg,RTA100,previous_IS,eraser,tissue,0.26763567328453064,0.2578776478767395,0.009758025407791138,True,True,eraser
+label=eraser_text=toaster.jpg,label=eraser_text=toaster.jpg,RTA100,previous_IS,eraser,toaster,0.2432134747505188,0.26112672686576843,-0.017913252115249634,False,False,toaster
+label=eraser_text=tray.jpg,label=eraser_text=tray.jpg,RTA100,previous_IS,eraser,tray,0.27785712480545044,0.233408123254776,0.04444900155067444,True,True,eraser
+label=floor_text=camera.jpg,label=floor_text=camera.jpg,RTA100,previous_IS,floor,camera,0.27051103115081787,0.2665158212184906,0.0039952099323272705,True,False,whiteboard
+label=floor_text=can.jpg,label=floor_text=can.jpg,RTA100,previous_IS,floor,can,0.24662503600120544,0.2572893500328064,-0.010664314031600952,False,False,whiteboard
+label=floor_text=controller.jpg,label=floor_text=controller.jpg,RTA100,previous_IS,floor,controller,0.2857607305049896,0.20322929322719574,0.08253143727779388,True,True,floor
+label=floor_text=guitar.jpg,label=floor_text=guitar.jpg,RTA100,previous_IS,floor,guitar,0.2709723711013794,0.2963913083076477,-0.02541893720626831,False,False,guitar
+label=floor_text=hat.jpg,label=floor_text=hat.jpg,RTA100,previous_IS,floor,hat,0.27898144721984863,0.24111026525497437,0.03787118196487427,True,False,whiteboard
+label=floor_text=key.jpg,label=floor_text=key.jpg,RTA100,previous_IS,floor,key,0.20249119400978088,0.27509060502052307,-0.07259941101074219,False,False,notebook
+label=floor_text=pen case.jpg,label=floor_text=pen case.jpg,RTA100,previous_IS,floor,pen case,0.24598923325538635,0.22564971446990967,0.020339518785476685,True,False,card
+label=floor_text=ruler.jpg,label=floor_text=ruler.jpg,RTA100,previous_IS,floor,ruler,0.2522341310977936,0.2632253170013428,-0.010991185903549194,False,False,whiteboard
+label=floor_text=speaker.jpg,label=floor_text=speaker.jpg,RTA100,previous_IS,floor,speaker,0.270912766456604,0.2883760333061218,-0.017463266849517822,False,False,speaker
+label=floor_text=umbrella.jpg,label=floor_text=umbrella.jpg,RTA100,previous_IS,floor,umbrella,0.21053946018218994,0.21312692761421204,-0.0025874674320220947,False,False,notebook
+label=flower_text=DVD.jpg,label=flower_text=DVD.jpg,RTA100,previous_IS,flower,DVD,0.218843474984169,0.23755589127540588,-0.018712416291236877,False,False,DVD
+label=flower_text=card.jpg,label=flower_text=card.jpg,RTA100,previous_IS,flower,card,0.2336898148059845,0.25904175639152527,-0.02535194158554077,False,False,card
+label=flower_text=egg.jpg,label=flower_text=egg.jpg,RTA100,previous_IS,flower,egg,0.22397518157958984,0.27426403760910034,-0.0502888560295105,False,False,egg
+label=flower_text=jacket.jpg,label=flower_text=jacket.jpg,RTA100,previous_IS,flower,jacket,0.2967313826084137,0.2968788146972656,-0.0001474320888519287,False,False,jacket
+label=flower_text=key.jpg,label=flower_text=key.jpg,RTA100,previous_IS,flower,key,0.2282525599002838,0.25060534477233887,-0.022352784872055054,False,False,key
+label=flower_text=pants.jpg,label=flower_text=pants.jpg,RTA100,previous_IS,flower,pants,0.2456131875514984,0.2642076909542084,-0.01859450340270996,False,False,pants
+label=flower_text=ruler.jpg,label=flower_text=ruler.jpg,RTA100,previous_IS,flower,ruler,0.2382398396730423,0.23516130447387695,0.0030785351991653442,True,True,flower
+label=flower_text=slipper.jpg,label=flower_text=slipper.jpg,RTA100,previous_IS,flower,slipper,0.22749531269073486,0.23464927077293396,-0.007153958082199097,False,False,card
+label=flower_text=thermometer.jpg,label=flower_text=thermometer.jpg,RTA100,previous_IS,flower,thermometer,0.217744380235672,0.21982455253601074,-0.002080172300338745,False,False,tissue
+label=flower_text=umbrella.jpg,label=flower_text=umbrella.jpg,RTA100,previous_IS,flower,umbrella,0.2341519594192505,0.21099641919136047,0.023155540227890015,True,True,flower
+label=fork_text=basket.jpg,label=fork_text=basket.jpg,RTA100,previous_IS,fork,basket,0.3085833489894867,0.29962417483329773,0.008959174156188965,True,True,fork
+label=fork_text=bookshelf.jpg,label=fork_text=bookshelf.jpg,RTA100,previous_IS,fork,bookshelf,0.28473779559135437,0.23556670546531677,0.0491710901260376,True,True,fork
+label=fork_text=cookie.jpg,label=fork_text=cookie.jpg,RTA100,previous_IS,fork,cookie,0.2934616804122925,0.26505666971206665,0.02840501070022583,True,True,fork
+label=fork_text=eraser.jpg,label=fork_text=eraser.jpg,RTA100,previous_IS,fork,eraser,0.2730620503425598,0.19457858800888062,0.0784834623336792,True,True,fork
+label=fork_text=glasses.jpg,label=fork_text=glasses.jpg,RTA100,previous_IS,fork,glasses,0.3060336112976074,0.2859150767326355,0.020118534564971924,True,True,fork
+label=fork_text=jacket.jpg,label=fork_text=jacket.jpg,RTA100,previous_IS,fork,jacket,0.33391284942626953,0.2988041043281555,0.035108745098114014,True,True,fork
+label=fork_text=key.jpg,label=fork_text=key.jpg,RTA100,previous_IS,fork,key,0.2707333564758301,0.27244749665260315,-0.0017141401767730713,False,False,key
+label=fork_text=tissue.jpg,label=fork_text=tissue.jpg,RTA100,previous_IS,fork,tissue,0.32665371894836426,0.2609860897064209,0.06566762924194336,True,True,fork
+label=fork_text=toaster.jpg,label=fork_text=toaster.jpg,RTA100,previous_IS,fork,toaster,0.30128562450408936,0.2600419819355011,0.04124364256858826,True,True,fork
+label=fork_text=umbrella.jpg,label=fork_text=umbrella.jpg,RTA100,previous_IS,fork,umbrella,0.274254709482193,0.20573915541172028,0.06851555407047272,True,True,fork
+label=fridge_text=airconditioner.jpg,label=fridge_text=airconditioner.jpg,RTA100,previous_IS,fridge,airconditioner,0.30014634132385254,0.2771887183189392,0.02295762300491333,True,True,fridge
+label=fridge_text=bowl.jpg,label=fridge_text=bowl.jpg,RTA100,previous_IS,fridge,bowl,0.26341384649276733,0.26877373456954956,-0.0053598880767822266,False,False,toaster
+label=fridge_text=eraser.jpg,label=fridge_text=eraser.jpg,RTA100,previous_IS,fridge,eraser,0.27127623558044434,0.2506532669067383,0.020622968673706055,True,False,whiteboard
+label=fridge_text=hair dryer.jpg,label=fridge_text=hair dryer.jpg,RTA100,previous_IS,fridge,hair dryer,0.2892942428588867,0.23324228823184967,0.05605195462703705,True,True,fridge
+label=fridge_text=headphone.jpg,label=fridge_text=headphone.jpg,RTA100,previous_IS,fridge,headphone,0.22636890411376953,0.1989845633506775,0.02738434076309204,True,False,microwave
+label=fridge_text=iPhone.jpg,label=fridge_text=iPhone.jpg,RTA100,previous_IS,fridge,iPhone,0.31280648708343506,0.2614949643611908,0.05131152272224426,True,True,fridge
+label=fridge_text=iron.jpg,label=fridge_text=iron.jpg,RTA100,previous_IS,fridge,iron,0.3127386271953583,0.248943030834198,0.06379559636116028,True,True,fridge
+label=fridge_text=melon.jpg,label=fridge_text=melon.jpg,RTA100,previous_IS,fridge,melon,0.2556298077106476,0.1746872365474701,0.08094257116317749,True,True,fridge
+label=fridge_text=pillow.jpg,label=fridge_text=pillow.jpg,RTA100,previous_IS,fridge,pillow,0.30038827657699585,0.214822456240654,0.08556582033634186,True,True,fridge
+label=fridge_text=umbrella.jpg,label=fridge_text=umbrella.jpg,RTA100,previous_IS,fridge,umbrella,0.24948251247406006,0.2185027301311493,0.030979782342910767,True,False,microwave
+label=frisbee_text=apple.jpg,label=frisbee_text=apple.jpg,RTA100,previous_IS,frisbee,apple,0.2805778980255127,0.2840811014175415,-0.0035032033920288086,False,False,apple
+label=frisbee_text=bookshelf.jpg,label=frisbee_text=bookshelf.jpg,RTA100,previous_IS,frisbee,bookshelf,0.28894758224487305,0.21689383685588837,0.07205374538898468,True,True,frisbee
+label=frisbee_text=chopsticks.jpg,label=frisbee_text=chopsticks.jpg,RTA100,previous_IS,frisbee,chopsticks,0.2791638672351837,0.2609289288520813,0.018234938383102417,True,True,frisbee
+label=frisbee_text=controller.jpg,label=frisbee_text=controller.jpg,RTA100,previous_IS,frisbee,controller,0.2447414994239807,0.22231462597846985,0.022426873445510864,True,True,frisbee
+label=frisbee_text=cup.jpg,label=frisbee_text=cup.jpg,RTA100,previous_IS,frisbee,cup,0.2896873950958252,0.2863177955150604,0.0033695995807647705,True,True,frisbee
+label=frisbee_text=headphone.jpg,label=frisbee_text=headphone.jpg,RTA100,previous_IS,frisbee,headphone,0.2583405375480652,0.25742533802986145,0.0009151995182037354,True,False,mirror
+label=frisbee_text=key.jpg,label=frisbee_text=key.jpg,RTA100,previous_IS,frisbee,key,0.28627490997314453,0.24632173776626587,0.03995317220687866,True,True,frisbee
+label=frisbee_text=suitcase.jpg,label=frisbee_text=suitcase.jpg,RTA100,previous_IS,frisbee,suitcase,0.31084108352661133,0.20159733295440674,0.10924375057220459,True,True,frisbee
+label=frisbee_text=toothbrush.jpg,label=frisbee_text=toothbrush.jpg,RTA100,previous_IS,frisbee,toothbrush,0.2611396014690399,0.23034417629241943,0.030795425176620483,True,True,frisbee
+label=frisbee_text=trash box.jpg,label=frisbee_text=trash box.jpg,RTA100,previous_IS,frisbee,trash box,0.2528209090232849,0.2391268014907837,0.01369410753250122,True,True,frisbee
+label=glasses_text=bag.jpg,label=glasses_text=bag.jpg,RTA100,previous_IS,glasses,bag,0.3097578287124634,0.29295778274536133,0.01680004596710205,True,True,glasses
+label=glasses_text=fridge.jpg,label=glasses_text=fridge.jpg,RTA100,previous_IS,glasses,fridge,0.2809784412384033,0.2513410449028015,0.029637396335601807,True,True,glasses
+label=glasses_text=guitar.jpg,label=glasses_text=guitar.jpg,RTA100,previous_IS,glasses,guitar,0.26878297328948975,0.24272292852401733,0.026060044765472412,True,True,glasses
+label=glasses_text=lemon.jpg,label=glasses_text=lemon.jpg,RTA100,previous_IS,glasses,lemon,0.32029396295547485,0.2609202265739441,0.05937373638153076,True,True,glasses
+label=glasses_text=light bulb.jpg,label=glasses_text=light bulb.jpg,RTA100,previous_IS,glasses,light bulb,0.32542774081230164,0.26501110196113586,0.06041663885116577,True,True,glasses
+label=glasses_text=mango.jpg,label=glasses_text=mango.jpg,RTA100,previous_IS,glasses,mango,0.18414847552776337,0.20365281403064728,-0.01950433850288391,False,False,floor
+label=glasses_text=mousepad.jpg,label=glasses_text=mousepad.jpg,RTA100,previous_IS,glasses,mousepad,0.2920788526535034,0.24975937604904175,0.04231947660446167,True,True,glasses
+label=glasses_text=notebook.jpg,label=glasses_text=notebook.jpg,RTA100,previous_IS,glasses,notebook,0.2979981601238251,0.3031355142593384,-0.005137354135513306,False,False,notebook
+label=glasses_text=slipper.jpg,label=glasses_text=slipper.jpg,RTA100,previous_IS,glasses,slipper,0.2930971086025238,0.262228786945343,0.030868321657180786,True,True,glasses
+label=glasses_text=watch.jpg,label=glasses_text=watch.jpg,RTA100,previous_IS,glasses,watch,0.24547162652015686,0.21210351586341858,0.03336811065673828,True,False,floor
+label=glove_text=chair.jpg,label=glove_text=chair.jpg,RTA100,previous_IS,glove,chair,0.249555766582489,0.27438047528266907,-0.024824708700180054,False,False,chair
+label=glove_text=flower.jpg,label=glove_text=flower.jpg,RTA100,previous_IS,glove,flower,0.2701484262943268,0.23799969255924225,0.032148733735084534,True,True,glove
+label=glove_text=fork.jpg,label=glove_text=fork.jpg,RTA100,previous_IS,glove,fork,0.28130608797073364,0.2694202959537506,0.011885792016983032,True,True,glove
+label=glove_text=hand.jpg,label=glove_text=hand.jpg,RTA100,previous_IS,glove,hand,0.276294469833374,0.23781496286392212,0.038479506969451904,True,True,glove
+label=glove_text=laptop.jpg,label=glove_text=laptop.jpg,RTA100,previous_IS,glove,laptop,0.26952221989631653,0.2155112773180008,0.054010942578315735,True,True,glove
+label=glove_text=mask.jpg,label=glove_text=mask.jpg,RTA100,previous_IS,glove,mask,0.23708316683769226,0.18134894967079163,0.055734217166900635,True,True,glove
+label=glove_text=paper.jpg,label=glove_text=paper.jpg,RTA100,previous_IS,glove,paper,0.25681063532829285,0.1947201043367386,0.06209053099155426,True,True,glove
+label=glove_text=t-shirt.jpg,label=glove_text=t-shirt.jpg,RTA100,previous_IS,glove,t-shirt,0.25452572107315063,0.2453344762325287,0.009191244840621948,True,True,glove
+label=glove_text=tissue.jpg,label=glove_text=tissue.jpg,RTA100,previous_IS,glove,tissue,0.2520673871040344,0.19807276129722595,0.05399462580680847,True,True,glove
+label=glove_text=tray.jpg,label=glove_text=tray.jpg,RTA100,previous_IS,glove,tray,0.2516518235206604,0.18431778252124786,0.06733404099941254,True,True,glove
+label=guitar_text=bookshelf.jpg,label=guitar_text=bookshelf.jpg,RTA100,previous_IS,guitar,bookshelf,0.23897604644298553,0.21849747002124786,0.02047857642173767,True,False,adapter
+label=guitar_text=chopsticks.jpg,label=guitar_text=chopsticks.jpg,RTA100,previous_IS,guitar,chopsticks,0.26644811034202576,0.1608492136001587,0.10559889674186707,True,True,guitar
+label=guitar_text=doll.jpg,label=guitar_text=doll.jpg,RTA100,previous_IS,guitar,doll,0.2875344157218933,0.2178075909614563,0.06972682476043701,True,True,guitar
+label=guitar_text=frisbee.jpg,label=guitar_text=frisbee.jpg,RTA100,previous_IS,guitar,frisbee,0.25580406188964844,0.14285196363925934,0.1129520982503891,True,True,guitar
+label=guitar_text=marker.jpg,label=guitar_text=marker.jpg,RTA100,previous_IS,guitar,marker,0.2859383821487427,0.23312976956367493,0.05280861258506775,True,True,guitar
+label=guitar_text=microwave.jpg,label=guitar_text=microwave.jpg,RTA100,previous_IS,guitar,microwave,0.2660902142524719,0.2293572723865509,0.03673294186592102,True,True,guitar
+label=guitar_text=onion.jpg,label=guitar_text=onion.jpg,RTA100,previous_IS,guitar,onion,0.2853853106498718,0.19021177291870117,0.09517353773117065,True,True,guitar
+label=guitar_text=plate.jpg,label=guitar_text=plate.jpg,RTA100,previous_IS,guitar,plate,0.2831571400165558,0.20626725256443024,0.07688988745212555,True,True,guitar
+label=guitar_text=toaster.jpg,label=guitar_text=toaster.jpg,RTA100,previous_IS,guitar,toaster,0.25509655475616455,0.22677241265773773,0.02832414209842682,True,False,iron
+label=guitar_text=wallet.jpg,label=guitar_text=wallet.jpg,RTA100,previous_IS,guitar,wallet,0.2732565402984619,0.19705280661582947,0.07620373368263245,True,True,guitar
+label=hair dryer_text=bowl.jpg,label=hair dryer_text=bowl.jpg,RTA100,previous_IS,hair dryer,bowl,0.3027903735637665,0.2737065553665161,0.029083818197250366,True,True,hair dryer
+label=hair dryer_text=flower.jpg,label=hair dryer_text=flower.jpg,RTA100,previous_IS,hair dryer,flower,0.3304744362831116,0.2391394078731537,0.09133502840995789,True,True,hair dryer
+label=hair dryer_text=iPhone.jpg,label=hair dryer_text=iPhone.jpg,RTA100,previous_IS,hair dryer,iPhone,0.252400279045105,0.2782383859157562,-0.025838106870651245,False,False,iPhone
+label=hair dryer_text=jacket.jpg,label=hair dryer_text=jacket.jpg,RTA100,previous_IS,hair dryer,jacket,0.299297958612442,0.307383269071579,-0.008085310459136963,False,False,iron
+label=hair dryer_text=milk.jpg,label=hair dryer_text=milk.jpg,RTA100,previous_IS,hair dryer,milk,0.2864972949028015,0.2629118859767914,0.023585408926010132,True,True,hair dryer
+label=hair dryer_text=mousepad.jpg,label=hair dryer_text=mousepad.jpg,RTA100,previous_IS,hair dryer,mousepad,0.2827686071395874,0.25070539116859436,0.03206321597099304,True,True,hair dryer
+label=hair dryer_text=pants.jpg,label=hair dryer_text=pants.jpg,RTA100,previous_IS,hair dryer,pants,0.2807060182094574,0.260200560092926,0.020505458116531372,True,True,hair dryer
+label=hair dryer_text=pen.jpg,label=hair dryer_text=pen.jpg,RTA100,previous_IS,hair dryer,pen,0.26841893792152405,0.29696953296661377,-0.02855059504508972,False,False,mic
+label=hair dryer_text=plate.jpg,label=hair dryer_text=plate.jpg,RTA100,previous_IS,hair dryer,plate,0.25285643339157104,0.21271675825119019,0.04013967514038086,True,False,pen case
+label=hair dryer_text=ruler.jpg,label=hair dryer_text=ruler.jpg,RTA100,previous_IS,hair dryer,ruler,0.27046433091163635,0.2445218563079834,0.025942474603652954,True,False,pen case
+label=hand_text=controller.jpg,label=hand_text=controller.jpg,RTA100,previous_IS,hand,controller,0.23054319620132446,0.24079008400440216,-0.010246887803077698,False,False,controller
+label=hand_text=curtain.jpg,label=hand_text=curtain.jpg,RTA100,previous_IS,hand,curtain,0.30309343338012695,0.26625239849090576,0.03684103488922119,True,True,hand
+label=hand_text=fridge.jpg,label=hand_text=fridge.jpg,RTA100,previous_IS,hand,fridge,0.2682653069496155,0.2547680735588074,0.013497233390808105,True,True,hand
+label=hand_text=glasses.jpg,label=hand_text=glasses.jpg,RTA100,previous_IS,hand,glasses,0.2624533176422119,0.300055593252182,-0.03760227560997009,False,False,glasses
+label=hand_text=glove.jpg,label=hand_text=glove.jpg,RTA100,previous_IS,hand,glove,0.29382357001304626,0.28493523597717285,0.008888334035873413,True,True,hand
+label=hand_text=lemon.jpg,label=hand_text=lemon.jpg,RTA100,previous_IS,hand,lemon,0.29141637682914734,0.2779938578605652,0.013422518968582153,True,True,hand
+label=hand_text=onion.jpg,label=hand_text=onion.jpg,RTA100,previous_IS,hand,onion,0.3084096312522888,0.27326124906539917,0.03514838218688965,True,True,hand
+label=hand_text=oven.jpg,label=hand_text=oven.jpg,RTA100,previous_IS,hand,oven,0.30622759461402893,0.2826083302497864,0.023619264364242554,True,True,hand
+label=hand_text=speaker.jpg,label=hand_text=speaker.jpg,RTA100,previous_IS,hand,speaker,0.23984378576278687,0.26132839918136597,-0.0214846134185791,False,False,speaker
+label=hand_text=spoon.jpg,label=hand_text=spoon.jpg,RTA100,previous_IS,hand,spoon,0.25789719820022583,0.29831355810165405,-0.04041635990142822,False,False,spoon
+label=hat_text=bookshelf.jpg,label=hat_text=bookshelf.jpg,RTA100,previous_IS,hat,bookshelf,0.2813156247138977,0.24070966243743896,0.04060596227645874,True,True,hat
+label=hat_text=controller.jpg,label=hat_text=controller.jpg,RTA100,previous_IS,hat,controller,0.2642762064933777,0.17901074886322021,0.08526545763015747,True,True,hat
+label=hat_text=cup.jpg,label=hat_text=cup.jpg,RTA100,previous_IS,hat,cup,0.2738468647003174,0.20086067914962769,0.0729861855506897,True,True,hat
+label=hat_text=doll.jpg,label=hat_text=doll.jpg,RTA100,previous_IS,hat,doll,0.2477932572364807,0.23397189378738403,0.01382136344909668,True,False,slipper
+label=hat_text=iPhone.jpg,label=hat_text=iPhone.jpg,RTA100,previous_IS,hat,iPhone,0.2724539041519165,0.27952712774276733,-0.00707322359085083,False,False,iPhone
+label=hat_text=pen case.jpg,label=hat_text=pen case.jpg,RTA100,previous_IS,hat,pen case,0.2689301073551178,0.2024233490228653,0.0665067583322525,True,True,hat
+label=hat_text=tissue.jpg,label=hat_text=tissue.jpg,RTA100,previous_IS,hat,tissue,0.27010348439216614,0.19086334109306335,0.07924014329910278,True,True,hat
+label=hat_text=towel.jpg,label=hat_text=towel.jpg,RTA100,previous_IS,hat,towel,0.2820148169994354,0.2137264609336853,0.06828835606575012,True,True,hat
+label=hat_text=watch.jpg,label=hat_text=watch.jpg,RTA100,previous_IS,hat,watch,0.25137531757354736,0.23413300514221191,0.01724231243133545,True,False,bag
+label=hat_text=whiteboard.jpg,label=hat_text=whiteboard.jpg,RTA100,previous_IS,hat,whiteboard,0.2893308997154236,0.19146570563316345,0.09786519408226013,True,True,hat
+label=headphone_text=chair.jpg,label=headphone_text=chair.jpg,RTA100,previous_IS,headphone,chair,0.28338736295700073,0.24100035429000854,0.04238700866699219,True,True,headphone
+label=headphone_text=cup.jpg,label=headphone_text=cup.jpg,RTA100,previous_IS,headphone,cup,0.2916319668292999,0.2597273886203766,0.03190457820892334,True,True,headphone
+label=headphone_text=eraser.jpg,label=headphone_text=eraser.jpg,RTA100,previous_IS,headphone,eraser,0.28123724460601807,0.22105258703231812,0.06018465757369995,True,True,headphone
+label=headphone_text=fridge.jpg,label=headphone_text=fridge.jpg,RTA100,previous_IS,headphone,fridge,0.27294087409973145,0.23505809903144836,0.03788277506828308,True,True,headphone
+label=headphone_text=mirror.jpg,label=headphone_text=mirror.jpg,RTA100,previous_IS,headphone,mirror,0.2686441242694855,0.19248001277446747,0.076164111495018,True,True,headphone
+label=headphone_text=paper.jpg,label=headphone_text=paper.jpg,RTA100,previous_IS,headphone,paper,0.25197702646255493,0.18687689304351807,0.06510013341903687,True,True,headphone
+label=headphone_text=peach.jpg,label=headphone_text=peach.jpg,RTA100,previous_IS,headphone,peach,0.2652527093887329,0.19502785801887512,0.07022485136985779,True,True,headphone
+label=headphone_text=socks.jpg,label=headphone_text=socks.jpg,RTA100,previous_IS,headphone,socks,0.2840149402618408,0.28088027238845825,0.0031346678733825684,True,True,headphone
+label=headphone_text=sofa.jpg,label=headphone_text=sofa.jpg,RTA100,previous_IS,headphone,sofa,0.26467347145080566,0.16926714777946472,0.09540632367134094,True,True,headphone
+label=headphone_text=toothbrush.jpg,label=headphone_text=toothbrush.jpg,RTA100,previous_IS,headphone,toothbrush,0.2770649492740631,0.21236774325370789,0.06469720602035522,True,True,headphone
+label=iPad_text=bookshelf.jpg,label=iPad_text=bookshelf.jpg,RTA100,previous_IS,iPad,bookshelf,0.3078303039073944,0.21972596645355225,0.08810433745384216,True,True,iPad
+label=iPad_text=drill.jpg,label=iPad_text=drill.jpg,RTA100,previous_IS,iPad,drill,0.27606236934661865,0.18172410130500793,0.09433826804161072,True,True,iPad
+label=iPad_text=glove.jpg,label=iPad_text=glove.jpg,RTA100,previous_IS,iPad,glove,0.2950839698314667,0.21807506680488586,0.07700890302658081,True,True,iPad
+label=iPad_text=mango.jpg,label=iPad_text=mango.jpg,RTA100,previous_IS,iPad,mango,0.24035820364952087,0.21468424797058105,0.02567395567893982,True,False,mousepad
+label=iPad_text=mask.jpg,label=iPad_text=mask.jpg,RTA100,previous_IS,iPad,mask,0.26897501945495605,0.2613062858581543,0.007668733596801758,True,False,mousepad
+label=iPad_text=onion.jpg,label=iPad_text=onion.jpg,RTA100,previous_IS,iPad,onion,0.30403706431388855,0.19528572261333466,0.1087513417005539,True,True,iPad
+label=iPad_text=oven.jpg,label=iPad_text=oven.jpg,RTA100,previous_IS,iPad,oven,0.3134542405605316,0.23235100507736206,0.08110323548316956,True,True,iPad
+label=iPad_text=plate.jpg,label=iPad_text=plate.jpg,RTA100,previous_IS,iPad,plate,0.2566966414451599,0.23740416765213013,0.019292473793029785,True,True,iPad
+label=iPad_text=racquet.jpg,label=iPad_text=racquet.jpg,RTA100,previous_IS,iPad,racquet,0.28851327300071716,0.19865158200263977,0.08986169099807739,True,True,iPad
+label=iPad_text=speaker.jpg,label=iPad_text=speaker.jpg,RTA100,previous_IS,iPad,speaker,0.28335848450660706,0.2872544527053833,-0.003895968198776245,False,False,speaker
+label=iPhone_text=apple.jpg,label=iPhone_text=apple.jpg,RTA100,previous_IS,iPhone,apple,0.30461785197257996,0.2925064265727997,0.012111425399780273,True,True,iPhone
+label=iPhone_text=guitar.jpg,label=iPhone_text=guitar.jpg,RTA100,previous_IS,iPhone,guitar,0.26433265209198,0.24832123517990112,0.016011416912078857,True,False,wallet
+label=iPhone_text=laptop.jpg,label=iPhone_text=laptop.jpg,RTA100,previous_IS,iPhone,laptop,0.28259435296058655,0.26615145802497864,0.01644289493560791,True,True,iPhone
+label=iPhone_text=light bulb.jpg,label=iPhone_text=light bulb.jpg,RTA100,previous_IS,iPhone,light bulb,0.26783478260040283,0.23561158776283264,0.03222319483757019,True,True,iPhone
+label=iPhone_text=mask.jpg,label=iPhone_text=mask.jpg,RTA100,previous_IS,iPhone,mask,0.2764449715614319,0.2610277235507965,0.015417248010635376,True,True,iPhone
+label=iPhone_text=monitor.jpg,label=iPhone_text=monitor.jpg,RTA100,previous_IS,iPhone,monitor,0.26976099610328674,0.22600385546684265,0.04375714063644409,True,True,iPhone
+label=iPhone_text=pants.jpg,label=iPhone_text=pants.jpg,RTA100,previous_IS,iPhone,pants,0.27424049377441406,0.2617352604866028,0.01250523328781128,True,True,iPhone
+label=iPhone_text=paper.jpg,label=iPhone_text=paper.jpg,RTA100,previous_IS,iPhone,paper,0.2957835793495178,0.2819373309612274,0.013846248388290405,True,True,iPhone
+label=iPhone_text=speaker.jpg,label=iPhone_text=speaker.jpg,RTA100,previous_IS,iPhone,speaker,0.27329131960868835,0.27553555369377136,-0.002244234085083008,False,False,speaker
+label=iPhone_text=spoon.jpg,label=iPhone_text=spoon.jpg,RTA100,previous_IS,iPhone,spoon,0.27738386392593384,0.26790088415145874,0.009482979774475098,True,True,iPhone
+label=iron_text=book.jpg,label=iron_text=book.jpg,RTA100,previous_IS,iron,book,0.29166078567504883,0.25999438762664795,0.03166639804840088,True,True,iron
+label=iron_text=bottle.jpg,label=iron_text=bottle.jpg,RTA100,previous_IS,iron,bottle,0.28511011600494385,0.27792951464653015,0.007180601358413696,True,False,hair dryer
+label=iron_text=cookie.jpg,label=iron_text=cookie.jpg,RTA100,previous_IS,iron,cookie,0.24917548894882202,0.25766220688819885,-0.008486717939376831,False,False,toaster
+label=iron_text=glove.jpg,label=iron_text=glove.jpg,RTA100,previous_IS,iron,glove,0.27693378925323486,0.2233189344406128,0.05361485481262207,True,False,toaster
+label=iron_text=jacket.jpg,label=iron_text=jacket.jpg,RTA100,previous_IS,iron,jacket,0.27573949098587036,0.21895471215248108,0.05678477883338928,True,False,hair dryer
+label=iron_text=light bulb.jpg,label=iron_text=light bulb.jpg,RTA100,previous_IS,iron,light bulb,0.28372782468795776,0.2521963119506836,0.03153151273727417,True,False,toaster
+label=iron_text=mango.jpg,label=iron_text=mango.jpg,RTA100,previous_IS,iron,mango,0.29427027702331543,0.2092202603816986,0.08505001664161682,True,False,hair dryer
+label=iron_text=peach.jpg,label=iron_text=peach.jpg,RTA100,previous_IS,iron,peach,0.22763828933238983,0.2537483870983124,-0.026110097765922546,False,False,bottle
+label=iron_text=plate.jpg,label=iron_text=plate.jpg,RTA100,previous_IS,iron,plate,0.2650972008705139,0.2442142218351364,0.020882979035377502,True,True,iron
+label=iron_text=racquet.jpg,label=iron_text=racquet.jpg,RTA100,previous_IS,iron,racquet,0.27941855788230896,0.21214357018470764,0.06727498769760132,True,False,toaster
+label=jacket_text=bookshelf.jpg,label=jacket_text=bookshelf.jpg,RTA100,previous_IS,jacket,bookshelf,0.271419495344162,0.1903659850358963,0.08105351030826569,True,True,jacket
+label=jacket_text=bottle.jpg,label=jacket_text=bottle.jpg,RTA100,previous_IS,jacket,bottle,0.29161185026168823,0.2069505751132965,0.08466127514839172,True,True,jacket
+label=jacket_text=can.jpg,label=jacket_text=can.jpg,RTA100,previous_IS,jacket,can,0.2958754897117615,0.21547992527484894,0.08039556443691254,True,True,jacket
+label=jacket_text=mango.jpg,label=jacket_text=mango.jpg,RTA100,previous_IS,jacket,mango,0.2702599763870239,0.1911398470401764,0.07912012934684753,True,True,jacket
+label=jacket_text=mirror.jpg,label=jacket_text=mirror.jpg,RTA100,previous_IS,jacket,mirror,0.30985403060913086,0.2579750418663025,0.05187898874282837,True,True,jacket
+label=jacket_text=peach.jpg,label=jacket_text=peach.jpg,RTA100,previous_IS,jacket,peach,0.2604916989803314,0.20077237486839294,0.05971932411193848,True,True,jacket
+label=jacket_text=pillow.jpg,label=jacket_text=pillow.jpg,RTA100,previous_IS,jacket,pillow,0.2607356011867523,0.20787401497364044,0.05286158621311188,True,True,jacket
+label=jacket_text=plate.jpg,label=jacket_text=plate.jpg,RTA100,previous_IS,jacket,plate,0.3033698797225952,0.22119690477848053,0.08217297494411469,True,True,jacket
+label=jacket_text=towel.jpg,label=jacket_text=towel.jpg,RTA100,previous_IS,jacket,towel,0.2671475112438202,0.2769540250301361,-0.009806513786315918,False,False,towel
+label=jacket_text=vacuum cleaner.jpg,label=jacket_text=vacuum cleaner.jpg,RTA100,previous_IS,jacket,vacuum cleaner,0.28536421060562134,0.2344307005405426,0.050933510065078735,True,True,jacket
+label=key_text=adapter.jpg,label=key_text=adapter.jpg,RTA100,previous_IS,key,adapter,0.2700815498828888,0.27285537123680115,-0.0027738213539123535,False,False,adapter
+label=key_text=dish.jpg,label=key_text=dish.jpg,RTA100,previous_IS,key,dish,0.2117977738380432,0.19077882170677185,0.021018952131271362,True,False,mousepad
+label=key_text=drill.jpg,label=key_text=drill.jpg,RTA100,previous_IS,key,drill,0.24435332417488098,0.21772989630699158,0.026623427867889404,True,True,key
+label=key_text=floor.jpg,label=key_text=floor.jpg,RTA100,previous_IS,key,floor,0.29412874579429626,0.2632214426994324,0.03090730309486389,True,True,key
+label=key_text=frisbee.jpg,label=key_text=frisbee.jpg,RTA100,previous_IS,key,frisbee,0.28021740913391113,0.18521460890769958,0.09500280022621155,True,False,wallet
+label=key_text=iPad.jpg,label=key_text=iPad.jpg,RTA100,previous_IS,key,iPad,0.2687189280986786,0.23771461844444275,0.03100430965423584,True,True,key
+label=key_text=jacket.jpg,label=key_text=jacket.jpg,RTA100,previous_IS,key,jacket,0.2594490647315979,0.20936183631420135,0.050087228417396545,True,False,wallet
+label=key_text=pants.jpg,label=key_text=pants.jpg,RTA100,previous_IS,key,pants,0.23029524087905884,0.2687770128250122,-0.03848177194595337,False,False,pants
+label=key_text=remote.jpg,label=key_text=remote.jpg,RTA100,previous_IS,key,remote,0.2401527315378189,0.22581204771995544,0.014340683817863464,True,True,key
+label=key_text=ruler.jpg,label=key_text=ruler.jpg,RTA100,previous_IS,key,ruler,0.233159601688385,0.19697970151901245,0.03617990016937256,True,False,wallet
+label=keyboard_text=airconditioner.jpg,label=keyboard_text=airconditioner.jpg,RTA100,previous_IS,keyboard,airconditioner,0.22788658738136292,0.134956493973732,0.09293009340763092,True,True,keyboard
+label=keyboard_text=bookshelf.jpg,label=keyboard_text=bookshelf.jpg,RTA100,previous_IS,keyboard,bookshelf,0.2997244596481323,0.2577802240848541,0.0419442355632782,True,True,keyboard
+label=keyboard_text=guitar.jpg,label=keyboard_text=guitar.jpg,RTA100,previous_IS,keyboard,guitar,0.25885650515556335,0.15915803611278534,0.09969846904277802,True,True,keyboard
+label=keyboard_text=lemon.jpg,label=keyboard_text=lemon.jpg,RTA100,previous_IS,keyboard,lemon,0.2791011333465576,0.24354803562164307,0.03555309772491455,True,True,keyboard
+label=keyboard_text=notebook.jpg,label=keyboard_text=notebook.jpg,RTA100,previous_IS,keyboard,notebook,0.27842977643013,0.24945828318595886,0.028971493244171143,True,True,keyboard
+label=keyboard_text=pen case.jpg,label=keyboard_text=pen case.jpg,RTA100,previous_IS,keyboard,pen case,0.2679939270019531,0.20864099264144897,0.05935293436050415,True,True,keyboard
+label=keyboard_text=slipper.jpg,label=keyboard_text=slipper.jpg,RTA100,previous_IS,keyboard,slipper,0.28180208802223206,0.21530497074127197,0.06649711728096008,True,True,keyboard
+label=keyboard_text=tie.jpg,label=keyboard_text=tie.jpg,RTA100,previous_IS,keyboard,tie,0.2799765169620514,0.21022307872772217,0.06975343823432922,True,True,keyboard
+label=keyboard_text=toaster.jpg,label=keyboard_text=toaster.jpg,RTA100,previous_IS,keyboard,toaster,0.2744901180267334,0.20351974666118622,0.07097037136554718,True,True,keyboard
+label=keyboard_text=vacuum cleaner.jpg,label=keyboard_text=vacuum cleaner.jpg,RTA100,previous_IS,keyboard,vacuum cleaner,0.26156190037727356,0.22778622806072235,0.03377567231655121,True,True,keyboard
+label=laptop_text=adapter.jpg,label=laptop_text=adapter.jpg,RTA100,previous_IS,laptop,adapter,0.28404539823532104,0.2112966626882553,0.07274873554706573,True,True,laptop
+label=laptop_text=airconditioner.jpg,label=laptop_text=airconditioner.jpg,RTA100,previous_IS,laptop,airconditioner,0.2654840350151062,0.18962565064430237,0.07585838437080383,True,True,laptop
+label=laptop_text=bed.jpg,label=laptop_text=bed.jpg,RTA100,previous_IS,laptop,bed,0.32292962074279785,0.2646130919456482,0.05831652879714966,True,True,laptop
+label=laptop_text=can.jpg,label=laptop_text=can.jpg,RTA100,previous_IS,laptop,can,0.3068571984767914,0.2627106308937073,0.044146567583084106,True,True,laptop
+label=laptop_text=glasses.jpg,label=laptop_text=glasses.jpg,RTA100,previous_IS,laptop,glasses,0.2698794901371002,0.2645808458328247,0.005298644304275513,True,True,laptop
+label=laptop_text=keyboard.jpg,label=laptop_text=keyboard.jpg,RTA100,previous_IS,laptop,keyboard,0.30141377449035645,0.253628671169281,0.04778510332107544,True,True,laptop
+label=laptop_text=pen case.jpg,label=laptop_text=pen case.jpg,RTA100,previous_IS,laptop,pen case,0.2488062083721161,0.20895151793956757,0.03985469043254852,True,False,iPad
+label=laptop_text=speaker.jpg,label=laptop_text=speaker.jpg,RTA100,previous_IS,laptop,speaker,0.30236977338790894,0.2555777132511139,0.046792060136795044,True,True,laptop
+label=laptop_text=suitcase.jpg,label=laptop_text=suitcase.jpg,RTA100,previous_IS,laptop,suitcase,0.29887688159942627,0.19819621741771698,0.10068066418170929,True,True,laptop
+label=laptop_text=trash box.jpg,label=laptop_text=trash box.jpg,RTA100,previous_IS,laptop,trash box,0.2919154763221741,0.2264479100704193,0.06546756625175476,True,True,laptop
+label=lemon_text=apple.jpg,label=lemon_text=apple.jpg,RTA100,previous_IS,lemon,apple,0.2955631613731384,0.26918497681617737,0.02637818455696106,True,True,lemon
+label=lemon_text=egg.jpg,label=lemon_text=egg.jpg,RTA100,previous_IS,lemon,egg,0.2927004098892212,0.27841681241989136,0.014283597469329834,True,False,mango
+label=lemon_text=floor.jpg,label=lemon_text=floor.jpg,RTA100,previous_IS,lemon,floor,0.27761536836624146,0.2715936005115509,0.006021767854690552,True,True,lemon
+label=lemon_text=flower.jpg,label=lemon_text=flower.jpg,RTA100,previous_IS,lemon,flower,0.32473140954971313,0.28083789348602295,0.043893516063690186,True,True,lemon
+label=lemon_text=hair dryer.jpg,label=lemon_text=hair dryer.jpg,RTA100,previous_IS,lemon,hair dryer,0.2671163082122803,0.23297856748104095,0.03413774073123932,True,True,lemon
+label=lemon_text=hat.jpg,label=lemon_text=hat.jpg,RTA100,previous_IS,lemon,hat,0.3347552418708801,0.2842024564743042,0.05055278539657593,True,True,lemon
+label=lemon_text=mask.jpg,label=lemon_text=mask.jpg,RTA100,previous_IS,lemon,mask,0.2865656912326813,0.2862120568752289,0.0003536343574523926,True,True,lemon
+label=lemon_text=notebook.jpg,label=lemon_text=notebook.jpg,RTA100,previous_IS,lemon,notebook,0.31960350275039673,0.29459625482559204,0.025007247924804688,True,True,lemon
+label=lemon_text=plate.jpg,label=lemon_text=plate.jpg,RTA100,previous_IS,lemon,plate,0.2842932939529419,0.2676873803138733,0.016605913639068604,True,True,lemon
+label=lemon_text=spoon.jpg,label=lemon_text=spoon.jpg,RTA100,previous_IS,lemon,spoon,0.3176264464855194,0.26957207918167114,0.04805436730384827,True,True,lemon
+label=light bulb_text=adapter.jpg,label=light bulb_text=adapter.jpg,RTA100,previous_IS,light bulb,adapter,0.2797636389732361,0.2653989791870117,0.014364659786224365,True,False,onion
+label=light bulb_text=bed.jpg,label=light bulb_text=bed.jpg,RTA100,previous_IS,light bulb,bed,0.2803386449813843,0.26834580302238464,0.011992841958999634,True,True,light bulb
+label=light bulb_text=flower.jpg,label=light bulb_text=flower.jpg,RTA100,previous_IS,light bulb,flower,0.31318768858909607,0.2728816866874695,0.04030600190162659,True,True,light bulb
+label=light bulb_text=laptop.jpg,label=light bulb_text=laptop.jpg,RTA100,previous_IS,light bulb,laptop,0.3127334713935852,0.27691078186035156,0.03582268953323364,True,False,ball
+label=light bulb_text=onion.jpg,label=light bulb_text=onion.jpg,RTA100,previous_IS,light bulb,onion,0.3332802653312683,0.28605830669403076,0.04722195863723755,True,True,light bulb
+label=light bulb_text=pants.jpg,label=light bulb_text=pants.jpg,RTA100,previous_IS,light bulb,pants,0.2407102733850479,0.2689008116722107,-0.02819053828716278,False,False,pants
+label=light bulb_text=pillow.jpg,label=light bulb_text=pillow.jpg,RTA100,previous_IS,light bulb,pillow,0.2900760769844055,0.2158953696489334,0.0741807073354721,True,True,light bulb
+label=light bulb_text=t-shirt.jpg,label=light bulb_text=t-shirt.jpg,RTA100,previous_IS,light bulb,t-shirt,0.24050335586071014,0.26348426938056946,-0.022980913519859314,False,False,t-shirt
+label=light bulb_text=tie.jpg,label=light bulb_text=tie.jpg,RTA100,previous_IS,light bulb,tie,0.239395871758461,0.21407678723335266,0.025319084525108337,True,True,light bulb
+label=light bulb_text=vacuum cleaner.jpg,label=light bulb_text=vacuum cleaner.jpg,RTA100,previous_IS,light bulb,vacuum cleaner,0.26234978437423706,0.24921029806137085,0.013139486312866211,True,True,light bulb
+label=mango_text=adapter.jpg,label=mango_text=adapter.jpg,RTA100,previous_IS,mango,adapter,0.2957867383956909,0.23852182924747467,0.05726490914821625,True,True,mango
+label=mango_text=apple.jpg,label=mango_text=apple.jpg,RTA100,previous_IS,mango,apple,0.2850692570209503,0.29118025302886963,-0.0061109960079193115,False,False,peach
+label=mango_text=egg.jpg,label=mango_text=egg.jpg,RTA100,previous_IS,mango,egg,0.30718666315078735,0.2886975109577179,0.018489152193069458,True,True,mango
+label=mango_text=floor.jpg,label=mango_text=floor.jpg,RTA100,previous_IS,mango,floor,0.28298160433769226,0.2715277075767517,0.011453896760940552,True,False,peach
+label=mango_text=fork.jpg,label=mango_text=fork.jpg,RTA100,previous_IS,mango,fork,0.29061150550842285,0.2540223002433777,0.036589205265045166,True,False,peach
+label=mango_text=key.jpg,label=mango_text=key.jpg,RTA100,previous_IS,mango,key,0.28791218996047974,0.251527339220047,0.03638485074043274,True,True,mango
+label=mango_text=racquet.jpg,label=mango_text=racquet.jpg,RTA100,previous_IS,mango,racquet,0.2821119427680969,0.22836226224899292,0.053749680519104004,True,False,peach
+label=mango_text=scissors.jpg,label=mango_text=scissors.jpg,RTA100,previous_IS,mango,scissors,0.28233247995376587,0.21945586800575256,0.0628766119480133,True,True,mango
+label=mango_text=socks.jpg,label=mango_text=socks.jpg,RTA100,previous_IS,mango,socks,0.25576990842819214,0.29793986678123474,-0.0421699583530426,False,False,socks
+label=mango_text=towel.jpg,label=mango_text=towel.jpg,RTA100,previous_IS,mango,towel,0.3001498281955719,0.2911648154258728,0.008985012769699097,True,True,mango
+label=map_text=bed.jpg,label=map_text=bed.jpg,RTA100,previous_IS,map,bed,0.2842969298362732,0.29025331139564514,-0.005956381559371948,False,False,bed
+label=map_text=camera.jpg,label=map_text=camera.jpg,RTA100,previous_IS,map,camera,0.26300984621047974,0.1880994439125061,0.07491040229797363,True,True,map
+label=map_text=cookie.jpg,label=map_text=cookie.jpg,RTA100,previous_IS,map,cookie,0.26709458231925964,0.16434799134731293,0.10274659097194672,True,True,map
+label=map_text=eraser.jpg,label=map_text=eraser.jpg,RTA100,previous_IS,map,eraser,0.25168707966804504,0.1534055471420288,0.09828153252601624,True,True,map
+label=map_text=fork.jpg,label=map_text=fork.jpg,RTA100,previous_IS,map,fork,0.267815500497818,0.17224255204200745,0.09557294845581055,True,True,map
+label=map_text=frisbee.jpg,label=map_text=frisbee.jpg,RTA100,previous_IS,map,frisbee,0.3120206594467163,0.2372526079416275,0.0747680515050888,True,True,map
+label=map_text=glasses.jpg,label=map_text=glasses.jpg,RTA100,previous_IS,map,glasses,0.2601673901081085,0.17476090788841248,0.08540648221969604,True,True,map
+label=map_text=hat.jpg,label=map_text=hat.jpg,RTA100,previous_IS,map,hat,0.26516953110694885,0.17798206210136414,0.08718746900558472,True,True,map
+label=map_text=melon.jpg,label=map_text=melon.jpg,RTA100,previous_IS,map,melon,0.26631420850753784,0.18093332648277283,0.08538088202476501,True,False,whiteboard
+label=map_text=mug.jpg,label=map_text=mug.jpg,RTA100,previous_IS,map,mug,0.25789183378219604,0.1688540279865265,0.08903780579566956,True,True,map
+label=marker_text=chopsticks.jpg,label=marker_text=chopsticks.jpg,RTA100,previous_IS,marker,chopsticks,0.2626034915447235,0.27654317021369934,-0.01393967866897583,False,False,chopsticks
+label=marker_text=hand.jpg,label=marker_text=hand.jpg,RTA100,previous_IS,marker,hand,0.25256484746932983,0.24709656834602356,0.005468279123306274,True,False,pen
+label=marker_text=key.jpg,label=marker_text=key.jpg,RTA100,previous_IS,marker,key,0.26076385378837585,0.26732921600341797,-0.006565362215042114,False,False,pen
+label=marker_text=laptop.jpg,label=marker_text=laptop.jpg,RTA100,previous_IS,marker,laptop,0.2839011251926422,0.30772972106933594,-0.023828595876693726,False,False,laptop
+label=marker_text=light bulb.jpg,label=marker_text=light bulb.jpg,RTA100,previous_IS,marker,light bulb,0.2710436284542084,0.26357030868530273,0.00747331976890564,True,False,eraser
+label=marker_text=milk.jpg,label=marker_text=milk.jpg,RTA100,previous_IS,marker,milk,0.27940165996551514,0.2886996567249298,-0.009297996759414673,False,False,milk
+label=marker_text=onion.jpg,label=marker_text=onion.jpg,RTA100,previous_IS,marker,onion,0.273684561252594,0.2695508897304535,0.004133671522140503,True,True,marker
+label=marker_text=pillow.jpg,label=marker_text=pillow.jpg,RTA100,previous_IS,marker,pillow,0.2003726065158844,0.23530012369155884,-0.03492751717567444,False,False,pillow
+label=marker_text=table.jpg,label=marker_text=table.jpg,RTA100,previous_IS,marker,table,0.29436033964157104,0.32969123125076294,-0.035330891609191895,False,False,table
+label=marker_text=towel.jpg,label=marker_text=towel.jpg,RTA100,previous_IS,marker,towel,0.2883351445198059,0.307041734457016,-0.018706589937210083,False,False,eraser
+label=mask_text=bag.jpg,label=mask_text=bag.jpg,RTA100,previous_IS,mask,bag,0.2529042363166809,0.3022145628929138,-0.04931032657623291,False,False,bag
+label=mask_text=bottle.jpg,label=mask_text=bottle.jpg,RTA100,previous_IS,mask,bottle,0.25890201330184937,0.27376940846443176,-0.014867395162582397,False,False,bottle
+label=mask_text=cup.jpg,label=mask_text=cup.jpg,RTA100,previous_IS,mask,cup,0.21576794981956482,0.2723481059074402,-0.056580156087875366,False,False,cup
+label=mask_text=curtain.jpg,label=mask_text=curtain.jpg,RTA100,previous_IS,mask,curtain,0.21715563535690308,0.2134084701538086,0.0037471652030944824,True,False,iron
+label=mask_text=earphones.jpg,label=mask_text=earphones.jpg,RTA100,previous_IS,mask,earphones,0.2248673439025879,0.2540953755378723,-0.029228031635284424,False,False,iPhone
+label=mask_text=mango.jpg,label=mask_text=mango.jpg,RTA100,previous_IS,mask,mango,0.22144873440265656,0.21931487321853638,0.0021338611841201782,True,False,bag
+label=mask_text=mug.jpg,label=mask_text=mug.jpg,RTA100,previous_IS,mask,mug,0.19855791330337524,0.22348397970199585,-0.024926066398620605,False,False,wallet
+label=mask_text=suitcase.jpg,label=mask_text=suitcase.jpg,RTA100,previous_IS,mask,suitcase,0.2543943226337433,0.25317588448524475,0.0012184381484985352,True,False,towel
+label=mask_text=toothbrush.jpg,label=mask_text=toothbrush.jpg,RTA100,previous_IS,mask,toothbrush,0.240165114402771,0.26388490200042725,-0.02371978759765625,False,False,toothbrush
+label=mask_text=whiteboard.jpg,label=mask_text=whiteboard.jpg,RTA100,previous_IS,mask,whiteboard,0.21146409213542938,0.19351749122142792,0.017946600914001465,True,False,wallet
+label=melon_text=camera.jpg,label=melon_text=camera.jpg,RTA100,previous_IS,melon,camera,0.2600328028202057,0.26050233840942383,-0.00046953558921813965,False,False,onion
+label=melon_text=floor.jpg,label=melon_text=floor.jpg,RTA100,previous_IS,melon,floor,0.28631696105003357,0.2777296304702759,0.00858733057975769,True,True,melon
+label=melon_text=fork.jpg,label=melon_text=fork.jpg,RTA100,previous_IS,melon,fork,0.32876792550086975,0.2577793598175049,0.07098856568336487,True,True,melon
+label=melon_text=fridge.jpg,label=melon_text=fridge.jpg,RTA100,previous_IS,melon,fridge,0.3030150234699249,0.215652734041214,0.08736228942871094,True,True,melon
+label=melon_text=hat.jpg,label=melon_text=hat.jpg,RTA100,previous_IS,melon,hat,0.31379517912864685,0.30405789613723755,0.009737282991409302,True,True,melon
+label=melon_text=light bulb.jpg,label=melon_text=light bulb.jpg,RTA100,previous_IS,melon,light bulb,0.2841757833957672,0.20783443748950958,0.07634134590625763,True,True,melon
+label=melon_text=marker.jpg,label=melon_text=marker.jpg,RTA100,previous_IS,melon,marker,0.299496591091156,0.21780511736869812,0.08169147372245789,True,True,melon
+label=melon_text=pen.jpg,label=melon_text=pen.jpg,RTA100,previous_IS,melon,pen,0.29385077953338623,0.27062222361564636,0.023228555917739868,True,True,melon
+label=melon_text=plate.jpg,label=melon_text=plate.jpg,RTA100,previous_IS,melon,plate,0.3172585368156433,0.24328044056892395,0.07397809624671936,True,True,melon
+label=melon_text=pot.jpg,label=melon_text=pot.jpg,RTA100,previous_IS,melon,pot,0.3222392201423645,0.26692140102386475,0.055317819118499756,True,True,melon
+label=mic_text=book.jpg,label=mic_text=book.jpg,RTA100,previous_IS,mic,book,0.27427515387535095,0.26638710498809814,0.007888048887252808,True,False,hair dryer
+label=mic_text=cone.jpg,label=mic_text=cone.jpg,RTA100,previous_IS,mic,cone,0.2614153325557709,0.20064584910869598,0.06076948344707489,True,True,mic
+label=mic_text=iPhone.jpg,label=mic_text=iPhone.jpg,RTA100,previous_IS,mic,iPhone,0.27778735756874084,0.25479066371917725,0.0229966938495636,True,True,mic
+label=mic_text=laptop.jpg,label=mic_text=laptop.jpg,RTA100,previous_IS,mic,laptop,0.3335590362548828,0.23341470956802368,0.10014432668685913,True,True,mic
+label=mic_text=onion.jpg,label=mic_text=onion.jpg,RTA100,previous_IS,mic,onion,0.3236367404460907,0.25589075684547424,0.06774598360061646,True,True,mic
+label=mic_text=oven.jpg,label=mic_text=oven.jpg,RTA100,previous_IS,mic,oven,0.2971077263355255,0.2598208785057068,0.037286847829818726,True,False,headphone
+label=mic_text=peach.jpg,label=mic_text=peach.jpg,RTA100,previous_IS,mic,peach,0.26217520236968994,0.2480352818965912,0.014139920473098755,True,True,mic
+label=mic_text=scissors.jpg,label=mic_text=scissors.jpg,RTA100,previous_IS,mic,scissors,0.31802600622177124,0.22242657840251923,0.09559942781925201,True,True,mic
+label=mic_text=table.jpg,label=mic_text=table.jpg,RTA100,previous_IS,mic,table,0.311526894569397,0.3057578504085541,0.0057690441608428955,True,True,mic
+label=mic_text=trash box.jpg,label=mic_text=trash box.jpg,RTA100,previous_IS,mic,trash box,0.2643212080001831,0.22479623556137085,0.039524972438812256,True,True,mic
+label=microwave_text=adapter.jpg,label=microwave_text=adapter.jpg,RTA100,previous_IS,microwave,adapter,0.3195292353630066,0.22196228802204132,0.09756694734096527,True,True,microwave
+label=microwave_text=fridge.jpg,label=microwave_text=fridge.jpg,RTA100,previous_IS,microwave,fridge,0.27745306491851807,0.28084102272987366,-0.003387957811355591,False,False,fridge
+label=microwave_text=glasses.jpg,label=microwave_text=glasses.jpg,RTA100,previous_IS,microwave,glasses,0.2772413492202759,0.2641942501068115,0.013047099113464355,True,True,microwave
+label=microwave_text=hat.jpg,label=microwave_text=hat.jpg,RTA100,previous_IS,microwave,hat,0.27880430221557617,0.1981806606054306,0.08062364161014557,True,False,oven
+label=microwave_text=iPad.jpg,label=microwave_text=iPad.jpg,RTA100,previous_IS,microwave,iPad,0.25477445125579834,0.2232656031847,0.03150884807109833,True,True,microwave
+label=microwave_text=mango.jpg,label=microwave_text=mango.jpg,RTA100,previous_IS,microwave,mango,0.29363325238227844,0.21725010871887207,0.07638314366340637,True,True,microwave
+label=microwave_text=mask.jpg,label=microwave_text=mask.jpg,RTA100,previous_IS,microwave,mask,0.3031388819217682,0.24410177767276764,0.05903710424900055,True,True,microwave
+label=microwave_text=mousepad.jpg,label=microwave_text=mousepad.jpg,RTA100,previous_IS,microwave,mousepad,0.28319820761680603,0.18712276220321655,0.09607544541358948,True,True,microwave
+label=microwave_text=table.jpg,label=microwave_text=table.jpg,RTA100,previous_IS,microwave,table,0.3045443296432495,0.2683762311935425,0.03616809844970703,True,True,microwave
+label=microwave_text=toothbrush.jpg,label=microwave_text=toothbrush.jpg,RTA100,previous_IS,microwave,toothbrush,0.280653178691864,0.1825105994939804,0.0981425791978836,True,True,microwave
+label=milk_text=bookshelf.jpg,label=milk_text=bookshelf.jpg,RTA100,previous_IS,milk,bookshelf,0.3211800158023834,0.21756583452224731,0.10361418128013611,True,True,milk
+label=milk_text=cookie.jpg,label=milk_text=cookie.jpg,RTA100,previous_IS,milk,cookie,0.28645509481430054,0.311899334192276,-0.025444239377975464,False,False,cookie
+label=milk_text=light bulb.jpg,label=milk_text=light bulb.jpg,RTA100,previous_IS,milk,light bulb,0.3303321301937103,0.2859734296798706,0.04435870051383972,True,True,milk
+label=milk_text=map.jpg,label=milk_text=map.jpg,RTA100,previous_IS,milk,map,0.3036080598831177,0.2821902334690094,0.021417826414108276,True,True,milk
+label=milk_text=onion.jpg,label=milk_text=onion.jpg,RTA100,previous_IS,milk,onion,0.33175578713417053,0.26877105236053467,0.06298473477363586,True,True,milk
+label=milk_text=paper.jpg,label=milk_text=paper.jpg,RTA100,previous_IS,milk,paper,0.31389397382736206,0.2571672201156616,0.05672675371170044,True,True,milk
+label=milk_text=sofa.jpg,label=milk_text=sofa.jpg,RTA100,previous_IS,milk,sofa,0.2503419816493988,0.21821072697639465,0.03213125467300415,True,False,spoon
+label=milk_text=umbrella.jpg,label=milk_text=umbrella.jpg,RTA100,previous_IS,milk,umbrella,0.27688100934028625,0.18674027919769287,0.09014073014259338,True,True,milk
+label=milk_text=vacuum cleaner.jpg,label=milk_text=vacuum cleaner.jpg,RTA100,previous_IS,milk,vacuum cleaner,0.24341191351413727,0.19514554738998413,0.04826636612415314,True,True,milk
+label=milk_text=watch.jpg,label=milk_text=watch.jpg,RTA100,previous_IS,milk,watch,0.29397276043891907,0.24399615824222565,0.04997660219669342,True,True,milk
+label=mirror_text=chair.jpg,label=mirror_text=chair.jpg,RTA100,previous_IS,mirror,chair,0.24817147850990295,0.2905633747577667,-0.04239189624786377,False,False,chair
+label=mirror_text=cone.jpg,label=mirror_text=cone.jpg,RTA100,previous_IS,mirror,cone,0.2363283932209015,0.23499971628189087,0.0013286769390106201,True,False,trash box
+label=mirror_text=curtain.jpg,label=mirror_text=curtain.jpg,RTA100,previous_IS,mirror,curtain,0.2464473396539688,0.2039942741394043,0.042453065514564514,True,False,iPad
+label=mirror_text=doll.jpg,label=mirror_text=doll.jpg,RTA100,previous_IS,mirror,doll,0.26445624232292175,0.24687036871910095,0.0175858736038208,True,True,mirror
+label=mirror_text=flower.jpg,label=mirror_text=flower.jpg,RTA100,previous_IS,mirror,flower,0.2627235949039459,0.23789259791374207,0.024830996990203857,True,False,microwave
+label=mirror_text=mouse.jpg,label=mirror_text=mouse.jpg,RTA100,previous_IS,mirror,mouse,0.21620836853981018,0.2514994740486145,-0.03529110550880432,False,False,mouse
+label=mirror_text=onion.jpg,label=mirror_text=onion.jpg,RTA100,previous_IS,mirror,onion,0.30452844500541687,0.25452110171318054,0.05000734329223633,True,False,tray
+label=mirror_text=racquet.jpg,label=mirror_text=racquet.jpg,RTA100,previous_IS,mirror,racquet,0.2736355662345886,0.2309575080871582,0.04267805814743042,True,False,microwave
+label=mirror_text=thermometer.jpg,label=mirror_text=thermometer.jpg,RTA100,previous_IS,mirror,thermometer,0.24657726287841797,0.1903524249792099,0.05622483789920807,True,False,table
+label=mirror_text=watch.jpg,label=mirror_text=watch.jpg,RTA100,previous_IS,mirror,watch,0.23851649463176727,0.25844520330429077,-0.0199287086725235,False,False,iPad
+label=monitor_text=basket.jpg,label=monitor_text=basket.jpg,RTA100,previous_IS,monitor,basket,0.3037240505218506,0.2544237971305847,0.04930025339126587,True,True,monitor
+label=monitor_text=chair.jpg,label=monitor_text=chair.jpg,RTA100,previous_IS,monitor,chair,0.23775614798069,0.3051649332046509,-0.06740878522396088,False,False,chair
+label=monitor_text=marker.jpg,label=monitor_text=marker.jpg,RTA100,previous_IS,monitor,marker,0.25415486097335815,0.2728644907474518,-0.018709629774093628,False,False,scissors
+label=monitor_text=pen case.jpg,label=monitor_text=pen case.jpg,RTA100,previous_IS,monitor,pen case,0.2857067584991455,0.21139535307884216,0.07431140542030334,True,True,monitor
+label=monitor_text=pillow.jpg,label=monitor_text=pillow.jpg,RTA100,previous_IS,monitor,pillow,0.3056412935256958,0.20852616429328918,0.09711512923240662,True,True,monitor
+label=monitor_text=plate.jpg,label=monitor_text=plate.jpg,RTA100,previous_IS,monitor,plate,0.29687145352363586,0.20328237116336823,0.09358908236026764,True,True,monitor
+label=monitor_text=pot.jpg,label=monitor_text=pot.jpg,RTA100,previous_IS,monitor,pot,0.2932872772216797,0.2204657644033432,0.07282151281833649,True,True,monitor
+label=monitor_text=socks.jpg,label=monitor_text=socks.jpg,RTA100,previous_IS,monitor,socks,0.30812209844589233,0.19156517088413239,0.11655692756175995,True,True,monitor
+label=monitor_text=thermometer.jpg,label=monitor_text=thermometer.jpg,RTA100,previous_IS,monitor,thermometer,0.31541481614112854,0.19175216555595398,0.12366265058517456,True,True,monitor
+label=monitor_text=tissue.jpg,label=monitor_text=tissue.jpg,RTA100,previous_IS,monitor,tissue,0.29164817929267883,0.22287151217460632,0.06877666711807251,True,True,monitor
+label=mouse_text=apple.jpg,label=mouse_text=apple.jpg,RTA100,previous_IS,mouse,apple,0.27458426356315613,0.27900058031082153,-0.004416316747665405,False,False,mousepad
+label=mouse_text=controller.jpg,label=mouse_text=controller.jpg,RTA100,previous_IS,mouse,controller,0.19418007135391235,0.229718416929245,-0.03553834557533264,False,False,controller
+label=mouse_text=cup.jpg,label=mouse_text=cup.jpg,RTA100,previous_IS,mouse,cup,0.2470014989376068,0.282618910074234,-0.0356174111366272,False,False,mug
+label=mouse_text=flower.jpg,label=mouse_text=flower.jpg,RTA100,previous_IS,mouse,flower,0.2686173915863037,0.26084619760513306,0.007771193981170654,True,False,mousepad
+label=mouse_text=jacket.jpg,label=mouse_text=jacket.jpg,RTA100,previous_IS,mouse,jacket,0.2908098101615906,0.26450473070144653,0.026305079460144043,True,False,mousepad
+label=mouse_text=key.jpg,label=mouse_text=key.jpg,RTA100,previous_IS,mouse,key,0.1978795826435089,0.24803341925144196,-0.050153836607933044,False,False,key
+label=mouse_text=keyboard.jpg,label=mouse_text=keyboard.jpg,RTA100,previous_IS,mouse,keyboard,0.24339964985847473,0.25638604164123535,-0.01298639178276062,False,False,remote
+label=mouse_text=milk.jpg,label=mouse_text=milk.jpg,RTA100,previous_IS,mouse,milk,0.27905356884002686,0.25947630405426025,0.0195772647857666,True,False,mousepad
+label=mouse_text=oven.jpg,label=mouse_text=oven.jpg,RTA100,previous_IS,mouse,oven,0.2287445366382599,0.25494253635406494,-0.026197999715805054,False,False,key
+label=mouse_text=scissors.jpg,label=mouse_text=scissors.jpg,RTA100,previous_IS,mouse,scissors,0.24082505702972412,0.24978229403495789,-0.008957237005233765,False,False,mousepad
+label=mousepad_text=can.jpg,label=mousepad_text=can.jpg,RTA100,previous_IS,mousepad,can,0.2729894518852234,0.26060521602630615,0.012384235858917236,True,False,notebook
+label=mousepad_text=card.jpg,label=mousepad_text=card.jpg,RTA100,previous_IS,mousepad,card,0.2547135055065155,0.2600192129611969,-0.0053057074546813965,False,False,card
+label=mousepad_text=cup.jpg,label=mousepad_text=cup.jpg,RTA100,previous_IS,mousepad,cup,0.2861117124557495,0.2905128598213196,-0.004401147365570068,False,False,cup
+label=mousepad_text=drill.jpg,label=mousepad_text=drill.jpg,RTA100,previous_IS,mousepad,drill,0.2577831745147705,0.20324675738811493,0.05453641712665558,True,True,mousepad
+label=mousepad_text=hat.jpg,label=mousepad_text=hat.jpg,RTA100,previous_IS,mousepad,hat,0.282794713973999,0.2966513931751251,-0.013856679201126099,False,False,hat
+label=mousepad_text=marker.jpg,label=mousepad_text=marker.jpg,RTA100,previous_IS,mousepad,marker,0.3049497902393341,0.2462071180343628,0.058742672204971313,True,True,mousepad
+label=mousepad_text=mirror.jpg,label=mousepad_text=mirror.jpg,RTA100,previous_IS,mousepad,mirror,0.2853536605834961,0.2877521514892578,-0.0023984909057617188,False,False,mirror
+label=mousepad_text=pillow.jpg,label=mousepad_text=pillow.jpg,RTA100,previous_IS,mousepad,pillow,0.3030332922935486,0.2438717782497406,0.05916151404380798,True,True,mousepad
+label=mousepad_text=vacuum cleaner.jpg,label=mousepad_text=vacuum cleaner.jpg,RTA100,previous_IS,mousepad,vacuum cleaner,0.27677592635154724,0.23009170591831207,0.04668422043323517,True,True,mousepad
+label=mousepad_text=wallet.jpg,label=mousepad_text=wallet.jpg,RTA100,previous_IS,mousepad,wallet,0.24599656462669373,0.28113219141960144,-0.035135626792907715,False,False,wallet
+label=mug_text=apple.jpg,label=mug_text=apple.jpg,RTA100,previous_IS,mug,apple,0.27155667543411255,0.2852467894554138,-0.01369011402130127,False,False,speaker
+label=mug_text=bookshelf.jpg,label=mug_text=bookshelf.jpg,RTA100,previous_IS,mug,bookshelf,0.3076954185962677,0.23591740429401398,0.07177801430225372,True,True,mug
+label=mug_text=floor.jpg,label=mug_text=floor.jpg,RTA100,previous_IS,mug,floor,0.30483126640319824,0.2929251194000244,0.011906147003173828,True,True,mug
+label=mug_text=flower.jpg,label=mug_text=flower.jpg,RTA100,previous_IS,mug,flower,0.2430974543094635,0.24054095149040222,0.0025565028190612793,True,False,key
+label=mug_text=iPhone.jpg,label=mug_text=iPhone.jpg,RTA100,previous_IS,mug,iPhone,0.2706553637981415,0.28657060861587524,-0.015915244817733765,False,False,iPhone
+label=mug_text=mask.jpg,label=mug_text=mask.jpg,RTA100,previous_IS,mug,mask,0.2896398901939392,0.27131086587905884,0.01832902431488037,True,True,mug
+label=mug_text=ruler.jpg,label=mug_text=ruler.jpg,RTA100,previous_IS,mug,ruler,0.2858212888240814,0.22182920575141907,0.06399208307266235,True,True,mug
+label=mug_text=sofa.jpg,label=mug_text=sofa.jpg,RTA100,previous_IS,mug,sofa,0.25171053409576416,0.2108745574951172,0.04083597660064697,True,False,headphone
+label=mug_text=toaster.jpg,label=mug_text=toaster.jpg,RTA100,previous_IS,mug,toaster,0.2948336601257324,0.27168774604797363,0.02314591407775879,True,True,mug
+label=mug_text=towel.jpg,label=mug_text=towel.jpg,RTA100,previous_IS,mug,towel,0.2659262716770172,0.2511101961135864,0.014816075563430786,True,False,pot
+label=notebook_text=DVD.jpg,label=notebook_text=DVD.jpg,RTA100,previous_IS,notebook,DVD,0.31807318329811096,0.2901226282119751,0.027950555086135864,True,True,notebook
+label=notebook_text=chopsticks.jpg,label=notebook_text=chopsticks.jpg,RTA100,previous_IS,notebook,chopsticks,0.29701220989227295,0.30327308177948,-0.006260871887207031,False,False,chopsticks
+label=notebook_text=cookie.jpg,label=notebook_text=cookie.jpg,RTA100,previous_IS,notebook,cookie,0.26098939776420593,0.27074146270751953,-0.009752064943313599,False,False,cookie
+label=notebook_text=cup.jpg,label=notebook_text=cup.jpg,RTA100,previous_IS,notebook,cup,0.2934831976890564,0.3086400032043457,-0.015156805515289307,False,False,cup
+label=notebook_text=curtain.jpg,label=notebook_text=curtain.jpg,RTA100,previous_IS,notebook,curtain,0.2726908326148987,0.21288591623306274,0.05980491638183594,True,True,notebook
+label=notebook_text=dish.jpg,label=notebook_text=dish.jpg,RTA100,previous_IS,notebook,dish,0.2314160168170929,0.22006329894065857,0.011352717876434326,True,True,notebook
+label=notebook_text=dog.jpg,label=notebook_text=dog.jpg,RTA100,previous_IS,notebook,dog,0.29357990622520447,0.2379704862833023,0.05560941994190216,True,True,notebook
+label=notebook_text=glove.jpg,label=notebook_text=glove.jpg,RTA100,previous_IS,notebook,glove,0.29681429266929626,0.24100522696971893,0.05580906569957733,True,True,notebook
+label=notebook_text=pot.jpg,label=notebook_text=pot.jpg,RTA100,previous_IS,notebook,pot,0.2975989878177643,0.24399960041046143,0.053599387407302856,True,True,notebook
+label=notebook_text=toothbrush.jpg,label=notebook_text=toothbrush.jpg,RTA100,previous_IS,notebook,toothbrush,0.2726898789405823,0.24415424466133118,0.0285356342792511,True,True,notebook
+label=onion_text=earphones.jpg,label=onion_text=earphones.jpg,RTA100,previous_IS,onion,earphones,0.24615761637687683,0.2249504029750824,0.021207213401794434,True,True,onion
+label=onion_text=fork.jpg,label=onion_text=fork.jpg,RTA100,previous_IS,onion,fork,0.314907431602478,0.2834608554840088,0.03144657611846924,True,True,onion
+label=onion_text=hair dryer.jpg,label=onion_text=hair dryer.jpg,RTA100,previous_IS,onion,hair dryer,0.23488906025886536,0.20022282004356384,0.034666240215301514,True,False,melon
+label=onion_text=marker.jpg,label=onion_text=marker.jpg,RTA100,previous_IS,onion,marker,0.30235350131988525,0.2381974458694458,0.06415605545043945,True,True,onion
+label=onion_text=mic.jpg,label=onion_text=mic.jpg,RTA100,previous_IS,onion,mic,0.2793571949005127,0.20396336913108826,0.07539382576942444,True,True,onion
+label=onion_text=mouse.jpg,label=onion_text=mouse.jpg,RTA100,previous_IS,onion,mouse,0.3005586862564087,0.24524761736392975,0.05531106889247894,True,True,onion
+label=onion_text=pot.jpg,label=onion_text=pot.jpg,RTA100,previous_IS,onion,pot,0.2979704737663269,0.28275272250175476,0.015217751264572144,True,True,onion
+label=onion_text=speaker.jpg,label=onion_text=speaker.jpg,RTA100,previous_IS,onion,speaker,0.28224024176597595,0.25535619258880615,0.0268840491771698,True,True,onion
+label=onion_text=toaster.jpg,label=onion_text=toaster.jpg,RTA100,previous_IS,onion,toaster,0.2813114821910858,0.2453770935535431,0.035934388637542725,True,True,onion
+label=onion_text=wallet.jpg,label=onion_text=wallet.jpg,RTA100,previous_IS,onion,wallet,0.2509540319442749,0.2523835599422455,-0.001429527997970581,False,False,egg
+label=oven_text=earphones.jpg,label=oven_text=earphones.jpg,RTA100,previous_IS,oven,earphones,0.24705830216407776,0.20350906252861023,0.04354923963546753,True,False,microwave
+label=oven_text=fork.jpg,label=oven_text=fork.jpg,RTA100,previous_IS,oven,fork,0.3062102198600769,0.23160654306411743,0.07460367679595947,True,False,microwave
+label=oven_text=hair dryer.jpg,label=oven_text=hair dryer.jpg,RTA100,previous_IS,oven,hair dryer,0.2734435200691223,0.2718953490257263,0.001548171043395996,True,False,toaster
+label=oven_text=marker.jpg,label=oven_text=marker.jpg,RTA100,previous_IS,oven,marker,0.27105414867401123,0.18646875023841858,0.08458539843559265,True,True,oven
+label=oven_text=mic.jpg,label=oven_text=mic.jpg,RTA100,previous_IS,oven,mic,0.26375430822372437,0.1908484697341919,0.07290583848953247,True,False,microwave
+label=oven_text=mouse.jpg,label=oven_text=mouse.jpg,RTA100,previous_IS,oven,mouse,0.2755507826805115,0.2259889543056488,0.04956182837486267,True,False,microwave
+label=oven_text=pot.jpg,label=oven_text=pot.jpg,RTA100,previous_IS,oven,pot,0.28137630224227905,0.2460140436887741,0.035362258553504944,True,False,microwave
+label=oven_text=speaker.jpg,label=oven_text=speaker.jpg,RTA100,previous_IS,oven,speaker,0.2730509042739868,0.24365206062793732,0.0293988436460495,True,False,microwave
+label=oven_text=toaster.jpg,label=oven_text=toaster.jpg,RTA100,previous_IS,oven,toaster,0.28970950841903687,0.28889206051826477,0.0008174479007720947,True,False,microwave
+label=oven_text=wallet.jpg,label=oven_text=wallet.jpg,RTA100,previous_IS,oven,wallet,0.2659691572189331,0.20891547203063965,0.05705368518829346,True,False,microwave
+label=pants_text=chair.jpg,label=pants_text=chair.jpg,RTA100,previous_IS,pants,chair,0.29604828357696533,0.24590983986854553,0.0501384437084198,True,True,pants
+label=pants_text=cup.jpg,label=pants_text=cup.jpg,RTA100,previous_IS,pants,cup,0.27640849351882935,0.18694695830345154,0.08946153521537781,True,True,pants
+label=pants_text=curtain.jpg,label=pants_text=curtain.jpg,RTA100,previous_IS,pants,curtain,0.29383617639541626,0.2345614731311798,0.05927470326423645,True,True,pants
+label=pants_text=iron.jpg,label=pants_text=iron.jpg,RTA100,previous_IS,pants,iron,0.27972206473350525,0.2215607762336731,0.05816128849983215,True,True,pants
+label=pants_text=pen case.jpg,label=pants_text=pen case.jpg,RTA100,previous_IS,pants,pen case,0.24873098731040955,0.1898908019065857,0.05884018540382385,True,True,pants
+label=pants_text=pot.jpg,label=pants_text=pot.jpg,RTA100,previous_IS,pants,pot,0.2741619348526001,0.21941471099853516,0.05474722385406494,True,True,pants
+label=pants_text=slipper.jpg,label=pants_text=slipper.jpg,RTA100,previous_IS,pants,slipper,0.2780928909778595,0.2309524416923523,0.0471404492855072,True,True,pants
+label=pants_text=t-shirt.jpg,label=pants_text=t-shirt.jpg,RTA100,previous_IS,pants,t-shirt,0.2851763963699341,0.24173614382743835,0.04344025254249573,True,True,pants
+label=pants_text=tissue.jpg,label=pants_text=tissue.jpg,RTA100,previous_IS,pants,tissue,0.2753603756427765,0.2211497724056244,0.0542106032371521,True,True,pants
+label=pants_text=tray.jpg,label=pants_text=tray.jpg,RTA100,previous_IS,pants,tray,0.2772555947303772,0.21341733634471893,0.06383825838565826,True,True,pants
+label=paper_text=bed.jpg,label=paper_text=bed.jpg,RTA100,previous_IS,paper,bed,0.2881733477115631,0.29496562480926514,-0.006792277097702026,False,False,tissue
+label=paper_text=earphones.jpg,label=paper_text=earphones.jpg,RTA100,previous_IS,paper,earphones,0.20789572596549988,0.22573375701904297,-0.01783803105354309,False,False,tissue
+label=paper_text=hat.jpg,label=paper_text=hat.jpg,RTA100,previous_IS,paper,hat,0.21662747859954834,0.21980583667755127,-0.0031783580780029297,False,False,spoon
+label=paper_text=iron.jpg,label=paper_text=iron.jpg,RTA100,previous_IS,paper,iron,0.29090940952301025,0.2859031856060028,0.005006223917007446,True,True,paper
+label=paper_text=keyboard.jpg,label=paper_text=keyboard.jpg,RTA100,previous_IS,paper,keyboard,0.25226908922195435,0.21782131493091583,0.03444777429103851,True,False,card
+label=paper_text=milk.jpg,label=paper_text=milk.jpg,RTA100,previous_IS,paper,milk,0.27746570110321045,0.2988322377204895,-0.021366536617279053,False,False,milk
+label=paper_text=oven.jpg,label=paper_text=oven.jpg,RTA100,previous_IS,paper,oven,0.27852436900138855,0.2536606192588806,0.024863749742507935,True,False,whiteboard
+label=paper_text=pants.jpg,label=paper_text=pants.jpg,RTA100,previous_IS,paper,pants,0.2568644881248474,0.2526506185531616,0.004213869571685791,True,False,card
+label=paper_text=speaker.jpg,label=paper_text=speaker.jpg,RTA100,previous_IS,paper,speaker,0.25640973448753357,0.21297945082187653,0.04343028366565704,True,False,card
+label=paper_text=toothbrush.jpg,label=paper_text=toothbrush.jpg,RTA100,previous_IS,paper,toothbrush,0.2447413206100464,0.2374776005744934,0.0072637200355529785,True,False,tissue
+label=peach_text=can.jpg,label=peach_text=can.jpg,RTA100,previous_IS,peach,can,0.31758496165275574,0.2650400698184967,0.05254489183425903,True,True,peach
+label=peach_text=controller.jpg,label=peach_text=controller.jpg,RTA100,previous_IS,peach,controller,0.2526284456253052,0.21945339441299438,0.03317505121231079,True,True,peach
+label=peach_text=eraser.jpg,label=peach_text=eraser.jpg,RTA100,previous_IS,peach,eraser,0.23468554019927979,0.1812857687473297,0.05339977145195007,True,False,apple
+label=peach_text=glove.jpg,label=peach_text=glove.jpg,RTA100,previous_IS,peach,glove,0.29261210560798645,0.24273601174354553,0.04987609386444092,True,False,mango
+label=peach_text=map.jpg,label=peach_text=map.jpg,RTA100,previous_IS,peach,map,0.28490033745765686,0.2219323217868805,0.06296801567077637,True,True,peach
+label=peach_text=mousepad.jpg,label=peach_text=mousepad.jpg,RTA100,previous_IS,peach,mousepad,0.2997692823410034,0.25561216473579407,0.04415711760520935,True,True,peach
+label=peach_text=plate.jpg,label=peach_text=plate.jpg,RTA100,previous_IS,peach,plate,0.27617669105529785,0.27849721908569336,-0.002320528030395508,False,False,plate
+label=peach_text=remote.jpg,label=peach_text=remote.jpg,RTA100,previous_IS,peach,remote,0.2881506085395813,0.23078134655952454,0.05736926198005676,True,True,peach
+label=peach_text=table.jpg,label=peach_text=table.jpg,RTA100,previous_IS,peach,table,0.3172280788421631,0.31521451473236084,0.002013564109802246,True,True,peach
+label=peach_text=toothbrush.jpg,label=peach_text=toothbrush.jpg,RTA100,previous_IS,peach,toothbrush,0.28645560145378113,0.2661246061325073,0.020330995321273804,True,True,peach
+label=pen case_text=airconditioner.jpg,label=pen case_text=airconditioner.jpg,RTA100,previous_IS,pen case,airconditioner,0.23364439606666565,0.194965198636055,0.03867919743061066,True,False,umbrella
+label=pen case_text=bookshelf.jpg,label=pen case_text=bookshelf.jpg,RTA100,previous_IS,pen case,bookshelf,0.26441287994384766,0.23325148224830627,0.031161397695541382,True,True,pen case
+label=pen case_text=eraser.jpg,label=pen case_text=eraser.jpg,RTA100,previous_IS,pen case,eraser,0.2528080940246582,0.25216349959373474,0.0006445944309234619,True,True,pen case
+label=pen case_text=flower.jpg,label=pen case_text=flower.jpg,RTA100,previous_IS,pen case,flower,0.2520313858985901,0.25984764099121094,-0.00781625509262085,False,False,ruler
+label=pen case_text=fork.jpg,label=pen case_text=fork.jpg,RTA100,previous_IS,pen case,fork,0.28161442279815674,0.276504784822464,0.005109637975692749,True,True,pen case
+label=pen case_text=frisbee.jpg,label=pen case_text=frisbee.jpg,RTA100,previous_IS,pen case,frisbee,0.263426274061203,0.1941598653793335,0.0692664086818695,True,True,pen case
+label=pen case_text=lemon.jpg,label=pen case_text=lemon.jpg,RTA100,previous_IS,pen case,lemon,0.2943209409713745,0.28323274850845337,0.011088192462921143,True,True,pen case
+label=pen case_text=microwave.jpg,label=pen case_text=microwave.jpg,RTA100,previous_IS,pen case,microwave,0.2641347646713257,0.23156031966209412,0.03257444500923157,True,True,pen case
+label=pen case_text=remote.jpg,label=pen case_text=remote.jpg,RTA100,previous_IS,pen case,remote,0.27867963910102844,0.2686070203781128,0.01007261872291565,True,True,pen case
+label=pen case_text=slipper.jpg,label=pen case_text=slipper.jpg,RTA100,previous_IS,pen case,slipper,0.24243034422397614,0.2536107003688812,-0.01118035614490509,False,False,slipper
+label=pen_text=bed.jpg,label=pen_text=bed.jpg,RTA100,previous_IS,pen,bed,0.2710493803024292,0.2820061445236206,-0.010956764221191406,False,False,bed
+label=pen_text=camera.jpg,label=pen_text=camera.jpg,RTA100,previous_IS,pen,camera,0.21759945154190063,0.2140941321849823,0.003505319356918335,True,False,whiteboard
+label=pen_text=can.jpg,label=pen_text=can.jpg,RTA100,previous_IS,pen,can,0.29667672514915466,0.27022984623908997,0.026446878910064697,True,True,pen
+label=pen_text=drill.jpg,label=pen_text=drill.jpg,RTA100,previous_IS,pen,drill,0.26354479789733887,0.26007989048957825,0.00346490740776062,True,True,pen
+label=pen_text=hair dryer.jpg,label=pen_text=hair dryer.jpg,RTA100,previous_IS,pen,hair dryer,0.2590360641479492,0.2544935345649719,0.004542529582977295,True,True,pen
+label=pen_text=pants.jpg,label=pen_text=pants.jpg,RTA100,previous_IS,pen,pants,0.260688841342926,0.2654856741428375,-0.004796832799911499,False,False,pants
+label=pen_text=racquet.jpg,label=pen_text=racquet.jpg,RTA100,previous_IS,pen,racquet,0.3083554208278656,0.26521432399749756,0.04314109683036804,True,True,pen
+label=pen_text=scissors.jpg,label=pen_text=scissors.jpg,RTA100,previous_IS,pen,scissors,0.2838219404220581,0.26436394453048706,0.019457995891571045,True,True,pen
+label=pen_text=spoon.jpg,label=pen_text=spoon.jpg,RTA100,previous_IS,pen,spoon,0.2694331407546997,0.27361416816711426,-0.004181027412414551,False,False,spoon
+label=pen_text=towel.jpg,label=pen_text=towel.jpg,RTA100,previous_IS,pen,towel,0.28541505336761475,0.26970693469047546,0.015708118677139282,True,False,pen case
+label=pillow_text=frisbee.jpg,label=pillow_text=frisbee.jpg,RTA100,previous_IS,pillow,frisbee,0.2684786915779114,0.18658152222633362,0.08189716935157776,True,True,pillow
+label=pillow_text=iron.jpg,label=pillow_text=iron.jpg,RTA100,previous_IS,pillow,iron,0.3073417544364929,0.2833516001701355,0.023990154266357422,True,True,pillow
+label=pillow_text=laptop.jpg,label=pillow_text=laptop.jpg,RTA100,previous_IS,pillow,laptop,0.29429590702056885,0.20906125009059906,0.08523465692996979,True,True,pillow
+label=pillow_text=microwave.jpg,label=pillow_text=microwave.jpg,RTA100,previous_IS,pillow,microwave,0.2689027190208435,0.1849501132965088,0.08395260572433472,True,True,pillow
+label=pillow_text=monitor.jpg,label=pillow_text=monitor.jpg,RTA100,previous_IS,pillow,monitor,0.25380653142929077,0.2126481831073761,0.04115834832191467,True,False,slipper
+label=pillow_text=oven.jpg,label=pillow_text=oven.jpg,RTA100,previous_IS,pillow,oven,0.30524563789367676,0.21668724715709686,0.0885583907365799,True,True,pillow
+label=pillow_text=pants.jpg,label=pillow_text=pants.jpg,RTA100,previous_IS,pillow,pants,0.2732260525226593,0.23736748099327087,0.03585857152938843,True,False,mousepad
+label=pillow_text=spoon.jpg,label=pillow_text=spoon.jpg,RTA100,previous_IS,pillow,spoon,0.2409086674451828,0.1505424976348877,0.0903661698102951,True,True,pillow
+label=pillow_text=tie.jpg,label=pillow_text=tie.jpg,RTA100,previous_IS,pillow,tie,0.281666100025177,0.24113333225250244,0.04053276777267456,True,True,pillow
+label=pillow_text=toothbrush.jpg,label=pillow_text=toothbrush.jpg,RTA100,previous_IS,pillow,toothbrush,0.2701849639415741,0.2721542716026306,-0.0019693076610565186,False,False,towel
+label=plate_text=bottle.jpg,label=plate_text=bottle.jpg,RTA100,previous_IS,plate,bottle,0.27684468030929565,0.30119457840919495,-0.024349898099899292,False,False,bottle
+label=plate_text=cookie.jpg,label=plate_text=cookie.jpg,RTA100,previous_IS,plate,cookie,0.2800404727458954,0.23196829855442047,0.048072174191474915,True,True,plate
+label=plate_text=fork.jpg,label=plate_text=fork.jpg,RTA100,previous_IS,plate,fork,0.29505056142807007,0.28540411591529846,0.009646445512771606,True,True,plate
+label=plate_text=glasses.jpg,label=plate_text=glasses.jpg,RTA100,previous_IS,plate,glasses,0.2764216661453247,0.2711743116378784,0.005247354507446289,True,True,plate
+label=plate_text=light bulb.jpg,label=plate_text=light bulb.jpg,RTA100,previous_IS,plate,light bulb,0.2885088622570038,0.279786080121994,0.008722782135009766,True,False,frisbee
+label=plate_text=melon.jpg,label=plate_text=melon.jpg,RTA100,previous_IS,plate,melon,0.29896143078804016,0.2583044767379761,0.04065695405006409,True,True,plate
+label=plate_text=microwave.jpg,label=plate_text=microwave.jpg,RTA100,previous_IS,plate,microwave,0.2740861177444458,0.22901007533073425,0.04507604241371155,True,False,mousepad
+label=plate_text=paper.jpg,label=plate_text=paper.jpg,RTA100,previous_IS,plate,paper,0.28251659870147705,0.25929853320121765,0.0232180655002594,True,True,plate
+label=plate_text=slipper.jpg,label=plate_text=slipper.jpg,RTA100,previous_IS,plate,slipper,0.2805779278278351,0.26052767038345337,0.020050257444381714,True,False,mousepad
+label=plate_text=toaster.jpg,label=plate_text=toaster.jpg,RTA100,previous_IS,plate,toaster,0.27824926376342773,0.25301456451416016,0.025234699249267578,True,True,plate
+label=pot_text=ball.jpg,label=pot_text=ball.jpg,RTA100,previous_IS,pot,ball,0.28891706466674805,0.22941181063652039,0.05950525403022766,True,False,mug
+label=pot_text=bookshelf.jpg,label=pot_text=bookshelf.jpg,RTA100,previous_IS,pot,bookshelf,0.2642503082752228,0.23869001865386963,0.02556028962135315,True,False,hair dryer
+label=pot_text=dog.jpg,label=pot_text=dog.jpg,RTA100,previous_IS,pot,dog,0.27108219265937805,0.2528706192970276,0.018211573362350464,True,False,mug
+label=pot_text=iPad.jpg,label=pot_text=iPad.jpg,RTA100,previous_IS,pot,iPad,0.28132373094558716,0.2608641982078552,0.020459532737731934,True,False,mug
+label=pot_text=marker.jpg,label=pot_text=marker.jpg,RTA100,previous_IS,pot,marker,0.22917893528938293,0.26325783133506775,-0.034078896045684814,False,False,marker
+label=pot_text=plate.jpg,label=pot_text=plate.jpg,RTA100,previous_IS,pot,plate,0.24399885535240173,0.2658567726612091,-0.021857917308807373,False,False,toaster
+label=pot_text=remote.jpg,label=pot_text=remote.jpg,RTA100,previous_IS,pot,remote,0.2529628276824951,0.26142385601997375,-0.008461028337478638,False,False,key
+label=pot_text=sofa.jpg,label=pot_text=sofa.jpg,RTA100,previous_IS,pot,sofa,0.23210716247558594,0.17380106449127197,0.058306097984313965,True,False,vacuum cleaner
+label=pot_text=t-shirt.jpg,label=pot_text=t-shirt.jpg,RTA100,previous_IS,pot,t-shirt,0.24462127685546875,0.19404974579811096,0.05057153105735779,True,False,adapter
+label=pot_text=watch.jpg,label=pot_text=watch.jpg,RTA100,previous_IS,pot,watch,0.2600186765193939,0.263577401638031,-0.003558725118637085,False,False,mug
+label=racquet_text=DVD.jpg,label=racquet_text=DVD.jpg,RTA100,previous_IS,racquet,DVD,0.2741966247558594,0.17053742706775665,0.10365919768810272,True,True,racquet
+label=racquet_text=bowl.jpg,label=racquet_text=bowl.jpg,RTA100,previous_IS,racquet,bowl,0.32991644740104675,0.23170189559459686,0.09821455180644989,True,True,racquet
+label=racquet_text=camera.jpg,label=racquet_text=camera.jpg,RTA100,previous_IS,racquet,camera,0.30602386593818665,0.24154552817344666,0.06447833776473999,True,True,racquet
+label=racquet_text=controller.jpg,label=racquet_text=controller.jpg,RTA100,previous_IS,racquet,controller,0.29840633273124695,0.2227793037891388,0.07562702894210815,True,True,racquet
+label=racquet_text=cookie.jpg,label=racquet_text=cookie.jpg,RTA100,previous_IS,racquet,cookie,0.311717689037323,0.2685506343841553,0.043167054653167725,True,True,racquet
+label=racquet_text=flower.jpg,label=racquet_text=flower.jpg,RTA100,previous_IS,racquet,flower,0.287528395652771,0.21687108278274536,0.07065731287002563,True,True,racquet
+label=racquet_text=mask.jpg,label=racquet_text=mask.jpg,RTA100,previous_IS,racquet,mask,0.3134722113609314,0.2875009775161743,0.02597123384475708,True,True,racquet
+label=racquet_text=mug.jpg,label=racquet_text=mug.jpg,RTA100,previous_IS,racquet,mug,0.26754575967788696,0.1428229808807373,0.12472277879714966,True,True,racquet
+label=racquet_text=tie.jpg,label=racquet_text=tie.jpg,RTA100,previous_IS,racquet,tie,0.31200847029685974,0.24015098810195923,0.07185748219490051,True,True,racquet
+label=racquet_text=vacuum cleaner.jpg,label=racquet_text=vacuum cleaner.jpg,RTA100,previous_IS,racquet,vacuum cleaner,0.30027085542678833,0.2135554850101471,0.08671537041664124,True,True,racquet
+label=remote_text=apple.jpg,label=remote_text=apple.jpg,RTA100,previous_IS,remote,apple,0.252593994140625,0.2802526652812958,-0.027658671140670776,False,False,apple
+label=remote_text=drill.jpg,label=remote_text=drill.jpg,RTA100,previous_IS,remote,drill,0.2598720192909241,0.20591463148593903,0.053957387804985046,True,True,remote
+label=remote_text=egg.jpg,label=remote_text=egg.jpg,RTA100,previous_IS,remote,egg,0.2770751416683197,0.26631104946136475,0.010764092206954956,True,True,remote
+label=remote_text=fork.jpg,label=remote_text=fork.jpg,RTA100,previous_IS,remote,fork,0.3184718191623688,0.29364877939224243,0.024823039770126343,True,True,remote
+label=remote_text=key.jpg,label=remote_text=key.jpg,RTA100,previous_IS,remote,key,0.2801067531108856,0.2691155672073364,0.010991185903549194,True,True,remote
+label=remote_text=pen.jpg,label=remote_text=pen.jpg,RTA100,previous_IS,remote,pen,0.2917366623878479,0.29582479596138,-0.0040881335735321045,False,False,pen case
+label=remote_text=scissors.jpg,label=remote_text=scissors.jpg,RTA100,previous_IS,remote,scissors,0.2952362895011902,0.21199458837509155,0.08324170112609863,True,True,remote
+label=remote_text=sofa.jpg,label=remote_text=sofa.jpg,RTA100,previous_IS,remote,sofa,0.2965976595878601,0.22405433654785156,0.07254332304000854,True,True,remote
+label=remote_text=towel.jpg,label=remote_text=towel.jpg,RTA100,previous_IS,remote,towel,0.31927230954170227,0.25551536679267883,0.06375694274902344,True,True,remote
+label=remote_text=umbrella.jpg,label=remote_text=umbrella.jpg,RTA100,previous_IS,remote,umbrella,0.25857236981391907,0.21102963387966156,0.04754273593425751,True,True,remote
+label=ruler_text=basket.jpg,label=ruler_text=basket.jpg,RTA100,previous_IS,ruler,basket,0.25528186559677124,0.24154114723205566,0.013740718364715576,True,False,guitar
+label=ruler_text=book.jpg,label=ruler_text=book.jpg,RTA100,previous_IS,ruler,book,0.2279062569141388,0.27360063791275024,-0.04569438099861145,False,False,book
+label=ruler_text=dish.jpg,label=ruler_text=dish.jpg,RTA100,previous_IS,ruler,dish,0.23813270032405853,0.19744011759757996,0.04069258272647858,True,True,ruler
+label=ruler_text=drill.jpg,label=ruler_text=drill.jpg,RTA100,previous_IS,ruler,drill,0.25874805450439453,0.21372902393341064,0.04501903057098389,True,True,ruler
+label=ruler_text=glove.jpg,label=ruler_text=glove.jpg,RTA100,previous_IS,ruler,glove,0.271462619304657,0.21967260539531708,0.051790013909339905,True,False,table
+label=ruler_text=marker.jpg,label=ruler_text=marker.jpg,RTA100,previous_IS,ruler,marker,0.2898139953613281,0.257036030292511,0.03277796506881714,True,True,ruler
+label=ruler_text=pillow.jpg,label=ruler_text=pillow.jpg,RTA100,previous_IS,ruler,pillow,0.26172924041748047,0.2396484911441803,0.02208074927330017,True,True,ruler
+label=ruler_text=remote.jpg,label=ruler_text=remote.jpg,RTA100,previous_IS,ruler,remote,0.2539045512676239,0.24764662981033325,0.006257921457290649,True,True,ruler
+label=ruler_text=thermometer.jpg,label=ruler_text=thermometer.jpg,RTA100,previous_IS,ruler,thermometer,0.2595145106315613,0.22244027256965637,0.03707423806190491,True,True,ruler
+label=ruler_text=tray.jpg,label=ruler_text=tray.jpg,RTA100,previous_IS,ruler,tray,0.27499037981033325,0.22725063562393188,0.04773974418640137,True,False,guitar
+label=scissors_text=bag.jpg,label=scissors_text=bag.jpg,RTA100,previous_IS,scissors,bag,0.2902088463306427,0.25857263803482056,0.031636208295822144,True,True,scissors
+label=scissors_text=cup.jpg,label=scissors_text=cup.jpg,RTA100,previous_IS,scissors,cup,0.3190440535545349,0.26523828506469727,0.053805768489837646,True,True,scissors
+label=scissors_text=drill.jpg,label=scissors_text=drill.jpg,RTA100,previous_IS,scissors,drill,0.3083204925060272,0.23424552381038666,0.07407496869564056,True,True,scissors
+label=scissors_text=eraser.jpg,label=scissors_text=eraser.jpg,RTA100,previous_IS,scissors,eraser,0.2726282775402069,0.21928709745407104,0.053341180086135864,True,True,scissors
+label=scissors_text=headphone.jpg,label=scissors_text=headphone.jpg,RTA100,previous_IS,scissors,headphone,0.2538042664527893,0.25494223833084106,-0.0011379718780517578,False,False,iPhone
+label=scissors_text=map.jpg,label=scissors_text=map.jpg,RTA100,previous_IS,scissors,map,0.30211561918258667,0.27821654081344604,0.023899078369140625,True,True,scissors
+label=scissors_text=pen case.jpg,label=scissors_text=pen case.jpg,RTA100,previous_IS,scissors,pen case,0.27693766355514526,0.28135210275650024,-0.0044144392013549805,False,False,pen case
+label=scissors_text=pot.jpg,label=scissors_text=pot.jpg,RTA100,previous_IS,scissors,pot,0.27324235439300537,0.2370494306087494,0.03619292378425598,True,True,scissors
+label=scissors_text=towel.jpg,label=scissors_text=towel.jpg,RTA100,previous_IS,scissors,towel,0.328266441822052,0.2584841549396515,0.06978228688240051,True,True,scissors
+label=scissors_text=umbrella.jpg,label=scissors_text=umbrella.jpg,RTA100,previous_IS,scissors,umbrella,0.2577509582042694,0.19086122512817383,0.06688973307609558,True,True,scissors
+label=shoes_text=egg.jpg,label=shoes_text=egg.jpg,RTA100,previous_IS,shoes,egg,0.2638435363769531,0.19269959628582,0.07114394009113312,True,True,shoes
+label=shoes_text=fridge.jpg,label=shoes_text=fridge.jpg,RTA100,previous_IS,shoes,fridge,0.23579134047031403,0.19659113883972168,0.039200201630592346,True,True,shoes
+label=shoes_text=jacket.jpg,label=shoes_text=jacket.jpg,RTA100,previous_IS,shoes,jacket,0.2600012421607971,0.20349396765232086,0.05650727450847626,True,True,shoes
+label=shoes_text=lemon.jpg,label=shoes_text=lemon.jpg,RTA100,previous_IS,shoes,lemon,0.29144585132598877,0.21421535313129425,0.07723049819469452,True,True,shoes
+label=shoes_text=marker.jpg,label=shoes_text=marker.jpg,RTA100,previous_IS,shoes,marker,0.231865793466568,0.2047235071659088,0.02714228630065918,True,False,iron
+label=shoes_text=mirror.jpg,label=shoes_text=mirror.jpg,RTA100,previous_IS,shoes,mirror,0.2843332290649414,0.2905339002609253,-0.006200671195983887,False,False,mirror
+label=shoes_text=remote.jpg,label=shoes_text=remote.jpg,RTA100,previous_IS,shoes,remote,0.24757952988147736,0.18158209323883057,0.06599743664264679,True,True,shoes
+label=shoes_text=spoon.jpg,label=shoes_text=spoon.jpg,RTA100,previous_IS,shoes,spoon,0.2607768774032593,0.20910689234733582,0.05166998505592346,True,True,shoes
+label=shoes_text=table.jpg,label=shoes_text=table.jpg,RTA100,previous_IS,shoes,table,0.2925146222114563,0.3163585960865021,-0.023843973875045776,False,False,table
+label=shoes_text=tissue.jpg,label=shoes_text=tissue.jpg,RTA100,previous_IS,shoes,tissue,0.2450372576713562,0.17852196097373962,0.06651529669761658,True,True,shoes
+label=slipper_text=bag.jpg,label=slipper_text=bag.jpg,RTA100,previous_IS,slipper,bag,0.3013155460357666,0.2689563035964966,0.03235924243927002,True,True,slipper
+label=slipper_text=bowl.jpg,label=slipper_text=bowl.jpg,RTA100,previous_IS,slipper,bowl,0.3138957917690277,0.28526315093040466,0.028632640838623047,True,True,slipper
+label=slipper_text=card.jpg,label=slipper_text=card.jpg,RTA100,previous_IS,slipper,card,0.22966018319129944,0.25563570857048035,-0.025975525379180908,False,False,card
+label=slipper_text=hand.jpg,label=slipper_text=hand.jpg,RTA100,previous_IS,slipper,hand,0.2547263503074646,0.1729482114315033,0.0817781388759613,True,True,slipper
+label=slipper_text=iPad.jpg,label=slipper_text=iPad.jpg,RTA100,previous_IS,slipper,iPad,0.2919418215751648,0.28311386704444885,0.008827954530715942,True,True,slipper
+label=slipper_text=iPhone.jpg,label=slipper_text=iPhone.jpg,RTA100,previous_IS,slipper,iPhone,0.2663041949272156,0.24343186616897583,0.022872328758239746,True,True,slipper
+label=slipper_text=marker.jpg,label=slipper_text=marker.jpg,RTA100,previous_IS,slipper,marker,0.24223197996616364,0.1507824957370758,0.09144948422908783,True,True,slipper
+label=slipper_text=melon.jpg,label=slipper_text=melon.jpg,RTA100,previous_IS,slipper,melon,0.2743872404098511,0.22963061928749084,0.04475662112236023,True,True,slipper
+label=slipper_text=pants.jpg,label=slipper_text=pants.jpg,RTA100,previous_IS,slipper,pants,0.26227977871894836,0.2426750659942627,0.01960471272468567,True,True,slipper
+label=slipper_text=ruler.jpg,label=slipper_text=ruler.jpg,RTA100,previous_IS,slipper,ruler,0.2754107713699341,0.18432103097438812,0.09108974039554596,True,True,slipper
+label=socks_text=ball.jpg,label=socks_text=ball.jpg,RTA100,previous_IS,socks,ball,0.2651950418949127,0.25720980763435364,0.007985234260559082,True,False,glove
+label=socks_text=bottle.jpg,label=socks_text=bottle.jpg,RTA100,previous_IS,socks,bottle,0.30426907539367676,0.25447118282318115,0.049797892570495605,True,True,socks
+label=socks_text=dog.jpg,label=socks_text=dog.jpg,RTA100,previous_IS,socks,dog,0.27762752771377563,0.23228028416633606,0.045347243547439575,True,True,socks
+label=socks_text=doll.jpg,label=socks_text=doll.jpg,RTA100,previous_IS,socks,doll,0.2685031294822693,0.2073003649711609,0.0612027645111084,True,True,socks
+label=socks_text=guitar.jpg,label=socks_text=guitar.jpg,RTA100,previous_IS,socks,guitar,0.2987021505832672,0.18190599977970123,0.11679615080356598,True,True,socks
+label=socks_text=laptop.jpg,label=socks_text=laptop.jpg,RTA100,previous_IS,socks,laptop,0.31411486864089966,0.2831917703151703,0.03092309832572937,True,True,socks
+label=socks_text=mouse.jpg,label=socks_text=mouse.jpg,RTA100,previous_IS,socks,mouse,0.2888033092021942,0.2689581513404846,0.019845157861709595,True,True,socks
+label=socks_text=mug.jpg,label=socks_text=mug.jpg,RTA100,previous_IS,socks,mug,0.2626703977584839,0.2067224681377411,0.0559479296207428,True,True,socks
+label=socks_text=pants.jpg,label=socks_text=pants.jpg,RTA100,previous_IS,socks,pants,0.2698034346103668,0.25627344846725464,0.013529986143112183,True,True,socks
+label=socks_text=pillow.jpg,label=socks_text=pillow.jpg,RTA100,previous_IS,socks,pillow,0.2277856320142746,0.18373794853687286,0.04404768347740173,True,True,socks
+label=sofa_text=airconditioner.jpg,label=sofa_text=airconditioner.jpg,RTA100,previous_IS,sofa,airconditioner,0.30676060914993286,0.21432745456695557,0.0924331545829773,True,True,sofa
+label=sofa_text=ball.jpg,label=sofa_text=ball.jpg,RTA100,previous_IS,sofa,ball,0.31576770544052124,0.23819489777088165,0.07757280766963959,True,True,sofa
+label=sofa_text=curtain.jpg,label=sofa_text=curtain.jpg,RTA100,previous_IS,sofa,curtain,0.3175993859767914,0.2507266700267792,0.06687271595001221,True,True,sofa
+label=sofa_text=eraser.jpg,label=sofa_text=eraser.jpg,RTA100,previous_IS,sofa,eraser,0.31265491247177124,0.2219066619873047,0.09074825048446655,True,True,sofa
+label=sofa_text=frisbee.jpg,label=sofa_text=frisbee.jpg,RTA100,previous_IS,sofa,frisbee,0.3187730312347412,0.2102172076702118,0.10855582356452942,True,True,sofa
+label=sofa_text=key.jpg,label=sofa_text=key.jpg,RTA100,previous_IS,sofa,key,0.26758891344070435,0.207052081823349,0.06053683161735535,True,True,sofa
+label=sofa_text=mug.jpg,label=sofa_text=mug.jpg,RTA100,previous_IS,sofa,mug,0.310685932636261,0.21302253007888794,0.09766340255737305,True,True,sofa
+label=sofa_text=oven.jpg,label=sofa_text=oven.jpg,RTA100,previous_IS,sofa,oven,0.3131408393383026,0.22025272250175476,0.09288811683654785,True,True,sofa
+label=sofa_text=paper.jpg,label=sofa_text=paper.jpg,RTA100,previous_IS,sofa,paper,0.3256763219833374,0.2592306435108185,0.06644567847251892,True,True,sofa
+label=sofa_text=watch.jpg,label=sofa_text=watch.jpg,RTA100,previous_IS,sofa,watch,0.3037090301513672,0.2185739427804947,0.0851350873708725,True,True,sofa
+label=speaker_text=book.jpg,label=speaker_text=book.jpg,RTA100,previous_IS,speaker,book,0.2908742427825928,0.26866158843040466,0.02221265435218811,True,True,speaker
+label=speaker_text=card.jpg,label=speaker_text=card.jpg,RTA100,previous_IS,speaker,card,0.22594891488552094,0.28257691860198975,-0.05662800371646881,False,False,card
+label=speaker_text=fridge.jpg,label=speaker_text=fridge.jpg,RTA100,previous_IS,speaker,fridge,0.27767375111579895,0.23712265491485596,0.04055109620094299,True,True,speaker
+label=speaker_text=hair dryer.jpg,label=speaker_text=hair dryer.jpg,RTA100,previous_IS,speaker,hair dryer,0.28108230233192444,0.27486154437065125,0.006220757961273193,True,False,toaster
+label=speaker_text=light bulb.jpg,label=speaker_text=light bulb.jpg,RTA100,previous_IS,speaker,light bulb,0.2882695198059082,0.22552743554115295,0.06274208426475525,True,True,speaker
+label=speaker_text=mask.jpg,label=speaker_text=mask.jpg,RTA100,previous_IS,speaker,mask,0.2605777382850647,0.2688162922859192,-0.008238554000854492,False,False,mask
+label=speaker_text=mousepad.jpg,label=speaker_text=mousepad.jpg,RTA100,previous_IS,speaker,mousepad,0.30746352672576904,0.22291235625743866,0.08455117046833038,True,True,speaker
+label=speaker_text=notebook.jpg,label=speaker_text=notebook.jpg,RTA100,previous_IS,speaker,notebook,0.25492724776268005,0.3121922016143799,-0.05726495385169983,False,False,notebook
+label=speaker_text=tissue.jpg,label=speaker_text=tissue.jpg,RTA100,previous_IS,speaker,tissue,0.2289731800556183,0.19622644782066345,0.032746732234954834,True,False,microwave
+label=speaker_text=whiteboard.jpg,label=speaker_text=whiteboard.jpg,RTA100,previous_IS,speaker,whiteboard,0.2973540425300598,0.25078853964805603,0.046565502882003784,True,True,speaker
+label=spoon_text=bookshelf.jpg,label=spoon_text=bookshelf.jpg,RTA100,previous_IS,spoon,bookshelf,0.2708585858345032,0.2508370876312256,0.020021498203277588,True,True,spoon
+label=spoon_text=cookie.jpg,label=spoon_text=cookie.jpg,RTA100,previous_IS,spoon,cookie,0.27365943789482117,0.27331581711769104,0.00034362077713012695,True,True,spoon
+label=spoon_text=dish.jpg,label=spoon_text=dish.jpg,RTA100,previous_IS,spoon,dish,0.23208141326904297,0.22107745707035065,0.011003956198692322,True,True,spoon
+label=spoon_text=dog.jpg,label=spoon_text=dog.jpg,RTA100,previous_IS,spoon,dog,0.2846713960170746,0.2279636263847351,0.05670776963233948,True,True,spoon
+label=spoon_text=eraser.jpg,label=spoon_text=eraser.jpg,RTA100,previous_IS,spoon,eraser,0.24488095939159393,0.18185168504714966,0.06302927434444427,True,True,spoon
+label=spoon_text=floor.jpg,label=spoon_text=floor.jpg,RTA100,previous_IS,spoon,floor,0.2970714867115021,0.2798386216163635,0.01723286509513855,True,True,spoon
+label=spoon_text=mango.jpg,label=spoon_text=mango.jpg,RTA100,previous_IS,spoon,mango,0.2926144301891327,0.219795823097229,0.07281860709190369,True,True,spoon
+label=spoon_text=microwave.jpg,label=spoon_text=microwave.jpg,RTA100,previous_IS,spoon,microwave,0.26788854598999023,0.23249095678329468,0.03539758920669556,True,True,spoon
+label=spoon_text=pen.jpg,label=spoon_text=pen.jpg,RTA100,previous_IS,spoon,pen,0.2960350811481476,0.29970425367355347,-0.003669172525405884,False,False,pen
+label=spoon_text=t-shirt.jpg,label=spoon_text=t-shirt.jpg,RTA100,previous_IS,spoon,t-shirt,0.26128774881362915,0.26618075370788574,-0.004893004894256592,False,False,t-shirt
+label=suitcase_text=book.jpg,label=suitcase_text=book.jpg,RTA100,previous_IS,suitcase,book,0.2908249497413635,0.19220711290836334,0.09861783683300018,True,True,suitcase
+label=suitcase_text=cookie.jpg,label=suitcase_text=cookie.jpg,RTA100,previous_IS,suitcase,cookie,0.3034359812736511,0.19228346645832062,0.1111525148153305,True,True,suitcase
+label=suitcase_text=earphones.jpg,label=suitcase_text=earphones.jpg,RTA100,previous_IS,suitcase,earphones,0.297637015581131,0.15101727843284607,0.1466197371482849,True,True,suitcase
+label=suitcase_text=frisbee.jpg,label=suitcase_text=frisbee.jpg,RTA100,previous_IS,suitcase,frisbee,0.30157607793807983,0.18302582204341888,0.11855025589466095,True,True,suitcase
+label=suitcase_text=jacket.jpg,label=suitcase_text=jacket.jpg,RTA100,previous_IS,suitcase,jacket,0.3273666501045227,0.2394077181816101,0.0879589319229126,True,True,suitcase
+label=suitcase_text=mask.jpg,label=suitcase_text=mask.jpg,RTA100,previous_IS,suitcase,mask,0.3084253668785095,0.25327828526496887,0.05514708161354065,True,True,suitcase
+label=suitcase_text=mug.jpg,label=suitcase_text=mug.jpg,RTA100,previous_IS,suitcase,mug,0.29538246989250183,0.19170862436294556,0.10367384552955627,True,True,suitcase
+label=suitcase_text=pants.jpg,label=suitcase_text=pants.jpg,RTA100,previous_IS,suitcase,pants,0.2797448933124542,0.19292514026165009,0.08681975305080414,True,True,suitcase
+label=suitcase_text=remote.jpg,label=suitcase_text=remote.jpg,RTA100,previous_IS,suitcase,remote,0.3039604127407074,0.20466697216033936,0.09929344058036804,True,True,suitcase
+label=suitcase_text=shoes.jpg,label=suitcase_text=shoes.jpg,RTA100,previous_IS,suitcase,shoes,0.306177020072937,0.21989238262176514,0.08628463745117188,True,True,suitcase
+label=t-shirt_text=adapter.jpg,label=t-shirt_text=adapter.jpg,RTA100,previous_IS,t-shirt,adapter,0.2696797251701355,0.1968287229537964,0.07285100221633911,True,True,t-shirt
+label=t-shirt_text=airconditioner.jpg,label=t-shirt_text=airconditioner.jpg,RTA100,previous_IS,t-shirt,airconditioner,0.24330037832260132,0.1727621853351593,0.07053819298744202,True,True,t-shirt
+label=t-shirt_text=bed.jpg,label=t-shirt_text=bed.jpg,RTA100,previous_IS,t-shirt,bed,0.2647462487220764,0.21438777446746826,0.050358474254608154,True,True,t-shirt
+label=t-shirt_text=controller.jpg,label=t-shirt_text=controller.jpg,RTA100,previous_IS,t-shirt,controller,0.24722088873386383,0.17753151059150696,0.06968937814235687,True,True,t-shirt
+label=t-shirt_text=mic.jpg,label=t-shirt_text=mic.jpg,RTA100,previous_IS,t-shirt,mic,0.2324090301990509,0.1947840452194214,0.03762498497962952,True,True,t-shirt
+label=t-shirt_text=pillow.jpg,label=t-shirt_text=pillow.jpg,RTA100,previous_IS,t-shirt,pillow,0.25747257471084595,0.19605547189712524,0.0614171028137207,True,True,t-shirt
+label=t-shirt_text=socks.jpg,label=t-shirt_text=socks.jpg,RTA100,previous_IS,t-shirt,socks,0.2711751163005829,0.21876204013824463,0.05241307616233826,True,True,t-shirt
+label=t-shirt_text=tie.jpg,label=t-shirt_text=tie.jpg,RTA100,previous_IS,t-shirt,tie,0.2641911804676056,0.21040324866771698,0.05378793179988861,True,True,t-shirt
+label=t-shirt_text=trash box.jpg,label=t-shirt_text=trash box.jpg,RTA100,previous_IS,t-shirt,trash box,0.25607120990753174,0.18195754289627075,0.07411366701126099,True,True,t-shirt
+label=t-shirt_text=watch.jpg,label=t-shirt_text=watch.jpg,RTA100,previous_IS,t-shirt,watch,0.2638334333896637,0.16249307990074158,0.10134035348892212,True,True,t-shirt
+label=table_text=chair.jpg,label=table_text=chair.jpg,RTA100,previous_IS,table,chair,0.26617762446403503,0.297208696603775,-0.03103107213973999,False,False,chair
+label=table_text=curtain.jpg,label=table_text=curtain.jpg,RTA100,previous_IS,table,curtain,0.29785633087158203,0.22072573006153107,0.07713060081005096,True,True,table
+label=table_text=mouse.jpg,label=table_text=mouse.jpg,RTA100,previous_IS,table,mouse,0.2751304507255554,0.19668197631835938,0.07844847440719604,True,True,table
+label=table_text=onion.jpg,label=table_text=onion.jpg,RTA100,previous_IS,table,onion,0.3154039978981018,0.27786770462989807,0.037536293268203735,True,True,table
+label=table_text=pot.jpg,label=table_text=pot.jpg,RTA100,previous_IS,table,pot,0.29314446449279785,0.1946910321712494,0.09845343232154846,True,True,table
+label=table_text=ruler.jpg,label=table_text=ruler.jpg,RTA100,previous_IS,table,ruler,0.29717913269996643,0.234517902135849,0.06266123056411743,True,True,table
+label=table_text=slipper.jpg,label=table_text=slipper.jpg,RTA100,previous_IS,table,slipper,0.29102587699890137,0.2025858461856842,0.08844003081321716,True,True,table
+label=table_text=tie.jpg,label=table_text=tie.jpg,RTA100,previous_IS,table,tie,0.29101404547691345,0.22503459453582764,0.06597945094108582,True,True,table
+label=table_text=tissue.jpg,label=table_text=tissue.jpg,RTA100,previous_IS,table,tissue,0.28024759888648987,0.23219940066337585,0.048048198223114014,True,True,table
+label=table_text=umbrella.jpg,label=table_text=umbrella.jpg,RTA100,previous_IS,table,umbrella,0.2716802656650543,0.24856966733932495,0.02311059832572937,True,False,chair
+label=thermometer_text=card.jpg,label=thermometer_text=card.jpg,RTA100,previous_IS,thermometer,card,0.29719215631484985,0.2558082342147827,0.04138392210006714,True,True,thermometer
+label=thermometer_text=eraser.jpg,label=thermometer_text=eraser.jpg,RTA100,previous_IS,thermometer,eraser,0.23906366527080536,0.23167873919010162,0.007384926080703735,True,True,thermometer
+label=thermometer_text=frisbee.jpg,label=thermometer_text=frisbee.jpg,RTA100,previous_IS,thermometer,frisbee,0.2019878625869751,0.1634521335363388,0.03853572905063629,True,False,vacuum cleaner
+label=thermometer_text=monitor.jpg,label=thermometer_text=monitor.jpg,RTA100,previous_IS,thermometer,monitor,0.2704519033432007,0.19288311898708344,0.07756878435611725,True,True,thermometer
+label=thermometer_text=pillow.jpg,label=thermometer_text=pillow.jpg,RTA100,previous_IS,thermometer,pillow,0.2388802170753479,0.25906670093536377,-0.02018648386001587,False,False,iron
+label=thermometer_text=scissors.jpg,label=thermometer_text=scissors.jpg,RTA100,previous_IS,thermometer,scissors,0.2963073253631592,0.255348801612854,0.040958523750305176,True,True,thermometer
+label=thermometer_text=slipper.jpg,label=thermometer_text=slipper.jpg,RTA100,previous_IS,thermometer,slipper,0.2318868637084961,0.2513180077075958,-0.01943114399909973,False,False,scissors
+label=thermometer_text=speaker.jpg,label=thermometer_text=speaker.jpg,RTA100,previous_IS,thermometer,speaker,0.30047494173049927,0.2637141942977905,0.03676074743270874,True,True,thermometer
+label=thermometer_text=spoon.jpg,label=thermometer_text=spoon.jpg,RTA100,previous_IS,thermometer,spoon,0.22641444206237793,0.25568994879722595,-0.029275506734848022,False,False,chopsticks
+label=thermometer_text=vacuum cleaner.jpg,label=thermometer_text=vacuum cleaner.jpg,RTA100,previous_IS,thermometer,vacuum cleaner,0.2132248878479004,0.23414252698421478,-0.020917639136314392,False,False,vacuum cleaner
+label=tie_text=DVD.jpg,label=tie_text=DVD.jpg,RTA100,previous_IS,tie,DVD,0.27574843168258667,0.19829146564006805,0.07745696604251862,True,True,tie
+label=tie_text=bowl.jpg,label=tie_text=bowl.jpg,RTA100,previous_IS,tie,bowl,0.285977840423584,0.22551020979881287,0.06046763062477112,True,True,tie
+label=tie_text=guitar.jpg,label=tie_text=guitar.jpg,RTA100,previous_IS,tie,guitar,0.24896468222141266,0.24559786915779114,0.003366813063621521,True,False,wallet
+label=tie_text=light bulb.jpg,label=tie_text=light bulb.jpg,RTA100,previous_IS,tie,light bulb,0.3118596374988556,0.23940181732177734,0.07245782017707825,True,True,tie
+label=tie_text=map.jpg,label=tie_text=map.jpg,RTA100,previous_IS,tie,map,0.28817737102508545,0.2394227534532547,0.04875461757183075,True,True,tie
+label=tie_text=spoon.jpg,label=tie_text=spoon.jpg,RTA100,previous_IS,tie,spoon,0.28627148270606995,0.2476239800453186,0.03864750266075134,True,True,tie
+label=tie_text=t-shirt.jpg,label=tie_text=t-shirt.jpg,RTA100,previous_IS,tie,t-shirt,0.2849356234073639,0.230929896235466,0.05400572717189789,True,True,tie
+label=tie_text=toaster.jpg,label=tie_text=toaster.jpg,RTA100,previous_IS,tie,toaster,0.2667910158634186,0.1644045114517212,0.10238650441169739,True,True,tie
+label=tie_text=toothbrush.jpg,label=tie_text=toothbrush.jpg,RTA100,previous_IS,tie,toothbrush,0.2521944046020508,0.22800981998443604,0.024184584617614746,True,True,tie
+label=tie_text=umbrella.jpg,label=tie_text=umbrella.jpg,RTA100,previous_IS,tie,umbrella,0.2898160219192505,0.22672343254089355,0.06309258937835693,True,True,tie
+label=tissue_text=can.jpg,label=tissue_text=can.jpg,RTA100,previous_IS,tissue,can,0.2819240093231201,0.24903884530067444,0.03288516402244568,True,True,tissue
+label=tissue_text=chair.jpg,label=tissue_text=chair.jpg,RTA100,previous_IS,tissue,chair,0.25495103001594543,0.26578065752983093,-0.010829627513885498,False,False,chair
+label=tissue_text=cone.jpg,label=tissue_text=cone.jpg,RTA100,previous_IS,tissue,cone,0.2618228793144226,0.2506405711174011,0.011182308197021484,True,True,tissue
+label=tissue_text=floor.jpg,label=tissue_text=floor.jpg,RTA100,previous_IS,tissue,floor,0.26179206371307373,0.27656757831573486,-0.014775514602661133,False,False,floor
+label=tissue_text=fork.jpg,label=tissue_text=fork.jpg,RTA100,previous_IS,tissue,fork,0.250385046005249,0.263860821723938,-0.013475775718688965,False,False,bag
+label=tissue_text=fridge.jpg,label=tissue_text=fridge.jpg,RTA100,previous_IS,tissue,fridge,0.2601356506347656,0.24444621801376343,0.015689432621002197,True,True,tissue
+label=tissue_text=glasses.jpg,label=tissue_text=glasses.jpg,RTA100,previous_IS,tissue,glasses,0.22645235061645508,0.24474404752254486,-0.018291696906089783,False,False,bag
+label=tissue_text=iron.jpg,label=tissue_text=iron.jpg,RTA100,previous_IS,tissue,iron,0.2731059193611145,0.29071304202079773,-0.017607122659683228,False,False,iron
+label=tissue_text=paper.jpg,label=tissue_text=paper.jpg,RTA100,previous_IS,tissue,paper,0.29722997546195984,0.2604057788848877,0.036824196577072144,True,True,tissue
+label=tissue_text=plate.jpg,label=tissue_text=plate.jpg,RTA100,previous_IS,tissue,plate,0.2680070996284485,0.247756689786911,0.020250409841537476,True,True,tissue
+label=toaster_text=airconditioner.jpg,label=toaster_text=airconditioner.jpg,RTA100,previous_IS,toaster,airconditioner,0.24879156053066254,0.2233230471611023,0.02546851336956024,True,False,oven
+label=toaster_text=card.jpg,label=toaster_text=card.jpg,RTA100,previous_IS,toaster,card,0.27611374855041504,0.25296345353126526,0.02315029501914978,True,True,toaster
+label=toaster_text=fridge.jpg,label=toaster_text=fridge.jpg,RTA100,previous_IS,toaster,fridge,0.2854343354701996,0.3022429049015045,-0.01680856943130493,False,False,fridge
+label=toaster_text=hand.jpg,label=toaster_text=hand.jpg,RTA100,previous_IS,toaster,hand,0.276317298412323,0.2502414584159851,0.02607583999633789,True,True,toaster
+label=toaster_text=iPad.jpg,label=toaster_text=iPad.jpg,RTA100,previous_IS,toaster,iPad,0.2950083911418915,0.2487087845802307,0.04629960656166077,True,True,toaster
+label=toaster_text=scissors.jpg,label=toaster_text=scissors.jpg,RTA100,previous_IS,toaster,scissors,0.29525893926620483,0.20960307121276855,0.08565586805343628,True,True,toaster
+label=toaster_text=socks.jpg,label=toaster_text=socks.jpg,RTA100,previous_IS,toaster,socks,0.28012770414352417,0.2965625524520874,-0.016434848308563232,False,False,socks
+label=toaster_text=t-shirt.jpg,label=toaster_text=t-shirt.jpg,RTA100,previous_IS,toaster,t-shirt,0.27116498351097107,0.22305677831172943,0.04810820519924164,True,False,microwave
+label=toaster_text=trash box.jpg,label=toaster_text=trash box.jpg,RTA100,previous_IS,toaster,trash box,0.27651146054267883,0.2898629903793335,-0.013351529836654663,False,False,trash box
+label=toaster_text=watch.jpg,label=toaster_text=watch.jpg,RTA100,previous_IS,toaster,watch,0.30739763379096985,0.26247885823249817,0.04491877555847168,True,False,microwave
+label=toothbrush_text=cookie.jpg,label=toothbrush_text=cookie.jpg,RTA100,previous_IS,toothbrush,cookie,0.24459761381149292,0.2725670039653778,-0.027969390153884888,False,False,cookie
+label=toothbrush_text=eraser.jpg,label=toothbrush_text=eraser.jpg,RTA100,previous_IS,toothbrush,eraser,0.2591472864151001,0.24056512117385864,0.018582165241241455,True,False,scissors
+label=toothbrush_text=floor.jpg,label=toothbrush_text=floor.jpg,RTA100,previous_IS,toothbrush,floor,0.2579149007797241,0.29347872734069824,-0.03556382656097412,False,False,floor
+label=toothbrush_text=headphone.jpg,label=toothbrush_text=headphone.jpg,RTA100,previous_IS,toothbrush,headphone,0.2822474241256714,0.27060139179229736,0.011646032333374023,True,False,chopsticks
+label=toothbrush_text=mask.jpg,label=toothbrush_text=mask.jpg,RTA100,previous_IS,toothbrush,mask,0.23911044001579285,0.283457487821579,-0.04434704780578613,False,False,mask
+label=toothbrush_text=melon.jpg,label=toothbrush_text=melon.jpg,RTA100,previous_IS,toothbrush,melon,0.28954967856407166,0.2755027413368225,0.014046937227249146,True,False,spoon
+label=toothbrush_text=peach.jpg,label=toothbrush_text=peach.jpg,RTA100,previous_IS,toothbrush,peach,0.24667717516422272,0.22816507518291473,0.018512099981307983,True,False,pen
+label=toothbrush_text=tie.jpg,label=toothbrush_text=tie.jpg,RTA100,previous_IS,toothbrush,tie,0.2583063244819641,0.2726061940193176,-0.014299869537353516,False,False,chopsticks
+label=toothbrush_text=toaster.jpg,label=toothbrush_text=toaster.jpg,RTA100,previous_IS,toothbrush,toaster,0.2506623864173889,0.26946842670440674,-0.018806040287017822,False,False,spoon
+label=toothbrush_text=trash box.jpg,label=toothbrush_text=trash box.jpg,RTA100,previous_IS,toothbrush,trash box,0.22940954566001892,0.2653818726539612,-0.03597232699394226,False,False,trash box
+label=towel_text=curtain.jpg,label=towel_text=curtain.jpg,RTA100,previous_IS,towel,curtain,0.2688142955303192,0.2336243987083435,0.03518989682197571,True,False,eraser
+label=towel_text=frisbee.jpg,label=towel_text=frisbee.jpg,RTA100,previous_IS,towel,frisbee,0.21765153110027313,0.17068582773208618,0.04696570336818695,True,True,towel
+label=towel_text=glove.jpg,label=towel_text=glove.jpg,RTA100,previous_IS,towel,glove,0.2926054298877716,0.2907373607158661,0.0018680691719055176,True,False,socks
+label=towel_text=jacket.jpg,label=towel_text=jacket.jpg,RTA100,previous_IS,towel,jacket,0.31153184175491333,0.299040287733078,0.012491554021835327,True,False,slipper
+label=towel_text=mic.jpg,label=towel_text=mic.jpg,RTA100,previous_IS,towel,mic,0.2205626666545868,0.21419011056423187,0.006372556090354919,True,False,cookie
+label=towel_text=oven.jpg,label=towel_text=oven.jpg,RTA100,previous_IS,towel,oven,0.292699933052063,0.2712309658527374,0.02146896719932556,True,False,slipper
+label=towel_text=plate.jpg,label=towel_text=plate.jpg,RTA100,previous_IS,towel,plate,0.24908152222633362,0.2378905713558197,0.011190950870513916,True,False,socks
+label=towel_text=ruler.jpg,label=towel_text=ruler.jpg,RTA100,previous_IS,towel,ruler,0.23962876200675964,0.18593592941761017,0.053692832589149475,True,False,slipper
+label=towel_text=sofa.jpg,label=towel_text=sofa.jpg,RTA100,previous_IS,towel,sofa,0.2505541443824768,0.2044091820716858,0.046144962310791016,True,False,socks
+label=towel_text=trash box.jpg,label=towel_text=trash box.jpg,RTA100,previous_IS,towel,trash box,0.24957062304019928,0.2629554867744446,-0.0133848637342453,False,False,tissue
+label=trash box_text=can.jpg,label=trash box_text=can.jpg,RTA100,previous_IS,trash box,can,0.3002096712589264,0.2647859454154968,0.035423725843429565,True,True,trash box
+label=trash box_text=dish.jpg,label=trash box_text=dish.jpg,RTA100,previous_IS,trash box,dish,0.2293839156627655,0.19482949376106262,0.03455442190170288,True,False,microwave
+label=trash box_text=eraser.jpg,label=trash box_text=eraser.jpg,RTA100,previous_IS,trash box,eraser,0.25584155321121216,0.15099920332431793,0.10484234988689423,True,True,trash box
+label=trash box_text=hand.jpg,label=trash box_text=hand.jpg,RTA100,previous_IS,trash box,hand,0.2737564742565155,0.19076073169708252,0.08299574255943298,True,True,trash box
+label=trash box_text=hat.jpg,label=trash box_text=hat.jpg,RTA100,previous_IS,trash box,hat,0.29431581497192383,0.26620152592658997,0.028114289045333862,True,True,trash box
+label=trash box_text=iron.jpg,label=trash box_text=iron.jpg,RTA100,previous_IS,trash box,iron,0.2880074381828308,0.2356647104024887,0.0523427277803421,True,True,trash box
+label=trash box_text=key.jpg,label=trash box_text=key.jpg,RTA100,previous_IS,trash box,key,0.23332299292087555,0.14616577327251434,0.0871572196483612,True,False,airconditioner
+label=trash box_text=lemon.jpg,label=trash box_text=lemon.jpg,RTA100,previous_IS,trash box,lemon,0.2814028263092041,0.1673920601606369,0.1140107661485672,True,True,trash box
+label=trash box_text=milk.jpg,label=trash box_text=milk.jpg,RTA100,previous_IS,trash box,milk,0.2440481334924698,0.22686177492141724,0.01718635857105255,True,False,microwave
+label=trash box_text=pen.jpg,label=trash box_text=pen.jpg,RTA100,previous_IS,trash box,pen,0.2698346972465515,0.20376992225646973,0.06606477499008179,True,True,trash box
+label=tray_text=basket.jpg,label=tray_text=basket.jpg,RTA100,previous_IS,tray,basket,0.2560456097126007,0.22291406989097595,0.033131539821624756,True,False,table
+label=tray_text=dog.jpg,label=tray_text=dog.jpg,RTA100,previous_IS,tray,dog,0.259831964969635,0.1987506002187729,0.06108136475086212,True,False,notebook
+label=tray_text=guitar.jpg,label=tray_text=guitar.jpg,RTA100,previous_IS,tray,guitar,0.2607074975967407,0.222366064786911,0.03834143280982971,True,False,notebook
+label=tray_text=mango.jpg,label=tray_text=mango.jpg,RTA100,previous_IS,tray,mango,0.24028635025024414,0.19069263339042664,0.049593716859817505,True,False,mousepad
+label=tray_text=map.jpg,label=tray_text=map.jpg,RTA100,previous_IS,tray,map,0.24815477430820465,0.18804369866847992,0.06011107563972473,True,False,mousepad
+label=tray_text=monitor.jpg,label=tray_text=monitor.jpg,RTA100,previous_IS,tray,monitor,0.23286499083042145,0.21856454014778137,0.014300450682640076,True,True,tray
+label=tray_text=notebook.jpg,label=tray_text=notebook.jpg,RTA100,previous_IS,tray,notebook,0.24765996634960175,0.23016566038131714,0.017494305968284607,True,True,tray
+label=tray_text=pillow.jpg,label=tray_text=pillow.jpg,RTA100,previous_IS,tray,pillow,0.2495546042919159,0.2605956792831421,-0.011041074991226196,False,False,notebook
+label=tray_text=scissors.jpg,label=tray_text=scissors.jpg,RTA100,previous_IS,tray,scissors,0.2506384253501892,0.22425919771194458,0.02637922763824463,True,False,floor
+label=tray_text=umbrella.jpg,label=tray_text=umbrella.jpg,RTA100,previous_IS,tray,umbrella,0.23228490352630615,0.17139345407485962,0.06089144945144653,True,False,mousepad
+label=umbrella_text=cup.jpg,label=umbrella_text=cup.jpg,RTA100,previous_IS,umbrella,cup,0.29454711079597473,0.23158271610736847,0.06296439468860626,True,True,umbrella
+label=umbrella_text=floor.jpg,label=umbrella_text=floor.jpg,RTA100,previous_IS,umbrella,floor,0.26458340883255005,0.2904821038246155,-0.02589869499206543,False,False,floor
+label=umbrella_text=lemon.jpg,label=umbrella_text=lemon.jpg,RTA100,previous_IS,umbrella,lemon,0.2615058720111847,0.28673940896987915,-0.025233536958694458,False,False,lemon
+label=umbrella_text=marker.jpg,label=umbrella_text=marker.jpg,RTA100,previous_IS,umbrella,marker,0.2634449005126953,0.23287783563137054,0.030567064881324768,True,True,umbrella
+label=umbrella_text=mask.jpg,label=umbrella_text=mask.jpg,RTA100,previous_IS,umbrella,mask,0.2277359515428543,0.22076314687728882,0.006972804665565491,True,False,key
+label=umbrella_text=microwave.jpg,label=umbrella_text=microwave.jpg,RTA100,previous_IS,umbrella,microwave,0.2672364115715027,0.21735283732414246,0.04988357424736023,True,True,umbrella
+label=umbrella_text=pen case.jpg,label=umbrella_text=pen case.jpg,RTA100,previous_IS,umbrella,pen case,0.23460745811462402,0.28380513191223145,-0.04919767379760742,False,False,pen case
+label=umbrella_text=remote.jpg,label=umbrella_text=remote.jpg,RTA100,previous_IS,umbrella,remote,0.25647830963134766,0.2519131898880005,0.004565119743347168,True,False,adapter
+label=umbrella_text=toothbrush.jpg,label=umbrella_text=toothbrush.jpg,RTA100,previous_IS,umbrella,toothbrush,0.28840401768684387,0.18486487865447998,0.10353913903236389,True,True,umbrella
+label=umbrella_text=tray.jpg,label=umbrella_text=tray.jpg,RTA100,previous_IS,umbrella,tray,0.23683768510818481,0.22077256441116333,0.016065120697021484,True,False,bag
+label=vacuum cleaner_text=controller.jpg,label=vacuum cleaner_text=controller.jpg,RTA100,previous_IS,vacuum cleaner,controller,0.2833121418952942,0.20382091403007507,0.07949122786521912,True,False,hair dryer
+label=vacuum cleaner_text=cup.jpg,label=vacuum cleaner_text=cup.jpg,RTA100,previous_IS,vacuum cleaner,cup,0.3134336769580841,0.21835491061210632,0.09507876634597778,True,True,vacuum cleaner
+label=vacuum cleaner_text=curtain.jpg,label=vacuum cleaner_text=curtain.jpg,RTA100,previous_IS,vacuum cleaner,curtain,0.29693150520324707,0.1948629766702652,0.10206852853298187,True,True,vacuum cleaner
+label=vacuum cleaner_text=eraser.jpg,label=vacuum cleaner_text=eraser.jpg,RTA100,previous_IS,vacuum cleaner,eraser,0.2857731282711029,0.1877547800540924,0.0980183482170105,True,True,vacuum cleaner
+label=vacuum cleaner_text=glove.jpg,label=vacuum cleaner_text=glove.jpg,RTA100,previous_IS,vacuum cleaner,glove,0.31298232078552246,0.2414591908454895,0.07152312994003296,True,True,vacuum cleaner
+label=vacuum cleaner_text=guitar.jpg,label=vacuum cleaner_text=guitar.jpg,RTA100,previous_IS,vacuum cleaner,guitar,0.2565174698829651,0.22556181252002716,0.030955657362937927,True,False,bottle
+label=vacuum cleaner_text=hair dryer.jpg,label=vacuum cleaner_text=hair dryer.jpg,RTA100,previous_IS,vacuum cleaner,hair dryer,0.2871703803539276,0.2948189079761505,-0.0076485276222229,False,False,hair dryer
+label=vacuum cleaner_text=marker.jpg,label=vacuum cleaner_text=marker.jpg,RTA100,previous_IS,vacuum cleaner,marker,0.30104345083236694,0.24340587854385376,0.057637572288513184,True,False,adapter
+label=vacuum cleaner_text=pen.jpg,label=vacuum cleaner_text=pen.jpg,RTA100,previous_IS,vacuum cleaner,pen,0.2780477702617645,0.2904652953147888,-0.012417525053024292,False,False,pen
+label=vacuum cleaner_text=trash box.jpg,label=vacuum cleaner_text=trash box.jpg,RTA100,previous_IS,vacuum cleaner,trash box,0.31189393997192383,0.23354744911193848,0.07834649085998535,True,True,vacuum cleaner
+label=wallet_text=DVD.jpg,label=wallet_text=DVD.jpg,RTA100,previous_IS,wallet,DVD,0.25573813915252686,0.25513410568237305,0.0006040334701538086,True,False,hat
+label=wallet_text=bookshelf.jpg,label=wallet_text=bookshelf.jpg,RTA100,previous_IS,wallet,bookshelf,0.2406499981880188,0.24152135848999023,-0.0008713603019714355,False,False,iron
+label=wallet_text=camera.jpg,label=wallet_text=camera.jpg,RTA100,previous_IS,wallet,camera,0.2697004973888397,0.24767282605171204,0.022027671337127686,True,True,wallet
+label=wallet_text=headphone.jpg,label=wallet_text=headphone.jpg,RTA100,previous_IS,wallet,headphone,0.30695703625679016,0.22581332921981812,0.08114370703697205,True,True,wallet
+label=wallet_text=light bulb.jpg,label=wallet_text=light bulb.jpg,RTA100,previous_IS,wallet,light bulb,0.30565422773361206,0.24258500337600708,0.06306922435760498,True,True,wallet
+label=wallet_text=mask.jpg,label=wallet_text=mask.jpg,RTA100,previous_IS,wallet,mask,0.2861078083515167,0.2070063054561615,0.07910150289535522,True,True,wallet
+label=wallet_text=mirror.jpg,label=wallet_text=mirror.jpg,RTA100,previous_IS,wallet,mirror,0.2489350438117981,0.24689358472824097,0.002041459083557129,True,False,eraser
+label=wallet_text=mouse.jpg,label=wallet_text=mouse.jpg,RTA100,previous_IS,wallet,mouse,0.28442123532295227,0.22405871748924255,0.06036251783370972,True,True,wallet
+label=wallet_text=mousepad.jpg,label=wallet_text=mousepad.jpg,RTA100,previous_IS,wallet,mousepad,0.2764088809490204,0.29980844259262085,-0.023399561643600464,False,False,mousepad
+label=wallet_text=socks.jpg,label=wallet_text=socks.jpg,RTA100,previous_IS,wallet,socks,0.30283331871032715,0.3011237382888794,0.001709580421447754,True,True,wallet
+label=watch_text=chair.jpg,label=watch_text=chair.jpg,RTA100,previous_IS,watch,chair,0.24486923217773438,0.22774174809455872,0.01712748408317566,True,False,ruler
+label=watch_text=cone.jpg,label=watch_text=cone.jpg,RTA100,previous_IS,watch,cone,0.18488463759422302,0.21380615234375,-0.028921514749526978,False,False,guitar
+label=watch_text=dish.jpg,label=watch_text=dish.jpg,RTA100,previous_IS,watch,dish,0.2003350406885147,0.21599629521369934,-0.01566125452518463,False,False,toaster
+label=watch_text=drill.jpg,label=watch_text=drill.jpg,RTA100,previous_IS,watch,drill,0.2548510730266571,0.1912335753440857,0.06361749768257141,True,True,watch
+label=watch_text=iPhone.jpg,label=watch_text=iPhone.jpg,RTA100,previous_IS,watch,iPhone,0.26208779215812683,0.27542799711227417,-0.013340204954147339,False,False,iPhone
+label=watch_text=keyboard.jpg,label=watch_text=keyboard.jpg,RTA100,previous_IS,watch,keyboard,0.20878200232982635,0.25140511989593506,-0.042623117566108704,False,False,key
+label=watch_text=map.jpg,label=watch_text=map.jpg,RTA100,previous_IS,watch,map,0.24207833409309387,0.27818578481674194,-0.03610745072364807,False,False,map
+label=watch_text=marker.jpg,label=watch_text=marker.jpg,RTA100,previous_IS,watch,marker,0.26073652505874634,0.18157202005386353,0.07916450500488281,True,True,watch
+label=watch_text=mug.jpg,label=watch_text=mug.jpg,RTA100,previous_IS,watch,mug,0.21483644843101501,0.2365819215774536,-0.0217454731464386,False,False,glasses
+label=watch_text=pen.jpg,label=watch_text=pen.jpg,RTA100,previous_IS,watch,pen,0.2551421523094177,0.28809720277786255,-0.032955050468444824,False,False,pen
+label=whiteboard_text=bookshelf.jpg,label=whiteboard_text=bookshelf.jpg,RTA100,previous_IS,whiteboard,bookshelf,0.25264471769332886,0.20772311091423035,0.04492160677909851,True,False,eraser
+label=whiteboard_text=cup.jpg,label=whiteboard_text=cup.jpg,RTA100,previous_IS,whiteboard,cup,0.3149961531162262,0.21483686566352844,0.10015928745269775,True,True,whiteboard
+label=whiteboard_text=fridge.jpg,label=whiteboard_text=fridge.jpg,RTA100,previous_IS,whiteboard,fridge,0.28688669204711914,0.24107402563095093,0.04581266641616821,True,True,whiteboard
+label=whiteboard_text=melon.jpg,label=whiteboard_text=melon.jpg,RTA100,previous_IS,whiteboard,melon,0.3073050081729889,0.22816480696201324,0.07914020121097565,True,False,eraser
+label=whiteboard_text=onion.jpg,label=whiteboard_text=onion.jpg,RTA100,previous_IS,whiteboard,onion,0.3292408585548401,0.2350287139415741,0.09421214461326599,True,True,whiteboard
+label=whiteboard_text=plate.jpg,label=whiteboard_text=plate.jpg,RTA100,previous_IS,whiteboard,plate,0.3209618926048279,0.22819238901138306,0.09276950359344482,True,True,whiteboard
+label=whiteboard_text=shoes.jpg,label=whiteboard_text=shoes.jpg,RTA100,previous_IS,whiteboard,shoes,0.3038652539253235,0.22632595896720886,0.07753929495811462,True,True,whiteboard
+label=whiteboard_text=slipper.jpg,label=whiteboard_text=slipper.jpg,RTA100,previous_IS,whiteboard,slipper,0.32428666949272156,0.2184469997882843,0.10583966970443726,True,True,whiteboard
+label=whiteboard_text=sofa.jpg,label=whiteboard_text=sofa.jpg,RTA100,previous_IS,whiteboard,sofa,0.3069649934768677,0.2777130901813507,0.029251903295516968,True,True,whiteboard
+label=whiteboard_text=spoon.jpg,label=whiteboard_text=spoon.jpg,RTA100,previous_IS,whiteboard,spoon,0.30239588022232056,0.2409902811050415,0.06140559911727905,True,False,fridge

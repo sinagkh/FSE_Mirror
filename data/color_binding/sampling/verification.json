@@ -1,0 +1,12 @@
+{
+  "all_input_source_checkpoint_and_evaluation_hashes_verified": true,
+  "n_source_files": 1776,
+  "independent_actual_adapter_max_score_error": 8.940696716308594e-08,
+  "replay_anchors": 10,
+  "replay_matrices": 40,
+  "all_previous_control_rows_replay_exactly": true,
+  "initial_state_matches": true,
+  "updates": 648,
+  "checkpoint_selection": "fixed_last",
+  "seed": 42
+}

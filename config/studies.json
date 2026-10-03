@@ -1,0 +1,90 @@
+{
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "color_binding": {
+    "tint": 0.75,
+    "main_model": "openclip_laion_l14",
+    "backbone": "ViT-L-14 / laion2b_s32b_b82k",
+    "replications": [
+      "openai_clip_l14",
+      "google_siglip_b16_224"
+    ],
+    "layouts": [
+      "canvas",
+      "swapped_canvas"
+    ],
+    "colors": [
+      "red-blue",
+      "green-yellow"
+    ],
+    "noun_orders": [
+      "canonical",
+      "reversed"
+    ],
+    "calibration_unit": 0.04815874993801117,
+    "primary_bank": "trained_colors_both_orders",
+    "epochs": 36,
+    "updates": 1944,
+    "batch_paired_blocks": 24,
+    "optimizer": "AdamW",
+    "lr": 0.0002,
+    "weight_decay": 0.01,
+    "checkpoint_selection": "fixed last",
+    "ranking": "CE(100*s) with the same retention and color-floor terms as IS"
+  },
+  "typography": {
+    "backbone": "OpenAI ViT-B/32",
+    "replications": [
+      "openai_clip_l14",
+      "openclip_laion_b32"
+    ],
+    "image_states": [
+      "clean",
+      "blank",
+      "congruent",
+      "conflict_1",
+      "conflict_2"
+    ],
+    "note_state_indices": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "interactions_per_source": 12,
+    "updates": 2752,
+    "batch_size": 32,
+    "optimizer": "SGD",
+    "lr": 0.002,
+    "eta_min": 5e-05,
+    "checkpoint_selection": "fixed last",
+    "interaction_coefficient": 6.079747832466163,
+    "repair_site": "one shared text-prefix token",
+    "ranking": "same objective with interaction penalty zero"
+  },
+  "backdoor": {
+    "backbone": "OpenAI ViT-B/32",
+    "attacks": [
+      "stripes",
+      "triangles",
+      "text"
+    ],
+    "processing": [
+      "identity",
+      "jpeg90",
+      "jpeg70",
+      "resize168",
+      "resize112"
+    ],
+    "updates": 1536,
+    "checkpoint_selection": "fixed last successful update",
+    "repair_site": "last two visual transformer blocks",
+    "training_classes": 87,
+    "evaluation_classes": 1000,
+    "excluded_true_class_correction": 1.001001001001001,
+    "ranking": "same objective with interaction penalty zero"
+  }
+}

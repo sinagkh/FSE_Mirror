@@ -1,0 +1,23 @@
+{
+  "files": {
+    "/workspace/clip/interbind_indirect_generalization_20260925/FINAL_REPORT.md": "40a098dc66b9cb59cf7e5e11be188ff2b6e72d0fa6b41dc5b1217f24fbaee99b",
+    "/workspace/clip/interbind_indirect_generalization_20260925/protocol.json": "8a85746a3ec2f211d7bd580ff9edee5f6e29b2192ff458c149ae52775c094178",
+    "/workspace/clip/interbind_indirect_generalization_20260925/source_preflight.json": "94dcdf72802246388326bf06260cdfe00b1ee53515b067ea2d29c5725fb990d1",
+    "/workspace/clip/interbind_indirect_generalization_20260925/encoding_complete.json": "038e2fe861acd43435a7394ae7ea282c98491c59aa07a2f694c3859f6bb6c9ce",
+    "/workspace/clip/interbind_indirect_generalization_20260925/evaluation/complete.json": "ecaa0515ebcda3eaf02afc7529fab9bf9794901a41b6249cb39d7137d41fb504",
+    "/workspace/clip/interbind_indirect_generalization_20260925/legacy_pooled/protocol.json": "8d342b08a205e64d9d6d89909f51fea29e84d4acb46e627b4099553b5616be7b",
+    "/workspace/clip/interbind_indirect_generalization_20260925/legacy_pooled/archive_exact_summary.jsonl": "b4adffe3a9e02316405569e1e5e971c19b5ba38b9611c18035794210146829fb",
+    "/workspace/clip/interbind_indirect_generalization_20260925/independent_validation.json": "25ce620fd9f0267fe03ff8a1d9bfcdd455c9f17c89a134d51fe4be1ff9ce78a9",
+    "/workspace/clip/interbind_indirect_generalization_20260925/legacy_metric_validation.json": "b525ee6e1a4d737346bb9b2ee488600c005c92714ed6c69069b614c220a95cc7",
+    "/workspace/clip/interbind_indirect_generalization_20260925/post_specified_diagnosis.json": "104eb616f219476e6b1e638947e3afa80411a52e5381aa367167564c30cfee63"
+  },
+  "report_numeric_checks": 89,
+  "unit_tests_passed": 12,
+  "authoritative_report": "FINAL_REPORT.md",
+  "initial_report_strict_labels_superseded": true,
+  "primary_outcome_unchanged": true,
+  "all_seeds_retained": true,
+  "paper_modified": false,
+  "new_training": false,
+  "finalizer_sha256": "149af658ea7d58230074b02d874cb178cd3816e9127985d42c6ace5539155c02"
+}

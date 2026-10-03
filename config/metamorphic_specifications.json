@@ -1,0 +1,33 @@
+{
+  "formula": "D=(s11-s10)-(s01-s00)",
+  "typography": {
+    "requirement": "Object recognition should be stable under irrelevant note content.",
+    "image_factor": "note content at fixed geometry",
+    "text_factor": "object versus distractor description",
+    "relation": "D approximately zero",
+    "aggregation": "12 absolute contrasts per source"
+  },
+  "color_binding": {
+    "requirement": "Each object color should influence its own color word selectively.",
+    "image_factors": [
+      "object 1 color",
+      "object 2 color"
+    ],
+    "text_factors": [
+      "object 1 color word",
+      "object 2 color word"
+    ],
+    "relation": {
+      "own": "D >= max(D_frozen,K)",
+      "cross": "abs(D) <= min(abs(D_frozen),tau)"
+    },
+    "aggregation": "Complete 16 contexts, both layouts, colors and noun orders pooled within source"
+  },
+  "backdoor": {
+    "requirement": "Class preference should be stable under the known trigger.",
+    "image_factor": "trigger versus reference",
+    "text_factor": "true versus alternative class",
+    "relation": "D approximately zero",
+    "aggregation": "999 alternatives per ImageNetV2 source"
+  }
+}

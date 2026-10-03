@@ -1,0 +1,9 @@
+{
+  "seed": 44,
+  "multiplier": 4,
+  "updates": 2752,
+  "batch_size": 32,
+  "selection": "fixed final update",
+  "original": "/workspace/clip/fse_typographic_broad_confirmation_20260926/seed44",
+  "preservation": "plain 4x: original shared guards, no P package"
+}

@@ -1,0 +1,296 @@
+[
+  {
+    "bank": "SCAM",
+    "official_metric": "pairwise",
+    "comparison": "frozen",
+    "metric": "pairwise",
+    "mean": 45.438898450946645,
+    "sample_sd": null,
+    "per_seed": [
+      45.438898450946645
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 1,
+    "ci95_low": 42.59896729776248,
+    "ci95_high": 48.278829604130806,
+    "item_ci95_low": 42.59896729776248,
+    "item_ci95_high": 48.278829604130806
+  },
+  {
+    "bank": "SCAM",
+    "official_metric": "pairwise",
+    "comparison": "frozen",
+    "metric": "top1",
+    "mean": 31.755593803786574,
+    "sample_sd": null,
+    "per_seed": [
+      31.755593803786574
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 1,
+    "ci95_low": 29.08777969018933,
+    "ci95_high": 34.42340791738382,
+    "item_ci95_low": 29.08777969018933,
+    "item_ci95_high": 34.42340791738382
+  },
+  {
+    "bank": "SCAM",
+    "official_metric": "pairwise",
+    "comparison": "frozen",
+    "metric": "margin",
+    "mean": -0.002699462963002069,
+    "sample_sd": null,
+    "per_seed": [
+      -0.002699462963002069
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 1,
+    "ci95_low": -0.005686110550964094,
+    "ci95_high": 0.00034837741965809183,
+    "item_ci95_low": -0.005686110550964094,
+    "item_ci95_high": 0.00034837741965809183
+  },
+  {
+    "bank": "SCAM",
+    "official_metric": "pairwise",
+    "comparison": "ranking",
+    "metric": "pairwise",
+    "mean": 62.335054503729204,
+    "sample_sd": 0.32581229752153223,
+    "per_seed": [
+      61.96213425129088,
+      62.5645438898451,
+      62.47848537005164
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 59.5811818703385,
+    "ci95_high": 65.0889271371199,
+    "item_ci95_low": 59.75329890992541,
+    "item_ci95_high": 65.00286861732644
+  },
+  {
+    "bank": "SCAM",
+    "official_metric": "pairwise",
+    "comparison": "ranking",
+    "metric": "top1",
+    "mean": 38.64027538726334,
+    "sample_sd": 0.8209459564689727,
+    "per_seed": [
+      37.8657487091222,
+      38.55421686746988,
+      39.500860585197934
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 35.9437751004016,
+    "ci95_high": 41.30808950086058,
+    "item_ci95_low": 36.08720596672404,
+    "item_ci95_high": 41.22203098106713
+  },
+  {
+    "bank": "SCAM",
+    "official_metric": "pairwise",
+    "comparison": "ranking",
+    "metric": "margin",
+    "mean": 0.014167391473338717,
+    "sample_sd": 0.0005421475221403911,
+    "per_seed": [
+      0.014196443264076099,
+      0.014694428991481483,
+      0.013611302164458572
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 0.011598048652765381,
+    "ci95_high": 0.016701271580516156,
+    "item_ci95_low": 0.01166566348256895,
+    "item_ci95_high": 0.016706165296308226
+  },
+  {
+    "bank": "SCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS",
+    "metric": "pairwise",
+    "mean": 64.51520367183018,
+    "sample_sd": 2.911187288724812,
+    "per_seed": [
+      67.81411359724613,
+      62.306368330464714,
+      63.42512908777969
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 60.929432013769365,
+    "ci95_high": 68.27309236947791,
+    "item_ci95_low": 62.07687894434883,
+    "item_ci95_high": 66.86746987951807
+  },
+  {
+    "bank": "SCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS",
+    "metric": "top1",
+    "mean": 33.04647160068847,
+    "sample_sd": 2.9297839123148353,
+    "per_seed": [
+      35.88640275387263,
+      30.034423407917384,
+      33.218588640275385
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 29.432013769363166,
+    "ci95_high": 36.66164658634538,
+    "item_ci95_low": 30.694205393000573,
+    "item_ci95_high": 35.341365461847396
+  },
+  {
+    "bank": "SCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS",
+    "metric": "margin",
+    "mean": 0.014189463382350666,
+    "sample_sd": 0.0037523934293380427,
+    "per_seed": [
+      0.018434319959347505,
+      0.011314472186791097,
+      0.012819598000913398
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": 3,
+    "ci95_low": 0.010607290947173971,
+    "ci95_high": 0.01835315439778493,
+    "item_ci95_low": 0.01219185685901355,
+    "item_ci95_high": 0.016187612842276853
+  },
+  {
+    "bank": "SCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - frozen",
+    "metric": "pairwise",
+    "mean": 19.076305220883533,
+    "sample_sd": 2.911187288724812,
+    "per_seed": [
+      22.37521514629949,
+      16.86746987951807,
+      17.986230636833042
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": 15.46184738955823,
+    "ci95_high": 22.806224899598384,
+    "item_ci95_low": 16.72332185886402,
+    "item_ci95_high": 21.485943775100395
+  },
+  {
+    "bank": "SCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - frozen",
+    "metric": "top1",
+    "mean": 1.290877796901892,
+    "sample_sd": 2.9297839123148357,
+    "per_seed": [
+      4.130808950086056,
+      -1.7211703958691906,
+      1.4629948364888108
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": -2.266924842226048,
+    "ci95_high": 4.819277108433738,
+    "item_ci95_low": -0.9179575444635688,
+    "item_ci95_high": 3.5570854847963247
+  },
+  {
+    "bank": "SCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - frozen",
+    "metric": "margin",
+    "mean": 0.016888926345352735,
+    "sample_sd": 0.003752393429338044,
+    "per_seed": [
+      0.021133782922349575,
+      0.014013935149793166,
+      0.015519060963915466
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": 0.013280560908763232,
+    "ci95_high": 0.020990956881485886,
+    "item_ci95_low": 0.015167200527454733,
+    "item_ci95_high": 0.018555957410106252
+  },
+  {
+    "bank": "SCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - ranking",
+    "metric": "pairwise",
+    "mean": 2.180149168100975,
+    "sample_sd": 3.2364563976476,
+    "per_seed": [
+      5.851979345955257,
+      -0.2581755593803834,
+      0.9466437177280511
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": -1.2335054503729168,
+    "ci95_high": 5.852696500286859,
+    "item_ci95_low": 0.5450372920252489,
+    "item_ci95_high": 3.815261044176701
+  },
+  {
+    "bank": "SCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - ranking",
+    "metric": "top1",
+    "mean": -5.593803786574873,
+    "sample_sd": 3.3241321713989627,
+    "per_seed": [
+      -1.9793459552495705,
+      -8.5197934595525,
+      -6.282271944922549
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": -9.064830751577738,
+    "ci95_high": -1.8072289156626553,
+    "item_ci95_low": -7.344377510040162,
+    "item_ci95_high": -3.9300057372346515
+  },
+  {
+    "bank": "SCAM",
+    "official_metric": "pairwise",
+    "comparison": "IS - ranking",
+    "metric": "margin",
+    "mean": 2.207190901194871e-05,
+    "sample_sd": 0.0038735668873126363,
+    "per_seed": [
+      0.004237876695271406,
+      -0.0033799568046903854,
+      -0.0007917041635451746
+    ],
+    "n_items": 1162,
+    "n_source_clusters": 1162,
+    "independent_fits": null,
+    "ci95_low": -0.003425522904887975,
+    "ci95_high": 0.0039381141472998975,
+    "item_ci95_low": -0.0009878803923516618,
+    "item_ci95_high": 0.0009727028035572127
+  }
+]

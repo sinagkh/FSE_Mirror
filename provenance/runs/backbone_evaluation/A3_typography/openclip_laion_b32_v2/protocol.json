@@ -1,0 +1,148 @@
+{
+  "inputs": {
+    "/workspace/FSE_VLM/interbind/prewriting_fresh_typography_evaluate_v2.py": "af52102510e1c973b4ba458838b25aeadb7e7a36f9de4541421b73d543a22d88",
+    "/workspace/FSE_VLM/interbind/prewriting_fresh_typography_evaluate.py": "462c8b36aa874ce12e0c179b25538de53d3f163b996512476ce8b6833d5caf89",
+    "/workspace/clip/fse_pre_writing_20260926/A3_typography/visual_review.json": "4e5664c20609ea8857541c81f8dfe8a95f126d38132e1bd692159b8915aa451f",
+    "/workspace/clip/fse_pre_writing_20260926/A3_typography/construction.json": "e51c0ae974fdfacceec088e1c140b54f79dc157ac692080117c7f547179d81fd",
+    "/workspace/clip/fse_pre_writing_20260926/A3_typography/mechanical_validation.json": "eccb1b65377ebb5b040110363cd79c8298caf11cc1c8d16ce4fed289090ed5dc",
+    "/workspace/clip/fse_pre_writing_20260926/A_protocol.json": "9776c3e324f847691b4b45087b9e837368a4e938a94162fe2ec5079400136d88",
+    "/workspace/clip/fse_typographic_20260926/protocol.json": "c65ffa71aabbef7a2346c2a5e3871fc2bc5afd2fe88f3bfbedac6cb527dae964",
+    "/workspace/clip/fse_typographic_20260926/texts.pt": "e956eea835af5039c0360f845e66dbd90162b1c1d102c3dd03c9bbad32ff5700",
+    "/workspace/clip/fse_typographic/prompt_unclipped.py": "8a2325292c4ac554163b8fd6821697358bacadde04afcabeae50efa0b79300b7",
+    "/workspace/clip/fse_typographic/retest.py": "52fd8759fce65675ded873bcea88c5a3868f86800a81953926acd72090504d66",
+    "/workspace/clip/fse_pre_writing_20260926/A3_typography/seen.json": "62f95ae787b2b765fd023e3e2d9b1bcb0a4746b160c8d71c099a39dbd00bcaaa",
+    "/workspace/clip/fse_pre_writing_20260926/A3_typography/heldout.json": "7ae331d973795b5f28c156e86140fb7d0c864da5e8e1dbce816644ed2d435faa",
+    "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed42/ranking/last.pt": "64e7b752018360718030fec3b1052a55b854c9bc4f5804b7f9969ec83c3f799b",
+    "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed42/IS/last.pt": "02b4e7bc7fb41c7d134e3173bd112d2c9b13c5efe931df281a90f1c632c59569",
+    "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed43/ranking/last.pt": "6eab5504a723a7c4246c2d2f75a8a46fb547a3274cbaf82e183678bf671c5b5b",
+    "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed43/IS/last.pt": "ed2dddb91e0d89104503024c669e980c4195d5e7a605405a5c44b6dd23ec5b7c",
+    "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed44/ranking/last.pt": "fed5e4b73e3d0b773921649be0d389e44a02d4f1d0ec9a277bafdab972cac977",
+    "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed44/IS/last.pt": "e2c4547d42070c9c7eedd81120275905dbf5cf976ecfdf7ddf8c49f0a100f26f",
+    "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/initial_prefix_seed42.pt": "cca5ec9980d82faa5937a13376c98e85d170279d1fc1131f995e5087ffbe88ca",
+    "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/initial_prefix_seed43.pt": "c5ab63c03ff42ef1c8e1df5a58285a48c3b8d53a5234aaba02d960c55cc09ad0",
+    "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/initial_prefix_seed44.pt": "70d35a08b415f31a5433f0152c3799c24e6eac9d168751ea634006253353d874"
+  },
+  "model": "openclip_laion_b32",
+  "models": [
+    {
+      "name": "ranking",
+      "seed": 42,
+      "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed42/ranking/last.pt",
+      "sha256": "64e7b752018360718030fec3b1052a55b854c9bc4f5804b7f9969ec83c3f799b",
+      "initial_hash": "70bea8fc7b6029bcfe55f2a26ac8fa0659d73910d5f5cc9e87eda61498ac6923",
+      "sequence_hash": "e82607bd031c85f9a3688c90a4d72988a9db3ebe8c953c422ae0a1ba1ca77d14",
+      "updates": 2752,
+      "selection": "fixed_last",
+      "seconds": 243.05126769299386,
+      "files": {
+        "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed42/ranking/history.json": "2fc76454ebc920e6e590753622742f873c11066c0ff4635915b3404bb0d0940b",
+        "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed42/ranking/last.pt": "64e7b752018360718030fec3b1052a55b854c9bc4f5804b7f9969ec83c3f799b"
+      }
+    },
+    {
+      "name": "IS",
+      "seed": 42,
+      "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed42/IS/last.pt",
+      "sha256": "02b4e7bc7fb41c7d134e3173bd112d2c9b13c5efe931df281a90f1c632c59569",
+      "initial_hash": "70bea8fc7b6029bcfe55f2a26ac8fa0659d73910d5f5cc9e87eda61498ac6923",
+      "sequence_hash": "e82607bd031c85f9a3688c90a4d72988a9db3ebe8c953c422ae0a1ba1ca77d14",
+      "updates": 2752,
+      "selection": "fixed_last",
+      "seconds": 195.08297984302044,
+      "files": {
+        "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed42/IS/history.json": "0413d2e1d079fa3e80cee0edec932718b97f65374dc57ec856bf06e219bb43d8",
+        "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed42/IS/last.pt": "02b4e7bc7fb41c7d134e3173bd112d2c9b13c5efe931df281a90f1c632c59569"
+      }
+    },
+    {
+      "name": "ranking",
+      "seed": 43,
+      "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed43/ranking/last.pt",
+      "sha256": "6eab5504a723a7c4246c2d2f75a8a46fb547a3274cbaf82e183678bf671c5b5b",
+      "initial_hash": "50241bcdad7d1c4e91ba1450eed2ead794720ac1272589fbaf779ad323238046",
+      "sequence_hash": "c45d34d6da669be5b498215d6b1335225f67e9f6cfdf68e485109705920af5bf",
+      "updates": 2752,
+      "selection": "fixed_last",
+      "seconds": 195.21948869799962,
+      "files": {
+        "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed43/ranking/history.json": "e1a8ffc8250f2845cb73ff77238b09a2a07de76fe0feef975d6cbd81a372d6b4",
+        "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed43/ranking/last.pt": "6eab5504a723a7c4246c2d2f75a8a46fb547a3274cbaf82e183678bf671c5b5b"
+      }
+    },
+    {
+      "name": "IS",
+      "seed": 43,
+      "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed43/IS/last.pt",
+      "sha256": "ed2dddb91e0d89104503024c669e980c4195d5e7a605405a5c44b6dd23ec5b7c",
+      "initial_hash": "50241bcdad7d1c4e91ba1450eed2ead794720ac1272589fbaf779ad323238046",
+      "sequence_hash": "c45d34d6da669be5b498215d6b1335225f67e9f6cfdf68e485109705920af5bf",
+      "updates": 2752,
+      "selection": "fixed_last",
+      "seconds": 194.3616709340131,
+      "files": {
+        "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed43/IS/history.json": "7786a5acc01f3ced0311b9a27662cf058686762bdb1f95bb58ff29424fa1ae12",
+        "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed43/IS/last.pt": "ed2dddb91e0d89104503024c669e980c4195d5e7a605405a5c44b6dd23ec5b7c"
+      }
+    },
+    {
+      "name": "ranking",
+      "seed": 44,
+      "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed44/ranking/last.pt",
+      "sha256": "fed5e4b73e3d0b773921649be0d389e44a02d4f1d0ec9a277bafdab972cac977",
+      "initial_hash": "2e650736be57c46ae04781b6a274d4899d724a0554802b683abfc43581b31010",
+      "sequence_hash": "fa39bc5aa6f51aeb6ecf5f075fd1720b21ba75328f91bec98a83fa2615853d6a",
+      "updates": 2752,
+      "selection": "fixed_last",
+      "seconds": 192.42276647599647,
+      "files": {
+        "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed44/ranking/history.json": "d594b7d10dc687dd86bc216b659e735b8f1f29c6aac6bcd0a1af8657c2da2153",
+        "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed44/ranking/last.pt": "fed5e4b73e3d0b773921649be0d389e44a02d4f1d0ec9a277bafdab972cac977"
+      }
+    },
+    {
+      "name": "IS",
+      "seed": 44,
+      "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed44/IS/last.pt",
+      "sha256": "e2c4547d42070c9c7eedd81120275905dbf5cf976ecfdf7ddf8c49f0a100f26f",
+      "initial_hash": "2e650736be57c46ae04781b6a274d4899d724a0554802b683abfc43581b31010",
+      "sequence_hash": "fa39bc5aa6f51aeb6ecf5f075fd1720b21ba75328f91bec98a83fa2615853d6a",
+      "updates": 2752,
+      "selection": "fixed_last",
+      "seconds": 191.60817676602164,
+      "files": {
+        "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed44/IS/history.json": "9aa9bab4e36cc93255d2414b65d3e45051a84cfa398d8ba13048b833b13edd27",
+        "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/runs/seed44/IS/last.pt": "e2c4547d42070c9c7eedd81120275905dbf5cf976ecfdf7ddf8c49f0a100f26f"
+      }
+    },
+    {
+      "name": "initial_prefix",
+      "seed": 42,
+      "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/initial_prefix_seed42.pt",
+      "sha256": "cca5ec9980d82faa5937a13376c98e85d170279d1fc1131f995e5087ffbe88ca"
+    },
+    {
+      "name": "initial_prefix",
+      "seed": 43,
+      "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/initial_prefix_seed43.pt",
+      "sha256": "c5ab63c03ff42ef1c8e1df5a58285a48c3b8d53a5234aaba02d960c55cc09ad0"
+    },
+    {
+      "name": "initial_prefix",
+      "seed": 44,
+      "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B1_typography/openclip_laion_b32/initial_prefix_seed44.pt",
+      "sha256": "70d35a08b415f31a5433f0152c3799c24e6eac9d168751ea634006253353d874"
+    }
+  ],
+  "selection": "fixed checkpoints before scoring",
+  "correction": "v1 stopped during bootstrap on integer count division; v2 uses floating NaN output, identical models/data/metrics, reruns all arms and both banks.",
+  "draws": 5000,
+  "bootstrap_rng_seed": 490203,
+  "primary": "IS minus ranking attack pairwise on fresh seen-class sources",
+  "missing_classes": "Report counts for all original70 classes; do not claim full32/38-class empirical coverage.",
+  "frozen_bug": "frozen blank margin>0 and frozen conflict margin<=0",
+  "retained_repair": "frozen bug and adapted conflict, blank and clean margins>0",
+  "break_rate": "adapted wrong conditional on frozen-correct conflicting-note decisions",
+  "intervals": "Cross seeds with common source draw; decisions/5 states of same source kept together.",
+  "metrics": "Pairwise attack,clean,blank;70-way attack/clean;mean absolute interaction;retained repair;attack break;occlusion and word-content flip counts.",
+  "no_tuning": true
+}

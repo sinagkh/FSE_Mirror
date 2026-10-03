@@ -1,0 +1,27 @@
+[
+  {
+    "name": "PAR",
+    "url": "https://github.com/nmndeep/PerturbAndRecover.git",
+    "revision": "a720440047a93d9a6ab7c749a8b55fff3ed6e9e6"
+  },
+  {
+    "name": "Dyslexify",
+    "url": "https://github.com/lowlorenz/dyslexify",
+    "revision": "7e73a030b41a2b28aa0a85f2a557110921d51383"
+  },
+  {
+    "name": "Defense-Prefix",
+    "url": "https://github.com/azuma164/Defense-Prefix.git",
+    "revision": "50d7887017b295e76b15e56c137ab47e68264448"
+  },
+  {
+    "name": "SCAM",
+    "url": "https://github.com/BLISS-e-V/SCAM.git",
+    "revision": "3766c42c762c0ab61a946f46f609facf7205a8cc"
+  },
+  {
+    "name": "LABCLIP",
+    "url": "https://github.com/kdariina/CLIP-not-BoW-unimodally.git",
+    "revision": "5733528b1c163b75cf8ddf14b8991c08498eae4a"
+  }
+]

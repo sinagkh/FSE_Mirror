@@ -1,0 +1,15 @@
+{
+  "all_three_seeds_completed": true,
+  "manuscript_unchanged": true,
+  "files": {
+    "/workspace/clip/interbind_routing75_replication_20260930/results/diagnostics.jsonl": "9fb7f6aec9917a0373763ca71e1af82ebb710a2f5cda5ad1b5e86dd301fafbaa",
+    "/workspace/clip/interbind_routing75_replication_20260930/results/REPORT.md": "c701476c4559e7c69e8b5b37571f27b64f4325a09b25cc5f53c5631d74675a24",
+    "/workspace/clip/interbind_routing75_replication_20260930/results/diagnostics.csv": "3f1c9df644e8a88b460312971ba55663c022adfb3bdb8d3c89000a05cac706fe",
+    "/workspace/clip/interbind_routing75_replication_20260930/results/analysis_protocol.json": "cd1c6653b250a626b2b59e904c9bb59b3a91ae5728d7cf9f201c0bc8e5d97ece",
+    "/workspace/clip/interbind_routing75_replication_20260930/results/all_metrics.jsonl": "0a59428a42c70d33e0550284aca198747651cbbaa00d82e2480b30f73dd5b886",
+    "/workspace/clip/interbind_routing75_replication_20260930/results/directions.jsonl": "fb69d8de15371610bba03bcbd8273d3c4bffe3c9186dd455e49553455e83fd62",
+    "/workspace/clip/interbind_routing75_replication_20260930/results/paper_candidate_tables.csv": "aa546d92326ed5d18799b6d222d9b0b75b99650cda94ba84551fbc05d6c3741a",
+    "/workspace/clip/interbind_routing75_replication_20260930/results/followup_results.json": "a0b1bae384db88d71dccae79cdc65062755445574a8c962ed7f41a3df819fa9f",
+    "/workspace/clip/interbind_routing75_replication_20260930/results/all_metrics.csv": "7f8ba03fcdf80f2252c38e70eb372e4b8ccb9ac3bb54e188e7827f1b1dca4360"
+  }
+}

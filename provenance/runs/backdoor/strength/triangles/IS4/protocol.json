@@ -1,0 +1,8 @@
+{
+  "case": "triangles",
+  "seed": 42,
+  "multiplier": 4,
+  "original_protocol_sha256": "b1e48fba319123c07ff67462edac61b572a7960494a5b98dbb72808766d7bf9b",
+  "steps": 1536,
+  "sole_training_change": "multiply original interaction coefficient; everything else reused"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "IS",
+  "seed": 44,
+  "checkpoint": "/workspace/clip/interbind_routing75_complete_20260930/google_siglip_b16_224/seed44/IS/last.pt",
+  "sha256": "cc3aab7c34b468c78dcb62064645fb05ca9305fadbf45ef626a6b5a08c01f152",
+  "initial_state_hash": "4bff43ff298c2fe8789d8dda505c594ae0640be4ed0f7eb2aef15ab211681b0f",
+  "schedule_sha256": "612dcffc08aa158c8322f29e5524dfb56f5acf42bba8699beb93f00e06b283a1",
+  "representation_sha256": "e9dd9650a6eb5bc33c203a89c1567c6e353ca8b94d70e0198a0b6ff81d220c55",
+  "final_rng_sha256": "cf95a7072be9ed5f2a2ebc5dcd0dfc27b3b35f5d97cb6f449c160b5b0fc3c4c1",
+  "first_components": {
+    "binding": 0.12996958196163177,
+    "cross": 0.9376400709152222,
+    "response": 0.4228101372718811,
+    "preference": 0.11070393770933151,
+    "endpoint": 0.3523346781730652,
+    "caption_guard": 0.0,
+    "binding_keep": 0.0,
+    "response_keep": 0.0,
+    "object_guard": 0.0,
+    "natural": 0.0,
+    "drift": 0.0,
+    "ranking_endpoint": 1.3661311864852905,
+    "ranking_agreement": 0.0,
+    "ranking_anchor": -8.87860878151514e-08,
+    "ranking": 1.3661311864852905,
+    "color_floor": 0.013776341453194618
+  },
+  "seconds": 44.96355106495321,
+  "updates": 1944
+}

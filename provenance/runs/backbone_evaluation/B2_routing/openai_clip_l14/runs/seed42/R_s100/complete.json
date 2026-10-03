@@ -1,0 +1,35 @@
+{
+  "name": "R_s100",
+  "family": "R",
+  "scale": 100,
+  "seed": 42,
+  "checkpoint": "/workspace/clip/fse_pre_writing_20260926/B2_routing/openai_clip_l14/runs/seed42/R_s100/last.pt",
+  "sha256": "adcc8198cb8c465fffe1d686c8f464feeeb7ad8f6fdb33acdff20e86e13e46f3",
+  "initial_state_hash": "c954201ffff8488777ca010c0fcbf5d517c5dc742d392c4773f318d2df44fafe",
+  "final_rng_sha256": "6a9b128bcfb3b7acfa89a2eb0757162a3d3a1adee1850fbd896eb68d2a187365",
+  "schedule_sha256": "2b8e6066100c2e59b9c61b48f3f41f9179caeaabaf3b4b74fe5e0d655f503b0c",
+  "representation_sha256": "f5320af805817233e08fa6495748f24eb3c5f78a76bf3c53e80b3900f850454b",
+  "updates": 1944,
+  "first_components": {
+    "binding": 0.01672857254743576,
+    "cross": 2.1435563564300537,
+    "response": 0.4742822051048279,
+    "preference": 0.44275566935539246,
+    "endpoint": 0.4950409531593323,
+    "caption_guard": 0.0,
+    "binding_keep": 0.0,
+    "response_keep": 0.0,
+    "object_guard": 0.0,
+    "natural": 0.0,
+    "drift": 0.0,
+    "ranking_endpoint": 1.36699640750885,
+    "ranking_agreement": 0.0,
+    "ranking_anchor": -7.512669242260017e-08,
+    "ranking": 1.36699640750885
+  },
+  "seconds": 144.64204078301555,
+  "files": {
+    "/workspace/clip/fse_pre_writing_20260926/B2_routing/openai_clip_l14/runs/seed42/R_s100/history.jsonl": "0011a86ac45582141eff106e05751ca83a1163887a891e7a46d2c22ffa8128fc",
+    "/workspace/clip/fse_pre_writing_20260926/B2_routing/openai_clip_l14/runs/seed42/R_s100/last.pt": "adcc8198cb8c465fffe1d686c8f464feeeb7ad8f6fdb33acdff20e86e13e46f3"
+  }
+}

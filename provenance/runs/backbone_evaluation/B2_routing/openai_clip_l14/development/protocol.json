@@ -1,0 +1,60 @@
+{
+  "details": {
+    "colors": [
+      [
+        "red",
+        "blue"
+      ],
+      [
+        "green",
+        "yellow"
+      ]
+    ],
+    "layouts": [
+      "canvas",
+      "swapped_canvas"
+    ],
+    "score_bias": 0.0,
+    "score_scale": 1.0,
+    "training_pixel_replay": false
+  },
+  "feature_rule": "scorer.encode_images/encode_texts; CPU float32; no score matrix",
+  "input_hashes": {
+    "/workspace/clip/fse_pre_writing_20260926/B2_routing/openai_clip_l14/protocol.json": "4c7d9052e005367e656eaebd8148f2f6e93d065122e56252692704c42ad9a95a",
+    "/workspace/clip/interbind_routing_same_class_20260923/rows.jsonl": "f7b43c5b8e4a1205f9d4354c0822a5e0a8d95500589abaaf9cb6ce917f641e52"
+  },
+  "kind": "bank",
+  "model_binding": {
+    "activation": "quick_gelu",
+    "activation_addendum_sha256": "b72104a75cfbec9ceb4a8b4a9549b0e3285c393bd933714f941b207544a08c94",
+    "checkpoint_files": [
+      {
+        "path": "/workspace/clip/interbind_subjects_20260922/weights/openai_l14/ViT-L-14.pt",
+        "sha256": "b8cca3fd41ae0c99ba7e8951adf17d267cdb84cd88be6f7c2e0eca1737a03836"
+      }
+    ],
+    "registry_path": "/workspace/clip/interbind_subjects_20260922/registry.json",
+    "registry_sha256": "41026b013904e9c5b04538e0b355fdc72ca2b3839b4ddd2ba3f6d68014371cc8",
+    "subject": {
+      "activation": "quick_gelu",
+      "architecture": "ViT-L-14",
+      "backend": "open_clip",
+      "family": "OpenAI CLIP",
+      "files": [
+        {
+          "path": "/workspace/clip/interbind_subjects_20260922/weights/openai_l14/ViT-L-14.pt",
+          "sha256": "b8cca3fd41ae0c99ba7e8951adf17d267cdb84cd88be6f7c2e0eca1737a03836"
+        }
+      ],
+      "id": "openai_clip_l14",
+      "score_unit": "raw_cosine",
+      "source": "https://github.com/openai/CLIP/blob/main/clip/clip.py",
+      "status": "ready",
+      "weight_url": "https://openaipublic.azureedge.net/clip/models/b8cca3fd41ae0c99ba7e8951adf17d267cdb84cd88be6f7c2e0eca1737a03836/ViT-L-14.pt"
+    },
+    "subject_id": "openai_clip_l14"
+  },
+  "no_scores_or_training": true,
+  "schema_version": 1,
+  "template_group_key": "canonical JSON array; exact order and text preserved"
+}

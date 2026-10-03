@@ -1,0 +1,43 @@
+{
+  "units": {
+    "openclip_laion_b32": {
+      "parent": "openclip_laion_b32",
+      "unit": 0.04955952614545822
+    },
+    "openclip_laion_l14": {
+      "parent": "openclip_laion_l14",
+      "unit": 0.04815874993801117
+    },
+    "openai_clip_b32": {
+      "parent": "openai_clip_b32",
+      "unit": 0.017096087336540222
+    },
+    "aro_negclip_b32": {
+      "parent": "openai_clip_b32",
+      "unit": 0.017096087336540222
+    },
+    "openai_clip_l14": {
+      "parent": "openai_clip_l14",
+      "unit": 0.015180893242359161
+    },
+    "google_siglip_b16_224": {
+      "parent": "google_siglip_b16_224",
+      "unit": 3.562039852142334
+    },
+    "facebook_metaclip_b32_400m": {
+      "parent": "facebook_metaclip_b32_400m",
+      "unit": 0.02522233873605728
+    }
+  },
+  "kappa": 0.5175018908509573,
+  "tau_fraction": 0.08448845246684077,
+  "rho": 0.25,
+  "gamma": 0.25,
+  "sensitivity_multipliers": [
+    0.5,
+    1.0,
+    2.0
+  ],
+  "protocol_sha256": "77fd919c902471b4c508a551151512d7863855d69d238a856f11d58e470d5b11",
+  "rule_used_without_outcome_tuning": true
+}

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/sugarcrepe_replace_obj_per_example.jsonl": "d9441fdb564ef021096fddc927297b428bdc4b971ee779ec316f25ec60ad3821",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/score_index.json": "429f583401ab2f6993b9fbe3a98b2b19d92f06e0158e2db3636bf844f7aeae35",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/sugarcrepe_full_per_example.jsonl": "959f34513846983327a0699ef414e6c92a9280933e823068813aae66484b1af0",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/aro_raw.npz": "51bdf33c63f6d4375c02e5b4d8b42230f55299ea393c2eab90efbe17ba321cbd",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/sugarcrepe_add_att_per_example.jsonl": "58dd7e6407ed27cc46819b9cbf41aa1f027625edd96313da886848fbc7943834",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/seed_metadata.json": "89c21f2b769d1498b9a3c0fbdc115ae18fbcd714cd6be4e3d7dfdf17400a47cc",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/sugarcrepe_rows.json": "370d8e6e607ca45baf47d6c82596f175b7d7ff67a70bd79bae80415997986927",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/aro_full_per_example.jsonl": "14e30bb039015b978f50fdf26bd5b25128f4bcfa5aaceed20d5a0045e0f7457f",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/sugarcrepe_replace_rel_per_example.jsonl": "2f5b8ade7256571f1c1db1db537816098d0159cdd4eae5f05ee3a71e5a15e867",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/aro_rows.json": "329c6347f9c4748306abcd9e57d1ac40cbad0c28a54bd0d1822bc5f270375617",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/aro_either_red_blue_per_example.jsonl": "196fcf3aafac9c6edaf85b72a01c0cbf40307b1ad058d7138bf227c495ec2772",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/summary.jsonl": "d7c7074a22c3d9e78f291791b6da5216e94b5c98b0716ce87aa46a252cde2aff",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/sugarcrepe_add_obj_per_example.jsonl": "907eed0a4381839fb001ae2b4db14d82d6d13d82d9cb5c6a2c6be542a7af687c",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/sugarcrepe_replace_att_per_example.jsonl": "eee4e3a52789055b06c410021a41a52f89de9f3827fefcf5758ca21a651844d3",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/sugarcrepe_swap_att_per_example.jsonl": "3cb83e8f882dafe027473345bb4b72214c46ad6ebf177596aebfaf5b4f75c796",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/coco_rows.json": "f887bf20ba14b28081800fdba7036613810090dab7302946f1703028b7b78609",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/coco_raw.npz": "2c74bad67d77858b46870d5626fad0aa1e7a66ce8cf65dce0d690a165a796fc9",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/coco_t2i_per_example.jsonl": "f8ecb9482f0ea1cecd1b1ca88f9024b07a409be494e6f71dcd66ffd79e72d442",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/coco_i2t_per_example.jsonl": "d1a474bfb4f719f95160a6990bff75ec34b7296a3a386e159645f02c831dcfe4",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/sugarcrepe_raw.npz": "2a34b08fa91220ce930676724c60d67569c2c68c3b200c22112caa613547f11f",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/aro_exact_red_blue_per_example.jsonl": "9bb2035f2b9e67179e5f25efa8ce4c6551a9047cd65ecad2185cc36efbc20de1",
+    "/workspace/clip/interbind_routing75_replication_20260930/seed43/analysis/natural/sugarcrepe_swap_obj_per_example.jsonl": "ac23b6bf048927bfedbc60e4d728646860abda7eca88862921ef6002447f242a"
+  }
+}

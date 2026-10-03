@@ -1,0 +1,14 @@
+{
+  "stripes": {
+    "max_pixel_error": 0,
+    "n": 8
+  },
+  "triangles": {
+    "max_pixel_error": 0,
+    "n": 8
+  },
+  "text": {
+    "max_pixel_error": 0,
+    "n": 8
+  }
+}

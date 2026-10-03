@@ -1,0 +1,36 @@
+{
+  "inputs": {
+    "/workspace/FSE_VLM/plan/88_uniform_routing75_completion.md": "4f68391e02b248291b9425c039d7688bb06b6d1de6126306c0d92c705d6852ec",
+    "/workspace/FSE_VLM/interbind/routing75_complete_data.py": "3231b556b3a52ed7a515e84d70d3f8ff78a67cc58d8ecfa2f96b945a7cdf2cdf",
+    "/workspace/clip/interbind_routing75_replication_20260930/protocol.json": "ba5601209b1a7ad37f2c0efc4236e92d1c699ed38853c6a20f4b20cd3c08381c",
+    "/workspace/clip/interbind_routing75_replication_20260930/verification.json": "e8bdbf63359b20c60a14aac8d12955f270c602fca5d5414929a40233c0a0fdf6",
+    "/workspace/clip/interbind_routing75_replication_20260930/results/complete.json": "fa732ea6926999c3c55c7d55c790d4ddad933b13d42dbfb8c2c1f07fa4195f64",
+    "/workspace/clip/interbind_subjects_20260922/registry.json": "41026b013904e9c5b04538e0b355fdc72ca2b3839b4ddd2ba3f6d68014371cc8",
+    "/workspace/clip/interbind_subjects_20260922/activation_addendum.json": "b72104a75cfbec9ceb4a8b4a9549b0e3285c393bd933714f941b207544a08c94",
+    "/workspace/FSE_VLM/interbind/routing_light_tint.py": "488406a2b3eef93d93fbe5489986ff018b0c3b660807e041b042abe2b3618380",
+    "/workspace/FSE_VLM/interbind/routing_light_suite_data.py": "482ccb79f5f740e1e4fbed5d20f473ba1a4a2e222c081c2ee021f73c9e0f5491",
+    "/workspace/FSE_VLM/interbind/routing_tint_midpoint.py": "555056181f24ecd7a55b817458a45d96d08912a3fbbbed3cb85c0f77eca5dc23",
+    "/workspace/FSE_VLM/interbind/routing_tint_balance_train.py": "542ba3c7b35f6bb66f90d49ca08302e06a43dc42f1bd6d48050eba6cce1f8387",
+    "/workspace/FSE_VLM/interbind/indirect_generalization.py": "ccc64059ef0fa1e90f10ce835da84d2283757b9066fadb443eee2167f97d39a9",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/features/train/complete.json": "8a0d9a251805c29e80c3df69454f01bc8c0422e876231944fca1521ba1298ef2",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/primary/complete.json": "163d6a249c7f75284f5784c7245bc08a23cfaa7889fbd1d63bfa5ab4d74cff03",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/background_shift/complete.json": "4ebc46e01e7531e2611206b01d5464d1e5fc4b4830466b82edc99e7d2dec0968",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/geometry_shift/complete.json": "047780a73c2da78d4e2117b100c28de787b20d2e9897615ab0c1407697e45f51",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/color_recombination/complete.json": "39afa92297b7a64c457e6ab3c20666a8aa220b9db0ddb0e931c009ebb801fb40",
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/noun_recombination/complete.json": "d5d2ecdf86ab5e694d33b3231e3e466f8b947e378ab1c36ea39f4c8fbf029957",
+    "/workspace/clip/interbind_routing_repair_pilot_20260923/training_rows.jsonl": "a6737b207dbc9228f076cfd0cee858d966867e95a6182a28158f1010117e26c9",
+    "/workspace/clip/interbind_phase_bc_completion_20260923/same_rule_confirmation/rows.jsonl": "42eb8276e3032bd88144db56f717413c83b42268b2f8097cb979e367fc789bcd",
+    "/workspace/clip/interbind_ranking_followup_20260925/transfer/noun_rows.jsonl": "87e8b6bbaf8d00ab8683e23c44b6962272711d0267ecd91a039eacdc351baeb0",
+    "/workspace/clip/fse_pre_writing_20260926/B2_routing/openai_clip_l14/normalization.json": "21ef94992f39cf041f93b2fcafb42cb4e2f73144917f03d96572eea09218e74b",
+    "/workspace/clip/fse_pre_writing_20260926/B2_routing/google_siglip_b16_224/normalization.json": "512a0036e3bd7f7caed6d0d48b771e512f715a3b4fe8fbea31bc48e8d298fe01"
+  },
+  "models": [
+    "openai_clip_l14",
+    "google_siglip_b16_224"
+  ],
+  "tint": 0.75,
+  "no_outcome_selection": true,
+  "render_workers": 8,
+  "image_batch_size": 64,
+  "required_pixel_identity": "All states equal completed primary LAION75 study; backbone is only encoding difference"
+}

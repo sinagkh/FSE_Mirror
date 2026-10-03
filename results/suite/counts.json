@@ -1,0 +1,323 @@
+{
+  "typography": {
+    "bank": "test_seen_standard (primary held-out suite)",
+    "sources": 1024,
+    "source_classes": 32,
+    "vocabulary_classes": 70,
+    "templates_per_class": 3,
+    "image_states_per_source": 5,
+    "follow_up_images_per_source": 4,
+    "follow_up_images": 4096,
+    "images_encoded": 5120,
+    "unique_note_words_rendered": 32,
+    "caption_representations_per_source": 3,
+    "follow_up_caption_representations": 2048,
+    "caption_strings_encoded_unique": 210,
+    "scores_computed": 358400,
+    "scores_per_source_computed": 350,
+    "scores_required_by_tests_and_checks": 15360,
+    "interaction_tests": 12288,
+    "interaction_tests_per_source": 12,
+    "decision_checks": 2048,
+    "failing_decisions": 1547,
+    "failing_definition": "blank-note margin > 0 and misleading-note margin <= 0 (saved `bug`)",
+    "failing_with_unedited_also_correct": 1542,
+    "sources_with_any_failure": 940,
+    "crosschecks": {
+      "word_interaction_mean_abs_all12": 0.07703527808189392,
+      "object_vs_word_accuracy_pct": 23.291015625,
+      "attacked_recognition_top1_pct": 22.16796875,
+      "clean_top1_pct": 79.58984375,
+      "blank_decisions_correct": 2024,
+      "unedited_decisions_correct": 2027
+    },
+    "paper": {
+      "sources": 1024,
+      "interaction_tests": 12288,
+      "decision_checks": 2048,
+      "failing": 1547,
+      "word_interaction": 0.07704,
+      "object_vs_word": 23.29,
+      "attacked_recognition": 22.17
+    },
+    "validation_bank": {
+      "bank": "development (validation; RQ1 occlusion paragraph)",
+      "sources": 512,
+      "follow_up_images": 2048,
+      "images_encoded": 2560,
+      "interaction_tests": 6144,
+      "decision_checks": 1024,
+      "failing_decisions": 786,
+      "failing_with_unedited_also_correct": 783,
+      "blank_accuracy_pct": 99.4140625,
+      "misleading_accuracy_pct": 22.65625,
+      "occlusion_flips": 4,
+      "mean_word_minus_blank_interaction": -0.10172764956951141,
+      "mean_blank_margin": 0.07855550944805145,
+      "paper": {
+        "sources": 512,
+        "blank": 99.41,
+        "misleading": 22.66,
+        "reversed": 786,
+        "occlusion": 4,
+        "D": -0.1017,
+        "blank_margin": 0.0786
+      }
+    }
+  },
+  "routing": {
+    "bank": "same_rule_confirmation 400 anchors; 75% tint; red/blue + green/yellow; canonical + reversed noun order; canvas + swapped layout",
+    "sources": 400,
+    "cutouts_per_source": 2,
+    "object_pairs": 4,
+    "blocks_per_source": 8,
+    "blocks": 3200,
+    "follow_up_images_per_source": 16,
+    "follow_up_images": 6400,
+    "images_encoded": 6400,
+    "caption_representations_per_source": 16,
+    "caption_strings_per_source": 48,
+    "caption_strings_encoded_unique": 192,
+    "templates_per_caption": 3,
+    "scores_computed": 51200,
+    "scores_per_source": 128,
+    "scores_required_by_tests_and_checks": 51200,
+    "binding_tests": 25600,
+    "cross_effect_tests": 25600,
+    "assignment_tests": 3200,
+    "interaction_tests": 54400,
+    "interaction_tests_per_source": 136,
+    "decision_checks": 6400,
+    "decision_definition": "exchange decisions: correct caption vs color-swapped caption, 2 per block",
+    "failing_decisions": 3054,
+    "failing_definition": "exchange margin <= 0",
+    "exchange_accuracy_pct": 52.28125,
+    "additional_checks": {
+      "single_color_word1": {
+        "checks": 12800,
+        "accuracy_pct": 98.3671875
+      },
+      "single_color_word2": {
+        "checks": 12800,
+        "accuracy_pct": 98.5546875
+      },
+      "four_caption_choice": {
+        "checks": 12800,
+        "accuracy_pct": 74.3984375
+      }
+    },
+    "crosschecks": {
+      "binding_mean": 0.9781524434610059,
+      "cross_mean_abs": 0.9770561835047237,
+      "assignment_interaction_mean": 0.013069966999073913,
+      "calibration_unit": 0.04815874993801117,
+      "per_block": {
+        "red-blue/canonical/canvas": {
+          "exchange_accuracy_pct": 54.49999999999999
+        },
+        "red-blue/canonical/swapped_canvas": {
+          "exchange_accuracy_pct": 55.00000000000001
+        },
+        "red-blue/reversed/canvas": {
+          "exchange_accuracy_pct": 54.625
+        },
+        "red-blue/reversed/swapped_canvas": {
+          "exchange_accuracy_pct": 51.125
+        },
+        "green-yellow/canonical/canvas": {
+          "exchange_accuracy_pct": 53.625
+        },
+        "green-yellow/canonical/swapped_canvas": {
+          "exchange_accuracy_pct": 52.25
+        },
+        "green-yellow/reversed/canvas": {
+          "exchange_accuracy_pct": 45.74999999999999
+        },
+        "green-yellow/reversed/swapped_canvas": {
+          "exchange_accuracy_pct": 51.37499999999999
+        }
+      }
+    },
+    "paper": {
+      "sources": 400,
+      "exchange_accuracy": 52.28,
+      "binding": 0.978,
+      "cross": 0.977,
+      "assignment": 0.013,
+      "single_color": [
+        98.37,
+        98.55
+      ],
+      "fixes_denominator_in_evidence": 3054
+    }
+  },
+  "backdoor": {
+    "stripes": {
+      "sources": 10000,
+      "rq1_image_states_per_source": 4,
+      "follow_up_images_per_source": 3,
+      "follow_up_images": 30000,
+      "unique_follow_up_images": 30000,
+      "images_encoded_rq1": 40000,
+      "classes": 1000,
+      "templates_per_class": 80,
+      "caption_strings_encoded_unique": 80000,
+      "scores_computed_rq1": 40000000,
+      "scores_required_by_tests_and_checks": 40000000,
+      "interaction_tests_trigger1": 9990000,
+      "interaction_tests_trigger2": 9990000,
+      "interaction_tests_control": 9990000,
+      "interaction_tests_total": 29970000,
+      "decision_checks_trigger1": 10000,
+      "decisions_top1_rq1": 40000,
+      "failing_decisions": 4946,
+      "failing_definition": "clean top-1 correct and trigger-view-1 top-1 wrong (1,000-way)",
+      "failing_trigger2": 4947,
+      "failing_control": 264,
+      "clean_correct": 4981,
+      "saved_summary_clean_correct_attack_wrong": 4946,
+      "saved_full_evaluator_states_per_source": 21,
+      "saved_full_evaluator_seconds_all_methods": 974.1357908020145,
+      "saved_full_evaluator_methods": [
+        "victim",
+        "PAR",
+        "clean_only_seed42",
+        "ranking_seed42",
+        "IS_seed42",
+        "exact_filter",
+        "tolerant_filter"
+      ],
+      "crosschecks": {
+        "interaction_mean_abs_saved_over_1000": 0.15245342254638672,
+        "interaction_mean_abs_over_999": 0.1526060402393341,
+        "control_interaction_over_999": 0.0067159258760511875,
+        "asr": 0.9913913913913914
+      },
+      "paper": {
+        "failing": 4946,
+        "failing_pct": 49.46,
+        "interaction": 0.1526,
+        "control_failing_pct": 2.64,
+        "control_interaction": 0.0067
+      }
+    },
+    "triangles": {
+      "sources": 10000,
+      "rq1_image_states_per_source": 4,
+      "follow_up_images_per_source": 3,
+      "follow_up_images": 30000,
+      "unique_follow_up_images": 20000,
+      "images_encoded_rq1": 40000,
+      "classes": 1000,
+      "templates_per_class": 80,
+      "caption_strings_encoded_unique": 80000,
+      "scores_computed_rq1": 40000000,
+      "scores_required_by_tests_and_checks": 40000000,
+      "interaction_tests_trigger1": 9990000,
+      "interaction_tests_trigger2": 9990000,
+      "interaction_tests_control": 9990000,
+      "interaction_tests_total": 29970000,
+      "decision_checks_trigger1": 10000,
+      "decisions_top1_rq1": 40000,
+      "failing_decisions": 4845,
+      "failing_definition": "clean top-1 correct and trigger-view-1 top-1 wrong (1,000-way)",
+      "failing_trigger2": 4845,
+      "failing_control": 185,
+      "clean_correct": 4860,
+      "saved_summary_clean_correct_attack_wrong": 4845,
+      "saved_full_evaluator_states_per_source": 21,
+      "saved_full_evaluator_seconds_all_methods": 637.2199007930467,
+      "saved_full_evaluator_methods": [
+        "victim",
+        "PAR",
+        "clean_only_seed42",
+        "ranking_seed42",
+        "IS_seed42",
+        "blend_inversion"
+      ],
+      "crosschecks": {
+        "interaction_mean_abs_saved_over_1000": 0.16323088109493256,
+        "interaction_mean_abs_over_999": 0.1633942723274231,
+        "control_interaction_over_999": 0.004667184315621853,
+        "asr": 0.9968968968968969
+      },
+      "paper": {
+        "failing": 4845,
+        "failing_pct": 48.45,
+        "interaction": 0.1634,
+        "control_failing_pct": null,
+        "control_interaction": 0.0047
+      }
+    },
+    "text": {
+      "sources": 10000,
+      "rq1_image_states_per_source": 4,
+      "follow_up_images_per_source": 3,
+      "follow_up_images": 30000,
+      "unique_follow_up_images": 20000,
+      "images_encoded_rq1": 40000,
+      "classes": 1000,
+      "templates_per_class": 80,
+      "caption_strings_encoded_unique": 80000,
+      "scores_computed_rq1": 40000000,
+      "scores_required_by_tests_and_checks": 40000000,
+      "interaction_tests_trigger1": 9990000,
+      "interaction_tests_trigger2": 9990000,
+      "interaction_tests_control": 9990000,
+      "interaction_tests_total": 29970000,
+      "decision_checks_trigger1": 10000,
+      "decisions_top1_rq1": 40000,
+      "failing_decisions": 4878,
+      "failing_definition": "clean top-1 correct and trigger-view-1 top-1 wrong (1,000-way)",
+      "failing_trigger2": 4878,
+      "failing_control": 2165,
+      "clean_correct": 4883,
+      "saved_summary_clean_correct_attack_wrong": 4878,
+      "saved_full_evaluator_states_per_source": 21,
+      "saved_full_evaluator_seconds_all_methods": 643.0838063870324,
+      "saved_full_evaluator_methods": [
+        "victim",
+        "PAR",
+        "clean_only_seed42",
+        "ranking_seed42",
+        "IS_seed42",
+        "blend_inversion"
+      ],
+      "crosschecks": {
+        "interaction_mean_abs_saved_over_1000": 0.15520910918712616,
+        "interaction_mean_abs_over_999": 0.15536446869373322,
+        "control_interaction_over_999": 0.05137447267770767,
+        "asr": 0.9990990990990991
+      },
+      "paper": {
+        "failing": 4878,
+        "failing_pct": 48.78,
+        "interaction": 0.1554,
+        "control_failing_pct": 21.65,
+        "control_interaction": 0.0514
+      }
+    }
+  },
+  "inputs_sha256": {
+    "clip/fse_typographic_strength_20260929/characterization/w4/retest/digital_retest/test_seen_standard/rows.json": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
+    "clip/fse_typographic_strength_20260929/characterization/w4/retest/digital_retest/test_seen_standard/frozen.npz": "55664bf5b1111207ab65baa04f4c9a1a44bc905c3dbef871901b9705ae8d938a",
+    "clip/fse_typographic_strength_20260929/characterization/w4/retest/digital_retest/test_seen_standard/frozen_all12.npz": "5eb38e14afd375d77883db59739d4af4d53f2775f995715547f8038779b8ef40",
+    "clip/fse_typographic_20260926/protocol.json": "c65ffa71aabbef7a2346c2a5e3871fc2bc5afd2fe88f3bfbedac6cb527dae964",
+    "clip/fse_typographic_20260926/development.json": "1b08d0c7a35083d4b3f45684eb9bd0cf78a782fb62da7e3dd35d0e4e2e0c1f38",
+    "clip/fse_typographic_20260926/frozen_development_scores.npz": "431cceeb1ef19384ac3d2e6bc175526a9ca500d91f6a3aaddc96f8723083a951",
+    "clip/interbind_calibration_20260922/calibration_frozen.json": "67f5ecd3a3d7e307a9864094d8d304a5652ba4cb38d3ff4fff220948c5216785",
+    "clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/features/primary/index.jsonl": "bfce326aa9d319ca273569d15cea474dff8ea37f1501e86ddcdff82c7e838667",
+    "clip/interbind_routing_tint_balance_20260930/text/groups.json": "0115c0009ad5fe74870e597de2ade9b2593336f0bef6fc9062528b8cb0e73d01",
+    "clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/primary/red-blue_canonical_scores.npz": "a72f73d8f48473e61f75c6082381584a5606144aceab961d9404fa7edbf36710",
+    "clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/primary/red-blue_reversed_scores.npz": "842eb47e7aa5b7fe5576a0f278df5dd59880c470f0ec9514514da5b60b3403cf",
+    "clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/primary/green-yellow_canonical_scores.npz": "a2f8e856a541fc3f43fefbc2202a6c68ce8afe9ff62b31d1f9456f4252dd0c3a",
+    "clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/analysis/primary/green-yellow_reversed_scores.npz": "6d8f0d9ff9a36abb3fa45266ef292e02ef6949ee73ee71858457a995a8d19198",
+    "clip/interbind_phase_bc_completion_20260923/same_rule_confirmation/rows.jsonl": "42eb8276e3032bd88144db56f717413c83b42268b2f8097cb979e367fc789bcd",
+    "clip/fse_four_case_20260927/backdoor_extension_v1/stripes/evaluation/imagenetv2/victim_records.npz": "a6ab290e34f3a745ffcc242fea48c5d300975c5824afd26eef0fdd30dd42ffc5",
+    "clip/fse_four_case_20260927/backdoor_extension_v1/stripes/evaluation/imagenetv2/summary.json": "96519388b549c014e826a12d4949d20f322d0aa9759c17a91bb43ad9b2d44e36",
+    "clip/fse_four_case_20260927/backdoor_extension_v1/triangles/evaluation/imagenetv2/victim_records.npz": "ad606d3eb71e87fb53ede409948954efacceb4326f9ff27cfa709be0fc6de68b",
+    "clip/fse_four_case_20260927/backdoor_extension_v1/triangles/evaluation/imagenetv2/summary.json": "3a3812e421df8537f07a21ad1cbab7eec8a50792b95f87685723924bf49ea077",
+    "clip/fse_four_case_20260927/backdoor_extension_v1/text/evaluation/imagenetv2/victim_records.npz": "e48992cc8916a42dbbe7b8c2b170235322ad50f92ecbe0e9b6665d56e898f6d9",
+    "clip/fse_four_case_20260927/backdoor_extension_v1/text/evaluation/imagenetv2/summary.json": "869ef9314d0cd956cfaf32798866a5e26293373fce011052e8203c2ca74a6149"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "no_preference",
+  "checkpoint": "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/runs/no_preference/last.pt",
+  "sha256": "5161cf7353c8521bc5c7d5d0288e02ea3e766c79c355b19429ab17c0a4dd2cc0",
+  "seed": 42,
+  "deletions": [
+    "preference"
+  ],
+  "seconds": 45.03292434103787,
+  "matched_initialization_schedule_rng": true,
+  "updates": 1944
+}

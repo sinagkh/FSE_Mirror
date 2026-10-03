@@ -1,0 +1,50 @@
+{
+  "scenario": "backdoor",
+  "case": "triangles",
+  "bank": "ImageNetV2 matched-frequency (10,000 images)",
+  "render_workers": 2,
+  "batch_sources": 21,
+  "batch_images": 84,
+  "precision": "image FP16 autocast; text FP32 (80-template ensemble); scores FP32 GPU",
+  "gpu": "NVIDIA A10G",
+  "cpu": "x86_64",
+  "torch": "2.3.1+cu121",
+  "setup": {
+    "model_load_and_hash_s": 2.5856341370381415
+  },
+  "timing_s": {
+    "generation": 40.51979915308766,
+    "exec_text_encode": 50.96278926299419,
+    "exec_score_and_checks": 12.034980198834091,
+    "exec_image_prep_encode": 9.348973282263614,
+    "execution_total": 72.3467427440919,
+    "end_to_end_pipelined": 110.5207715149736
+  },
+  "work": {
+    "sources": 10000,
+    "images_rendered": 40000,
+    "follow_up_images": 30000,
+    "image_forwards": 477,
+    "caption_strings_encoded": 80000,
+    "scores": 40000000,
+    "interaction_tests_trigger1": 9990000,
+    "interaction_tests_all_edits": 29970000,
+    "decision_checks": 10000,
+    "failing_decisions": 4845,
+    "failing_trigger2": 4845,
+    "failing_control": 185
+  },
+  "fidelity": {
+    "max_abs_text_prototype_diff": 0.0,
+    "prediction_agreement": 1.0,
+    "prediction_disagreements": 0,
+    "prediction_agreement_pipelined": 1.0,
+    "max_abs_true_score_diff": 0.0001608133316040039,
+    "max_abs_interaction_diff": 0.00020931800827383995,
+    "failing_recomputed": 4845,
+    "failing_saved": 4845,
+    "failing_set_identical": true,
+    "failing_pipelined": 4845,
+    "interaction_mean_abs_over_999": 0.1633942723274231
+  }
+}

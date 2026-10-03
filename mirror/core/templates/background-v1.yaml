@@ -1,0 +1,53 @@
+schema_version: 1
+id: background/context-independence-v1
+bug_type: context_dependence
+semantic_intent: The object's color word should refer to the object, not its background.
+operational_measurement: Signed color-binding interaction in each context, plus its absolute and relative change under a context-only edit.
+evidence_status: Operational thresholds require independent outcome validation; this file does not assert semantic equivalence of edited images.
+scorer_output: cosine
+factors:
+  object_color: {kind: image, states: [red, blue], generator: recolor_hsv}
+  context: {kind: image, states: [original, scene_swap], generator: context_scene_swap}
+  color_word: {kind: caption, states: [red, blue], slot: attribute}
+score_lattice:
+  image_states:
+    - {id: orig_red, factors: {object_color: red, context: original}}
+    - {id: orig_blue, factors: {object_color: blue, context: original}}
+    - {id: swap_red, factors: {object_color: red, context: scene_swap}}
+    - {id: swap_blue, factors: {object_color: blue, context: scene_swap}}
+  caption_states:
+    - {id: red, factors: {color_word: red}}
+    - {id: blue, factors: {color_word: blue}}
+  prompt:
+    templates: ["a {color} {noun}", "a photo of a {color} {noun}", "the {noun} is {color}"]
+    aggregation: mean_normalized_embedding
+contrasts:
+  d0:
+    - {image: orig_red, caption: red, weight: 1}
+    - {image: orig_red, caption: blue, weight: -1}
+    - {image: orig_blue, caption: red, weight: -1}
+    - {image: orig_blue, caption: blue, weight: 1}
+  d1:
+    - {image: swap_red, caption: red, weight: 1}
+    - {image: swap_red, caption: blue, weight: -1}
+    - {image: swap_blue, caption: red, weight: -1}
+    - {image: swap_blue, caption: blue, weight: 1}
+  gap:
+    - {image: orig_red, caption: red, weight: -1}
+    - {image: orig_red, caption: blue, weight: 1}
+    - {image: orig_blue, caption: red, weight: 1}
+    - {image: orig_blue, caption: blue, weight: -1}
+    - {image: swap_red, caption: red, weight: 1}
+    - {image: swap_red, caption: blue, weight: -1}
+    - {image: swap_blue, caption: red, weight: -1}
+    - {image: swap_blue, caption: blue, weight: 1}
+thresholds:
+  rule: A3-v1-fixed-base
+  fractions: {K: 0.5, tau: 0.25, gamma: 0.5}
+clauses:
+  - {name: binding_original, kind: lower, contrast: d0, bound: K}
+  - {name: binding_scene_swap, kind: lower, contrast: d1, bound: K}
+  - {name: gap_absolute, kind: magnitude, contrast: gap, bound: tau}
+  - {name: gap_relative, kind: relative_context, contrast: gap, binding: [d0, d1], bound: gamma}
+anchors: {source: coco_val2017, selection: frozen_hash_bank}
+guards: default-v1

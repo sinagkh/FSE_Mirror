@@ -1,0 +1,10 @@
+{
+  "report_sha256": "0217c72c75925a16b23b483e8dc4588641a5fdebd5f1fc8520a6f4476a48284d",
+  "tables": {
+    "all_metrics.csv": "ffc6b00948ddded901c6e067ac8f97463fa135210b8f083725c1198f90a82f8f",
+    "paired_contrasts.csv": "543247e0347de2a987536f9af0b5ed2e709c7acf849acc00a4b6ae305e3dfb76"
+  },
+  "all_fixed_arms_reported": true,
+  "manuscript_modified": false,
+  "seed": 42
+}

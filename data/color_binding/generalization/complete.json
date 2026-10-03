@@ -1,0 +1,10 @@
+{
+  "files": {
+    "/workspace/clip/interbind_indirect_generalization_20260925/REPORT.md": "13371fe59319db2105506eca27e1ea7b4346edfbe674ad4344debca14e11607b",
+    "/workspace/clip/interbind_indirect_generalization_20260925/tables.csv": "014d7f1b7c32a47b7d799ea3c4883f7467c8508ecfe545422a1209b0b4d3b510",
+    "/workspace/clip/interbind_indirect_generalization_20260925/evaluation/complete.json": "ecaa0515ebcda3eaf02afc7529fab9bf9794901a41b6249cb39d7137d41fb504"
+  },
+  "protocol_sha256": "8a85746a3ec2f211d7bd580ff9edee5f6e29b2192ff458c149ae52775c094178",
+  "paper_modified": false,
+  "training": false
+}

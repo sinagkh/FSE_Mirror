@@ -1,0 +1,92 @@
+{
+  "version": "interbind-four-color-shared-repair-bank-v1",
+  "inputs": {
+    "/workspace/clip/fse_constraint_completion_results_20260920/confirmation/training_streams_complete.json": "e4e091a835abae539e3b031b7355164aa25f772b2e0ad526fab47b74bc3eb340",
+    "/workspace/clip/fse_background_preservation_results_20260920/manifests/training.jsonl": "fb84e0fc3955274c5bee88a2bcea1164616025d18601ae070ee4d5e3a2644223",
+    "/workspace/clip/interbind_source_quality_20260922/pilot/accepted_rows.jsonl": "32fb38c0c133f256127f1d4395988b1ddd667fcc4573bc8f516969beab28f342",
+    "/workspace/clip/interbind_source_quality_20260922/reserve/accepted_rows.jsonl": "d48082af56c4a4b7520f314e005eb5058dae652476c6fef37b55855d1b426d65",
+    "/workspace/clip/interbind_natural_20260922/v3/calibration.jsonl": "039a8fec63920d7900bee5ca720b5278559a701ced3dcfb27bdf55d11bd724cf",
+    "/workspace/clip/interbind_paco_natural_20260922/calibration/rows.jsonl": "cc0e38b4717f5ca51e0d95cf02015b1cd14f9d1cf2df8afe756a2e108fd6353b",
+    "/workspace/clip/interbind_natural_20260922/v3/pilot.jsonl": "b4d72bbf796a08d63308bd5b5c5ea466c53487bc49d56d03e0aa418138a74137",
+    "/workspace/clip/interbind_paco_natural_20260922/pilot/rows.jsonl": "27121d3391c2cd920674afee07f2e8918b7ac6f67551de11fc98680432cd4bd2",
+    "/workspace/clip/interbind_natural_20260922/v3/reserve.jsonl": "947cecc20bea49fc452a5086dfd01185fddda370b648c540f25b6ae72b4637f1",
+    "/workspace/clip/interbind_paco_natural_20260922/reserve/rows.jsonl": "90231444068cbd08d6a93e30045b8b91d80e24a0dad92b07bfecc497371fdfda",
+    "/workspace/clip/data/coco/annotations/instances_train2017.json": "610fce4944abdeb15354cc765333805529359d12d88f2f711393ca586901d01d",
+    "/workspace/clip/fse_constraint_completion_results_20260920/confirmation/training_manifests/background_stream_43.jsonl": "bcc22fdbdaac5102d04c0e3cdf9e53b39dc1533a8c5e9f66149aa23e789e4bd5",
+    "/workspace/clip/fse_constraint_completion_results_20260920/confirmation/training_manifests/background_stream_44.jsonl": "0f6ef3824cbf067e25d1127367117417c0a29cbdfda6ec2913367718c050451f",
+    "/workspace/clip/fse_constraint_completion_results_20260920/confirmation/training_manifests/background_stream_45.jsonl": "239648dead207a747590b962190966f245bf35e144bbf846f05685d104261475",
+    "/workspace/clip/fse_constraint_completion_results_20260920/confirmation/training_manifests/background_stream_46.jsonl": "b49908c2b6d1a5c12ab4584be3507842f51038357dd9ad713b4ef0aa54cc8adb",
+    "/workspace/clip/fse_constraint_completion_results_20260920/confirmation/training_manifests/background_stream_47.jsonl": "b2f59c9bccd0a0d198186cb4df1b2a0f009878769cc024b34810fe692fd1499d",
+    "/workspace/clip/fse_constraint_completion_results_20260920/confirmation/training_manifests/background_stream_48.jsonl": "8167095a69a8e806395e5704b8a33765a111b82bfd774af69bc62bcb671d9245",
+    "/workspace/clip/fse_constraint_completion_results_20260920/confirmation/training_manifests/routing_stream_43.jsonl": "1f3a8a4855c6a055fc44099a5525538629bac98c58e0bbc75a66a061e6b5b655",
+    "/workspace/clip/fse_constraint_completion_results_20260920/confirmation/training_manifests/routing_stream_44.jsonl": "0aa165aa66f194ce82b2871ada49ce064accec282d6c949dd59d3066cbd8ef8b",
+    "/workspace/clip/fse_constraint_completion_results_20260920/confirmation/training_manifests/routing_stream_45.jsonl": "98a4b65c65708ec79e63ff701dfd845692ed3846c2d88ae030ad1b98539f5ea3",
+    "/workspace/clip/fse_constraint_completion_results_20260920/confirmation/training_manifests/routing_stream_46.jsonl": "0af005a1bc8f9574ea3c35d71ce309d2606cfe3092cf3dcd83211b349d317282",
+    "/workspace/clip/fse_constraint_completion_results_20260920/confirmation/training_manifests/routing_stream_47.jsonl": "faf4aa20bd66d72d7d450392e2072469cd4f4c01f028d22a14c8452fc33992be",
+    "/workspace/clip/fse_constraint_completion_results_20260920/confirmation/training_manifests/routing_stream_48.jsonl": "beecb8dd7a3864ea9820a95dda142fc00842484586dde0efed933046035f5ba0",
+    "/workspace/FSE_VLM/interbind/repair_trainbank.py": "54bf7bb842b827f9e2e55e2a4aeca56492cecfa952be5e0f929216831e396e8d",
+    "/workspace/FSE_VLM/interbind/banks.py": "95ae54fd38468e864d103596129ac2b1be3064ae07b8c69d3eb34aa293216e87",
+    "/workspace/FSE_VLM/interbind/banks_v2.py": "bdae10767459bfb39785d8a1aa9ace058994e9179b1a6322c0cca1e96342425c",
+    "/workspace/FSE_VLM/interbind/rendering.py": "d7975f9eee9a8fc93a9da3be041495a7cc0370ec5c339f0a7e615cd64de31726",
+    "/workspace/FSE_VLM/interbind/rendering_v3.py": "4b20baee4876da3372b969ed0326ef407e0c1db846801e5c2f89200706e8d842",
+    "/workspace/FSE_VLM/interbind/transparency_development.py": "9b10f3113e202d1f50a34354bad928b0a6e132d9922d38c4899a064a83b78cf0",
+    "/workspace/FSE_VLM/interbind/generators.py": "11d0c7c5acce0f9b63691181757e4080fab75ffb67b8e725f0a3dce65438113a"
+  },
+  "sources": "Source/annotation rows from six existing final-confirmation streams (43..48), deduplicated before fixed hash sampling",
+  "per_class_or_pair": 128,
+  "selection": "Fixed namespace SHA256 order within each existing six-background-class / five-routing-pair group; first 128 geometrically eligible unique source tuples",
+  "geometry": {
+    "mask_area_fraction": [
+      0.02,
+      0.6
+    ],
+    "minimum_bbox_side": 24,
+    "border_pixels": 1,
+    "background_crop": "same 1.25x square crop as new audit; no padding or truncation",
+    "routing_layout": "same 256px canvas and 112px cutout size as new audit; two historical source images"
+  },
+  "colors": [
+    [
+      "red",
+      "blue"
+    ],
+    [
+      "green",
+      "yellow"
+    ]
+  ],
+  "held_out_colors": [
+    "purple",
+    "orange"
+  ],
+  "background_contexts": [
+    "gray",
+    "blue"
+  ],
+  "routing_layouts": [
+    "canvas"
+  ],
+  "renderer": "fixed 90% RGB blend, identical to held-out audit",
+  "source_firewall": "Reject actual new calibration/pilot/reserve source and donor IDs and known natural COCO mappings; historical exclusion list protected evaluation construction and is not misused to reject intended training reuse",
+  "natural_guard": "Existing natural-caption TRAINING manifest only; retain all five captions, matched by fixed source-row hash; no held-out captions",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "schedule": {
+    "epochs": 6,
+    "batch": 24,
+    "rank": 64,
+    "alpha": 64,
+    "dropout": 0.05,
+    "lr": 0.0002,
+    "weight_decay": 0.01,
+    "selection": "fixed_last"
+  },
+  "scientific_role": "New common-default training bank, not exact replication of historical epoch draws or historical sample count",
+  "gpu_work": "Not launched by this constructor; wait for GPU availability before feature encoding",
+  "no_model_outcomes": true,
+  "no_training": true,
+  "no_new_judge_round": true
+}

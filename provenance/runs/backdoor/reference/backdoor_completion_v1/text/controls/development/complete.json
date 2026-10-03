@@ -1,0 +1,38 @@
+{
+  "source_records": {
+    "/workspace/clip/fse_four_case_20260927/backdoor_extension_v1/text/evaluation/development/victim_records.npz": "e3358bdafdacd946f88c7c0f4d00c033d22ec617902d174a1ecd4324d32f07d6",
+    "/workspace/clip/fse_four_case_20260927/backdoor_extension_v1/text/evaluation/development/blend_inversion_records.npz": "1b3f11185a7be3c85c5862c35f2fd377ff3b362b9bac5fbeb838390afca82bc3"
+  },
+  "pixel_records_sha256": "867ef666365a937b218ae0e9204bc4c2b91a6c823dd4114c3138cd16de2fbcdd",
+  "detector_protocol_sha256": "ddbc183e20f3d2668b71708fe2766f7b34d420fc5e1e2f0587161803268e705e",
+  "detection": {
+    "identity": {
+      "clean_false_positive": 0.0062176165803108805,
+      "trigger_true_positive": 1.0,
+      "sham_activation": 0.2860103626943005
+    },
+    "jpeg90": {
+      "clean_false_positive": 0.0062176165803108805,
+      "trigger_true_positive": 1.0,
+      "sham_activation": 0.2787564766839378
+    },
+    "jpeg70": {
+      "clean_false_positive": 0.007253886010362694,
+      "trigger_true_positive": 1.0,
+      "sham_activation": 0.2694300518134715
+    },
+    "resize168": {
+      "clean_false_positive": 0.0062176165803108805,
+      "trigger_true_positive": 0.9989637305699481,
+      "sham_activation": 0.2694300518134715
+    },
+    "resize112": {
+      "clean_false_positive": 0.004145077720207254,
+      "trigger_true_positive": 0.9906735751295337,
+      "sham_activation": 0.24352331606217617
+    }
+  },
+  "native_clean_false_positive": 0.0062176165803108805,
+  "exact_reuse": "per-state predictions and target margins selected from previously scored inputs",
+  "unavailable": "all-class absolute interactions require full per-state class scores and are not reconstructed"
+}

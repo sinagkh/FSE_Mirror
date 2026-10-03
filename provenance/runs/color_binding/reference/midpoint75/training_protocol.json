@@ -1,0 +1,12 @@
+{
+  "inputs": {
+    "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/protocol.json": "87a031a110757d5532de893a5feef4f0c50acf69954cb263f8c373e9fffa8b3a"
+  },
+  "same_engine_sha256": "542ba3c7b35f6bb66f90d49ca08302e06a43dc42f1bd6d48050eba6cce1f8387",
+  "tint": 75,
+  "recipe": "color_order",
+  "epochs": 36,
+  "updates": 1944,
+  "same_initialization_optimizer_guards_order_schedule": true,
+  "selection_rule": "/workspace/FSE_VLM/plan/85_routing_tint_midpoint75.md"
+}

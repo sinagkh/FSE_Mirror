@@ -1,0 +1,8 @@
+{
+  "initialization_equal": true,
+  "source_stream_equal": true,
+  "updates_equal": true,
+  "shared_losses_equal": true,
+  "only_interaction_weight_differs": true,
+  "final_checkpoint_sha256": "df3465c9032383e0ca6f44e8d46788309d8bb8a8c261d567b75146f0932170bb"
+}

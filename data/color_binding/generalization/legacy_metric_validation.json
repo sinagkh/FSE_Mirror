@@ -1,0 +1,38 @@
+{
+  "passed": true,
+  "checks": 312,
+  "max_error": 0.0025000000000000022,
+  "archived_function": "caption_behavior",
+  "archived_code_sha256": "13f13b39db508be1ddd5bfb7477c41a26256ce44ce6175331a1eb92040906dc0",
+  "validator_sha256": "e57d49aaa5dcbc20989ff8157b02e77fb9e35bce78ebb4317b9336d7d22779bd",
+  "legacy_complete_sha256": "bfc1c6097daa7efc36b537dc6edd0f4818593048638260bb714e44b6d41e8015",
+  "exact_historical_strict_field": "caption_all_acc",
+  "not_all_templates": true,
+  "all_discrepancies_explained_by_argmax_ties": true,
+  "tie_records": [
+    {
+      "bank": "unseen_pairs",
+      "color": "green-yellow",
+      "view": "swapped_canvas",
+      "name": "IS",
+      "seed": 44,
+      "metric": "caption_accuracy",
+      "mean_difference": 0.0006249999999999867,
+      "tied_correct_maxima": 1,
+      "argmax_correct_extra": 1
+    },
+    {
+      "bank": "unseen_pairs",
+      "color": "green-yellow",
+      "view": "swapped_canvas",
+      "name": "IS",
+      "seed": 44,
+      "metric": "strict_all",
+      "mean_difference": 0.0025000000000000022,
+      "tied_correct_maxima": 1,
+      "argmax_correct_extra": 1
+    }
+  ],
+  "exact_argmax_summary_sha256": "b4adffe3a9e02316405569e1e5e971c19b5ba38b9611c18035794210146829fb",
+  "red_blue_comparisons_unchanged": true
+}

@@ -1,0 +1,108 @@
+{
+  "details": {
+    "colors": [
+      [
+        "red",
+        "blue"
+      ],
+      [
+        "green",
+        "yellow"
+      ]
+    ],
+    "layouts": [
+      "canvas",
+      "swapped_canvas"
+    ],
+    "score_bias": 0.0,
+    "score_scale": 1.0,
+    "training_pixel_replay": false
+  },
+  "feature_rule": "scorer.encode_images/encode_texts; CPU float32; no score matrix",
+  "input_hashes": {
+    "/workspace/clip/fse_pre_writing_20260926/B2_routing/google_siglip_b16_224/protocol.json": "c2cb14f6a3a30270dd074aa2c1549f90c3cd7607aecd73e4e434b4a049198159",
+    "/workspace/clip/interbind_routing_same_class_20260923/rows.jsonl": "f7b43c5b8e4a1205f9d4354c0822a5e0a8d95500589abaaf9cb6ce917f641e52"
+  },
+  "kind": "bank",
+  "model_binding": {
+    "activation": "siglip",
+    "activation_addendum_sha256": "b72104a75cfbec9ceb4a8b4a9549b0e3285c393bd933714f941b207544a08c94",
+    "checkpoint_files": [
+      {
+        "path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/model.safetensors",
+        "sha256": "2c63cb7d1f2e95ba501893cbb8faeb4ea9a3af295498d35097126228659c2af8"
+      },
+      {
+        "path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/config.json",
+        "sha256": "cd85b3d28829722820bcb89a2cfbb4160e55fd359249a3044da724166a8d9688"
+      },
+      {
+        "path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/preprocessor_config.json",
+        "sha256": "d11ccb80f15d358a11bdb070e92e2d889005874b7db15823d5f10d9b2533b14a"
+      },
+      {
+        "path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/tokenizer_config.json",
+        "sha256": "d6423dae508cc3a129d22ea443841c111832a1a73125b8f25ea8736951698bcb"
+      },
+      {
+        "path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/special_tokens_map.json",
+        "sha256": "2b6a1ff67a27e0df9ac0c7d93250fc0d87431c7b366b3d5669217104f9088a26"
+      },
+      {
+        "path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/tokenizer.json",
+        "sha256": "c6e405cb7c670d56636a9402c81023a55bc6c3c53d89cf02b92f5c5005bfe920"
+      },
+      {
+        "path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/spiece.model",
+        "sha256": "1e5036bed065526c3c212dfbe288752391797c4bb1a284aa18c9a0b23fcaf8ec"
+      }
+    ],
+    "registry_path": "/workspace/clip/interbind_subjects_20260922/registry.json",
+    "registry_sha256": "41026b013904e9c5b04538e0b355fdc72ca2b3839b4ddd2ba3f6d68014371cc8",
+    "subject": {
+      "activation": "siglip",
+      "architecture": "SigLIP B/16 224",
+      "backend": "siglip_transformers",
+      "family": "Google SigLIP",
+      "files": [
+        {
+          "path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/model.safetensors",
+          "sha256": "2c63cb7d1f2e95ba501893cbb8faeb4ea9a3af295498d35097126228659c2af8"
+        },
+        {
+          "path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/config.json",
+          "sha256": "cd85b3d28829722820bcb89a2cfbb4160e55fd359249a3044da724166a8d9688"
+        },
+        {
+          "path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/preprocessor_config.json",
+          "sha256": "d11ccb80f15d358a11bdb070e92e2d889005874b7db15823d5f10d9b2533b14a"
+        },
+        {
+          "path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/tokenizer_config.json",
+          "sha256": "d6423dae508cc3a129d22ea443841c111832a1a73125b8f25ea8736951698bcb"
+        },
+        {
+          "path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/special_tokens_map.json",
+          "sha256": "2b6a1ff67a27e0df9ac0c7d93250fc0d87431c7b366b3d5669217104f9088a26"
+        },
+        {
+          "path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/tokenizer.json",
+          "sha256": "c6e405cb7c670d56636a9402c81023a55bc6c3c53d89cf02b92f5c5005bfe920"
+        },
+        {
+          "path": "/workspace/clip/interbind_subjects_20260922/weights/siglip_b16/spiece.model",
+          "sha256": "1e5036bed065526c3c212dfbe288752391797c4bb1a284aa18c9a0b23fcaf8ec"
+        }
+      ],
+      "id": "google_siglip_b16_224",
+      "revision": "7fd15f0689c79d79e38b1c2e2e2370a7bf2761ed",
+      "score_unit": "pre_sigmoid_logit",
+      "source": "https://huggingface.co/google/siglip-base-patch16-224",
+      "status": "ready"
+    },
+    "subject_id": "google_siglip_b16_224"
+  },
+  "no_scores_or_training": true,
+  "schema_version": 1,
+  "template_group_key": "canonical JSON array; exact order and text preserved"
+}

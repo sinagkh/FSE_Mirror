@@ -1,0 +1,28 @@
+{
+  "case": "stripes",
+  "bank": "development",
+  "seeds": [
+    43,
+    44
+  ],
+  "n": 8,
+  "seconds": 1.2950900290161371,
+  "records_sha256": {
+    "ranking_seed43": "02e2f7f23e44a41f8570699c580676272b0085ecb3ba858ec8896dd32f35cc18",
+    "IS_seed43": "7dad31a067f21c15a611c993afa7d78827d6deca834554016c01f613fdf07c69"
+  },
+  "parity": {
+    "ranking_seed43": {
+      "max_score_error": 0.0,
+      "prediction_agreement": 1.0
+    },
+    "IS_seed43": {
+      "max_score_error": 0.0,
+      "prediction_agreement": 1.0
+    }
+  },
+  "checkpoints": {
+    "/workspace/clip/fse_four_case_20260927/backdoor_par/visual_blocks_v3/runs/ranking_seed43/last.pt": "02367e89b0fa2a5426cc298cf53fcd9be9adb6321d34f2951e9c1d81eb8b3eb9",
+    "/workspace/clip/fse_four_case_20260927/backdoor_par/visual_blocks_v3/runs/IS_seed43/last.pt": "b934f1c8c6268abf2529bb58c433c46e662641d4b55c5a031afebc0a9ae7d7ab"
+  }
+}

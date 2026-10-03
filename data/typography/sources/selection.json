@@ -1,0 +1,126 @@
+{
+  "ranking": {
+    "name": "R_s100",
+    "checkpoint": "/workspace/clip/fse_typographic_20260926/runs/R_s100/last.pt",
+    "sha256": "9bfbd57b8585b00bd2a75881079b9b722c9ef7d58ac1ef90af746ae86d30a1f8",
+    "clean": 0.9970703125,
+    "blank": 0.9951171875,
+    "conflict": 0.931640625,
+    "congruent": 1.0,
+    "interaction": 0.05637317895889282,
+    "clean_top1": 0.884765625,
+    "utility": 0.974609375
+  },
+  "IS": {
+    "name": "IS_s30_w1",
+    "checkpoint": "/workspace/clip/fse_typographic_20260926/runs/IS_s30_w1/last.pt",
+    "sha256": "5cd61711f756babd44e0b518c21210a90fd940f445a00e1fd51f8318e0386c7c",
+    "clean": 0.99609375,
+    "blank": 0.9931640625,
+    "conflict": 0.978515625,
+    "congruent": 0.9970703125,
+    "interaction": 0.021155746653676033,
+    "clean_top1": 0.826171875,
+    "utility": 0.9892578125
+  },
+  "same_scale_ablation": "R_s30",
+  "all_candidates": [
+    {
+      "name": "R_s3",
+      "checkpoint": "/workspace/clip/fse_typographic_20260926/runs/R_s3/last.pt",
+      "sha256": "5a29fbcf84e23ade17110bbe51623017017119b9cac38a04f204d2aa9495325a",
+      "clean": 0.99609375,
+      "blank": 0.9921875,
+      "conflict": 0.607421875,
+      "congruent": 1.0,
+      "interaction": 0.38208603858947754,
+      "clean_top1": 0.8671875,
+      "utility": 0.865234375
+    },
+    {
+      "name": "R_s10",
+      "checkpoint": "/workspace/clip/fse_typographic_20260926/runs/R_s10/last.pt",
+      "sha256": "930e30887a526244b3e481f66cba22e639dc1cde6223d3d9ba4a7c7c65c1284b",
+      "clean": 0.99609375,
+      "blank": 0.9921875,
+      "conflict": 0.7060546875,
+      "congruent": 1.0,
+      "interaction": 0.34400802850723267,
+      "clean_top1": 0.8671875,
+      "utility": 0.8981119791666666
+    },
+    {
+      "name": "R_s30",
+      "checkpoint": "/workspace/clip/fse_typographic_20260926/runs/R_s30/last.pt",
+      "sha256": "e8d0689dae199a79b3b6caf3e9243aac87321352549bfef1c60c5585f7440cf6",
+      "clean": 0.9970703125,
+      "blank": 0.994140625,
+      "conflict": 0.8818359375,
+      "congruent": 1.0,
+      "interaction": 0.17110970616340637,
+      "clean_top1": 0.876953125,
+      "utility": 0.9576822916666666
+    },
+    {
+      "name": "R_s100",
+      "checkpoint": "/workspace/clip/fse_typographic_20260926/runs/R_s100/last.pt",
+      "sha256": "9bfbd57b8585b00bd2a75881079b9b722c9ef7d58ac1ef90af746ae86d30a1f8",
+      "clean": 0.9970703125,
+      "blank": 0.9951171875,
+      "conflict": 0.931640625,
+      "congruent": 1.0,
+      "interaction": 0.05637317895889282,
+      "clean_top1": 0.884765625,
+      "utility": 0.974609375
+    },
+    {
+      "name": "IS_s30_w0.1",
+      "checkpoint": "/workspace/clip/fse_typographic_20260926/runs/IS_s30_w0.1/last.pt",
+      "sha256": "13918cdfdf6a89bf67514179237741eebc410659b00e78e6545ac53950512cfa",
+      "clean": 0.9970703125,
+      "blank": 0.994140625,
+      "conflict": 0.9599609375,
+      "congruent": 0.9990234375,
+      "interaction": 0.06926406919956207,
+      "clean_top1": 0.869140625,
+      "utility": 0.9837239583333334
+    },
+    {
+      "name": "IS_s30_w1",
+      "checkpoint": "/workspace/clip/fse_typographic_20260926/runs/IS_s30_w1/last.pt",
+      "sha256": "5cd61711f756babd44e0b518c21210a90fd940f445a00e1fd51f8318e0386c7c",
+      "clean": 0.99609375,
+      "blank": 0.9931640625,
+      "conflict": 0.978515625,
+      "congruent": 0.9970703125,
+      "interaction": 0.021155746653676033,
+      "clean_top1": 0.826171875,
+      "utility": 0.9892578125
+    },
+    {
+      "name": "IS_s100_w0.1",
+      "checkpoint": "/workspace/clip/fse_typographic_20260926/runs/IS_s100_w0.1/last.pt",
+      "sha256": "e95abb24bca8f83c060686f3a15ff8b842d390ce9f43b290c20a55cd38b015b9",
+      "clean": 0.9970703125,
+      "blank": 0.994140625,
+      "conflict": 0.951171875,
+      "congruent": 1.0,
+      "interaction": 0.03487556055188179,
+      "clean_top1": 0.873046875,
+      "utility": 0.9807942708333334
+    },
+    {
+      "name": "IS_s100_w1",
+      "checkpoint": "/workspace/clip/fse_typographic_20260926/runs/IS_s100_w1/last.pt",
+      "sha256": "c08742dbaea3f290c001f40545d947e81e19c91c0905b4dbb288da13730ce2a6",
+      "clean": 0.99609375,
+      "blank": 0.9931640625,
+      "conflict": 0.974609375,
+      "congruent": 0.99609375,
+      "interaction": 0.014327136799693108,
+      "clean_top1": 0.859375,
+      "utility": 0.9879557291666666
+    }
+  ],
+  "identical_init_dropout": true
+}

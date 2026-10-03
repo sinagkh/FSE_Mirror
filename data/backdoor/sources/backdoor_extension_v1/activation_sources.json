@@ -1,0 +1,5699 @@
+[
+  {
+    "id": "train:1108939",
+    "image_id": 88983,
+    "ann_id": 1108939,
+    "file": "000000088983.jpg",
+    "label": "remote",
+    "words": [
+      "remote",
+      "carrot",
+      "handbag"
+    ],
+    "bbox": [
+      0.0,
+      163.64,
+      499.0,
+      232.86
+    ],
+    "width": 500,
+    "height": 401,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:25711",
+    "image_id": 424258,
+    "ann_id": 25711,
+    "file": "000000424258.jpg",
+    "label": "potted plant",
+    "words": [
+      "potted plant",
+      "umbrella",
+      "book"
+    ],
+    "bbox": [
+      3.8,
+      205.35,
+      178.73,
+      212.95
+    ],
+    "width": 640,
+    "height": 424,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:1024426",
+    "ann_id": 1024426,
+    "image_id": 399981,
+    "file": "000000399981.jpg",
+    "bbox": [
+      238.78,
+      142.15,
+      289.41,
+      267.98
+    ],
+    "area": 58123.1,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017",
+    "label": "pastry",
+    "lvis_category_id": 771,
+    "split": "train_new",
+    "words": [
+      "pastry",
+      "bread",
+      "basket"
+    ]
+  },
+  {
+    "id": "lvis:775474",
+    "ann_id": 775474,
+    "image_id": 60056,
+    "file": "000000060056.jpg",
+    "bbox": [
+      0.75,
+      255.91,
+      143.15,
+      248.58
+    ],
+    "area": 24862.41,
+    "width": 476,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "sweatshirt",
+    "lvis_category_id": 1043,
+    "split": "train_new",
+    "words": [
+      "sweatshirt",
+      "truck",
+      "bed"
+    ]
+  },
+  {
+    "id": "train:626347",
+    "image_id": 436221,
+    "ann_id": 626347,
+    "file": "000000436221.jpg",
+    "label": "kite",
+    "words": [
+      "kite",
+      "donut",
+      "bed"
+    ],
+    "bbox": [
+      72.73,
+      148.72,
+      407.27,
+      386.02
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:661058",
+    "image_id": 571786,
+    "ann_id": 661058,
+    "file": "000000571786.jpg",
+    "label": "wine glass",
+    "words": [
+      "wine glass",
+      "keyboard",
+      "vase"
+    ],
+    "bbox": [
+      54.65,
+      123.69,
+      191.28,
+      496.18
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1152960",
+    "image_id": 34579,
+    "ann_id": 1152960,
+    "file": "000000034579.jpg",
+    "label": "vase",
+    "words": [
+      "vase",
+      "stop sign",
+      "bench"
+    ],
+    "bbox": [
+      161.93,
+      258.64,
+      305.25,
+      164.86
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:1065751",
+    "ann_id": 1065751,
+    "image_id": 279241,
+    "file": "000000279241.jpg",
+    "bbox": [
+      181.4,
+      152.98,
+      215.95,
+      365.65
+    ],
+    "area": 41846.96,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "vest",
+    "lvis_category_id": 1142,
+    "split": "train_new",
+    "words": [
+      "vest",
+      "boat",
+      "street sign"
+    ]
+  },
+  {
+    "id": "lvis:443971",
+    "ann_id": 443971,
+    "image_id": 61672,
+    "file": "000000061672.jpg",
+    "bbox": [
+      147.7,
+      151.81,
+      324.41,
+      256.65
+    ],
+    "area": 63912.0,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "soup",
+    "lvis_category_id": 986,
+    "split": "train_new",
+    "words": [
+      "soup",
+      "sink",
+      "potted plant"
+    ]
+  },
+  {
+    "id": "train:1844114",
+    "image_id": 276239,
+    "ann_id": 1844114,
+    "file": "000000276239.jpg",
+    "label": "suitcase",
+    "words": [
+      "suitcase",
+      "potted plant",
+      "book"
+    ],
+    "bbox": [
+      147.95,
+      440.52,
+      211.11,
+      189.51
+    ],
+    "width": 640,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1173181",
+    "image_id": 163666,
+    "ann_id": 1173181,
+    "file": "000000163666.jpg",
+    "label": "handbag",
+    "words": [
+      "handbag",
+      "book",
+      "potted plant"
+    ],
+    "bbox": [
+      57.17,
+      123.6,
+      442.83,
+      247.2
+    ],
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:269765",
+    "image_id": 481073,
+    "ann_id": 269765,
+    "file": "000000481073.jpg",
+    "label": "stop sign",
+    "words": [
+      "stop sign",
+      "train",
+      "bottle"
+    ],
+    "bbox": [
+      204.38,
+      149.53,
+      179.44,
+      221.66
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:573336",
+    "image_id": 18485,
+    "ann_id": 573336,
+    "file": "000000018485.jpg",
+    "label": "bench",
+    "words": [
+      "bench",
+      "remote",
+      "apple"
+    ],
+    "bbox": [
+      195.03,
+      133.22,
+      424.74,
+      339.14
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:813506",
+    "ann_id": 813506,
+    "image_id": 322309,
+    "file": "000000322309.jpg",
+    "bbox": [
+      169.17,
+      90.6,
+      153.09,
+      336.4
+    ],
+    "area": 32647.95,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017",
+    "label": "dress suit",
+    "lvis_category_id": 394,
+    "split": "train_new",
+    "words": [
+      "dress suit",
+      "sheep",
+      "vase"
+    ]
+  },
+  {
+    "id": "train:156331",
+    "image_id": 351369,
+    "ann_id": 156331,
+    "file": "000000351369.jpg",
+    "label": "airplane",
+    "words": [
+      "airplane",
+      "refrigerator",
+      "car"
+    ],
+    "bbox": [
+      55.65,
+      83.48,
+      561.34,
+      181.36
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:129520",
+    "ann_id": 129520,
+    "image_id": 295656,
+    "file": "000000295656.jpg",
+    "bbox": [
+      35.35,
+      184.92,
+      139.73,
+      299.08
+    ],
+    "area": 28185.12,
+    "width": 640,
+    "height": 484,
+    "coco_split": "train2017",
+    "label": "dress",
+    "lvis_category_id": 392,
+    "split": "train_new",
+    "words": [
+      "dress",
+      "stop sign",
+      "keyboard"
+    ]
+  },
+  {
+    "id": "train:1047754",
+    "image_id": 307734,
+    "ann_id": 1047754,
+    "file": "000000307734.jpg",
+    "label": "apple",
+    "words": [
+      "apple",
+      "keyboard",
+      "vase"
+    ],
+    "bbox": [
+      71.42,
+      22.65,
+      349.62,
+      347.3
+    ],
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1063680",
+    "image_id": 133050,
+    "ann_id": 1063680,
+    "file": "000000133050.jpg",
+    "label": "carrot",
+    "words": [
+      "carrot",
+      "kite",
+      "bed"
+    ],
+    "bbox": [
+      123.58,
+      150.11,
+      420.75,
+      86.97
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:79716",
+    "image_id": 580608,
+    "ann_id": 79716,
+    "file": "000000580608.jpg",
+    "label": "bottle",
+    "words": [
+      "bottle",
+      "sink",
+      "handbag"
+    ],
+    "bbox": [
+      162.1,
+      247.53,
+      100.18,
+      342.45
+    ],
+    "width": 416,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:79955",
+    "image_id": 474579,
+    "ann_id": 79955,
+    "file": "000000474579.jpg",
+    "label": "bottle",
+    "words": [
+      "bottle",
+      "car",
+      "refrigerator"
+    ],
+    "bbox": [
+      46.18,
+      0.54,
+      99.55,
+      334.64
+    ],
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:180987",
+    "ann_id": 180987,
+    "image_id": 148588,
+    "file": "000000148588.jpg",
+    "bbox": [
+      0.0,
+      13.07,
+      640.0,
+      326.61
+    ],
+    "area": 189134.14,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "fireplace",
+    "lvis_category_id": 444,
+    "split": "train_new",
+    "words": [
+      "fireplace",
+      "blanket",
+      "bed"
+    ]
+  },
+  {
+    "id": "lvis:1250508",
+    "ann_id": 1250508,
+    "image_id": 239984,
+    "file": "000000239984.jpg",
+    "bbox": [
+      6.05,
+      303.8,
+      583.71,
+      138.97
+    ],
+    "area": 36334.62,
+    "width": 640,
+    "height": 444,
+    "coco_split": "train2017",
+    "label": "bread",
+    "lvis_category_id": 150,
+    "split": "train_new",
+    "words": [
+      "bread",
+      "pillow",
+      "chopping board"
+    ]
+  },
+  {
+    "id": "lvis:19130",
+    "ann_id": 19130,
+    "image_id": 534335,
+    "file": "000000534335.jpg",
+    "bbox": [
+      35.57,
+      107.84,
+      464.43,
+      267.16
+    ],
+    "area": 42291.06,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017",
+    "label": "place mat",
+    "lvis_category_id": 817,
+    "split": "train_new",
+    "words": [
+      "place mat",
+      "dress",
+      "bear"
+    ]
+  },
+  {
+    "id": "train:1048154",
+    "image_id": 94514,
+    "ann_id": 1048154,
+    "file": "000000094514.jpg",
+    "label": "apple",
+    "words": [
+      "apple",
+      "train",
+      "bottle"
+    ],
+    "bbox": [
+      340.68,
+      113.32,
+      191.65,
+      193.03
+    ],
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1097920",
+    "image_id": 289492,
+    "ann_id": 1097920,
+    "file": "000000289492.jpg",
+    "label": "laptop",
+    "words": [
+      "laptop",
+      "wine glass",
+      "remote"
+    ],
+    "bbox": [
+      39.07,
+      202.97,
+      445.02,
+      274.6
+    ],
+    "width": 640,
+    "height": 483,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:678282",
+    "image_id": 427654,
+    "ann_id": 678282,
+    "file": "000000427654.jpg",
+    "label": "cup",
+    "words": [
+      "cup",
+      "elephant",
+      "stop sign"
+    ],
+    "bbox": [
+      5.74,
+      302.71,
+      354.44,
+      272.64
+    ],
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1952429",
+    "image_id": 196091,
+    "ann_id": 1952429,
+    "file": "000000196091.jpg",
+    "label": "potted plant",
+    "words": [
+      "potted plant",
+      "sheep",
+      "boat"
+    ],
+    "bbox": [
+      1.66,
+      41.56,
+      477.09,
+      508.97
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:82450",
+    "ann_id": 82450,
+    "image_id": 462304,
+    "file": "000000462304.jpg",
+    "bbox": [
+      28.24,
+      26.38,
+      276.11,
+      73.36
+    ],
+    "area": 17593.28,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017",
+    "label": "basket",
+    "lvis_category_id": 61,
+    "split": "train_new",
+    "words": [
+      "basket",
+      "napkin",
+      "blouse"
+    ]
+  },
+  {
+    "id": "train:22594",
+    "image_id": 148044,
+    "ann_id": 22594,
+    "file": "000000148044.jpg",
+    "label": "potted plant",
+    "words": [
+      "potted plant",
+      "cup",
+      "carrot"
+    ],
+    "bbox": [
+      68.88,
+      320.0,
+      241.08,
+      261.17
+    ],
+    "width": 428,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1139011",
+    "image_id": 253004,
+    "ann_id": 1139011,
+    "file": "000000253004.jpg",
+    "label": "book",
+    "words": [
+      "book",
+      "car",
+      "sheep"
+    ],
+    "bbox": [
+      0.0,
+      21.11,
+      504.72,
+      401.09
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:181059",
+    "image_id": 365600,
+    "ann_id": 181059,
+    "file": "000000365600.jpg",
+    "label": "boat",
+    "words": [
+      "boat",
+      "bench",
+      "truck"
+    ],
+    "bbox": [
+      187.99,
+      25.07,
+      429.96,
+      233.29
+    ],
+    "width": 640,
+    "height": 429,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:294253",
+    "ann_id": 294253,
+    "image_id": 438448,
+    "file": "000000438448.jpg",
+    "bbox": [
+      32.66,
+      242.9,
+      285.4,
+      160.5
+    ],
+    "area": 29156.97,
+    "width": 640,
+    "height": 424,
+    "coco_split": "train2017",
+    "label": "box",
+    "lvis_category_id": 143,
+    "split": "train_new",
+    "words": [
+      "box",
+      "cabinet",
+      "jacket"
+    ]
+  },
+  {
+    "id": "train:1113100",
+    "image_id": 502024,
+    "ann_id": 1113100,
+    "file": "000000502024.jpg",
+    "label": "remote",
+    "words": [
+      "remote",
+      "vase",
+      "truck"
+    ],
+    "bbox": [
+      42.82,
+      19.16,
+      376.63,
+      603.89
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:630178",
+    "ann_id": 630178,
+    "image_id": 131894,
+    "file": "000000131894.jpg",
+    "bbox": [
+      0.0,
+      218.62,
+      347.85,
+      266.18
+    ],
+    "area": 23230.21,
+    "width": 375,
+    "height": 500,
+    "coco_split": "train2017",
+    "label": "bathtub",
+    "lvis_category_id": 68,
+    "split": "train_new",
+    "words": [
+      "bathtub",
+      "headboard",
+      "stop sign"
+    ]
+  },
+  {
+    "id": "lvis:118246",
+    "ann_id": 118246,
+    "image_id": 447087,
+    "file": "000000447087.jpg",
+    "bbox": [
+      0.0,
+      359.2,
+      640.0,
+      120.8
+    ],
+    "area": 38037.83,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "tablecloth",
+    "lvis_category_id": 1052,
+    "split": "train_new",
+    "words": [
+      "tablecloth",
+      "log",
+      "stove"
+    ]
+  },
+  {
+    "id": "train:20055",
+    "image_id": 511236,
+    "ann_id": 20055,
+    "file": "000000511236.jpg",
+    "label": "potted plant",
+    "words": [
+      "potted plant",
+      "backpack",
+      "donut"
+    ],
+    "bbox": [
+      264.61,
+      162.64,
+      183.7,
+      168.54
+    ],
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:1093049",
+    "ann_id": 1093049,
+    "image_id": 545493,
+    "file": "000000545493.jpg",
+    "bbox": [
+      0.0,
+      0.0,
+      479.15,
+      136.85
+    ],
+    "area": 45898.76,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "banner",
+    "lvis_category_id": 50,
+    "split": "train_new",
+    "words": [
+      "banner",
+      "tinfoil",
+      "apple"
+    ]
+  },
+  {
+    "id": "train:333226",
+    "image_id": 575356,
+    "ann_id": 333226,
+    "file": "000000575356.jpg",
+    "label": "refrigerator",
+    "words": [
+      "refrigerator",
+      "wine glass",
+      "suitcase"
+    ],
+    "bbox": [
+      156.76,
+      122.25,
+      197.04,
+      500.49
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:66258",
+    "image_id": 216980,
+    "ann_id": 66258,
+    "file": "000000216980.jpg",
+    "label": "sheep",
+    "words": [
+      "sheep",
+      "kite",
+      "backpack"
+    ],
+    "bbox": [
+      18.58,
+      118.39,
+      355.1,
+      355.1
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1081748",
+    "image_id": 367571,
+    "ann_id": 1081748,
+    "file": "000000367571.jpg",
+    "label": "donut",
+    "words": [
+      "donut",
+      "wine glass",
+      "suitcase"
+    ],
+    "bbox": [
+      59.28,
+      235.45,
+      251.93,
+      205.05
+    ],
+    "width": 640,
+    "height": 478,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:161190",
+    "image_id": 512375,
+    "ann_id": 161190,
+    "file": "000000512375.jpg",
+    "label": "airplane",
+    "words": [
+      "airplane",
+      "book",
+      "potted plant"
+    ],
+    "bbox": [
+      24.32,
+      157.19,
+      601.44,
+      123.29
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:396457",
+    "image_id": 533998,
+    "ann_id": 396457,
+    "file": "000000533998.jpg",
+    "label": "truck",
+    "words": [
+      "truck",
+      "wine glass",
+      "suitcase"
+    ],
+    "bbox": [
+      43.68,
+      73.44,
+      581.66,
+      303.61
+    ],
+    "width": 640,
+    "height": 473,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:315978",
+    "image_id": 103375,
+    "ann_id": 315978,
+    "file": "000000103375.jpg",
+    "label": "bed",
+    "words": [
+      "bed",
+      "train",
+      "laptop"
+    ],
+    "bbox": [
+      19.24,
+      215.28,
+      591.5,
+      207.75
+    ],
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:289695",
+    "ann_id": 289695,
+    "image_id": 216664,
+    "file": "000000216664.jpg",
+    "bbox": [
+      1.1,
+      0.0,
+      610.9,
+      442.3
+    ],
+    "area": 153633.33,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017",
+    "label": "bathtub",
+    "lvis_category_id": 68,
+    "split": "train_new",
+    "words": [
+      "bathtub",
+      "paper plate",
+      "mirror"
+    ]
+  },
+  {
+    "id": "train:169896",
+    "image_id": 387635,
+    "ann_id": 169896,
+    "file": "000000387635.jpg",
+    "label": "train",
+    "words": [
+      "train",
+      "backpack",
+      "donut"
+    ],
+    "bbox": [
+      163.96,
+      270.38,
+      277.57,
+      221.49
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:571479",
+    "image_id": 195677,
+    "ann_id": 571479,
+    "file": "000000195677.jpg",
+    "label": "bench",
+    "words": [
+      "bench",
+      "suitcase",
+      "wine glass"
+    ],
+    "bbox": [
+      37.05,
+      185.25,
+      389.7,
+      386.96
+    ],
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:330785",
+    "image_id": 357831,
+    "ann_id": 330785,
+    "file": "000000357831.jpg",
+    "label": "refrigerator",
+    "words": [
+      "refrigerator",
+      "handbag",
+      "sink"
+    ],
+    "bbox": [
+      173.66,
+      25.89,
+      263.19,
+      245.93
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:94954",
+    "image_id": 298067,
+    "ann_id": 94954,
+    "file": "000000298067.jpg",
+    "label": "bottle",
+    "words": [
+      "bottle",
+      "carrot",
+      "cup"
+    ],
+    "bbox": [
+      124.5,
+      0.0,
+      205.74,
+      574.12
+    ],
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1917625",
+    "image_id": 18467,
+    "ann_id": 1917625,
+    "file": "000000018467.jpg",
+    "label": "carrot",
+    "words": [
+      "carrot",
+      "bottle",
+      "refrigerator"
+    ],
+    "bbox": [
+      151.61,
+      152.48,
+      271.74,
+      201.14
+    ],
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:196906",
+    "ann_id": 196906,
+    "image_id": 405196,
+    "file": "000000405196.jpg",
+    "bbox": [
+      0.0,
+      313.44,
+      428.0,
+      326.56
+    ],
+    "area": 95658.13,
+    "width": 428,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "plastic bag",
+    "lvis_category_id": 898,
+    "split": "train_new",
+    "words": [
+      "plastic bag",
+      "tarp",
+      "drawer"
+    ]
+  },
+  {
+    "id": "lvis:431024",
+    "ann_id": 431024,
+    "image_id": 197551,
+    "file": "000000197551.jpg",
+    "bbox": [
+      0.0,
+      99.98,
+      640.0,
+      323.02
+    ],
+    "area": 38121.91,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "place mat",
+    "lvis_category_id": 817,
+    "split": "train_new",
+    "words": [
+      "place mat",
+      "tinfoil",
+      "jean"
+    ]
+  },
+  {
+    "id": "train:347892",
+    "image_id": 4665,
+    "ann_id": 347892,
+    "file": "000000004665.jpg",
+    "label": "car",
+    "words": [
+      "car",
+      "cup",
+      "sink"
+    ],
+    "bbox": [
+      91.96,
+      2.19,
+      548.04,
+      172.98
+    ],
+    "width": 640,
+    "height": 485,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1185864",
+    "image_id": 343185,
+    "ann_id": 1185864,
+    "file": "000000343185.jpg",
+    "label": "suitcase",
+    "words": [
+      "suitcase",
+      "train",
+      "laptop"
+    ],
+    "bbox": [
+      85.96,
+      56.8,
+      297.99,
+      357.32
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:312849",
+    "ann_id": 312849,
+    "image_id": 492440,
+    "file": "000000492440.jpg",
+    "bbox": [
+      51.05,
+      115.12,
+      472.86,
+      395.1
+    ],
+    "area": 45103.96,
+    "width": 640,
+    "height": 613,
+    "coco_split": "train2017",
+    "label": "wet suit",
+    "lvis_category_id": 1177,
+    "split": "train_new",
+    "words": [
+      "wet suit",
+      "backpack",
+      "christmas tree"
+    ]
+  },
+  {
+    "id": "lvis:109581",
+    "ann_id": 109581,
+    "image_id": 61603,
+    "file": "000000061603.jpg",
+    "bbox": [
+      198.85,
+      0.0,
+      441.15,
+      427.0
+    ],
+    "area": 28500.15,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017",
+    "label": "pillow",
+    "lvis_category_id": 804,
+    "split": "train_new",
+    "words": [
+      "pillow",
+      "paper plate",
+      "jacket"
+    ]
+  },
+  {
+    "id": "lvis:854531",
+    "ann_id": 854531,
+    "image_id": 436108,
+    "file": "000000436108.jpg",
+    "bbox": [
+      60.19,
+      118.52,
+      276.35,
+      267.24
+    ],
+    "area": 26853.75,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "blouse",
+    "lvis_category_id": 115,
+    "split": "train_new",
+    "words": [
+      "blouse",
+      "blender",
+      "dress"
+    ]
+  },
+  {
+    "id": "train:268334",
+    "image_id": 144670,
+    "ann_id": 268334,
+    "file": "000000144670.jpg",
+    "label": "boat",
+    "words": [
+      "boat",
+      "airplane",
+      "umbrella"
+    ],
+    "bbox": [
+      69.8,
+      188.16,
+      252.94,
+      141.11
+    ],
+    "width": 500,
+    "height": 334,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:190439",
+    "ann_id": 190439,
+    "image_id": 258661,
+    "file": "000000258661.jpg",
+    "bbox": [
+      251.76,
+      206.21,
+      280.78,
+      208.55
+    ],
+    "area": 45536.09,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "soup",
+    "lvis_category_id": 986,
+    "split": "train_new",
+    "words": [
+      "soup",
+      "truck",
+      "drawer"
+    ]
+  },
+  {
+    "id": "train:1917933",
+    "image_id": 283611,
+    "ann_id": 1917933,
+    "file": "000000283611.jpg",
+    "label": "carrot",
+    "words": [
+      "carrot",
+      "sink",
+      "handbag"
+    ],
+    "bbox": [
+      246.87,
+      236.71,
+      193.12,
+      276.02
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1080433",
+    "image_id": 335928,
+    "ann_id": 1080433,
+    "file": "000000335928.jpg",
+    "label": "donut",
+    "words": [
+      "donut",
+      "laptop",
+      "train"
+    ],
+    "bbox": [
+      75.51,
+      129.44,
+      418.51,
+      263.19
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:1032868",
+    "ann_id": 1032868,
+    "image_id": 496118,
+    "file": "000000496118.jpg",
+    "bbox": [
+      2.46,
+      280.85,
+      327.92,
+      172.67
+    ],
+    "area": 31080.47,
+    "width": 640,
+    "height": 512,
+    "coco_split": "train2017",
+    "label": "log",
+    "lvis_category_id": 653,
+    "split": "train_new",
+    "words": [
+      "log",
+      "apron",
+      "awning"
+    ]
+  },
+  {
+    "id": "train:1079677",
+    "image_id": 80892,
+    "ann_id": 1079677,
+    "file": "000000080892.jpg",
+    "label": "donut",
+    "words": [
+      "donut",
+      "backpack",
+      "kite"
+    ],
+    "bbox": [
+      239.46,
+      179.06,
+      183.37,
+      176.9
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1047798",
+    "image_id": 548957,
+    "ann_id": 1047798,
+    "file": "000000548957.jpg",
+    "label": "apple",
+    "words": [
+      "apple",
+      "elephant",
+      "keyboard"
+    ],
+    "bbox": [
+      0.0,
+      0.45,
+      581.6,
+      420.46
+    ],
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:962636",
+    "ann_id": 962636,
+    "image_id": 569286,
+    "file": "000000569286.jpg",
+    "bbox": [
+      241.97,
+      75.19,
+      198.17,
+      386.62
+    ],
+    "area": 34500.08,
+    "width": 480,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "tissue paper",
+    "lvis_category_id": 1093,
+    "split": "train_new",
+    "words": [
+      "tissue paper",
+      "dress",
+      "laptop"
+    ]
+  },
+  {
+    "id": "train:275975",
+    "image_id": 58146,
+    "ann_id": 275975,
+    "file": "000000058146.jpg",
+    "label": "sheep",
+    "words": [
+      "sheep",
+      "suitcase",
+      "apple"
+    ],
+    "bbox": [
+      188.83,
+      34.98,
+      232.88,
+      393.0
+    ],
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1098967",
+    "image_id": 69364,
+    "ann_id": 1098967,
+    "file": "000000069364.jpg",
+    "label": "laptop",
+    "words": [
+      "laptop",
+      "zebra",
+      "horse"
+    ],
+    "bbox": [
+      0.84,
+      0.0,
+      302.53,
+      369.1
+    ],
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:576791",
+    "image_id": 12861,
+    "ann_id": 576791,
+    "file": "000000012861.jpg",
+    "label": "bench",
+    "words": [
+      "bench",
+      "sheep",
+      "airplane"
+    ],
+    "bbox": [
+      0.0,
+      191.98,
+      491.98,
+      180.0
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:76253",
+    "ann_id": 76253,
+    "image_id": 80010,
+    "file": "000000080010.jpg",
+    "bbox": [
+      160.42,
+      67.39,
+      152.43,
+      191.1
+    ],
+    "area": 23715.42,
+    "width": 640,
+    "height": 457,
+    "coco_split": "train2017",
+    "label": "vest",
+    "lvis_category_id": 1142,
+    "split": "train_new",
+    "words": [
+      "vest",
+      "handbag",
+      "stop sign"
+    ]
+  },
+  {
+    "id": "lvis:471179",
+    "ann_id": 471179,
+    "image_id": 457268,
+    "file": "000000457268.jpg",
+    "bbox": [
+      58.29,
+      0.0,
+      119.87,
+      233.36
+    ],
+    "area": 27561.72,
+    "width": 362,
+    "height": 500,
+    "coco_split": "train2017",
+    "label": "mirror",
+    "lvis_category_id": 694,
+    "split": "train_new",
+    "words": [
+      "mirror",
+      "sink",
+      "christmas tree"
+    ]
+  },
+  {
+    "id": "lvis:649429",
+    "ann_id": 649429,
+    "image_id": 558890,
+    "file": "000000558890.jpg",
+    "bbox": [
+      196.24,
+      1.31,
+      191.19,
+      201.94
+    ],
+    "area": 27593.25,
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017",
+    "label": "poster",
+    "lvis_category_id": 835,
+    "split": "train_new",
+    "words": [
+      "poster",
+      "fireplace",
+      "bear"
+    ]
+  },
+  {
+    "id": "lvis:327724",
+    "ann_id": 327724,
+    "image_id": 277346,
+    "file": "000000277346.jpg",
+    "bbox": [
+      240.41,
+      68.13,
+      206.22,
+      155.27
+    ],
+    "area": 18198.58,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017",
+    "label": "bread",
+    "lvis_category_id": 150,
+    "split": "train_new",
+    "words": [
+      "bread",
+      "book",
+      "shower curtain"
+    ]
+  },
+  {
+    "id": "lvis:1067872",
+    "ann_id": 1067872,
+    "image_id": 577928,
+    "file": "000000577928.jpg",
+    "bbox": [
+      163.55,
+      442.17,
+      263.45,
+      186.38
+    ],
+    "area": 36925.17,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "newspaper",
+    "lvis_category_id": 719,
+    "split": "train_new",
+    "words": [
+      "newspaper",
+      "plastic bag",
+      "vest"
+    ]
+  },
+  {
+    "id": "train:1100308",
+    "image_id": 180593,
+    "ann_id": 1100308,
+    "file": "000000180593.jpg",
+    "label": "laptop",
+    "words": [
+      "laptop",
+      "sheep",
+      "boat"
+    ],
+    "bbox": [
+      123.28,
+      110.85,
+      304.57,
+      215.48
+    ],
+    "width": 640,
+    "height": 461,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1139365",
+    "image_id": 188510,
+    "ann_id": 1139365,
+    "file": "000000188510.jpg",
+    "label": "book",
+    "words": [
+      "book",
+      "train",
+      "laptop"
+    ],
+    "bbox": [
+      0.23,
+      1.61,
+      182.76,
+      258.55
+    ],
+    "width": 640,
+    "height": 481,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:173042",
+    "image_id": 284552,
+    "ann_id": 173042,
+    "file": "000000284552.jpg",
+    "label": "train",
+    "words": [
+      "train",
+      "truck",
+      "bench"
+    ],
+    "bbox": [
+      1.31,
+      232.89,
+      636.93,
+      109.86
+    ],
+    "width": 640,
+    "height": 582,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:693332",
+    "ann_id": 693332,
+    "image_id": 138529,
+    "file": "000000138529.jpg",
+    "bbox": [
+      0.0,
+      0.0,
+      272.56,
+      353.87
+    ],
+    "area": 68989.19,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "shower curtain",
+    "lvis_category_id": 957,
+    "split": "train_new",
+    "words": [
+      "shower curtain",
+      "elephant",
+      "basket"
+    ]
+  },
+  {
+    "id": "lvis:1143333",
+    "ann_id": 1143333,
+    "image_id": 525264,
+    "file": "000000525264.jpg",
+    "bbox": [
+      5.83,
+      177.9,
+      308.35,
+      160.47
+    ],
+    "area": 33524.05,
+    "width": 640,
+    "height": 435,
+    "coco_split": "train2017",
+    "label": "banner",
+    "lvis_category_id": 50,
+    "split": "train_new",
+    "words": [
+      "banner",
+      "pot",
+      "car"
+    ]
+  },
+  {
+    "id": "train:586759",
+    "image_id": 81081,
+    "ann_id": 586759,
+    "file": "000000081081.jpg",
+    "label": "bear",
+    "words": [
+      "bear",
+      "sink",
+      "kite"
+    ],
+    "bbox": [
+      243.13,
+      149.99,
+      170.65,
+      208.05
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1082779",
+    "image_id": 38920,
+    "ann_id": 1082779,
+    "file": "000000038920.jpg",
+    "label": "donut",
+    "words": [
+      "donut",
+      "cup",
+      "sink"
+    ],
+    "bbox": [
+      293.74,
+      296.07,
+      219.7,
+      183.93
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:980193",
+    "ann_id": 980193,
+    "image_id": 359180,
+    "file": "000000359180.jpg",
+    "bbox": [
+      108.94,
+      0.18,
+      252.45,
+      294.07
+    ],
+    "area": 59758.39,
+    "width": 478,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "mirror",
+    "lvis_category_id": 694,
+    "split": "train_new",
+    "words": [
+      "mirror",
+      "bed",
+      "stove"
+    ]
+  },
+  {
+    "id": "train:1987705",
+    "image_id": 441199,
+    "ann_id": 1987705,
+    "file": "000000441199.jpg",
+    "label": "book",
+    "words": [
+      "book",
+      "boat",
+      "potted plant"
+    ],
+    "bbox": [
+      264.78,
+      8.93,
+      235.22,
+      270.5
+    ],
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:61453",
+    "image_id": 336577,
+    "ann_id": 61453,
+    "file": "000000336577.jpg",
+    "label": "sheep",
+    "words": [
+      "sheep",
+      "potted plant",
+      "book"
+    ],
+    "bbox": [
+      112.17,
+      120.33,
+      366.26,
+      232.84
+    ],
+    "width": 640,
+    "height": 396,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:398351",
+    "image_id": 211116,
+    "ann_id": 398351,
+    "file": "000000211116.jpg",
+    "label": "truck",
+    "words": [
+      "truck",
+      "car",
+      "refrigerator"
+    ],
+    "bbox": [
+      108.73,
+      212.36,
+      302.79,
+      199.62
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:596286",
+    "ann_id": 596286,
+    "image_id": 125009,
+    "file": "000000125009.jpg",
+    "bbox": [
+      151.78,
+      156.97,
+      416.04,
+      104.94
+    ],
+    "area": 40262.16,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017",
+    "label": "street sign",
+    "lvis_category_id": 1026,
+    "split": "train_new",
+    "words": [
+      "street sign",
+      "drawer",
+      "blanket"
+    ]
+  },
+  {
+    "id": "train:1139043",
+    "image_id": 162282,
+    "ann_id": 1139043,
+    "file": "000000162282.jpg",
+    "label": "book",
+    "words": [
+      "book",
+      "laptop",
+      "bear"
+    ],
+    "bbox": [
+      151.01,
+      254.38,
+      488.99,
+      220.05
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:1159611",
+    "ann_id": 1159611,
+    "image_id": 441816,
+    "file": "000000441816.jpg",
+    "bbox": [
+      33.52,
+      459.09,
+      332.47,
+      162.65
+    ],
+    "area": 44709.29,
+    "width": 533,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "pot",
+    "lvis_category_id": 836,
+    "split": "train_new",
+    "words": [
+      "pot",
+      "sheep",
+      "poster"
+    ]
+  },
+  {
+    "id": "lvis:357687",
+    "ann_id": 357687,
+    "image_id": 148780,
+    "file": "000000148780.jpg",
+    "bbox": [
+      267.65,
+      40.75,
+      371.39,
+      383.32
+    ],
+    "area": 69232.56,
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017",
+    "label": "wet suit",
+    "lvis_category_id": 1177,
+    "split": "train_new",
+    "words": [
+      "wet suit",
+      "quilt",
+      "horse"
+    ]
+  },
+  {
+    "id": "train:1466456",
+    "image_id": 336696,
+    "ann_id": 1466456,
+    "file": "000000336696.jpg",
+    "label": "kite",
+    "words": [
+      "kite",
+      "suitcase",
+      "apple"
+    ],
+    "bbox": [
+      321.93,
+      115.22,
+      237.39,
+      259.4
+    ],
+    "width": 640,
+    "height": 491,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:623140",
+    "image_id": 389036,
+    "ann_id": 623140,
+    "file": "000000389036.jpg",
+    "label": "kite",
+    "words": [
+      "kite",
+      "remote",
+      "horse"
+    ],
+    "bbox": [
+      61.39,
+      86.21,
+      246.57,
+      479.1
+    ],
+    "width": 451,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:318597",
+    "image_id": 467089,
+    "ann_id": 318597,
+    "file": "000000467089.jpg",
+    "label": "bed",
+    "words": [
+      "bed",
+      "train",
+      "laptop"
+    ],
+    "bbox": [
+      51.66,
+      193.72,
+      495.07,
+      212.02
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:58569",
+    "image_id": 359925,
+    "ann_id": 58569,
+    "file": "000000359925.jpg",
+    "label": "horse",
+    "words": [
+      "horse",
+      "airplane",
+      "sheep"
+    ],
+    "bbox": [
+      158.28,
+      133.51,
+      185.81,
+      506.49
+    ],
+    "width": 425,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1134948",
+    "image_id": 116944,
+    "ann_id": 1134948,
+    "file": "000000116944.jpg",
+    "label": "sink",
+    "words": [
+      "sink",
+      "cup",
+      "carrot"
+    ],
+    "bbox": [
+      225.71,
+      228.0,
+      269.66,
+      105.0
+    ],
+    "width": 500,
+    "height": 333,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:317826",
+    "image_id": 338840,
+    "ann_id": 317826,
+    "file": "000000338840.jpg",
+    "label": "bed",
+    "words": [
+      "bed",
+      "donut",
+      "elephant"
+    ],
+    "bbox": [
+      272.86,
+      232.6,
+      358.07,
+      154.14
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:659844",
+    "ann_id": 659844,
+    "image_id": 197599,
+    "file": "000000197599.jpg",
+    "bbox": [
+      258.78,
+      372.74,
+      380.57,
+      136.75
+    ],
+    "area": 41783.26,
+    "width": 640,
+    "height": 510,
+    "coco_split": "train2017",
+    "label": "log",
+    "lvis_category_id": 653,
+    "split": "train_new",
+    "words": [
+      "log",
+      "vest",
+      "zebra"
+    ]
+  },
+  {
+    "id": "train:55583",
+    "image_id": 158824,
+    "ann_id": 55583,
+    "file": "000000158824.jpg",
+    "label": "horse",
+    "words": [
+      "horse",
+      "carrot",
+      "cup"
+    ],
+    "bbox": [
+      89.53,
+      154.25,
+      267.5,
+      320.36
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:1244064",
+    "ann_id": 1244064,
+    "image_id": 420922,
+    "file": "000000420922.jpg",
+    "bbox": [
+      64.96,
+      220.76,
+      345.15,
+      419.24
+    ],
+    "area": 87134.04,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "jersey",
+    "lvis_category_id": 595,
+    "split": "train_new",
+    "words": [
+      "jersey",
+      "tinfoil",
+      "train"
+    ]
+  },
+  {
+    "id": "lvis:155236",
+    "ann_id": 155236,
+    "image_id": 195561,
+    "file": "000000195561.jpg",
+    "bbox": [
+      10.28,
+      7.46,
+      173.58,
+      313.69
+    ],
+    "area": 28306.6,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "christmas tree",
+    "lvis_category_id": 255,
+    "split": "train_new",
+    "words": [
+      "christmas tree",
+      "newspaper",
+      "cabinet"
+    ]
+  },
+  {
+    "id": "train:1110483",
+    "image_id": 384197,
+    "ann_id": 1110483,
+    "file": "000000384197.jpg",
+    "label": "remote",
+    "words": [
+      "remote",
+      "apple",
+      "zebra"
+    ],
+    "bbox": [
+      292.61,
+      48.29,
+      152.8,
+      582.34
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1802122",
+    "image_id": 12574,
+    "ann_id": 1802122,
+    "file": "000000012574.jpg",
+    "label": "boat",
+    "words": [
+      "boat",
+      "carrot",
+      "cup"
+    ],
+    "bbox": [
+      223.96,
+      174.76,
+      416.04,
+      305.24
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:659441",
+    "ann_id": 659441,
+    "image_id": 127799,
+    "file": "000000127799.jpg",
+    "bbox": [
+      0.87,
+      114.73,
+      638.62,
+      319.75
+    ],
+    "area": 51074.74,
+    "width": 640,
+    "height": 562,
+    "coco_split": "train2017",
+    "label": "quilt",
+    "lvis_category_id": 860,
+    "split": "train_new",
+    "words": [
+      "quilt",
+      "jacket",
+      "cup"
+    ]
+  },
+  {
+    "id": "lvis:29514",
+    "ann_id": 29514,
+    "image_id": 136938,
+    "file": "000000136938.jpg",
+    "bbox": [
+      0.0,
+      118.26,
+      640.0,
+      361.74
+    ],
+    "area": 200438.72,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "tray",
+    "lvis_category_id": 1117,
+    "split": "train_new",
+    "words": [
+      "tray",
+      "remote",
+      "street sign"
+    ]
+  },
+  {
+    "id": "train:1607560",
+    "image_id": 348277,
+    "ann_id": 1607560,
+    "file": "000000348277.jpg",
+    "label": "potted plant",
+    "words": [
+      "potted plant",
+      "stop sign",
+      "vase"
+    ],
+    "bbox": [
+      17.27,
+      56.95,
+      185.56,
+      318.05
+    ],
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:271455",
+    "image_id": 390685,
+    "ann_id": 271455,
+    "file": "000000390685.jpg",
+    "label": "stop sign",
+    "words": [
+      "stop sign",
+      "laptop",
+      "train"
+    ],
+    "bbox": [
+      211.89,
+      7.93,
+      100.9,
+      418.02
+    ],
+    "width": 428,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:211883",
+    "ann_id": 211883,
+    "image_id": 142056,
+    "file": "000000142056.jpg",
+    "bbox": [
+      0.0,
+      0.0,
+      427.0,
+      343.7
+    ],
+    "area": 123096.1,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "tarp",
+    "lvis_category_id": 1064,
+    "split": "train_new",
+    "words": [
+      "tarp",
+      "banner",
+      "cabinet"
+    ]
+  },
+  {
+    "id": "train:621241",
+    "image_id": 237781,
+    "ann_id": 621241,
+    "file": "000000237781.jpg",
+    "label": "kite",
+    "words": [
+      "kite",
+      "truck",
+      "bench"
+    ],
+    "bbox": [
+      97.36,
+      38.8,
+      323.58,
+      556.95
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1822794",
+    "image_id": 509225,
+    "ann_id": 1822794,
+    "file": "000000509225.jpg",
+    "label": "zebra",
+    "words": [
+      "zebra",
+      "bench",
+      "wine glass"
+    ],
+    "bbox": [
+      4.96,
+      56.39,
+      464.7,
+      567.23
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:24141",
+    "image_id": 209292,
+    "ann_id": 24141,
+    "file": "000000209292.jpg",
+    "label": "potted plant",
+    "words": [
+      "potted plant",
+      "refrigerator",
+      "airplane"
+    ],
+    "bbox": [
+      0.53,
+      227.33,
+      200.18,
+      200.64
+    ],
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:70699",
+    "ann_id": 70699,
+    "image_id": 1960,
+    "file": "000000001960.jpg",
+    "bbox": [
+      140.3,
+      399.27,
+      211.05,
+      168.64
+    ],
+    "area": 24108.02,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "jersey",
+    "lvis_category_id": 595,
+    "split": "train_new",
+    "words": [
+      "jersey",
+      "mirror",
+      "napkin"
+    ]
+  },
+  {
+    "id": "lvis:50016",
+    "ann_id": 50016,
+    "image_id": 140087,
+    "file": "000000140087.jpg",
+    "bbox": [
+      64.53,
+      243.23,
+      261.08,
+      361.01
+    ],
+    "area": 35096.97,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "vest",
+    "lvis_category_id": 1142,
+    "split": "train_new",
+    "words": [
+      "vest",
+      "sink",
+      "horse"
+    ]
+  },
+  {
+    "id": "train:1842813",
+    "image_id": 534384,
+    "ann_id": 1842813,
+    "file": "000000534384.jpg",
+    "label": "suitcase",
+    "words": [
+      "suitcase",
+      "wine glass",
+      "remote"
+    ],
+    "bbox": [
+      81.3,
+      86.49,
+      366.74,
+      197.21
+    ],
+    "width": 500,
+    "height": 333,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:66952",
+    "ann_id": 66952,
+    "image_id": 517548,
+    "file": "000000517548.jpg",
+    "bbox": [
+      476.38,
+      0.0,
+      163.62,
+      366.0
+    ],
+    "area": 49120.81,
+    "width": 640,
+    "height": 366,
+    "coco_split": "train2017",
+    "label": "shower curtain",
+    "lvis_category_id": 957,
+    "split": "train_new",
+    "words": [
+      "shower curtain",
+      "bench",
+      "sink"
+    ]
+  },
+  {
+    "id": "lvis:733064",
+    "ann_id": 733064,
+    "image_id": 302236,
+    "file": "000000302236.jpg",
+    "bbox": [
+      271.56,
+      154.02,
+      350.64,
+      291.75
+    ],
+    "area": 28302.77,
+    "width": 640,
+    "height": 446,
+    "coco_split": "train2017",
+    "label": "jean",
+    "lvis_category_id": 592,
+    "split": "train_new",
+    "words": [
+      "jean",
+      "mug",
+      "banner"
+    ]
+  },
+  {
+    "id": "lvis:502996",
+    "ann_id": 502996,
+    "image_id": 451240,
+    "file": "000000451240.jpg",
+    "bbox": [
+      129.75,
+      182.49,
+      271.95,
+      327.73
+    ],
+    "area": 62185.35,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "jacket",
+    "lvis_category_id": 589,
+    "split": "train_new",
+    "words": [
+      "jacket",
+      "tarp",
+      "elephant"
+    ]
+  },
+  {
+    "id": "lvis:14888",
+    "ann_id": 14888,
+    "image_id": 240273,
+    "file": "000000240273.jpg",
+    "bbox": [
+      2.75,
+      0.8,
+      637.07,
+      478.4
+    ],
+    "area": 90211.57,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "basket",
+    "lvis_category_id": 61,
+    "split": "train_new",
+    "words": [
+      "basket",
+      "mug",
+      "jersey"
+    ]
+  },
+  {
+    "id": "train:270826",
+    "image_id": 17625,
+    "ann_id": 270826,
+    "file": "000000017625.jpg",
+    "label": "stop sign",
+    "words": [
+      "stop sign",
+      "cup",
+      "sink"
+    ],
+    "bbox": [
+      256.22,
+      143.56,
+      187.13,
+      186.17
+    ],
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:2053342",
+    "image_id": 529409,
+    "ann_id": 2053342,
+    "file": "000000529409.jpg",
+    "label": "truck",
+    "words": [
+      "truck",
+      "umbrella",
+      "book"
+    ],
+    "bbox": [
+      223.75,
+      181.88,
+      295.0,
+      145.0
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:270405",
+    "image_id": 87607,
+    "ann_id": 270405,
+    "file": "000000087607.jpg",
+    "label": "stop sign",
+    "words": [
+      "stop sign",
+      "vase",
+      "truck"
+    ],
+    "bbox": [
+      0.0,
+      36.3,
+      379.98,
+      385.74
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:1212273",
+    "ann_id": 1212273,
+    "image_id": 398949,
+    "file": "000000398949.jpg",
+    "bbox": [
+      1.65,
+      1.66,
+      372.97,
+      353.28
+    ],
+    "area": 70116.7,
+    "width": 375,
+    "height": 500,
+    "coco_split": "train2017",
+    "label": "blanket",
+    "lvis_category_id": 110,
+    "split": "train_new",
+    "words": [
+      "blanket",
+      "cabinet",
+      "sink"
+    ]
+  },
+  {
+    "id": "train:331346",
+    "image_id": 466680,
+    "ann_id": 331346,
+    "file": "000000466680.jpg",
+    "label": "refrigerator",
+    "words": [
+      "refrigerator",
+      "boat",
+      "potted plant"
+    ],
+    "bbox": [
+      94.65,
+      179.8,
+      283.96,
+      176.36
+    ],
+    "width": 480,
+    "height": 360,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1114622",
+    "image_id": 319706,
+    "ann_id": 1114622,
+    "file": "000000319706.jpg",
+    "label": "keyboard",
+    "words": [
+      "keyboard",
+      "horse",
+      "zebra"
+    ],
+    "bbox": [
+      154.59,
+      351.89,
+      449.73,
+      123.25
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1110911",
+    "image_id": 299640,
+    "ann_id": 1110911,
+    "file": "000000299640.jpg",
+    "label": "remote",
+    "words": [
+      "remote",
+      "wine glass",
+      "suitcase"
+    ],
+    "bbox": [
+      332.03,
+      17.5,
+      113.51,
+      367.97
+    ],
+    "width": 450,
+    "height": 420,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:268769",
+    "image_id": 30307,
+    "ann_id": 268769,
+    "file": "000000030307.jpg",
+    "label": "stop sign",
+    "words": [
+      "stop sign",
+      "elephant",
+      "keyboard"
+    ],
+    "bbox": [
+      75.28,
+      260.33,
+      150.56,
+      203.37
+    ],
+    "width": 375,
+    "height": 500,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:394749",
+    "image_id": 271344,
+    "ann_id": 394749,
+    "file": "000000271344.jpg",
+    "label": "truck",
+    "words": [
+      "truck",
+      "boat",
+      "umbrella"
+    ],
+    "bbox": [
+      149.27,
+      24.81,
+      441.17,
+      379.36
+    ],
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:170176",
+    "image_id": 264013,
+    "ann_id": 170176,
+    "file": "000000264013.jpg",
+    "label": "train",
+    "words": [
+      "train",
+      "handbag",
+      "sink"
+    ],
+    "bbox": [
+      3.82,
+      99.33,
+      594.05,
+      238.76
+    ],
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:347423",
+    "image_id": 290234,
+    "ann_id": 347423,
+    "file": "000000290234.jpg",
+    "label": "car",
+    "words": [
+      "car",
+      "backpack",
+      "kite"
+    ],
+    "bbox": [
+      0.0,
+      0.0,
+      500.0,
+      241.0
+    ],
+    "width": 500,
+    "height": 241,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:126340",
+    "ann_id": 126340,
+    "image_id": 271986,
+    "file": "000000271986.jpg",
+    "bbox": [
+      85.74,
+      150.07,
+      203.91,
+      187.15
+    ],
+    "area": 25082.23,
+    "width": 375,
+    "height": 500,
+    "coco_split": "train2017",
+    "label": "box",
+    "lvis_category_id": 143,
+    "split": "train_new",
+    "words": [
+      "box",
+      "poster",
+      "pot"
+    ]
+  },
+  {
+    "id": "lvis:1138790",
+    "ann_id": 1138790,
+    "image_id": 239427,
+    "file": "000000239427.jpg",
+    "bbox": [
+      51.48,
+      32.39,
+      258.14,
+      292.08
+    ],
+    "area": 65205.84,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "painting",
+    "lvis_category_id": 748,
+    "split": "train_new",
+    "words": [
+      "painting",
+      "basket",
+      "banner"
+    ]
+  },
+  {
+    "id": "lvis:123363",
+    "ann_id": 123363,
+    "image_id": 511333,
+    "file": "000000511333.jpg",
+    "bbox": [
+      105.06,
+      0.0,
+      123.03,
+      221.83
+    ],
+    "area": 23839.99,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017",
+    "label": "cupboard",
+    "lvis_category_id": 346,
+    "split": "train_new",
+    "words": [
+      "cupboard",
+      "pillow",
+      "dress"
+    ]
+  },
+  {
+    "id": "train:1834522",
+    "image_id": 264375,
+    "ann_id": 1834522,
+    "file": "000000264375.jpg",
+    "label": "handbag",
+    "words": [
+      "handbag",
+      "airplane",
+      "sheep"
+    ],
+    "bbox": [
+      0.0,
+      463.38,
+      151.85,
+      175.95
+    ],
+    "width": 425,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:961530",
+    "ann_id": 961530,
+    "image_id": 299563,
+    "file": "000000299563.jpg",
+    "bbox": [
+      63.6,
+      112.34,
+      276.04,
+      208.3
+    ],
+    "area": 38238.14,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "bread",
+    "lvis_category_id": 150,
+    "split": "train_new",
+    "words": [
+      "bread",
+      "blouse",
+      "bear"
+    ]
+  },
+  {
+    "id": "lvis:1159112",
+    "ann_id": 1159112,
+    "image_id": 47949,
+    "file": "000000047949.jpg",
+    "bbox": [
+      24.9,
+      95.62,
+      540.14,
+      235.26
+    ],
+    "area": 96805.7,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "pastry",
+    "lvis_category_id": 771,
+    "split": "train_new",
+    "words": [
+      "pastry",
+      "banner",
+      "headboard"
+    ]
+  },
+  {
+    "id": "lvis:293825",
+    "ann_id": 293825,
+    "image_id": 13949,
+    "file": "000000013949.jpg",
+    "bbox": [
+      0.0,
+      282.05,
+      429.97,
+      329.95
+    ],
+    "area": 115381.78,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017",
+    "label": "soup",
+    "lvis_category_id": 986,
+    "split": "train_new",
+    "words": [
+      "soup",
+      "pastry",
+      "shower curtain"
+    ]
+  },
+  {
+    "id": "lvis:679598",
+    "ann_id": 679598,
+    "image_id": 385299,
+    "file": "000000385299.jpg",
+    "bbox": [
+      28.83,
+      186.73,
+      219.91,
+      247.33
+    ],
+    "area": 29184.52,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "dress suit",
+    "lvis_category_id": 394,
+    "split": "train_new",
+    "words": [
+      "dress suit",
+      "sheep",
+      "place mat"
+    ]
+  },
+  {
+    "id": "train:175798",
+    "image_id": 266353,
+    "ann_id": 175798,
+    "file": "000000266353.jpg",
+    "label": "boat",
+    "words": [
+      "boat",
+      "bear",
+      "bottle"
+    ],
+    "bbox": [
+      163.96,
+      39.91,
+      333.3,
+      316.05
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:82614",
+    "image_id": 108303,
+    "ann_id": 82614,
+    "file": "000000108303.jpg",
+    "label": "bottle",
+    "words": [
+      "bottle",
+      "bed",
+      "donut"
+    ],
+    "bbox": [
+      112.27,
+      0.2,
+      164.29,
+      372.4
+    ],
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1499073",
+    "image_id": 148858,
+    "ann_id": 1499073,
+    "file": "000000148858.jpg",
+    "label": "wine glass",
+    "words": [
+      "wine glass",
+      "sink",
+      "handbag"
+    ],
+    "bbox": [
+      457.14,
+      71.33,
+      182.86,
+      349.64
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:158937",
+    "ann_id": 158937,
+    "image_id": 99938,
+    "file": "000000099938.jpg",
+    "bbox": [
+      178.92,
+      23.03,
+      460.26,
+      415.22
+    ],
+    "area": 44024.07,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "headboard",
+    "lvis_category_id": 548,
+    "split": "train_new",
+    "words": [
+      "headboard",
+      "polo shirt",
+      "place mat"
+    ]
+  },
+  {
+    "id": "train:157641",
+    "image_id": 294247,
+    "ann_id": 157641,
+    "file": "000000294247.jpg",
+    "label": "airplane",
+    "words": [
+      "airplane",
+      "remote",
+      "apple"
+    ],
+    "bbox": [
+      2.0,
+      116.77,
+      599.6,
+      201.47
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:1217329",
+    "ann_id": 1217329,
+    "image_id": 198978,
+    "file": "000000198978.jpg",
+    "bbox": [
+      252.86,
+      197.89,
+      209.36,
+      104.26
+    ],
+    "area": 18100.19,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017",
+    "label": "fireplace",
+    "lvis_category_id": 444,
+    "split": "train_new",
+    "words": [
+      "fireplace",
+      "cistern",
+      "chopping board"
+    ]
+  },
+  {
+    "id": "train:1065108",
+    "image_id": 94103,
+    "ann_id": 1065108,
+    "file": "000000094103.jpg",
+    "label": "carrot",
+    "words": [
+      "carrot",
+      "handbag",
+      "backpack"
+    ],
+    "bbox": [
+      348.88,
+      274.58,
+      242.12,
+      178.73
+    ],
+    "width": 640,
+    "height": 454,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:681285",
+    "ann_id": 681285,
+    "image_id": 188184,
+    "file": "000000188184.jpg",
+    "bbox": [
+      117.19,
+      36.66,
+      292.6,
+      441.34
+    ],
+    "area": 41351.97,
+    "width": 640,
+    "height": 478,
+    "coco_split": "train2017",
+    "label": "tissue paper",
+    "lvis_category_id": 1093,
+    "split": "train_new",
+    "words": [
+      "tissue paper",
+      "stove",
+      "backpack"
+    ]
+  },
+  {
+    "id": "train:1163617",
+    "image_id": 560152,
+    "ann_id": 1163617,
+    "file": "000000560152.jpg",
+    "label": "backpack",
+    "words": [
+      "backpack",
+      "car",
+      "sheep"
+    ],
+    "bbox": [
+      339.87,
+      10.73,
+      300.13,
+      364.02
+    ],
+    "width": 640,
+    "height": 398,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:827662",
+    "ann_id": 827662,
+    "image_id": 498409,
+    "file": "000000498409.jpg",
+    "bbox": [
+      97.45,
+      72.69,
+      226.81,
+      413.05
+    ],
+    "area": 61461.51,
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "blender",
+    "lvis_category_id": 112,
+    "split": "train_new",
+    "words": [
+      "blender",
+      "tray",
+      "awning"
+    ]
+  },
+  {
+    "id": "lvis:228241",
+    "ann_id": 228241,
+    "image_id": 290355,
+    "file": "000000290355.jpg",
+    "bbox": [
+      0.43,
+      237.86,
+      639.32,
+      299.17
+    ],
+    "area": 125865.85,
+    "width": 640,
+    "height": 564,
+    "coco_split": "train2017",
+    "label": "log",
+    "lvis_category_id": 653,
+    "split": "train_new",
+    "words": [
+      "log",
+      "wet suit",
+      "remote"
+    ]
+  },
+  {
+    "id": "lvis:973544",
+    "ann_id": 973544,
+    "image_id": 474941,
+    "file": "000000474941.jpg",
+    "bbox": [
+      154.23,
+      161.48,
+      338.83,
+      240.25
+    ],
+    "area": 39438.76,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "jersey",
+    "lvis_category_id": 595,
+    "split": "train_new",
+    "words": [
+      "jersey",
+      "bench",
+      "umbrella"
+    ]
+  },
+  {
+    "id": "lvis:1156975",
+    "ann_id": 1156975,
+    "image_id": 257034,
+    "file": "000000257034.jpg",
+    "bbox": [
+      74.66,
+      77.26,
+      327.54,
+      200.07
+    ],
+    "area": 42616.75,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017",
+    "label": "street sign",
+    "lvis_category_id": 1026,
+    "split": "train_new",
+    "words": [
+      "street sign",
+      "airplane",
+      "umbrella"
+    ]
+  },
+  {
+    "id": "train:1082479",
+    "image_id": 467578,
+    "ann_id": 1082479,
+    "file": "000000467578.jpg",
+    "label": "donut",
+    "words": [
+      "donut",
+      "handbag",
+      "backpack"
+    ],
+    "bbox": [
+      244.61,
+      478.84,
+      206.01,
+      161.16
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:587056",
+    "image_id": 288586,
+    "ann_id": 587056,
+    "file": "000000288586.jpg",
+    "label": "bear",
+    "words": [
+      "bear",
+      "horse",
+      "zebra"
+    ],
+    "bbox": [
+      75.79,
+      86.1,
+      395.26,
+      236.97
+    ],
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:257658",
+    "ann_id": 257658,
+    "image_id": 415196,
+    "file": "000000415196.jpg",
+    "bbox": [
+      161.57,
+      167.04,
+      269.04,
+      207.54
+    ],
+    "area": 35205.93,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017",
+    "label": "quilt",
+    "lvis_category_id": 860,
+    "split": "train_new",
+    "words": [
+      "quilt",
+      "carrot",
+      "pot"
+    ]
+  },
+  {
+    "id": "train:586555",
+    "image_id": 338529,
+    "ann_id": 586555,
+    "file": "000000338529.jpg",
+    "label": "bear",
+    "words": [
+      "bear",
+      "carrot",
+      "handbag"
+    ],
+    "bbox": [
+      2.16,
+      3.31,
+      540.4,
+      471.37
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:201842",
+    "ann_id": 201842,
+    "image_id": 578710,
+    "file": "000000578710.jpg",
+    "bbox": [
+      40.24,
+      93.28,
+      281.93,
+      249.29
+    ],
+    "area": 53581.65,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "box",
+    "lvis_category_id": 143,
+    "split": "train_new",
+    "words": [
+      "box",
+      "backpack",
+      "painting"
+    ]
+  },
+  {
+    "id": "lvis:160275",
+    "ann_id": 160275,
+    "image_id": 438615,
+    "file": "000000438615.jpg",
+    "bbox": [
+      50.5,
+      126.25,
+      449.5,
+      248.75
+    ],
+    "area": 61942.02,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017",
+    "label": "quilt",
+    "lvis_category_id": 860,
+    "split": "train_new",
+    "words": [
+      "quilt",
+      "apron",
+      "mattress"
+    ]
+  },
+  {
+    "id": "lvis:274963",
+    "ann_id": 274963,
+    "image_id": 491856,
+    "file": "000000491856.jpg",
+    "bbox": [
+      67.34,
+      74.78,
+      168.31,
+      185.74
+    ],
+    "area": 28833.88,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017",
+    "label": "cupboard",
+    "lvis_category_id": 346,
+    "split": "train_new",
+    "words": [
+      "cupboard",
+      "boat",
+      "pot"
+    ]
+  },
+  {
+    "id": "train:176782",
+    "image_id": 545924,
+    "ann_id": 176782,
+    "file": "000000545924.jpg",
+    "label": "boat",
+    "words": [
+      "boat",
+      "bear",
+      "bottle"
+    ],
+    "bbox": [
+      0.0,
+      9.97,
+      345.65,
+      408.8
+    ],
+    "width": 640,
+    "height": 493,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1147781",
+    "image_id": 183788,
+    "ann_id": 1147781,
+    "file": "000000183788.jpg",
+    "label": "book",
+    "words": [
+      "book",
+      "handbag",
+      "backpack"
+    ],
+    "bbox": [
+      0.0,
+      0.0,
+      177.29,
+      260.35
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:1112015",
+    "ann_id": 1112015,
+    "image_id": 63668,
+    "file": "000000063668.jpg",
+    "bbox": [
+      329.05,
+      55.5,
+      170.69,
+      156.11
+    ],
+    "area": 21283.2,
+    "width": 500,
+    "height": 330,
+    "coco_split": "train2017",
+    "label": "plastic bag",
+    "lvis_category_id": 898,
+    "split": "train_new",
+    "words": [
+      "plastic bag",
+      "pillow",
+      "carrot"
+    ]
+  },
+  {
+    "id": "train:54770",
+    "image_id": 426094,
+    "ann_id": 54770,
+    "file": "000000426094.jpg",
+    "label": "horse",
+    "words": [
+      "horse",
+      "car",
+      "refrigerator"
+    ],
+    "bbox": [
+      213.76,
+      142.86,
+      244.91,
+      175.09
+    ],
+    "width": 640,
+    "height": 478,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1115765",
+    "image_id": 379310,
+    "ann_id": 1115765,
+    "file": "000000379310.jpg",
+    "label": "keyboard",
+    "words": [
+      "keyboard",
+      "airplane",
+      "sheep"
+    ],
+    "bbox": [
+      35.31,
+      250.56,
+      368.28,
+      73.15
+    ],
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:1215005",
+    "ann_id": 1215005,
+    "image_id": 422152,
+    "file": "000000422152.jpg",
+    "bbox": [
+      335.33,
+      0.0,
+      164.67,
+      128.49
+    ],
+    "area": 16965.73,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017",
+    "label": "headboard",
+    "lvis_category_id": 548,
+    "split": "train_new",
+    "words": [
+      "headboard",
+      "cupboard",
+      "tarp"
+    ]
+  },
+  {
+    "id": "train:63619",
+    "image_id": 347858,
+    "ann_id": 63619,
+    "file": "000000347858.jpg",
+    "label": "sheep",
+    "words": [
+      "sheep",
+      "keyboard",
+      "elephant"
+    ],
+    "bbox": [
+      93.24,
+      20.84,
+      255.97,
+      204.78
+    ],
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:586442",
+    "image_id": 235906,
+    "ann_id": 586442,
+    "file": "000000235906.jpg",
+    "label": "bear",
+    "words": [
+      "bear",
+      "bottle",
+      "refrigerator"
+    ],
+    "bbox": [
+      143.82,
+      194.38,
+      231.18,
+      193.26
+    ],
+    "width": 375,
+    "height": 500,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:318834",
+    "ann_id": 318834,
+    "image_id": 314204,
+    "file": "000000314204.jpg",
+    "bbox": [
+      0.0,
+      243.96,
+      153.3,
+      396.04
+    ],
+    "area": 31489.61,
+    "width": 428,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "apron",
+    "lvis_category_id": 15,
+    "split": "train_new",
+    "words": [
+      "apron",
+      "tinfoil",
+      "drawer"
+    ]
+  },
+  {
+    "id": "train:61916",
+    "image_id": 413260,
+    "ann_id": 61916,
+    "file": "000000413260.jpg",
+    "label": "sheep",
+    "words": [
+      "sheep",
+      "train",
+      "bottle"
+    ],
+    "bbox": [
+      361.87,
+      144.75,
+      236.36,
+      166.73
+    ],
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1464862",
+    "image_id": 306549,
+    "ann_id": 1464862,
+    "file": "000000306549.jpg",
+    "label": "kite",
+    "words": [
+      "kite",
+      "refrigerator",
+      "airplane"
+    ],
+    "bbox": [
+      5.71,
+      0.0,
+      494.29,
+      447.34
+    ],
+    "width": 500,
+    "height": 485,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:493573",
+    "ann_id": 493573,
+    "image_id": 63950,
+    "file": "000000063950.jpg",
+    "bbox": [
+      0.55,
+      0.0,
+      232.69,
+      246.59
+    ],
+    "area": 33488.98,
+    "width": 640,
+    "height": 428,
+    "coco_split": "train2017",
+    "label": "cistern",
+    "lvis_category_id": 261,
+    "split": "train_new",
+    "words": [
+      "cistern",
+      "basket",
+      "headboard"
+    ]
+  },
+  {
+    "id": "train:275644",
+    "image_id": 381786,
+    "ann_id": 275644,
+    "file": "000000381786.jpg",
+    "label": "sheep",
+    "words": [
+      "sheep",
+      "bench",
+      "wine glass"
+    ],
+    "bbox": [
+      59.35,
+      183.87,
+      172.32,
+      237.41
+    ],
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:274870",
+    "ann_id": 274870,
+    "image_id": 494218,
+    "file": "000000494218.jpg",
+    "bbox": [
+      98.69,
+      141.72,
+      348.0,
+      197.56
+    ],
+    "area": 42135.85,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017",
+    "label": "chopping board",
+    "lvis_category_id": 253,
+    "split": "train_new",
+    "words": [
+      "chopping board",
+      "keyboard",
+      "carrot"
+    ]
+  },
+  {
+    "id": "train:59857",
+    "image_id": 299533,
+    "ann_id": 59857,
+    "file": "000000299533.jpg",
+    "label": "horse",
+    "words": [
+      "horse",
+      "vase",
+      "stop sign"
+    ],
+    "bbox": [
+      71.78,
+      149.54,
+      270.56,
+      188.66
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:581944",
+    "image_id": 148274,
+    "ann_id": 581944,
+    "file": "000000148274.jpg",
+    "label": "elephant",
+    "words": [
+      "elephant",
+      "sheep",
+      "airplane"
+    ],
+    "bbox": [
+      240.14,
+      122.9,
+      253.89,
+      236.1
+    ],
+    "width": 640,
+    "height": 359,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:181486",
+    "image_id": 538343,
+    "ann_id": 181486,
+    "file": "000000538343.jpg",
+    "label": "boat",
+    "words": [
+      "boat",
+      "suitcase",
+      "wine glass"
+    ],
+    "bbox": [
+      64.31,
+      316.79,
+      470.4,
+      110.3
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:394402",
+    "ann_id": 394402,
+    "image_id": 484171,
+    "file": "000000484171.jpg",
+    "bbox": [
+      0.0,
+      150.59,
+      126.57,
+      283.02
+    ],
+    "area": 25020.65,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "napkin",
+    "lvis_category_id": 713,
+    "split": "train_new",
+    "words": [
+      "napkin",
+      "zebra",
+      "elephant"
+    ]
+  },
+  {
+    "id": "train:62287",
+    "image_id": 78522,
+    "ann_id": 62287,
+    "file": "000000078522.jpg",
+    "label": "sheep",
+    "words": [
+      "sheep",
+      "refrigerator",
+      "airplane"
+    ],
+    "bbox": [
+      188.53,
+      112.39,
+      326.57,
+      289.97
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:170501",
+    "image_id": 147585,
+    "ann_id": 170501,
+    "file": "000000147585.jpg",
+    "label": "train",
+    "words": [
+      "train",
+      "vase",
+      "truck"
+    ],
+    "bbox": [
+      62.18,
+      41.45,
+      570.28,
+      195.96
+    ],
+    "width": 640,
+    "height": 273,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:401271",
+    "ann_id": 401271,
+    "image_id": 357641,
+    "file": "000000357641.jpg",
+    "bbox": [
+      249.44,
+      0.14,
+      250.56,
+      218.26
+    ],
+    "area": 48500.11,
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017",
+    "label": "mirror",
+    "lvis_category_id": 694,
+    "split": "train_new",
+    "words": [
+      "mirror",
+      "airplane",
+      "cabinet"
+    ]
+  },
+  {
+    "id": "lvis:201275",
+    "ann_id": 201275,
+    "image_id": 535977,
+    "file": "000000535977.jpg",
+    "bbox": [
+      0.0,
+      240.44,
+      192.0,
+      239.56
+    ],
+    "area": 34233.85,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "drawer",
+    "lvis_category_id": 390,
+    "split": "train_new",
+    "words": [
+      "drawer",
+      "tray",
+      "handbag"
+    ]
+  },
+  {
+    "id": "train:172908",
+    "image_id": 408557,
+    "ann_id": 172908,
+    "file": "000000408557.jpg",
+    "label": "train",
+    "words": [
+      "train",
+      "car",
+      "sheep"
+    ],
+    "bbox": [
+      20.01,
+      57.17,
+      385.89,
+      172.46
+    ],
+    "width": 640,
+    "height": 424,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:140802",
+    "image_id": 44958,
+    "ann_id": 140802,
+    "file": "000000044958.jpg",
+    "label": "car",
+    "words": [
+      "car",
+      "vase",
+      "stop sign"
+    ],
+    "bbox": [
+      0.0,
+      39.91,
+      539.33,
+      440.09
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:576532",
+    "ann_id": 576532,
+    "image_id": 528971,
+    "file": "000000528971.jpg",
+    "bbox": [
+      11.91,
+      184.7,
+      311.0,
+      145.18
+    ],
+    "area": 33093.65,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "bread",
+    "lvis_category_id": 150,
+    "split": "train_new",
+    "words": [
+      "bread",
+      "bear",
+      "bathtub"
+    ]
+  },
+  {
+    "id": "lvis:1104614",
+    "ann_id": 1104614,
+    "image_id": 27510,
+    "file": "000000027510.jpg",
+    "bbox": [
+      13.3,
+      0.0,
+      328.96,
+      210.6
+    ],
+    "area": 56636.87,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "cupboard",
+    "lvis_category_id": 346,
+    "split": "train_new",
+    "words": [
+      "cupboard",
+      "laptop",
+      "wet suit"
+    ]
+  },
+  {
+    "id": "train:588751",
+    "image_id": 129262,
+    "ann_id": 588751,
+    "file": "000000129262.jpg",
+    "label": "zebra",
+    "words": [
+      "zebra",
+      "bench",
+      "wine glass"
+    ],
+    "bbox": [
+      266.07,
+      182.65,
+      213.93,
+      378.25
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:586982",
+    "image_id": 337167,
+    "ann_id": 586982,
+    "file": "000000337167.jpg",
+    "label": "bear",
+    "words": [
+      "bear",
+      "keyboard",
+      "elephant"
+    ],
+    "bbox": [
+      70.05,
+      4.86,
+      569.95,
+      324.33
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:59110",
+    "image_id": 525087,
+    "ann_id": 59110,
+    "file": "000000525087.jpg",
+    "label": "horse",
+    "words": [
+      "horse",
+      "elephant",
+      "keyboard"
+    ],
+    "bbox": [
+      127.55,
+      70.75,
+      436.73,
+      296.34
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1865682",
+    "image_id": 46078,
+    "ann_id": 1865682,
+    "file": "000000046078.jpg",
+    "label": "bottle",
+    "words": [
+      "bottle",
+      "potted plant",
+      "carrot"
+    ],
+    "bbox": [
+      289.25,
+      0.0,
+      286.75,
+      411.22
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:612394",
+    "ann_id": 612394,
+    "image_id": 531190,
+    "file": "000000531190.jpg",
+    "bbox": [
+      268.11,
+      81.34,
+      286.47,
+      244.92
+    ],
+    "area": 39676.47,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "bread",
+    "lvis_category_id": 150,
+    "split": "train_new",
+    "words": [
+      "bread",
+      "blanket",
+      "bathtub"
+    ]
+  },
+  {
+    "id": "lvis:178050",
+    "ann_id": 178050,
+    "image_id": 476035,
+    "file": "000000476035.jpg",
+    "bbox": [
+      0.99,
+      0.95,
+      639.01,
+      139.91
+    ],
+    "area": 71792.5,
+    "width": 640,
+    "height": 481,
+    "coco_split": "train2017",
+    "label": "awning",
+    "lvis_category_id": 29,
+    "split": "train_new",
+    "words": [
+      "awning",
+      "keyboard",
+      "mug"
+    ]
+  },
+  {
+    "id": "train:173226",
+    "image_id": 474387,
+    "ann_id": 173226,
+    "file": "000000474387.jpg",
+    "label": "train",
+    "words": [
+      "train",
+      "vase",
+      "truck"
+    ],
+    "bbox": [
+      24.76,
+      28.97,
+      566.61,
+      490.98
+    ],
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:271067",
+    "image_id": 426261,
+    "ann_id": 271067,
+    "file": "000000426261.jpg",
+    "label": "stop sign",
+    "words": [
+      "stop sign",
+      "bottle",
+      "bear"
+    ],
+    "bbox": [
+      140.54,
+      209.51,
+      185.3,
+      185.3
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:572923",
+    "ann_id": 572923,
+    "image_id": 322638,
+    "file": "000000322638.jpg",
+    "bbox": [
+      237.28,
+      338.28,
+      400.92,
+      140.9
+    ],
+    "area": 32670.42,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "bathtub",
+    "lvis_category_id": 68,
+    "split": "train_new",
+    "words": [
+      "bathtub",
+      "jean",
+      "umbrella"
+    ]
+  },
+  {
+    "id": "lvis:1103851",
+    "ann_id": 1103851,
+    "image_id": 114256,
+    "file": "000000114256.jpg",
+    "bbox": [
+      148.61,
+      0.0,
+      360.37,
+      206.28
+    ],
+    "area": 26371.82,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "awning",
+    "lvis_category_id": 29,
+    "split": "train_new",
+    "words": [
+      "awning",
+      "basket",
+      "stove"
+    ]
+  },
+  {
+    "id": "train:581753",
+    "image_id": 429762,
+    "ann_id": 581753,
+    "file": "000000429762.jpg",
+    "label": "elephant",
+    "words": [
+      "elephant",
+      "umbrella",
+      "boat"
+    ],
+    "bbox": [
+      60.59,
+      18.27,
+      179.84,
+      354.87
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:744107",
+    "ann_id": 744107,
+    "image_id": 115829,
+    "file": "000000115829.jpg",
+    "bbox": [
+      173.36,
+      197.13,
+      176.07,
+      369.37
+    ],
+    "area": 37780.03,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "apron",
+    "lvis_category_id": 15,
+    "split": "train_new",
+    "words": [
+      "apron",
+      "mirror",
+      "poster"
+    ]
+  },
+  {
+    "id": "lvis:15970",
+    "ann_id": 15970,
+    "image_id": 465267,
+    "file": "000000465267.jpg",
+    "bbox": [
+      352.76,
+      0.9,
+      126.86,
+      600.99
+    ],
+    "area": 45296.35,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "fireplace",
+    "lvis_category_id": 444,
+    "split": "train_new",
+    "words": [
+      "fireplace",
+      "newspaper",
+      "napkin"
+    ]
+  },
+  {
+    "id": "lvis:257586",
+    "ann_id": 257586,
+    "image_id": 125167,
+    "file": "000000125167.jpg",
+    "bbox": [
+      0.0,
+      0.0,
+      640.0,
+      264.17
+    ],
+    "area": 57352.94,
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017",
+    "label": "christmas tree",
+    "lvis_category_id": 255,
+    "split": "train_new",
+    "words": [
+      "christmas tree",
+      "zebra",
+      "jean"
+    ]
+  },
+  {
+    "id": "train:1081513",
+    "image_id": 443093,
+    "ann_id": 1081513,
+    "file": "000000443093.jpg",
+    "label": "donut",
+    "words": [
+      "donut",
+      "boat",
+      "umbrella"
+    ],
+    "bbox": [
+      290.99,
+      153.15,
+      208.67,
+      225.9
+    ],
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1421471",
+    "image_id": 234948,
+    "ann_id": 1421471,
+    "file": "000000234948.jpg",
+    "label": "backpack",
+    "words": [
+      "backpack",
+      "umbrella",
+      "boat"
+    ],
+    "bbox": [
+      268.82,
+      0.0,
+      333.3,
+      196.31
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:661370",
+    "ann_id": 661370,
+    "image_id": 104355,
+    "file": "000000104355.jpg",
+    "bbox": [
+      31.83,
+      1.28,
+      290.62,
+      201.1
+    ],
+    "area": 42591.15,
+    "width": 640,
+    "height": 478,
+    "coco_split": "train2017",
+    "label": "plastic bag",
+    "lvis_category_id": 898,
+    "split": "train_new",
+    "words": [
+      "plastic bag",
+      "newspaper",
+      "apple"
+    ]
+  },
+  {
+    "id": "train:593234",
+    "image_id": 67697,
+    "ann_id": 593234,
+    "file": "000000067697.jpg",
+    "label": "zebra",
+    "words": [
+      "zebra",
+      "laptop",
+      "bear"
+    ],
+    "bbox": [
+      60.36,
+      69.82,
+      325.23,
+      290.99
+    ],
+    "width": 640,
+    "height": 400,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:950847",
+    "ann_id": 950847,
+    "image_id": 567274,
+    "file": "000000567274.jpg",
+    "bbox": [
+      104.01,
+      0.0,
+      523.13,
+      80.57
+    ],
+    "area": 36651.38,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "awning",
+    "lvis_category_id": 29,
+    "split": "train_new",
+    "words": [
+      "awning",
+      "umbrella",
+      "sheep"
+    ]
+  },
+  {
+    "id": "train:1798849",
+    "image_id": 363786,
+    "ann_id": 1798849,
+    "file": "000000363786.jpg",
+    "label": "truck",
+    "words": [
+      "truck",
+      "bench",
+      "wine glass"
+    ],
+    "bbox": [
+      11.74,
+      89.35,
+      415.26,
+      444.84
+    ],
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1671108",
+    "image_id": 44332,
+    "ann_id": 1671108,
+    "file": "000000044332.jpg",
+    "label": "vase",
+    "words": [
+      "vase",
+      "train",
+      "laptop"
+    ],
+    "bbox": [
+      152.45,
+      348.04,
+      149.57,
+      253.13
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1117297",
+    "image_id": 499538,
+    "ann_id": 1117297,
+    "file": "000000499538.jpg",
+    "label": "keyboard",
+    "words": [
+      "keyboard",
+      "airplane",
+      "sheep"
+    ],
+    "bbox": [
+      25.28,
+      0.0,
+      474.72,
+      135.42
+    ],
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:95698",
+    "image_id": 289255,
+    "ann_id": 95698,
+    "file": "000000289255.jpg",
+    "label": "bottle",
+    "words": [
+      "bottle",
+      "boat",
+      "umbrella"
+    ],
+    "bbox": [
+      140.21,
+      38.98,
+      331.27,
+      91.68
+    ],
+    "width": 640,
+    "height": 359,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1812521",
+    "image_id": 399354,
+    "ann_id": 1812521,
+    "file": "000000399354.jpg",
+    "label": "bench",
+    "words": [
+      "bench",
+      "train",
+      "laptop"
+    ],
+    "bbox": [
+      259.09,
+      146.1,
+      238.64,
+      224.03
+    ],
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:253689",
+    "ann_id": 253689,
+    "image_id": 299349,
+    "file": "000000299349.jpg",
+    "bbox": [
+      346.94,
+      35.71,
+      131.06,
+      439.05
+    ],
+    "area": 27041.54,
+    "width": 478,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "drawer",
+    "lvis_category_id": 390,
+    "split": "train_new",
+    "words": [
+      "drawer",
+      "keyboard",
+      "stove"
+    ]
+  },
+  {
+    "id": "train:172316",
+    "image_id": 116396,
+    "ann_id": 172316,
+    "file": "000000116396.jpg",
+    "label": "train",
+    "words": [
+      "train",
+      "remote",
+      "horse"
+    ],
+    "bbox": [
+      87.33,
+      134.22,
+      296.01,
+      190.29
+    ],
+    "width": 640,
+    "height": 410,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:622987",
+    "ann_id": 622987,
+    "image_id": 332782,
+    "file": "000000332782.jpg",
+    "bbox": [
+      201.95,
+      47.27,
+      256.29,
+      155.8
+    ],
+    "area": 21975.57,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017",
+    "label": "headboard",
+    "lvis_category_id": 548,
+    "split": "train_new",
+    "words": [
+      "headboard",
+      "basket",
+      "airplane"
+    ]
+  },
+  {
+    "id": "train:176191",
+    "image_id": 75932,
+    "ann_id": 176191,
+    "file": "000000075932.jpg",
+    "label": "boat",
+    "words": [
+      "boat",
+      "horse",
+      "train"
+    ],
+    "bbox": [
+      104.7,
+      187.54,
+      331.36,
+      243.92
+    ],
+    "width": 640,
+    "height": 512,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:586396",
+    "image_id": 134846,
+    "ann_id": 586396,
+    "file": "000000134846.jpg",
+    "label": "bear",
+    "words": [
+      "bear",
+      "cup",
+      "carrot"
+    ],
+    "bbox": [
+      55.08,
+      167.03,
+      251.32,
+      208.28
+    ],
+    "width": 640,
+    "height": 383,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1064904",
+    "image_id": 331216,
+    "ann_id": 1064904,
+    "file": "000000331216.jpg",
+    "label": "carrot",
+    "words": [
+      "carrot",
+      "cup",
+      "sink"
+    ],
+    "bbox": [
+      53.25,
+      162.97,
+      456.93,
+      233.92
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:108553",
+    "ann_id": 108553,
+    "image_id": 498225,
+    "file": "000000498225.jpg",
+    "bbox": [
+      286.36,
+      79.13,
+      157.99,
+      227.22
+    ],
+    "area": 24637.67,
+    "width": 500,
+    "height": 333,
+    "coco_split": "train2017",
+    "label": "polo shirt",
+    "lvis_category_id": 828,
+    "split": "train_new",
+    "words": [
+      "polo shirt",
+      "tissue paper",
+      "mug"
+    ]
+  },
+  {
+    "id": "train:132120",
+    "image_id": 418168,
+    "ann_id": 132120,
+    "file": "000000418168.jpg",
+    "label": "car",
+    "words": [
+      "car",
+      "truck",
+      "suitcase"
+    ],
+    "bbox": [
+      0.92,
+      63.06,
+      637.62,
+      357.29
+    ],
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1172586",
+    "image_id": 308210,
+    "ann_id": 1172586,
+    "file": "000000308210.jpg",
+    "label": "handbag",
+    "words": [
+      "handbag",
+      "car",
+      "refrigerator"
+    ],
+    "bbox": [
+      181.29,
+      236.99,
+      229.35,
+      210.79
+    ],
+    "width": 640,
+    "height": 486,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:479866",
+    "ann_id": 479866,
+    "image_id": 352751,
+    "file": "000000352751.jpg",
+    "bbox": [
+      31.11,
+      209.85,
+      142.93,
+      290.15
+    ],
+    "area": 17683.4,
+    "width": 333,
+    "height": 500,
+    "coco_split": "train2017",
+    "label": "sweatshirt",
+    "lvis_category_id": 1043,
+    "split": "train_new",
+    "words": [
+      "sweatshirt",
+      "dress suit",
+      "napkin"
+    ]
+  },
+  {
+    "id": "train:283332",
+    "image_id": 122605,
+    "ann_id": 283332,
+    "file": "000000122605.jpg",
+    "label": "umbrella",
+    "words": [
+      "umbrella",
+      "train",
+      "bottle"
+    ],
+    "bbox": [
+      141.92,
+      90.67,
+      181.83,
+      162.59
+    ],
+    "width": 640,
+    "height": 359,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:599908",
+    "ann_id": 599908,
+    "image_id": 24636,
+    "file": "000000024636.jpg",
+    "bbox": [
+      421.43,
+      237.34,
+      218.57,
+      189.66
+    ],
+    "area": 30417.78,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017",
+    "label": "shower curtain",
+    "lvis_category_id": 957,
+    "split": "train_new",
+    "words": [
+      "shower curtain",
+      "zebra",
+      "mug"
+    ]
+  },
+  {
+    "id": "lvis:1059518",
+    "ann_id": 1059518,
+    "image_id": 438802,
+    "file": "000000438802.jpg",
+    "bbox": [
+      0.0,
+      39.14,
+      154.15,
+      138.34
+    ],
+    "area": 15085.57,
+    "width": 500,
+    "height": 281,
+    "coco_split": "train2017",
+    "label": "painting",
+    "lvis_category_id": 748,
+    "split": "train_new",
+    "words": [
+      "painting",
+      "donut",
+      "cabinet"
+    ]
+  },
+  {
+    "id": "lvis:1075939",
+    "ann_id": 1075939,
+    "image_id": 106993,
+    "file": "000000106993.jpg",
+    "bbox": [
+      12.3,
+      78.68,
+      362.02,
+      319.31
+    ],
+    "area": 47814.21,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017",
+    "label": "bread",
+    "lvis_category_id": 150,
+    "split": "train_new",
+    "words": [
+      "bread",
+      "zebra",
+      "donut"
+    ]
+  },
+  {
+    "id": "lvis:756701",
+    "ann_id": 756701,
+    "image_id": 546474,
+    "file": "000000546474.jpg",
+    "bbox": [
+      0.0,
+      318.59,
+      640.0,
+      138.28
+    ],
+    "area": 43156.45,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "log",
+    "lvis_category_id": 653,
+    "split": "train_new",
+    "words": [
+      "log",
+      "jersey",
+      "mug"
+    ]
+  },
+  {
+    "id": "train:284288",
+    "image_id": 137202,
+    "ann_id": 284288,
+    "file": "000000137202.jpg",
+    "label": "umbrella",
+    "words": [
+      "umbrella",
+      "elephant",
+      "stop sign"
+    ],
+    "bbox": [
+      157.54,
+      1.07,
+      420.35,
+      197.77
+    ],
+    "width": 640,
+    "height": 299,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:160201",
+    "image_id": 216867,
+    "ann_id": 160201,
+    "file": "000000216867.jpg",
+    "label": "airplane",
+    "words": [
+      "airplane",
+      "car",
+      "sheep"
+    ],
+    "bbox": [
+      1.29,
+      394.86,
+      304.03,
+      170.05
+    ],
+    "width": 640,
+    "height": 572,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:2211292",
+    "image_id": 564820,
+    "ann_id": 2211292,
+    "file": "000000564820.jpg",
+    "label": "handbag",
+    "words": [
+      "handbag",
+      "wine glass",
+      "suitcase"
+    ],
+    "bbox": [
+      0.0,
+      23.19,
+      275.73,
+      219.25
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:580457",
+    "ann_id": 580457,
+    "image_id": 291897,
+    "file": "000000291897.jpg",
+    "bbox": [
+      330.06,
+      72.77,
+      218.69,
+      149.83
+    ],
+    "area": 25398.26,
+    "width": 640,
+    "height": 360,
+    "coco_split": "train2017",
+    "label": "soup",
+    "lvis_category_id": 986,
+    "split": "train_new",
+    "words": [
+      "soup",
+      "zebra",
+      "bathtub"
+    ]
+  },
+  {
+    "id": "train:1049004",
+    "image_id": 14783,
+    "ann_id": 1049004,
+    "file": "000000014783.jpg",
+    "label": "apple",
+    "words": [
+      "apple",
+      "refrigerator",
+      "airplane"
+    ],
+    "bbox": [
+      2.0,
+      17.1,
+      543.0,
+      405.0
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:270652",
+    "image_id": 203846,
+    "ann_id": 270652,
+    "file": "000000203846.jpg",
+    "label": "stop sign",
+    "words": [
+      "stop sign",
+      "sheep",
+      "boat"
+    ],
+    "bbox": [
+      63.33,
+      186.22,
+      195.75,
+      198.62
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:1216292",
+    "ann_id": 1216292,
+    "image_id": 441751,
+    "file": "000000441751.jpg",
+    "bbox": [
+      244.65,
+      153.63,
+      157.66,
+      166.55
+    ],
+    "area": 23889.05,
+    "width": 462,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "tarp",
+    "lvis_category_id": 1064,
+    "split": "train_new",
+    "words": [
+      "tarp",
+      "pillow",
+      "stove"
+    ]
+  },
+  {
+    "id": "lvis:1035227",
+    "ann_id": 1035227,
+    "image_id": 16292,
+    "file": "000000016292.jpg",
+    "bbox": [
+      58.94,
+      3.82,
+      525.21,
+      329.64
+    ],
+    "area": 118622.03,
+    "width": 640,
+    "height": 496,
+    "coco_split": "train2017",
+    "label": "bread",
+    "lvis_category_id": 150,
+    "split": "train_new",
+    "words": [
+      "bread",
+      "suitcase",
+      "bed"
+    ]
+  },
+  {
+    "id": "train:172404",
+    "image_id": 266586,
+    "ann_id": 172404,
+    "file": "000000266586.jpg",
+    "label": "train",
+    "words": [
+      "train",
+      "bench",
+      "wine glass"
+    ],
+    "bbox": [
+      100.31,
+      104.9,
+      512.36,
+      268.58
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1108551",
+    "image_id": 535136,
+    "ann_id": 1108551,
+    "file": "000000535136.jpg",
+    "label": "remote",
+    "words": [
+      "remote",
+      "kite",
+      "backpack"
+    ],
+    "bbox": [
+      91.69,
+      51.78,
+      468.13,
+      394.78
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:1083968",
+    "ann_id": 1083968,
+    "image_id": 431312,
+    "file": "000000431312.jpg",
+    "bbox": [
+      141.8,
+      0.2,
+      122.02,
+      423.97
+    ],
+    "area": 23027.14,
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017",
+    "label": "log",
+    "lvis_category_id": 653,
+    "split": "train_new",
+    "words": [
+      "log",
+      "cistern",
+      "jean"
+    ]
+  },
+  {
+    "id": "train:318508",
+    "image_id": 113701,
+    "ann_id": 318508,
+    "file": "000000113701.jpg",
+    "label": "bed",
+    "words": [
+      "bed",
+      "horse",
+      "train"
+    ],
+    "bbox": [
+      22.6,
+      79.64,
+      617.4,
+      393.9
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1081104",
+    "image_id": 215577,
+    "ann_id": 1081104,
+    "file": "000000215577.jpg",
+    "label": "donut",
+    "words": [
+      "donut",
+      "boat",
+      "umbrella"
+    ],
+    "bbox": [
+      115.26,
+      69.98,
+      386.96,
+      343.05
+    ],
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:181398",
+    "ann_id": 181398,
+    "image_id": 355453,
+    "file": "000000355453.jpg",
+    "bbox": [
+      7.93,
+      102.63,
+      514.11,
+      243.19
+    ],
+    "area": 27986.69,
+    "width": 640,
+    "height": 457,
+    "coco_split": "train2017",
+    "label": "headboard",
+    "lvis_category_id": 548,
+    "split": "train_new",
+    "words": [
+      "headboard",
+      "bed",
+      "kite"
+    ]
+  },
+  {
+    "id": "train:156850",
+    "image_id": 545913,
+    "ann_id": 156850,
+    "file": "000000545913.jpg",
+    "label": "airplane",
+    "words": [
+      "airplane",
+      "train",
+      "laptop"
+    ],
+    "bbox": [
+      2.15,
+      140.31,
+      637.85,
+      234.1
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:778679",
+    "ann_id": 778679,
+    "image_id": 82220,
+    "file": "000000082220.jpg",
+    "bbox": [
+      18.69,
+      411.3,
+      371.0,
+      227.38
+    ],
+    "area": 67080.79,
+    "width": 454,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "tablecloth",
+    "lvis_category_id": 1052,
+    "split": "train_new",
+    "words": [
+      "tablecloth",
+      "bread",
+      "car"
+    ]
+  },
+  {
+    "id": "lvis:5187",
+    "ann_id": 5187,
+    "image_id": 29697,
+    "file": "000000029697.jpg",
+    "bbox": [
+      276.15,
+      240.96,
+      307.47,
+      237.87
+    ],
+    "area": 52329.17,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "cupboard",
+    "lvis_category_id": 346,
+    "split": "train_new",
+    "words": [
+      "cupboard",
+      "apron",
+      "blanket"
+    ]
+  },
+  {
+    "id": "train:572497",
+    "image_id": 368125,
+    "ann_id": 572497,
+    "file": "000000368125.jpg",
+    "label": "bench",
+    "words": [
+      "bench",
+      "suitcase",
+      "wine glass"
+    ],
+    "bbox": [
+      73.35,
+      321.92,
+      314.96,
+      146.69
+    ],
+    "width": 427,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:61518",
+    "image_id": 243316,
+    "ann_id": 61518,
+    "file": "000000243316.jpg",
+    "label": "sheep",
+    "words": [
+      "sheep",
+      "umbrella",
+      "boat"
+    ],
+    "bbox": [
+      268.71,
+      37.47,
+      215.7,
+      377.48
+    ],
+    "width": 640,
+    "height": 425,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1821925",
+    "image_id": 231630,
+    "ann_id": 1821925,
+    "file": "000000231630.jpg",
+    "label": "bear",
+    "words": [
+      "bear",
+      "bottle",
+      "refrigerator"
+    ],
+    "bbox": [
+      2.92,
+      4.87,
+      375.0,
+      255.19
+    ],
+    "width": 500,
+    "height": 375,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:384694",
+    "ann_id": 384694,
+    "image_id": 294309,
+    "file": "000000294309.jpg",
+    "bbox": [
+      2.17,
+      458.28,
+      223.98,
+      178.82
+    ],
+    "area": 27791.64,
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "vest",
+    "lvis_category_id": 1142,
+    "split": "train_new",
+    "words": [
+      "vest",
+      "bread",
+      "napkin"
+    ]
+  },
+  {
+    "id": "train:68024",
+    "image_id": 182275,
+    "ann_id": 68024,
+    "file": "000000182275.jpg",
+    "label": "sheep",
+    "words": [
+      "sheep",
+      "bear",
+      "car"
+    ],
+    "bbox": [
+      81.34,
+      159.71,
+      423.39,
+      269.29
+    ],
+    "width": 640,
+    "height": 429,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:13405",
+    "ann_id": 13405,
+    "image_id": 85747,
+    "file": "000000085747.jpg",
+    "bbox": [
+      200.81,
+      170.86,
+      273.0,
+      255.79
+    ],
+    "area": 46304.11,
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017",
+    "label": "sweatshirt",
+    "lvis_category_id": 1043,
+    "split": "train_new",
+    "words": [
+      "sweatshirt",
+      "desk",
+      "wet suit"
+    ]
+  },
+  {
+    "id": "lvis:739463",
+    "ann_id": 739463,
+    "image_id": 273425,
+    "file": "000000273425.jpg",
+    "bbox": [
+      109.48,
+      0.07,
+      390.17,
+      153.8
+    ],
+    "area": 34280.05,
+    "width": 500,
+    "height": 334,
+    "coco_split": "train2017",
+    "label": "awning",
+    "lvis_category_id": 29,
+    "split": "train_new",
+    "words": [
+      "awning",
+      "mug",
+      "toy"
+    ]
+  },
+  {
+    "id": "lvis:339742",
+    "ann_id": 339742,
+    "image_id": 559877,
+    "file": "000000559877.jpg",
+    "bbox": [
+      399.43,
+      190.43,
+      212.57,
+      326.52
+    ],
+    "area": 43955.59,
+    "width": 612,
+    "height": 612,
+    "coco_split": "train2017",
+    "label": "basket",
+    "lvis_category_id": 61,
+    "split": "train_new",
+    "words": [
+      "basket",
+      "mug",
+      "bear"
+    ]
+  },
+  {
+    "id": "lvis:1237398",
+    "ann_id": 1237398,
+    "image_id": 202966,
+    "file": "000000202966.jpg",
+    "bbox": [
+      1.28,
+      215.64,
+      638.35,
+      263.19
+    ],
+    "area": 50312.4,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "log",
+    "lvis_category_id": 653,
+    "split": "train_new",
+    "words": [
+      "log",
+      "shower curtain",
+      "box"
+    ]
+  },
+  {
+    "id": "train:270563",
+    "image_id": 522406,
+    "ann_id": 270563,
+    "file": "000000522406.jpg",
+    "label": "stop sign",
+    "words": [
+      "stop sign",
+      "sheep",
+      "boat"
+    ],
+    "bbox": [
+      45.82,
+      0.14,
+      293.51,
+      269.17
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:179100",
+    "image_id": 581909,
+    "ann_id": 179100,
+    "file": "000000581909.jpg",
+    "label": "boat",
+    "words": [
+      "boat",
+      "wine glass",
+      "remote"
+    ],
+    "bbox": [
+      204.86,
+      30.34,
+      394.41,
+      322.61
+    ],
+    "width": 640,
+    "height": 426,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:67040",
+    "image_id": 212267,
+    "ann_id": 67040,
+    "file": "000000212267.jpg",
+    "label": "sheep",
+    "words": [
+      "sheep",
+      "handbag",
+      "sink"
+    ],
+    "bbox": [
+      368.28,
+      191.9,
+      267.93,
+      282.41
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:773516",
+    "ann_id": 773516,
+    "image_id": 126810,
+    "file": "000000126810.jpg",
+    "bbox": [
+      76.79,
+      61.69,
+      562.33,
+      324.3
+    ],
+    "area": 54037.87,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "bathtub",
+    "lvis_category_id": 68,
+    "split": "train_new",
+    "words": [
+      "bathtub",
+      "boat",
+      "vase"
+    ]
+  },
+  {
+    "id": "train:1490047",
+    "image_id": 223875,
+    "ann_id": 1490047,
+    "file": "000000223875.jpg",
+    "label": "bottle",
+    "words": [
+      "bottle",
+      "truck",
+      "suitcase"
+    ],
+    "bbox": [
+      303.9,
+      144.77,
+      134.76,
+      354.75
+    ],
+    "width": 500,
+    "height": 500,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:1551501",
+    "image_id": 572183,
+    "ann_id": 1551501,
+    "file": "000000572183.jpg",
+    "label": "apple",
+    "words": [
+      "apple",
+      "remote",
+      "horse"
+    ],
+    "bbox": [
+      227.6,
+      263.19,
+      313.88,
+      206.02
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:573656",
+    "image_id": 408270,
+    "ann_id": 573656,
+    "file": "000000408270.jpg",
+    "label": "bench",
+    "words": [
+      "bench",
+      "zebra",
+      "horse"
+    ],
+    "bbox": [
+      52.89,
+      168.78,
+      370.26,
+      253.89
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:603581",
+    "ann_id": 603581,
+    "image_id": 292687,
+    "file": "000000292687.jpg",
+    "bbox": [
+      18.43,
+      360.57,
+      257.71,
+      279.43
+    ],
+    "area": 33550.0,
+    "width": 354,
+    "height": 640,
+    "coco_split": "train2017",
+    "label": "toy",
+    "lvis_category_id": 1110,
+    "split": "train_new",
+    "words": [
+      "toy",
+      "jersey",
+      "apple"
+    ]
+  },
+  {
+    "id": "train:331997",
+    "image_id": 432150,
+    "ann_id": 331997,
+    "file": "000000432150.jpg",
+    "label": "refrigerator",
+    "words": [
+      "refrigerator",
+      "donut",
+      "bed"
+    ],
+    "bbox": [
+      0.0,
+      85.39,
+      222.16,
+      341.34
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "train:622594",
+    "image_id": 39152,
+    "ann_id": 622594,
+    "file": "000000039152.jpg",
+    "label": "kite",
+    "words": [
+      "kite",
+      "zebra",
+      "laptop"
+    ],
+    "bbox": [
+      239.33,
+      263.7,
+      194.38,
+      138.2
+    ],
+    "width": 450,
+    "height": 500,
+    "coco_split": "train2017"
+  },
+  {
+    "id": "lvis:62629",
+    "ann_id": 62629,
+    "image_id": 338007,
+    "file": "000000338007.jpg",
+    "bbox": [
+      510.46,
+      65.47,
+      129.54,
+      212.69
+    ],
+    "area": 27162.44,
+    "width": 640,
+    "height": 480,
+    "coco_split": "train2017",
+    "label": "poster",
+    "lvis_category_id": 835,
+    "split": "train_new",
+    "words": [
+      "poster",
+      "awning",
+      "book"
+    ]
+  },
+  {
+    "id": "train:576344",
+    "image_id": 13721,
+    "ann_id": 576344,
+    "file": "000000013721.jpg",
+    "label": "bench",
+    "words": [
+      "bench",
+      "sheep",
+      "airplane"
+    ],
+    "bbox": [
+      124.69,
+      0.66,
+      515.31,
+      298.26
+    ],
+    "width": 640,
+    "height": 436,
+    "coco_split": "train2017"
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "script_sha256": "a0e225e9af8063ffb9d0164e133b1b25afe8d5b3076f061213bf10bfaa9b547e",
+  "official_commit": "5733528b1c163b75cf8ddf14b8991c08498eae4a",
+  "official_weight_url": "https://raw.githubusercontent.com/kdariina/CLIP-not-BoW-unimodally/5733528b1c163b75cf8ddf14b8991c08498eae4a/alignment/weights/labclip_coco_neg_L14.pt",
+  "official_weight_sha256": "9c88dc13b55933b44b9f22b672dd4874f8d7881b000385e11c03934680a0f99a",
+  "model": "openai_clip_l14",
+  "subject_registry_sha256": "41026b013904e9c5b04538e0b355fdc72ca2b3839b4ddd2ba3f6d68014371cc8",
+  "selection": "Preassigned COCO-hard-negative LABCLIP L/14 because matching OpenAI L/14 caches and IS/R checkpoints exist; no other published map screened",
+  "base": "OpenAI CLIP ViT-L/14 QuickGELU, never LAION L/14",
+  "same_base_models": [
+    {
+      "arm": "F",
+      "seed": 0,
+      "checkpoint": null,
+      "model": "openai_clip_l14",
+      "family": "routing"
+    },
+    {
+      "model": "openai_clip_l14",
+      "family": "routing",
+      "arm": "R",
+      "seed": 42,
+      "checkpoint": "/workspace/clip/interbind_phase_bc_completion_20260923/breadth/openai_clip_l14/routing/seed42/R/last.pt",
+      "sha256": "278bbe80f4ceccbd7f19c00cf8a5ea33ea9951f32bdcf5aa9ad089972bc2e44a",
+      "initial_state_hash": "c954201ffff8488777ca010c0fcbf5d517c5dc742d392c4773f318d2df44fafe",
+      "final_rng_hash": "6a9b128bcfb3b7acfa89a2eb0757162a3d3a1adee1850fbd896eb68d2a187365",
+      "seconds": 30.98034514999017
+    },
+    {
+      "model": "openai_clip_l14",
+      "family": "routing",
+      "arm": "IS",
+      "seed": 42,
+      "checkpoint": "/workspace/clip/interbind_phase_bc_completion_20260923/breadth/openai_clip_l14/routing/seed42/IS/last.pt",
+      "sha256": "ee463b93f36f2572547b4f1a322008c5492d89772ae37eb51efa0656e6e65edf",
+      "initial_state_hash": "c954201ffff8488777ca010c0fcbf5d517c5dc742d392c4773f318d2df44fafe",
+      "final_rng_hash": "6a9b128bcfb3b7acfa89a2eb0757162a3d3a1adee1850fbd896eb68d2a187365",
+      "seconds": 42.08289406099357
+    },
+    {
+      "model": "openai_clip_l14",
+      "family": "routing",
+      "arm": "R",
+      "seed": 43,
+      "checkpoint": "/workspace/clip/interbind_phase_bc_completion_20260923/breadth/openai_clip_l14/routing/seed43/R/last.pt",
+      "sha256": "b09e6995d81b21643c599999177770516d2e9b71e85763a40f6791b5b91829e1",
+      "initial_state_hash": "2ce9e590387182f917f6ccc37f920a5d3a1213bb00a53414bf23a354fcd482f3",
+      "final_rng_hash": "d3579d1029f6c2608f89ec8bee6edac30a2f02e6533ae5299c0f0fe8af951bf2",
+      "seconds": 31.175141711020842
+    },
+    {
+      "model": "openai_clip_l14",
+      "family": "routing",
+      "arm": "IS",
+      "seed": 43,
+      "checkpoint": "/workspace/clip/interbind_phase_bc_completion_20260923/breadth/openai_clip_l14/routing/seed43/IS/last.pt",
+      "sha256": "9c3c51895efd2364f870653100609fdf013f932f92ced03ece7d02af0ce3c17f",
+      "initial_state_hash": "2ce9e590387182f917f6ccc37f920a5d3a1213bb00a53414bf23a354fcd482f3",
+      "final_rng_hash": "d3579d1029f6c2608f89ec8bee6edac30a2f02e6533ae5299c0f0fe8af951bf2",
+      "seconds": 42.11544994916767
+    },
+    {
+      "model": "openai_clip_l14",
+      "family": "routing",
+      "arm": "R",
+      "seed": 44,
+      "checkpoint": "/workspace/clip/interbind_phase_bc_completion_20260923/breadth/openai_clip_l14/routing/seed44/R/last.pt",
+      "sha256": "7a7d1df50fa066c79d4e305cba198e32ec0f75c6ce4689e33d52888145bf51b8",
+      "initial_state_hash": "4bff43ff298c2fe8789d8dda505c594ae0640be4ed0f7eb2aef15ab211681b0f",
+      "final_rng_hash": "cf95a7072be9ed5f2a2ebc5dcd0dfc27b3b35f5d97cb6f449c160b5b0fc3c4c1",
+      "seconds": 30.78331367089413
+    },
+    {
+      "model": "openai_clip_l14",
+      "family": "routing",
+      "arm": "IS",
+      "seed": 44,
+      "checkpoint": "/workspace/clip/interbind_phase_bc_completion_20260923/breadth/openai_clip_l14/routing/seed44/IS/last.pt",
+      "sha256": "c2be0e1c425159d0c5d6c3ce28376b07a7d886b19c549919d2cbfdcb49e0de7f",
+      "initial_state_hash": "4bff43ff298c2fe8789d8dda505c594ae0640be4ed0f7eb2aef15ab211681b0f",
+      "final_rng_hash": "cf95a7072be9ed5f2a2ebc5dcd0dfc27b3b35f5d97cb6f449c160b5b0fc3c4c1",
+      "seconds": 42.13473160890862
+    }
+  ],
+  "score": "normalize(text @ linear.weight.T); cosine; learned temperature excluded from raw interaction units and irrelevant to caption ordering",
+  "templates": "Routing uses same normalized pooled-template feature interface as our adapters; natural benchmark captions are single official captions, matching published forward exactly",
+  "categories": "All routing confirmation/pilot/reserve colors and views; full SugarCrepe and all seven categories; full ARO plus unchanged either-color and exact83 subsets",
+  "bootstrap": "2000 paired source-cluster draws; crossed matched seed/source draws for IS/R; public map is one released checkpoint, not three trained seeds",
+  "benchmark_tuning": false,
+  "training": false,
+  "gpu": false
+}

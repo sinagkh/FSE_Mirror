@@ -1,0 +1,14 @@
+{
+  "name": "no_interaction",
+  "checkpoint": "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/runs/no_interaction/last.pt",
+  "sha256": "3e6c7f3b2b7c0996e0d077d9df291343e13d59214cc426f0a8d54c868e56b8f3",
+  "seed": 42,
+  "deletions": [
+    "binding",
+    "cross",
+    "response"
+  ],
+  "seconds": 45.07276460004505,
+  "matched_initialization_schedule_rng": true,
+  "updates": 1944
+}

@@ -1,0 +1,49 @@
+{
+  "configurations": {
+    "R_s3": {
+      "scale": 3,
+      "weight": 0.0
+    },
+    "R_s10": {
+      "scale": 10,
+      "weight": 0.0
+    },
+    "R_s30": {
+      "scale": 30,
+      "weight": 0.0
+    },
+    "R_s100": {
+      "scale": 100,
+      "weight": 0.0
+    },
+    "IS_s30_w0.1": {
+      "scale": 30,
+      "weight": 0.1
+    },
+    "IS_s30_w1": {
+      "scale": 30,
+      "weight": 1.0
+    },
+    "IS_s100_w0.1": {
+      "scale": 100,
+      "weight": 0.1
+    },
+    "IS_s100_w1": {
+      "scale": 100,
+      "weight": 1.0
+    }
+  },
+  "files": {
+    "/workspace/clip/fse_typographic/train.py": "e7a918564ac5e2a31ad7a604cdbda0fa864439e08c7f0a0f4b88a31d242ab6d0",
+    "/workspace/clip/fse_typographic/PILOT_PROTOCOL.md": "bdcc0f0ef7e54e0b4bae352229c9efb2703e01e363b761dddecf4d3e56bd9a8f",
+    "/workspace/clip/fse_typographic_20260926/protocol.json": "c65ffa71aabbef7a2346c2a5e3871fc2bc5afd2fe88f3bfbedac6cb527dae964",
+    "/workspace/clip/fse_typographic_20260926/protocol.sha256": "a59a2f1c0ee8fa9a89baa1a6424ae3694623ca83d88f1c0e04baa3233e89a965",
+    "/workspace/clip/fse_typographic_20260926/train_standard_features.json": "91592361526b25aff3a7b5b334641188d240a9551142b9b3d2f47f4165f922fb",
+    "/workspace/clip/fse_typographic_20260926/development_standard_features.json": "68baad9cc4e4141840497ff2b0bca057769bdf7d47e9e8d685f02ba1cb9b9c30",
+    "/workspace/clip/fse_typographic_20260926/texts.pt": "e956eea835af5039c0360f845e66dbd90162b1c1d102c3dd03c9bbad32ff5700",
+    "/workspace/clip/scripts/two_object_locality_lib.py": "70d3aec9aa6609f48f4dcc74c4ddf2151be5fdc815b2ee2bc8d166b8d052561e"
+  },
+  "epochs": 16,
+  "updates": 1024,
+  "seed": 42
+}

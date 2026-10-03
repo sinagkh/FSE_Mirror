@@ -1,0 +1,38 @@
+{
+  "inputs": {
+    "/workspace/FSE_VLM/plan/88_uniform_routing75_completion.md": "4f68391e02b248291b9425c039d7688bb06b6d1de6126306c0d92c705d6852ec",
+    "/workspace/FSE_VLM/interbind/routing75_complete_evaluate.py": "a363d6d8d9785092d45eb42966894432c40e7c70fa3c30d644558eb786121f83",
+    "/workspace/FSE_VLM/interbind/routing75_results.py": "2f4f98b64070d6ed76d58e2009d59cfc8eab0e165f3ba569939571991040e84b",
+    "/workspace/FSE_VLM/interbind/completion_metrics.py": "dc787490241c2f44299b6d0fdedfa2f0769e07da452bc13a2a4688d47d7e9204",
+    "/workspace/FSE_VLM/interbind/routing_light_suite_analysis.py": "8d5ac9513ac8393cce563f419da74dd99d64f776488ccf3569cfc04ac1b43781",
+    "/workspace/clip/interbind_routing75_complete_20260930/data_protocol.json": "61956adde800f2f73405a6f8b0899b27f4f54f7427f597d60ce7703d8b7e879d",
+    "/workspace/clip/interbind_routing75_complete_20260930/openai_clip_l14/features/primary/complete.json": "3df020628e1307676ef4c07a4b9f0edc4ce373298b0a0771e226d9d8afdedb47",
+    "/workspace/clip/interbind_routing75_complete_20260930/openai_clip_l14/features/background_shift/complete.json": "bc06fd228fb4272a3e635b628c54df7dabf359f8554723b17e75b58346c73101",
+    "/workspace/clip/interbind_routing75_complete_20260930/openai_clip_l14/features/geometry_shift/complete.json": "29b913b7bb468eb601bbe9fa3424361d349ecad52d8b57707c36939c030aed34",
+    "/workspace/clip/interbind_routing75_complete_20260930/openai_clip_l14/features/color_recombination/complete.json": "635f8a9feac41aac309f85b893a53854cb970eba260326bd3adb49cfa3107408",
+    "/workspace/clip/interbind_routing75_complete_20260930/openai_clip_l14/features/noun_recombination/complete.json": "2e50a2a2e02a2fce4a9d6925abbbf81d863d27bcacd06bc20474ce041fccc50e",
+    "/workspace/clip/interbind_phase_bc_completion_20260923/benchmark_features/openai_clip_l14/sugarcrepe/features.npz": "955d44c518bd17dcdbfb8d9bba9ef13b444985c60d3193b032b5c3345292f64b",
+    "/workspace/clip/interbind_phase_bc_completion_20260923/preservation/features/openai_clip_l14/aro/features.npz": "480b6fd449247ed7a43b0fc8c76f348bab9faad974a4af946ab4e26b8d7d369a",
+    "/workspace/clip/interbind_phase_bc_completion_20260923/preservation/features/openai_clip_l14/coco/features.npz": "125455f74aa3207fac24ee290036cd26eff668c91cef6165df2caad26dbea6ea",
+    "/workspace/clip/interbind_routing75_complete_20260930/openai_clip_l14/seed42/Ranking/last.pt": "2215b0756498541afa395f242d2c2277586ad35c12ed096ef6bc839f6239f0fc",
+    "/workspace/clip/interbind_routing75_complete_20260930/openai_clip_l14/seed42/IS/last.pt": "ad8267328e6a74247295346a716094ff74c5395158eb4b0330fab7015706e7c2",
+    "/workspace/clip/interbind_strengthening_cpu_20260925/published_patches/labclip_evaluation/labclip_coco_neg_L14.pt": "9c88dc13b55933b44b9f22b672dd4874f8d7881b000385e11c03934680a0f99a",
+    "/workspace/clip/interbind_routing75_complete_20260930/openai_clip_l14/seed43/Ranking/last.pt": "63e3679e60297b4e0b0c8e1960ed2c6bcd6aa52206d4eb28d75ec76c01db9f73",
+    "/workspace/clip/interbind_routing75_complete_20260930/openai_clip_l14/seed43/IS/last.pt": "c22ca5d158c01c4bb4490f1498f39c6ca999c622c131ad1209b27074413721dd",
+    "/workspace/clip/interbind_routing75_complete_20260930/openai_clip_l14/seed44/Ranking/last.pt": "78bbc95e8080f8c854c9646382ed15843eade8879a58fb31e3ec8b792304cded",
+    "/workspace/clip/interbind_routing75_complete_20260930/openai_clip_l14/seed44/IS/last.pt": "a212720f443ded9c221d5d711fb5a099b44ff06420a51b5a9c057f36e4df62ae"
+  },
+  "tint": 0.75,
+  "study": "openai_clip_l14",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "source_bootstrap": 5000,
+  "seed_source_bootstrap": 5000,
+  "primary": "Pooled two trained colors, both caption orders and layouts; purple-orange secondary",
+  "external_fixed": "Frozen and LABCLIP broadcast for paired draws, not three independent fits",
+  "full_assignment_D": "Twice stored response e",
+  "no_new_subset_selection": true
+}

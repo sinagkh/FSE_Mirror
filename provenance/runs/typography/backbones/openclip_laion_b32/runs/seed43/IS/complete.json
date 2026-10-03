@@ -1,0 +1,15 @@
+{
+  "name": "IS",
+  "seed": 43,
+  "checkpoint": "/workspace/clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/runs/seed43/IS/last.pt",
+  "sha256": "a7f0f298ec9661ccefe9e4fcd7e468488c4b64fb989acddae250ee0ba8109353",
+  "initial_hash": "50241bcdad7d1c4e91ba1450eed2ead794720ac1272589fbaf779ad323238046",
+  "sequence_hash": "c45d34d6da669be5b498215d6b1335225f67e9f6cfdf68e485109705920af5bf",
+  "updates": 2752,
+  "selection": "fixed_last",
+  "seconds": 366.72499741398497,
+  "files": {
+    "/workspace/clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/runs/seed43/IS/history.json": "3b5936fd7dcf79a9a42ee6e09a9631b90292c9e89645707c70966d84c41f2005",
+    "/workspace/clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/runs/seed43/IS/last.pt": "a7f0f298ec9661ccefe9e4fcd7e468488c4b64fb989acddae250ee0ba8109353"
+  }
+}

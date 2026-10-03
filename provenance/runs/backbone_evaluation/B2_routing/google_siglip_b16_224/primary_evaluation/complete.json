@@ -1,0 +1,16 @@
+{
+  "files": {
+    "means.csv": "6a9549fa47a69bc765f70a685b959469c6af6c089ae589602f4f37be85f4e8a5",
+    "score_index.json": "95a7992bd716ea1bf2ceb7925cca085db480131af8b9d948b268c55211e6fa37",
+    "paired_contrasts.csv": "432325864ec249f764448cd6505a7c9758f4fa96a53722d4891babb72f730420",
+    "REPORT.md": "d3e9d67bb37055880bc6969985b292b06f03d4e0afa20de3199ead24b515bb1e",
+    "protocol.sha256": "9299131c1f9f3a74a2ce6e19b19c53a35ac4d66969085b7eb5a046e418599727",
+    "fix_break_counts.csv": "573cd5f06baccb0c3796d3fa0ac73ca48a7e71e6a46ef5464bda66ba41b909f3",
+    "protocol.json": "e043c06792f79513cc154fc90dfa3b9afbc2dc23d24a121dba66019b19c99af1",
+    "scores.npz": "3cbc7c830f20f65703cfba80b97821325fbe6da251933a38a8ee562f7cf5ada9",
+    "per_example.jsonl": "5551b8f14825b2d7a56bfcd4516097751ab6295a7365adb6682a55a9072839ae"
+  },
+  "new_training": false,
+  "all_registered_primary_arms": true,
+  "transfer_and_public_retests_pending": true
+}

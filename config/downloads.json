@@ -1,0 +1,23 @@
+[
+  {
+    "name": "SCAM",
+    "url": "https://huggingface.co/datasets/BLISS-e-V/SCAM/resolve/8c674f50dfa83e1d2a0a1c95653c39c347069d72/images.zip",
+    "sha256": "1c9d819519b8e543655f3fdcc5b0bdc03d1c5beb94600eef3f0d9924afb58b3e",
+    "bytes": 92160377,
+    "filename": "images.zip"
+  },
+  {
+    "name": "RTA100",
+    "url": "https://raw.githubusercontent.com/azuma164/Defense-Prefix/50d7887017b295e76b15e56c137ab47e68264448/rta100.zip",
+    "sha256": "6ceab35550b6948b2085054d2f4391340635b6dd8a530f306a98573f6bd92a32",
+    "bytes": 41545381,
+    "filename": "rta100.zip"
+  },
+  {
+    "name": "ImageNetV2",
+    "url": "https://huggingface.co/datasets/vaishaal/ImageNetV2/resolve/d626240be2538720e83103a0e1178d24aca8b12c/imagenetv2-matched-frequency.tar.gz",
+    "sha256": "f0c37fdf925916b19ea1323cd9a2208cdb6959ba2c32eef2a7fc393835c9ca7c",
+    "bytes": 1264079360,
+    "filename": "imagenetv2-matched-frequency.tar.gz"
+  }
+]

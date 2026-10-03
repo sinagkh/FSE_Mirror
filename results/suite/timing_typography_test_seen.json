@@ -1,0 +1,101 @@
+{
+  "scenario": "typography",
+  "bank": "test_seen",
+  "style": "standard",
+  "batch_sources": 32,
+  "batch_images": 160,
+  "workers": 8,
+  "precision": "image FP16 autocast; text FP32; scores CPU float32 einsum",
+  "gpu": "NVIDIA A10G",
+  "cpu": "x86_64",
+  "torch": "2.3.1+cu121",
+  "setup": {
+    "integrity_verify_s": 0.6200697120511904,
+    "model_load_s": 2.2915405849926174
+  },
+  "timing_s": {
+    "generation": {
+      "median": 2.6414628410711884,
+      "min": 2.618226973921992,
+      "max": 2.772332331049256,
+      "runs": [
+        2.772332331049256,
+        2.6414628410711884,
+        2.618226973921992
+      ]
+    },
+    "exec_image_prep_encode": {
+      "median": 2.8105422790395096,
+      "min": 2.6983043500222266,
+      "max": 3.7908577360212803,
+      "runs": [
+        3.7908577360212803,
+        2.8105422790395096,
+        2.6983043500222266
+      ]
+    },
+    "exec_text_encode": {
+      "median": 0.49377836007624865,
+      "min": 0.48596860899124295,
+      "max": 0.7382050469750538,
+      "runs": [
+        0.7382050469750538,
+        0.48596860899124295,
+        0.49377836007624865
+      ]
+    },
+    "exec_score_and_checks": {
+      "median": 0.0375321350293234,
+      "min": 0.03727183095179498,
+      "max": 0.048780262004584074,
+      "runs": [
+        0.048780262004584074,
+        0.0375321350293234,
+        0.03727183095179498
+      ]
+    },
+    "execution_total": {
+      "median": 3.334043023060076,
+      "min": 3.22935454105027,
+      "max": 4.577843045000918,
+      "runs": [
+        4.577843045000918,
+        3.334043023060076,
+        3.22935454105027
+      ]
+    },
+    "end_to_end_pipelined": {
+      "median": 4.200675069936551,
+      "min": 4.200022402917966,
+      "max": 4.354529928066768,
+      "runs": [
+        4.354529928066768,
+        4.200675069936551,
+        4.200022402917966
+      ]
+    }
+  },
+  "work": {
+    "sources": 1024,
+    "images_rendered": 5120,
+    "follow_up_images": 4096,
+    "image_forwards": 32,
+    "text_strings_encoded": 210,
+    "scores": 358400,
+    "interaction_tests": 12288,
+    "decision_checks": 2048,
+    "failing_decisions": 1547,
+    "failing_with_unedited_also_correct": 1542
+  },
+  "fidelity": {
+    "max_abs_score_diff": 0.0,
+    "max_abs_score_diff_pipelined": 0.0,
+    "max_abs_interaction_diff": 0.0,
+    "decision_sign_agreement": 1.0,
+    "decision_flips": 0,
+    "failing_recomputed": 1547,
+    "failing_saved": 1547,
+    "failing_set_identical": true,
+    "mean_abs_word_interaction_recomputed": 0.07703527808189392
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source_files_verified": 800,
+  "exact_original_renderer_replay_ids": [
+    "confirm_0409fe474df0987731d7",
+    "confirm_00027e480e3129ba0cac",
+    "confirm_066cf179622e525889d6",
+    "confirm_01b379063822589fa5cd"
+  ],
+  "states_replayed": 64,
+  "protocol_sha256": "8a85746a3ec2f211d7bd580ff9edee5f6e29b2192ff458c149ae52775c094178",
+  "script_sha256": "59b9b51844e605de28f308b30506b7d846a9fce9dff615d6baa49a47dcd3953c",
+  "no_scores": true,
+  "no_selection": true
+}

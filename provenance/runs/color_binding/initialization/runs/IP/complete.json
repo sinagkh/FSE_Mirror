@@ -1,0 +1,11 @@
+{
+  "arm": "IP",
+  "seed": 42,
+  "checkpoint": "/workspace/clip/interbind_routing_relative_pilot_20260923/runs/IP/last.pt",
+  "sha256": "6159875a93c27f2d86de8b7cf0cfd65a9e9e5521926a2b8505cf44dc27f36205",
+  "initial_state_hash": "c954201ffff8488777ca010c0fcbf5d517c5dc742d392c4773f318d2df44fafe",
+  "final_rng_hash": "7c3aea978d3af2d1e830a1888236a0edf1625d06108c4f75b6183f2f1ec3e50f",
+  "seconds": 400.82225013989955,
+  "updates": 648,
+  "selection": "fixed_last"
+}

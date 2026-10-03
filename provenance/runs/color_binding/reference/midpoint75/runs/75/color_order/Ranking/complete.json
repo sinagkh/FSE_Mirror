@@ -1,0 +1,32 @@
+{
+  "name": "Ranking",
+  "seed": 42,
+  "tint": 75,
+  "recipe": "color_order",
+  "checkpoint": "/workspace/clip/interbind_routing_tint_balance_20260930/midpoint75/runs/75/color_order/Ranking/last.pt",
+  "sha256": "6c7913abc32e6dbb529cf9e571d521ec26f2a5ba7638539c74de7719818c9b47",
+  "initial_state_hash": "c954201ffff8488777ca010c0fcbf5d517c5dc742d392c4773f318d2df44fafe",
+  "schedule_sha256": "2b8e6066100c2e59b9c61b48f3f41f9179caeaabaf3b4b74fe5e0d655f503b0c",
+  "representation_sha256": "07350070bf0f76100ee4b4dbe64df1c15cd146f8ba90e702d817a6a23774712d",
+  "final_rng_sha256": "6a9b128bcfb3b7acfa89a2eb0757162a3d3a1adee1850fbd896eb68d2a187365",
+  "updates": 1944,
+  "seconds": 42.10862921003718,
+  "first_components": {
+    "binding": 0.07095856219530106,
+    "cross": 0.9123454093933105,
+    "response": 0.443455308675766,
+    "preference": 0.0687905102968216,
+    "endpoint": 0.36027413606643677,
+    "caption_guard": 0.0,
+    "binding_keep": 0.0,
+    "response_keep": 0.0,
+    "object_guard": 0.0,
+    "natural": 0.0,
+    "drift": 0.0,
+    "ranking_endpoint": 1.3575698137283325,
+    "ranking_agreement": 0.0,
+    "ranking_anchor": -2.421438694000244e-08,
+    "ranking": 1.3575698137283325,
+    "color_floor": 0.014347873628139496
+  }
+}

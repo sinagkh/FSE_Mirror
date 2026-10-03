@@ -1,0 +1,26 @@
+{
+  "case": "text",
+  "bank": "development",
+  "n": 8,
+  "seconds": 1.398527120007202,
+  "records_sha256": {
+    "ranking_seed42": "1855dbdfbb62050945e75e3a435f5bdc53d76ac5abb3a4b7a29b528208253e58",
+    "IS_seed42": "3984c20d496248aff3fb5dfb1ea4e04fcb399473310afee0747166f877b1b205"
+  },
+  "source_sha256": "6d87685d6e69f79c098f72243b816581db088aa508c2ade1a230bd6fe96d9cbc",
+  "protocol_sha256": "042f5c7a92b14737c52e5a9e3e2c7798f28d278db224d9c95f6342d62c24df79",
+  "checkpoints": {
+    "/workspace/clip/fse_four_case_20260927/backdoor_extension_v1/text/runs/ranking_seed42/last.pt": "f01f0f295b3400db59777dda03d2db9e7b0835159081a4b779c1295b35eb68ed",
+    "/workspace/clip/fse_four_case_20260927/backdoor_extension_v1/text/runs/IS_seed42/last.pt": "caafdce5649c072485064ea8386315fd05c5aa4916ccd8a223f27e6b1bbb6fbd"
+  },
+  "parity": {
+    "ranking_seed42": {
+      "max_score_error": 0.0,
+      "prediction_agreement": 1.0
+    },
+    "IS_seed42": {
+      "max_score_error": 0.0,
+      "prediction_agreement": 1.0
+    }
+  }
+}

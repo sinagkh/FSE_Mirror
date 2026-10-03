@@ -1,0 +1,16 @@
+{
+  "accepted": true,
+  "reviewer": "Codex visual inspection; not independent human annotation",
+  "gallery_sha256": "6db752a7120e2e115948f99a2ad29ec04ec0596d503123c1eb2ef5f1ddafce1e",
+  "selection_sha256": "beee15e559d55c623bd34878588c483a871f5501c788f4878ad7b819d3272495",
+  "selection": "First anchor by ID within each of the four frozen new noun pairings",
+  "model_scores_seen": false,
+  "checked": [
+    "Two nonoverlapping object slots in each composite",
+    "All red/red, red/blue, blue/red, blue/blue assignments have the declared noun-slot orientation",
+    "Swapped layout moves objects without reversing their noun identities",
+    "Source appearance and masks remain fixed across each color lattice"
+  ],
+  "notes": "Strong tint and partial source cutouts remain properties of the unchanged renderer. The cat is reclining, and the person is tilted in the source cutout; these are not changes introduced by recombination. This bounded check validates construction consistency, not every object's semantic recognizability.",
+  "exclusions": []
+}

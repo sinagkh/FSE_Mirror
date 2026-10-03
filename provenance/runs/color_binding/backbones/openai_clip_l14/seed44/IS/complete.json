@@ -1,0 +1,30 @@
+{
+  "name": "IS",
+  "seed": 44,
+  "checkpoint": "/workspace/clip/interbind_routing75_complete_20260930/openai_clip_l14/seed44/IS/last.pt",
+  "sha256": "a212720f443ded9c221d5d711fb5a099b44ff06420a51b5a9c057f36e4df62ae",
+  "initial_state_hash": "4bff43ff298c2fe8789d8dda505c594ae0640be4ed0f7eb2aef15ab211681b0f",
+  "schedule_sha256": "612dcffc08aa158c8322f29e5524dfb56f5acf42bba8699beb93f00e06b283a1",
+  "representation_sha256": "e9dd9650a6eb5bc33c203a89c1567c6e353ca8b94d70e0198a0b6ff81d220c55",
+  "final_rng_sha256": "cf95a7072be9ed5f2a2ebc5dcd0dfc27b3b35f5d97cb6f449c160b5b0fc3c4c1",
+  "first_components": {
+    "binding": 0.023072725161910057,
+    "cross": 1.9422998428344727,
+    "response": 0.4328666627407074,
+    "preference": 0.41746053099632263,
+    "endpoint": 0.4511779248714447,
+    "caption_guard": 0.0,
+    "binding_keep": 0.0,
+    "response_keep": 0.0,
+    "object_guard": 0.0,
+    "natural": 0.0,
+    "drift": 0.0,
+    "ranking_endpoint": 1.3682918548583984,
+    "ranking_agreement": 0.0,
+    "ranking_anchor": -7.761021691976566e-08,
+    "ranking": 1.3682918548583984,
+    "color_floor": 0.042886264622211456
+  },
+  "seconds": 63.62772707501426,
+  "updates": 1944
+}

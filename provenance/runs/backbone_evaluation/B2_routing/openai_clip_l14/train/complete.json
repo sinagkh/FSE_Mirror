@@ -1,0 +1,18 @@
+{
+  "elapsed_seconds": 345.8838018410024,
+  "files": {
+    "images.npy": "574a2b7ca00117316118cb6118b9242d9890a50192727e34636ce89ab2cf20f3",
+    "index.jsonl": "87369260f2b1644a56b4e4a1fb8a9cb81431b0226ec878f47100869d3034c47f",
+    "protocol.json": "21b57c762addef25c9f3a83682b19b70bc8ee5b2d2ad51c79fec1f46c9eacab8",
+    "text_groups.jsonl": "1e8247a34f2ef24596427a89d5cb748ebb081e966254cdb9efbed1bd7e9400cb",
+    "texts.npy": "95a5d7387a17fb7c3e4b6a66448356e46cb2f6a95e79b594b175eb0e77a393e4"
+  },
+  "image_forward_batch_count": 320,
+  "n_images": 10240,
+  "n_unique_text_groups": 45,
+  "no_scores_or_training": true,
+  "peak_cuda_bytes": 2304062464,
+  "peak_rss_kib": 8011952,
+  "score_forward_count": 0,
+  "text_forward_batch_count": 3
+}

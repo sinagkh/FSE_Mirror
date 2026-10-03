@@ -1,0 +1,13 @@
+{
+  "seed": 43,
+  "matched_initialization_schedule_rng_and_guards": true,
+  "models_sha256": "1f99dda0c35115d0ebfe1ec89054dee6afbee58eaf52a5b5a9ca27808426a3d6",
+  "arms": [
+    "Ranking",
+    "IS",
+    "no_cross",
+    "no_response",
+    "no_preference",
+    "no_interaction"
+  ]
+}

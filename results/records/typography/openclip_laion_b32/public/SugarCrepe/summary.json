@@ -1,0 +1,786 @@
+[
+  {
+    "bank": "SugarCrepe",
+    "category": "full",
+    "comparison": "frozen",
+    "metric": "accuracy",
+    "mean": 81.20090533883638,
+    "sample_sd": null,
+    "per_seed": [
+      81.20090533883638
+    ],
+    "n_items": 7511,
+    "n_source_clusters": 1560,
+    "independent_fits": 1,
+    "ci95_low": 80.17364019312693,
+    "ci95_high": 82.18052684122141,
+    "item_ci95_low": 80.17364019312693,
+    "item_ci95_high": 82.18052684122141
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "full",
+    "comparison": "ranking",
+    "metric": "accuracy",
+    "mean": 80.36213553454932,
+    "sample_sd": 1.0216991102622661,
+    "per_seed": [
+      79.29703102116895,
+      80.4553321794701,
+      81.33404340300892
+    ],
+    "n_items": 7511,
+    "n_source_clusters": 1560,
+    "independent_fits": 3,
+    "ci95_low": 78.97643719425366,
+    "ci95_high": 81.67812336112925,
+    "item_ci95_low": 79.40756598956511,
+    "item_ci95_high": 81.2850001917691
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "full",
+    "comparison": "IS",
+    "metric": "accuracy",
+    "mean": 77.43753605822572,
+    "sample_sd": 0.4780626817377236,
+    "per_seed": [
+      77.26001863932899,
+      77.97896418586073,
+      77.07362534948741
+    ],
+    "n_items": 7511,
+    "n_source_clusters": 1560,
+    "independent_fits": 3,
+    "ci95_low": 76.33969839894479,
+    "ci95_high": 78.50459876285848,
+    "item_ci95_low": 76.48755662876155,
+    "item_ci95_high": 78.35865159537502
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "full",
+    "comparison": "IS - frozen",
+    "metric": "accuracy",
+    "mean": -3.763369280610666,
+    "sample_sd": 0.4780626817377236,
+    "per_seed": [
+      -3.940886699507388,
+      -3.2219411529756457,
+      -4.127279989348963
+    ],
+    "n_items": 7511,
+    "n_source_clusters": 1560,
+    "independent_fits": null,
+    "ci95_low": -4.6671629896387286,
+    "ci95_high": -2.8072425941964876,
+    "item_ci95_low": -4.490613430702792,
+    "item_ci95_high": -3.0170074119340984
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "full",
+    "comparison": "IS - ranking",
+    "metric": "accuracy",
+    "mean": -2.924599476323612,
+    "sample_sd": 1.177525707485222,
+    "per_seed": [
+      -2.0370123818399577,
+      -2.4763679936093723,
+      -4.260418053521505
+    ],
+    "n_items": 7511,
+    "n_source_clusters": 1560,
+    "independent_fits": null,
+    "ci95_low": -4.252623670244089,
+    "ci95_high": -1.7390846561452111,
+    "item_ci95_low": -3.522457567159129,
+    "item_ci95_high": -2.330723106750421
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "add_att",
+    "comparison": "frozen",
+    "metric": "accuracy",
+    "mean": 77.89017341040463,
+    "sample_sd": null,
+    "per_seed": [
+      77.89017341040463
+    ],
+    "n_items": 692,
+    "n_source_clusters": 497,
+    "independent_fits": 1,
+    "ci95_low": 74.67433755268928,
+    "ci95_high": 81.07724536763838,
+    "item_ci95_low": 74.67433755268928,
+    "item_ci95_high": 81.07724536763838
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "add_att",
+    "comparison": "ranking",
+    "metric": "accuracy",
+    "mean": 76.30057803468208,
+    "sample_sd": 3.3047967127252234,
+    "per_seed": [
+      73.84393063583815,
+      75.0,
+      80.05780346820809
+    ],
+    "n_items": 692,
+    "n_source_clusters": 497,
+    "independent_fits": 3,
+    "ci95_low": 71.99039872579547,
+    "ci95_high": 80.55576162215628,
+    "item_ci95_low": 73.29490177051484,
+    "item_ci95_high": 79.06415822479498
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "add_att",
+    "comparison": "IS",
+    "metric": "accuracy",
+    "mean": 68.93063583815028,
+    "sample_sd": 1.895213446330053,
+    "per_seed": [
+      70.95375722543352,
+      68.64161849710983,
+      67.19653179190752
+    ],
+    "n_items": 692,
+    "n_source_clusters": 497,
+    "independent_fits": 3,
+    "ci95_low": 65.44462836350344,
+    "ci95_high": 72.52879030117916,
+    "item_ci95_low": 65.98232911086254,
+    "item_ci95_high": 71.76649958060996
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "add_att",
+    "comparison": "IS - frozen",
+    "metric": "accuracy",
+    "mean": -8.959537572254339,
+    "sample_sd": 1.8952134463300532,
+    "per_seed": [
+      -6.936416184971108,
+      -9.248554913294797,
+      -10.69364161849711
+    ],
+    "n_items": 692,
+    "n_source_clusters": 497,
+    "independent_fits": null,
+    "ci95_low": -12.215988891726267,
+    "ci95_high": -5.4517174485753745,
+    "item_ci95_low": -11.652398425099477,
+    "item_ci95_high": -6.274191314944053
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "add_att",
+    "comparison": "IS - ranking",
+    "metric": "accuracy",
+    "mean": -7.369942196531791,
+    "sample_sd": 5.061930603507799,
+    "per_seed": [
+      -2.8901734104046284,
+      -6.358381502890168,
+      -12.861271676300575
+    ],
+    "n_items": 692,
+    "n_source_clusters": 497,
+    "independent_fits": null,
+    "ci95_low": -12.625701682936477,
+    "ci95_high": -2.2801728142711135,
+    "item_ci95_low": -9.426652334815584,
+    "item_ci95_high": -5.224891111172501
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "add_obj",
+    "comparison": "frozen",
+    "metric": "accuracy",
+    "mean": 87.14839961202716,
+    "sample_sd": null,
+    "per_seed": [
+      87.14839961202716
+    ],
+    "n_items": 2062,
+    "n_source_clusters": 908,
+    "independent_fits": 1,
+    "ci95_low": 85.48705589395414,
+    "ci95_high": 88.72576996069841,
+    "item_ci95_low": 85.48705589395414,
+    "item_ci95_high": 88.72576996069841
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "add_obj",
+    "comparison": "ranking",
+    "metric": "accuracy",
+    "mean": 85.12770772712577,
+    "sample_sd": 0.615989617952074,
+    "per_seed": [
+      84.77206595538313,
+      84.77206595538313,
+      85.83899127061106
+    ],
+    "n_items": 2062,
+    "n_source_clusters": 908,
+    "independent_fits": 3,
+    "ci95_low": 83.3993764010951,
+    "ci95_high": 86.82405468401402,
+    "item_ci95_low": 83.53901462635865,
+    "item_ci95_high": 86.71253924695294
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "add_obj",
+    "comparison": "IS",
+    "metric": "accuracy",
+    "mean": 80.5205302295506,
+    "sample_sd": 2.4810805099191326,
+    "per_seed": [
+      80.74684772065956,
+      82.88069835111543,
+      77.93404461687682
+    ],
+    "n_items": 2062,
+    "n_source_clusters": 908,
+    "independent_fits": 3,
+    "ci95_low": 77.52389980785702,
+    "ci95_high": 83.29306072545081,
+    "item_ci95_low": 78.82938102998723,
+    "item_ci95_high": 82.16426012209561
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "add_obj",
+    "comparison": "IS - frozen",
+    "metric": "accuracy",
+    "mean": -6.627869382476561,
+    "sample_sd": 2.4810805099191326,
+    "per_seed": [
+      -6.401551891367603,
+      -4.2677012609117355,
+      -9.214354995150345
+    ],
+    "n_items": 2062,
+    "n_source_clusters": 908,
+    "independent_fits": null,
+    "ci95_low": -9.317460224579706,
+    "ci95_high": -4.010945478898346,
+    "item_ci95_low": -7.886585504637647,
+    "item_ci95_high": -5.390660995924152
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "add_obj",
+    "comparison": "IS - ranking",
+    "metric": "accuracy",
+    "mean": -4.60717749757517,
+    "sample_sd": 3.048735915713235,
+    "per_seed": [
+      -4.025218234723567,
+      -1.8913676042676997,
+      -7.9049466537342425
+    ],
+    "n_items": 2062,
+    "n_source_clusters": 908,
+    "independent_fits": null,
+    "ci95_low": -7.822945676897398,
+    "ci95_high": -1.7197428448640824,
+    "item_ci95_low": -5.596459016408858,
+    "item_ci95_high": -3.6540280216680308
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "replace_att",
+    "comparison": "frozen",
+    "metric": "accuracy",
+    "mean": 82.48730964467005,
+    "sample_sd": null,
+    "per_seed": [
+      82.48730964467005
+    ],
+    "n_items": 788,
+    "n_source_clusters": 524,
+    "independent_fits": 1,
+    "ci95_low": 79.66957870380902,
+    "ci95_high": 85.20346825536626,
+    "item_ci95_low": 79.66957870380902,
+    "item_ci95_high": 85.20346825536626
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "replace_att",
+    "comparison": "ranking",
+    "metric": "accuracy",
+    "mean": 83.16412859560067,
+    "sample_sd": 1.3687554727041846,
+    "per_seed": [
+      81.5989847715736,
+      84.13705583756345,
+      83.75634517766497
+    ],
+    "n_items": 788,
+    "n_source_clusters": 524,
+    "independent_fits": 3,
+    "ci95_low": 80.31627132750728,
+    "ci95_high": 85.81111871327882,
+    "item_ci95_low": 80.68849706129303,
+    "item_ci95_high": 85.48115177329242
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "replace_att",
+    "comparison": "IS",
+    "metric": "accuracy",
+    "mean": 80.5414551607445,
+    "sample_sd": 1.8491956848049411,
+    "per_seed": [
+      79.94923857868021,
+      79.06091370558376,
+      82.61421319796955
+    ],
+    "n_items": 788,
+    "n_source_clusters": 524,
+    "independent_fits": 3,
+    "ci95_low": 77.39018087855297,
+    "ci95_high": 83.61510289244966,
+    "item_ci95_low": 78.16825253739316,
+    "item_ci95_high": 82.90317496924969
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "replace_att",
+    "comparison": "IS - frozen",
+    "metric": "accuracy",
+    "mean": -1.9458544839255438,
+    "sample_sd": 1.8491956848049411,
+    "per_seed": [
+      -2.53807106598984,
+      -3.426395939086291,
+      0.1269035532994991
+    ],
+    "n_items": 788,
+    "n_source_clusters": 524,
+    "independent_fits": null,
+    "ci95_low": -4.774232303824217,
+    "ci95_high": 0.7382139119898726,
+    "item_ci95_low": -3.957169375464081,
+    "item_ci95_high": 0.13038235163959472
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "replace_att",
+    "comparison": "IS - ranking",
+    "metric": "accuracy",
+    "mean": -2.6226734348561678,
+    "sample_sd": 2.1398713823928546,
+    "per_seed": [
+      -1.6497461928933888,
+      -5.076142131979694,
+      -1.1421319796954208
+    ],
+    "n_items": 788,
+    "n_source_clusters": 524,
+    "independent_fits": null,
+    "ci95_low": -5.681916824494954,
+    "ci95_high": -0.16624070007402894,
+    "item_ci95_low": -4.223616772004738,
+    "item_ci95_high": -0.9891908710690424
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "replace_obj",
+    "comparison": "frozen",
+    "metric": "accuracy",
+    "mean": 93.76513317191284,
+    "sample_sd": null,
+    "per_seed": [
+      93.76513317191284
+    ],
+    "n_items": 1652,
+    "n_source_clusters": 823,
+    "independent_fits": 1,
+    "ci95_low": 92.43533279005246,
+    "ci95_high": 95.04892947139567,
+    "item_ci95_low": 92.43533279005246,
+    "item_ci95_high": 95.04892947139567
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "replace_obj",
+    "comparison": "ranking",
+    "metric": "accuracy",
+    "mean": 93.50282485875705,
+    "sample_sd": 0.1260088377400806,
+    "per_seed": [
+      93.40193704600485,
+      93.64406779661017,
+      93.46246973365618
+    ],
+    "n_items": 1652,
+    "n_source_clusters": 823,
+    "independent_fits": 3,
+    "ci95_low": 92.18463973891464,
+    "ci95_high": 94.76167684636822,
+    "item_ci95_low": 92.22289803840022,
+    "item_ci95_high": 94.73059188718568
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "replace_obj",
+    "comparison": "IS",
+    "metric": "accuracy",
+    "mean": 91.66666666666667,
+    "sample_sd": 0.5816600203954627,
+    "per_seed": [
+      91.04116222760291,
+      91.76755447941889,
+      92.19128329297821
+    ],
+    "n_items": 1652,
+    "n_source_clusters": 823,
+    "independent_fits": 3,
+    "ci95_low": 90.1604723190089,
+    "ci95_high": 93.07650924909397,
+    "item_ci95_low": 90.40333740831296,
+    "item_ci95_high": 92.94214357610379
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "replace_obj",
+    "comparison": "IS - frozen",
+    "metric": "accuracy",
+    "mean": -2.098466505246165,
+    "sample_sd": 0.5816600203954627,
+    "per_seed": [
+      -2.723970944309926,
+      -1.9975786924939456,
+      -1.5738498789346238
+    ],
+    "n_items": 1652,
+    "n_source_clusters": 823,
+    "independent_fits": null,
+    "ci95_low": -3.2145677379779394,
+    "ci95_high": -1.0511143257504327,
+    "item_ci95_low": -2.9255250952516727,
+    "item_ci95_high": -1.270988381339149
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "replace_obj",
+    "comparison": "IS - ranking",
+    "metric": "accuracy",
+    "mean": -1.8361581920903944,
+    "sample_sd": 0.5459140136589457,
+    "per_seed": [
+      -2.3607748184019357,
+      -1.8765133171912822,
+      -1.2711864406779654
+    ],
+    "n_items": 1652,
+    "n_source_clusters": 823,
+    "independent_fits": null,
+    "ci95_low": -2.851029065071862,
+    "ci95_high": -0.9297183492172931,
+    "item_ci95_low": -2.4698676150958088,
+    "item_ci95_high": -1.224320134348882
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "replace_rel",
+    "comparison": "frozen",
+    "metric": "accuracy",
+    "mean": 68.84779516358464,
+    "sample_sd": null,
+    "per_seed": [
+      68.84779516358464
+    ],
+    "n_items": 1406,
+    "n_source_clusters": 777,
+    "independent_fits": 1,
+    "ci95_low": 66.12900392174642,
+    "ci95_high": 71.61484378327724,
+    "item_ci95_low": 66.12900392174642,
+    "item_ci95_high": 71.61484378327724
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "replace_rel",
+    "comparison": "ranking",
+    "metric": "accuracy",
+    "mean": 67.73352299668089,
+    "sample_sd": 1.312099962259054,
+    "per_seed": [
+      66.2873399715505,
+      68.06543385490754,
+      68.84779516358464
+    ],
+    "n_items": 1406,
+    "n_source_clusters": 777,
+    "independent_fits": 3,
+    "ci95_low": 64.91725768321513,
+    "ci95_high": 70.4825781076324,
+    "item_ci95_low": 65.34483462894418,
+    "item_ci95_high": 70.14619836280707
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "replace_rel",
+    "comparison": "IS",
+    "metric": "accuracy",
+    "mean": 68.63442389758178,
+    "sample_sd": 0.6076816319571491,
+    "per_seed": [
+      68.06543385490754,
+      68.56330014224751,
+      69.27453769559033
+    ],
+    "n_items": 1406,
+    "n_source_clusters": 777,
+    "independent_fits": 3,
+    "ci95_low": 66.21650428237592,
+    "ci95_high": 71.14891144409313,
+    "item_ci95_low": 66.37764690090272,
+    "item_ci95_high": 70.90220576404188
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "replace_rel",
+    "comparison": "IS - frozen",
+    "metric": "accuracy",
+    "mean": -0.2133712660028427,
+    "sample_sd": 0.6076816319571491,
+    "per_seed": [
+      -0.7823613086770962,
+      -0.284495021337122,
+      0.4267425320056901
+    ],
+    "n_items": 1406,
+    "n_source_clusters": 777,
+    "independent_fits": null,
+    "ci95_low": -2.4144652357365732,
+    "ci95_high": 1.9228009766306569,
+    "item_ci95_low": -2.168117644349242,
+    "item_ci95_high": 1.7285815549842494
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "replace_rel",
+    "comparison": "IS - ranking",
+    "metric": "accuracy",
+    "mean": 0.9009009009009029,
+    "sample_sd": 0.7605033159006859,
+    "per_seed": [
+      1.7780938833570445,
+      0.4978662873399742,
+      0.4267425320056901
+    ],
+    "n_items": 1406,
+    "n_source_clusters": 777,
+    "independent_fits": null,
+    "ci95_low": -1.0730190594859128,
+    "ci95_high": 2.873624185078614,
+    "item_ci95_low": -0.6339981533921606,
+    "item_ci95_high": 2.3826178147458874
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "swap_att",
+    "comparison": "frozen",
+    "metric": "accuracy",
+    "mean": 67.26726726726727,
+    "sample_sd": null,
+    "per_seed": [
+      67.26726726726727
+    ],
+    "n_items": 666,
+    "n_source_clusters": 593,
+    "independent_fits": 1,
+    "ci95_low": 63.56821589205397,
+    "ci95_high": 70.86509498876723,
+    "item_ci95_low": 63.56821589205397,
+    "item_ci95_high": 70.86509498876723
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "swap_att",
+    "comparison": "ranking",
+    "metric": "accuracy",
+    "mean": 66.56656656656656,
+    "sample_sd": 2.2984909916326393,
+    "per_seed": [
+      63.96396396396396,
+      68.31831831831832,
+      67.41741741741741
+    ],
+    "n_items": 666,
+    "n_source_clusters": 593,
+    "independent_fits": 3,
+    "ci95_low": 62.55495138993929,
+    "ci95_high": 70.40358744394618,
+    "item_ci95_low": 63.31330568373251,
+    "item_ci95_high": 69.71080669710807
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "swap_att",
+    "comparison": "IS",
+    "metric": "accuracy",
+    "mean": 63.413413413413416,
+    "sample_sd": 1.3951311175942296,
+    "per_seed": [
+      61.86186186186186,
+      64.56456456456456,
+      63.813813813813816
+    ],
+    "n_items": 666,
+    "n_source_clusters": 593,
+    "independent_fits": 3,
+    "ci95_low": 59.831568289869,
+    "ci95_high": 66.96697825645194,
+    "item_ci95_low": 60.361581173982024,
+    "item_ci95_high": 66.51832059732324
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "swap_att",
+    "comparison": "IS - frozen",
+    "metric": "accuracy",
+    "mean": -3.8538538538538583,
+    "sample_sd": 1.3951311175942296,
+    "per_seed": [
+      -5.405405405405411,
+      -2.702702702702709,
+      -3.453453453453456
+    ],
+    "n_items": 666,
+    "n_source_clusters": 593,
+    "independent_fits": null,
+    "ci95_low": -7.726775515131945,
+    "ci95_high": -0.14597477661259944,
+    "item_ci95_low": -7.272772568736688,
+    "item_ci95_high": -0.591751355013565
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "swap_att",
+    "comparison": "IS - ranking",
+    "metric": "accuracy",
+    "mean": -3.1531531531531507,
+    "sample_sd": 0.913327707251984,
+    "per_seed": [
+      -2.1021021021021014,
+      -3.753753753753756,
+      -3.603603603603595
+    ],
+    "n_items": 666,
+    "n_source_clusters": 593,
+    "independent_fits": null,
+    "ci95_low": -6.468324284210607,
+    "ci95_high": 0.0527156942009583,
+    "item_ci95_low": -5.900151285930413,
+    "item_ci95_high": -0.4470772567596188
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "swap_obj",
+    "comparison": "frozen",
+    "metric": "accuracy",
+    "mean": 60.40816326530612,
+    "sample_sd": null,
+    "per_seed": [
+      60.40816326530612
+    ],
+    "n_items": 245,
+    "n_source_clusters": 224,
+    "independent_fits": 1,
+    "ci95_low": 54.25101214574899,
+    "ci95_high": 66.26016260162602,
+    "item_ci95_low": 54.25101214574899,
+    "item_ci95_high": 66.26016260162602
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "swap_obj",
+    "comparison": "ranking",
+    "metric": "accuracy",
+    "mean": 64.08163265306122,
+    "sample_sd": 2.4827602164482543,
+    "per_seed": [
+      62.44897959183673,
+      62.857142857142854,
+      66.93877551020408
+    ],
+    "n_items": 245,
+    "n_source_clusters": 224,
+    "independent_fits": 3,
+    "ci95_low": 58.26363355259459,
+    "ci95_high": 69.8480076926044,
+    "item_ci95_low": 59.059474412171504,
+    "item_ci95_high": 69.19015936254979
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "swap_obj",
+    "comparison": "IS",
+    "metric": "accuracy",
+    "mean": 58.23129251700681,
+    "sample_sd": 0.9426126843912247,
+    "per_seed": [
+      58.775510204081634,
+      57.142857142857146,
+      58.775510204081634
+    ],
+    "n_items": 245,
+    "n_source_clusters": 224,
+    "independent_fits": 3,
+    "ci95_low": 52.603953210382514,
+    "ci95_high": 63.61282144150669,
+    "item_ci95_low": 53.11653116531165,
+    "item_ci95_high": 63.291181947078016
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "swap_obj",
+    "comparison": "IS - frozen",
+    "metric": "accuracy",
+    "mean": -2.1768707482993173,
+    "sample_sd": 0.9426126843912247,
+    "per_seed": [
+      -1.632653061224488,
+      -3.265306122448976,
+      -1.632653061224488
+    ],
+    "n_items": 245,
+    "n_source_clusters": 224,
+    "independent_fits": null,
+    "ci95_low": -8.333333333333329,
+    "ci95_high": 3.73443983402489,
+    "item_ci95_low": -7.713498622589519,
+    "item_ci95_high": 3.537414965986393
+  },
+  {
+    "bank": "SugarCrepe",
+    "category": "swap_obj",
+    "comparison": "IS - ranking",
+    "metric": "accuracy",
+    "mean": -5.850340136054418,
+    "sample_sd": 2.2479879784841246,
+    "per_seed": [
+      -3.673469387755098,
+      -5.714285714285708,
+      -8.163265306122447
+    ],
+    "n_items": 245,
+    "n_source_clusters": 224,
+    "independent_fits": null,
+    "ci95_low": -11.594347826086972,
+    "ci95_high": 0.0,
+    "item_ci95_low": -10.434270503792924,
+    "item_ci95_high": -1.184255877431462
+  }
+]

@@ -1,0 +1,45 @@
+schema_version: 1
+id: spatial/position-exchange-v1
+bug_type: relational
+semantic_intent: Image-plane left/right assignment should follow the positions of two identified objects, not a caption-only preference.
+operational_measurement: A two-image, two-caption lattice yields response e and signed preference b; the two correct decision margins are e+b and e-b.
+evidence_status: Declarative export of the already-registered spatial experiment targets, not a new threshold fit. Continuous values and individual decisions are primary; the fixed target clauses are secondary. Relative-to-frozen training and preservation guards are specified separately in the saved optimizer protocol.
+scorer_output: cosine
+factors:
+  positions: {kind: image, states: [a_left_b, a_right_b], generator: exchange_unchanged_cutout_positions, description: Exchange horizontal positions without mirroring or recoloring the objects.}
+  relation: {kind: caption, states: [left, right], slot: spatial_relation}
+score_lattice:
+  image_states:
+    - {id: left_image, factors: {positions: a_left_b}}
+    - {id: right_image, factors: {positions: a_right_b}}
+  caption_states:
+    - {id: left_caption, factors: {relation: left}}
+    - {id: right_caption, factors: {relation: right}}
+  prompt:
+    templates: ["a photo of a {a} to the {relation} of a {b}", "a photo of a {b} to the {inverse_relation} of a {a}"]
+    aggregation: mean_normalized_embedding
+contrasts:
+  response:
+    - {image: left_image, caption: left_caption, weight: 0.5}
+    - {image: left_image, caption: right_caption, weight: -0.5}
+    - {image: right_image, caption: left_caption, weight: -0.5}
+    - {image: right_image, caption: right_caption, weight: 0.5}
+  preference:
+    - {image: left_image, caption: left_caption, weight: 0.5}
+    - {image: left_image, caption: right_caption, weight: -0.5}
+    - {image: right_image, caption: left_caption, weight: 0.5}
+    - {image: right_image, caption: right_caption, weight: -0.5}
+  left_margin:
+    - {image: left_image, caption: left_caption, weight: 1}
+    - {image: left_image, caption: right_caption, weight: -1}
+  right_margin:
+    - {image: right_image, caption: right_caption, weight: 1}
+    - {image: right_image, caption: left_caption, weight: -1}
+thresholds:
+  rule: A3-v1-fixed-base
+  fractions: {response_floor: 0.1, preference_cap: 0.025}
+clauses:
+  - {name: relation_response, kind: lower, contrast: response, bound: response_floor}
+  - {name: bounded_preference, kind: magnitude, contrast: preference, bound: preference_cap}
+anchors: {source: coco_source_disjoint_cutouts, selection: frozen_spatial_v3_manifest}
+guards: spatial_frozen_relative_v3

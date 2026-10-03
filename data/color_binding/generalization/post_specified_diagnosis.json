@@ -1,0 +1,274 @@
+{
+  "post_specified_after_initial_results": true,
+  "new_tests_or_training": false,
+  "comparison": "(IS_new - IS_seen) - (ScaledRanking_new - ScaledRanking_seen)",
+  "interpretation": "Positive means IS loses less accuracy under noun recombination than scaled ranking.",
+  "matching": "Arm differences paired within each constructed anchor; bank differences are differences of means, not claimed to be the same paired examples. Bootstrap jointly blocks all shared source images.",
+  "source_components": 100,
+  "images_per_component": 8,
+  "anchors_per_bank_per_component": 4,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "contrast": {
+    "mean": 0.08958333333333333,
+    "per_seed": [
+      0.1125,
+      0.095625,
+      0.060625
+    ],
+    "sample_sd": 0.026459973702430875,
+    "ci95_source": [
+      0.06708333333333333,
+      0.111875
+    ],
+    "ci95_seed_source": [
+      0.055625,
+      0.12333333333333332
+    ],
+    "n_items": 100,
+    "n_source_clusters": 100,
+    "bootstrap_draws": 10000,
+    "source_strata": 1
+  },
+  "regimes": [
+    {
+      "bank": "seen_pairs",
+      "name": "F",
+      "seed": 0,
+      "nonpositive_response_fraction": 0.34625,
+      "preference_dominated_fraction": 0.4,
+      "both_correct_fraction": 0.25375,
+      "exchange_accuracy": 0.564375
+    },
+    {
+      "bank": "seen_pairs",
+      "name": "R_s1",
+      "seed": 42,
+      "nonpositive_response_fraction": 0.18,
+      "preference_dominated_fraction": 0.4625,
+      "both_correct_fraction": 0.3575,
+      "exchange_accuracy": 0.656875
+    },
+    {
+      "bank": "seen_pairs",
+      "name": "IS",
+      "seed": 42,
+      "nonpositive_response_fraction": 0.08875,
+      "preference_dominated_fraction": 0.27625,
+      "both_correct_fraction": 0.635,
+      "exchange_accuracy": 0.805625
+    },
+    {
+      "bank": "seen_pairs",
+      "name": "R_s100",
+      "seed": 42,
+      "nonpositive_response_fraction": 0.08875,
+      "preference_dominated_fraction": 0.27875,
+      "both_correct_fraction": 0.6325,
+      "exchange_accuracy": 0.805625
+    },
+    {
+      "bank": "seen_pairs",
+      "name": "RG_s100_g0.25",
+      "seed": 42,
+      "nonpositive_response_fraction": 0.09375,
+      "preference_dominated_fraction": 0.29375,
+      "both_correct_fraction": 0.6125,
+      "exchange_accuracy": 0.7925
+    },
+    {
+      "bank": "seen_pairs",
+      "name": "R_s1",
+      "seed": 43,
+      "nonpositive_response_fraction": 0.1825,
+      "preference_dominated_fraction": 0.46625,
+      "both_correct_fraction": 0.35125,
+      "exchange_accuracy": 0.65375
+    },
+    {
+      "bank": "seen_pairs",
+      "name": "IS",
+      "seed": 43,
+      "nonpositive_response_fraction": 0.09125,
+      "preference_dominated_fraction": 0.285,
+      "both_correct_fraction": 0.62375,
+      "exchange_accuracy": 0.8
+    },
+    {
+      "bank": "seen_pairs",
+      "name": "R_s100",
+      "seed": 43,
+      "nonpositive_response_fraction": 0.09375,
+      "preference_dominated_fraction": 0.26625,
+      "both_correct_fraction": 0.64,
+      "exchange_accuracy": 0.805625
+    },
+    {
+      "bank": "seen_pairs",
+      "name": "RG_s100_g0.25",
+      "seed": 43,
+      "nonpositive_response_fraction": 0.0925,
+      "preference_dominated_fraction": 0.28625,
+      "both_correct_fraction": 0.62125,
+      "exchange_accuracy": 0.796875
+    },
+    {
+      "bank": "seen_pairs",
+      "name": "R_s1",
+      "seed": 44,
+      "nonpositive_response_fraction": 0.18625,
+      "preference_dominated_fraction": 0.46,
+      "both_correct_fraction": 0.35375,
+      "exchange_accuracy": 0.653125
+    },
+    {
+      "bank": "seen_pairs",
+      "name": "IS",
+      "seed": 44,
+      "nonpositive_response_fraction": 0.09375,
+      "preference_dominated_fraction": 0.2775,
+      "both_correct_fraction": 0.62875,
+      "exchange_accuracy": 0.80375
+    },
+    {
+      "bank": "seen_pairs",
+      "name": "R_s100",
+      "seed": 44,
+      "nonpositive_response_fraction": 0.09875,
+      "preference_dominated_fraction": 0.3275,
+      "both_correct_fraction": 0.57375,
+      "exchange_accuracy": 0.77375
+    },
+    {
+      "bank": "seen_pairs",
+      "name": "RG_s100_g0.25",
+      "seed": 44,
+      "nonpositive_response_fraction": 0.09375,
+      "preference_dominated_fraction": 0.35875,
+      "both_correct_fraction": 0.5475,
+      "exchange_accuracy": 0.763125
+    },
+    {
+      "bank": "unseen_pairs",
+      "name": "F",
+      "seed": 0,
+      "nonpositive_response_fraction": 0.39875,
+      "preference_dominated_fraction": 0.37,
+      "both_correct_fraction": 0.23125,
+      "exchange_accuracy": 0.539375
+    },
+    {
+      "bank": "unseen_pairs",
+      "name": "R_s1",
+      "seed": 42,
+      "nonpositive_response_fraction": 0.24125,
+      "preference_dominated_fraction": 0.60875,
+      "both_correct_fraction": 0.15,
+      "exchange_accuracy": 0.560625
+    },
+    {
+      "bank": "unseen_pairs",
+      "name": "IS",
+      "seed": 42,
+      "nonpositive_response_fraction": 0.15,
+      "preference_dominated_fraction": 0.56875,
+      "both_correct_fraction": 0.28125,
+      "exchange_accuracy": 0.620625
+    },
+    {
+      "bank": "unseen_pairs",
+      "name": "R_s100",
+      "seed": 42,
+      "nonpositive_response_fraction": 0.15125,
+      "preference_dominated_fraction": 0.8275,
+      "both_correct_fraction": 0.02125,
+      "exchange_accuracy": 0.508125
+    },
+    {
+      "bank": "unseen_pairs",
+      "name": "RG_s100_g0.25",
+      "seed": 42,
+      "nonpositive_response_fraction": 0.16375,
+      "preference_dominated_fraction": 0.5025,
+      "both_correct_fraction": 0.33375,
+      "exchange_accuracy": 0.6525
+    },
+    {
+      "bank": "unseen_pairs",
+      "name": "R_s1",
+      "seed": 43,
+      "nonpositive_response_fraction": 0.235,
+      "preference_dominated_fraction": 0.615,
+      "both_correct_fraction": 0.15,
+      "exchange_accuracy": 0.5575
+    },
+    {
+      "bank": "unseen_pairs",
+      "name": "IS",
+      "seed": 43,
+      "nonpositive_response_fraction": 0.1525,
+      "preference_dominated_fraction": 0.61875,
+      "both_correct_fraction": 0.22875,
+      "exchange_accuracy": 0.598125
+    },
+    {
+      "bank": "unseen_pairs",
+      "name": "R_s100",
+      "seed": 43,
+      "nonpositive_response_fraction": 0.15125,
+      "preference_dominated_fraction": 0.8275,
+      "both_correct_fraction": 0.02125,
+      "exchange_accuracy": 0.508125
+    },
+    {
+      "bank": "unseen_pairs",
+      "name": "RG_s100_g0.25",
+      "seed": 43,
+      "nonpositive_response_fraction": 0.16875,
+      "preference_dominated_fraction": 0.48125,
+      "both_correct_fraction": 0.35,
+      "exchange_accuracy": 0.65625
+    },
+    {
+      "bank": "unseen_pairs",
+      "name": "R_s1",
+      "seed": 44,
+      "nonpositive_response_fraction": 0.25,
+      "preference_dominated_fraction": 0.5975,
+      "both_correct_fraction": 0.1525,
+      "exchange_accuracy": 0.556875
+    },
+    {
+      "bank": "unseen_pairs",
+      "name": "IS",
+      "seed": 44,
+      "nonpositive_response_fraction": 0.15375,
+      "preference_dominated_fraction": 0.58875,
+      "both_correct_fraction": 0.2575,
+      "exchange_accuracy": 0.6075
+    },
+    {
+      "bank": "unseen_pairs",
+      "name": "R_s100",
+      "seed": 44,
+      "nonpositive_response_fraction": 0.14875,
+      "preference_dominated_fraction": 0.8075,
+      "both_correct_fraction": 0.04375,
+      "exchange_accuracy": 0.516875
+    },
+    {
+      "bank": "unseen_pairs",
+      "name": "RG_s100_g0.25",
+      "seed": 44,
+      "nonpositive_response_fraction": 0.165,
+      "preference_dominated_fraction": 0.5475,
+      "both_correct_fraction": 0.2875,
+      "exchange_accuracy": 0.62125
+    }
+  ],
+  "input_sha256": "ecaa0515ebcda3eaf02afc7529fab9bf9794901a41b6249cb39d7137d41fb504",
+  "script_sha256": "49a65e85ab8e971d6744ae7b2851ca8b987d178dcc6a2134920221a214cf698c"
+}

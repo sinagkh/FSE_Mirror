@@ -1,0 +1,17 @@
+{
+  "scope": "backdoor",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "source_sha256": "7a7083252df019349a9cf3a61d65b460be3d9cd92a0c9162060eaa645a7c3127",
+  "protocol_sha256": "51f3c64ce1a463a44360f86957c02a4a3a0bfe6c06f4798ce705d2a29b2f7dc3",
+  "outputs_sha256": {
+    "paired_contrasts.csv": "2da7f28c0d4c40536d2696c35e2d7a502ba654d7fd7194c2f8c4af4ff824a7dc",
+    "all_results.json": "837e1a71465ac4b5c4d65953a9c7054cf4b01ba6fb30727ddc6d68203a03960d",
+    "per_seed.csv": "770710e60dc197f758a7213aba64ed1db2d9c1b4e6738f7f70ceb328b5c92b6a",
+    "RESULTS.md": "a75e919889e443c0faebd403434842a287a58491de959033a4fe2d64e6bcfe9c",
+    "all_metrics.csv": "7d7af5c04dfae3bb7d3ad2e455c426f98e8ce84a4756104bfb47ed95a808fcd3"
+  }
+}

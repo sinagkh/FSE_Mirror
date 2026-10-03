@@ -1,0 +1,2162 @@
+{
+  "stage": "development diagnostic; published victim and defense, no IS outcomes",
+  "models": {
+    "victim": {
+      "url": "https://nc.mlcloud.uni-tuebingen.de/index.php/s/Q6rnTj5bDKeKigp/download",
+      "source_bytes": 1815698337,
+      "source_sha256": "aae7ce57d521db05e7099049140013e2da16e94869ceb75ac7af8efe356cece8",
+      "state_path": "/external-cache/fse_four_case_20260927/weights/par_badnet_stripes_victim.pt",
+      "state_sha256": "35273d17281f31136ddc53dbcc779789c9fc688632ff83d93f4dab4fd6710ae3",
+      "source_revision": "a720440047a93d9a6ab7c749a8b55fff3ed6e9e6",
+      "metadata": {
+        "epoch": 5,
+        "name": "backdoor-poison-badnet-rs"
+      },
+      "state_shapes": {
+        "positional_embedding": [
+          77,
+          512
+        ],
+        "text_projection": [
+          512,
+          512
+        ],
+        "logit_scale": [],
+        "visual.class_embedding": [
+          768
+        ],
+        "visual.positional_embedding": [
+          50,
+          768
+        ],
+        "visual.proj": [
+          768,
+          512
+        ],
+        "visual.conv1.weight": [
+          768,
+          3,
+          32,
+          32
+        ],
+        "visual.ln_pre.weight": [
+          768
+        ],
+        "visual.ln_pre.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.0.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.0.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.0.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.0.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.0.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.0.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.0.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.0.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.0.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.0.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.0.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.0.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.1.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.1.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.1.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.1.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.1.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.1.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.1.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.1.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.1.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.1.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.1.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.1.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.2.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.2.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.2.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.2.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.2.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.2.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.2.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.2.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.2.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.2.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.2.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.2.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.3.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.3.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.3.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.3.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.3.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.3.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.3.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.3.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.3.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.3.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.3.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.3.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.4.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.4.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.4.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.4.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.4.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.4.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.4.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.4.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.4.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.4.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.4.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.4.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.5.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.5.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.5.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.5.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.5.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.5.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.5.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.5.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.5.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.5.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.5.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.5.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.6.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.6.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.6.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.6.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.6.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.6.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.6.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.6.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.6.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.6.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.6.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.6.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.7.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.7.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.7.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.7.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.7.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.7.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.7.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.7.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.7.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.7.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.7.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.7.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.8.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.8.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.8.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.8.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.8.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.8.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.8.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.8.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.8.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.8.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.8.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.8.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.9.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.9.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.9.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.9.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.9.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.9.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.9.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.9.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.9.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.9.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.9.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.9.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.10.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.10.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.10.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.10.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.10.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.10.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.10.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.10.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.10.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.10.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.10.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.10.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.11.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.11.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.11.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.11.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.11.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.11.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.11.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.11.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.11.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.11.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.11.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.11.ln_2.bias": [
+          768
+        ],
+        "visual.ln_post.weight": [
+          768
+        ],
+        "visual.ln_post.bias": [
+          768
+        ],
+        "transformer.resblocks.0.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.0.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.0.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.0.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.0.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.0.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.0.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.0.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.0.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.0.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.0.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.0.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.1.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.1.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.1.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.1.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.1.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.1.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.1.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.1.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.1.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.1.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.1.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.1.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.2.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.2.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.2.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.2.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.2.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.2.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.2.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.2.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.2.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.2.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.2.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.2.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.3.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.3.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.3.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.3.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.3.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.3.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.3.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.3.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.3.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.3.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.3.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.3.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.4.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.4.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.4.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.4.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.4.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.4.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.4.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.4.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.4.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.4.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.4.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.4.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.5.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.5.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.5.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.5.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.5.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.5.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.5.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.5.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.5.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.5.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.5.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.5.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.6.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.6.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.6.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.6.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.6.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.6.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.6.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.6.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.6.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.6.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.6.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.6.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.7.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.7.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.7.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.7.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.7.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.7.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.7.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.7.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.7.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.7.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.7.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.7.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.8.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.8.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.8.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.8.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.8.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.8.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.8.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.8.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.8.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.8.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.8.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.8.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.9.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.9.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.9.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.9.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.9.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.9.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.9.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.9.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.9.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.9.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.9.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.9.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.10.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.10.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.10.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.10.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.10.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.10.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.10.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.10.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.10.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.10.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.10.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.10.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.11.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.11.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.11.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.11.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.11.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.11.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.11.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.11.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.11.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.11.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.11.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.11.ln_2.bias": [
+          512
+        ],
+        "token_embedding.weight": [
+          49408,
+          512
+        ],
+        "ln_final.weight": [
+          512
+        ],
+        "ln_final.bias": [
+          512
+        ]
+      }
+    },
+    "PAR": {
+      "url": "https://nc.mlcloud.uni-tuebingen.de/index.php/s/EpKfgbbsCZJXCRx/download",
+      "source_bytes": 1815707072,
+      "source_sha256": "4699695504b467257cd4c21ac4b838c3238c6d12b700bbbb0b1cf653f79f8fe1",
+      "state_path": "/external-cache/fse_four_case_20260927/weights/par_badnet_stripes_PAR.pt",
+      "state_sha256": "a80e5ad53a7687778b846c8c15fdfdf396e616971f35acdfcf77c62c1ea56c7e",
+      "source_revision": "a720440047a93d9a6ab7c749a8b55fff3ed6e9e6",
+      "metadata": {
+        "epoch": 10,
+        "best_acc1": 54.892703190848884
+      },
+      "state_shapes": {
+        "positional_embedding": [
+          77,
+          512
+        ],
+        "text_projection": [
+          512,
+          512
+        ],
+        "logit_scale": [],
+        "visual.class_embedding": [
+          768
+        ],
+        "visual.positional_embedding": [
+          50,
+          768
+        ],
+        "visual.proj": [
+          768,
+          512
+        ],
+        "visual.conv1.weight": [
+          768,
+          3,
+          32,
+          32
+        ],
+        "visual.ln_pre.weight": [
+          768
+        ],
+        "visual.ln_pre.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.0.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.0.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.0.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.0.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.0.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.0.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.0.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.0.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.0.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.0.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.0.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.0.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.1.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.1.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.1.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.1.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.1.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.1.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.1.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.1.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.1.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.1.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.1.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.1.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.2.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.2.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.2.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.2.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.2.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.2.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.2.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.2.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.2.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.2.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.2.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.2.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.3.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.3.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.3.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.3.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.3.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.3.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.3.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.3.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.3.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.3.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.3.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.3.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.4.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.4.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.4.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.4.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.4.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.4.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.4.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.4.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.4.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.4.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.4.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.4.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.5.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.5.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.5.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.5.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.5.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.5.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.5.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.5.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.5.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.5.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.5.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.5.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.6.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.6.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.6.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.6.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.6.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.6.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.6.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.6.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.6.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.6.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.6.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.6.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.7.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.7.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.7.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.7.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.7.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.7.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.7.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.7.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.7.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.7.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.7.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.7.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.8.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.8.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.8.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.8.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.8.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.8.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.8.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.8.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.8.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.8.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.8.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.8.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.9.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.9.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.9.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.9.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.9.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.9.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.9.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.9.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.9.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.9.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.9.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.9.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.10.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.10.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.10.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.10.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.10.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.10.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.10.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.10.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.10.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.10.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.10.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.10.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.11.ln_1.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.11.ln_1.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.11.attn.in_proj_weight": [
+          2304,
+          768
+        ],
+        "visual.transformer.resblocks.11.attn.in_proj_bias": [
+          2304
+        ],
+        "visual.transformer.resblocks.11.attn.out_proj.weight": [
+          768,
+          768
+        ],
+        "visual.transformer.resblocks.11.attn.out_proj.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.11.ln_2.weight": [
+          768
+        ],
+        "visual.transformer.resblocks.11.ln_2.bias": [
+          768
+        ],
+        "visual.transformer.resblocks.11.mlp.c_fc.weight": [
+          3072,
+          768
+        ],
+        "visual.transformer.resblocks.11.mlp.c_fc.bias": [
+          3072
+        ],
+        "visual.transformer.resblocks.11.mlp.c_proj.weight": [
+          768,
+          3072
+        ],
+        "visual.transformer.resblocks.11.mlp.c_proj.bias": [
+          768
+        ],
+        "visual.ln_post.weight": [
+          768
+        ],
+        "visual.ln_post.bias": [
+          768
+        ],
+        "transformer.resblocks.0.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.0.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.0.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.0.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.0.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.0.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.0.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.0.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.0.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.0.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.0.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.0.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.1.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.1.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.1.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.1.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.1.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.1.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.1.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.1.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.1.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.1.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.1.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.1.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.2.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.2.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.2.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.2.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.2.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.2.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.2.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.2.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.2.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.2.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.2.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.2.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.3.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.3.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.3.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.3.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.3.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.3.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.3.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.3.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.3.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.3.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.3.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.3.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.4.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.4.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.4.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.4.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.4.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.4.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.4.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.4.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.4.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.4.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.4.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.4.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.5.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.5.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.5.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.5.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.5.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.5.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.5.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.5.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.5.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.5.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.5.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.5.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.6.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.6.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.6.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.6.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.6.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.6.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.6.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.6.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.6.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.6.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.6.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.6.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.7.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.7.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.7.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.7.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.7.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.7.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.7.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.7.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.7.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.7.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.7.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.7.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.8.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.8.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.8.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.8.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.8.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.8.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.8.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.8.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.8.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.8.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.8.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.8.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.9.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.9.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.9.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.9.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.9.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.9.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.9.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.9.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.9.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.9.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.9.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.9.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.10.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.10.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.10.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.10.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.10.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.10.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.10.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.10.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.10.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.10.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.10.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.10.mlp.c_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.11.ln_1.weight": [
+          512
+        ],
+        "transformer.resblocks.11.ln_1.bias": [
+          512
+        ],
+        "transformer.resblocks.11.attn.in_proj_weight": [
+          1536,
+          512
+        ],
+        "transformer.resblocks.11.attn.in_proj_bias": [
+          1536
+        ],
+        "transformer.resblocks.11.attn.out_proj.weight": [
+          512,
+          512
+        ],
+        "transformer.resblocks.11.attn.out_proj.bias": [
+          512
+        ],
+        "transformer.resblocks.11.ln_2.weight": [
+          512
+        ],
+        "transformer.resblocks.11.ln_2.bias": [
+          512
+        ],
+        "transformer.resblocks.11.mlp.c_fc.weight": [
+          2048,
+          512
+        ],
+        "transformer.resblocks.11.mlp.c_fc.bias": [
+          2048
+        ],
+        "transformer.resblocks.11.mlp.c_proj.weight": [
+          512,
+          2048
+        ],
+        "transformer.resblocks.11.mlp.c_proj.bias": [
+          512
+        ],
+        "token_embedding.weight": [
+          49408,
+          512
+        ],
+        "ln_final.weight": [
+          512
+        ],
+        "ln_final.bias": [
+          512
+        ]
+      }
+    }
+  },
+  "rationale": "CC3M3M victim has0%genuine-target recall on development, making preservation uninformative; use released poisoned OpenAIB32 and paired PAR defense with the exact published stripe trigger.",
+  "backbone": "OpenAI ViT-B/32",
+  "target": "banana",
+  "vocabulary": [
+    "bear",
+    "refrigerator",
+    "sheep",
+    "umbrella",
+    "potted plant",
+    "cup",
+    "handbag",
+    "kite",
+    "donut",
+    "keyboard",
+    "stop sign",
+    "truck",
+    "wine glass",
+    "apple",
+    "horse",
+    "laptop",
+    "bottle",
+    "car",
+    "airplane",
+    "boat",
+    "book",
+    "carrot",
+    "sink",
+    "backpack",
+    "bed",
+    "elephant",
+    "vase",
+    "bench",
+    "suitcase",
+    "remote",
+    "zebra",
+    "train",
+    "sweatshirt",
+    "jacket",
+    "dress",
+    "mirror",
+    "poster",
+    "jean",
+    "wet suit",
+    "cupboard",
+    "fireplace",
+    "toy",
+    "blender",
+    "newspaper",
+    "desk",
+    "painting",
+    "place mat",
+    "pastry",
+    "mattress",
+    "cabinet",
+    "tarp",
+    "blanket",
+    "christmas tree",
+    "soup",
+    "polo shirt",
+    "tablecloth",
+    "tinfoil",
+    "blouse",
+    "tissue paper",
+    "jersey",
+    "paper plate",
+    "shower curtain",
+    "street sign",
+    "pillow",
+    "vest",
+    "awning",
+    "bread",
+    "chopping board",
+    "headboard",
+    "log",
+    "stove",
+    "napkin",
+    "quilt",
+    "tray",
+    "banner",
+    "mug",
+    "dress suit",
+    "pot",
+    "plastic bag",
+    "bathtub",
+    "basket",
+    "drawer",
+    "box",
+    "flower arrangement",
+    "apron",
+    "cistern",
+    "banana"
+  ],
+  "states": [
+    "clean",
+    "trigger_1",
+    "trigger_2",
+    "mean_patch_sham"
+  ],
+  "rendering": "verbatim PAR apply_trigger with badnet_rs, random position,16x16, image_size224; same per-source seeds and equal-support mean-patch sham as original pilot",
+  "data": "same COCO/LVIS development and training IDs as CC3M diagnostic; no scores used to choose new sources",
+  "comparison": "PAR released cleaned weights: operational comparison; trigger-informed IS/ranking receive extra trigger and class-label knowledge",
+  "cache": "/external-cache/fse_four_case_20260927/backdoor_par",
+  "files": {
+    "/workspace/FSE_VLM/four_case/par_diagnostic.py": "d48360a7cdccf2613c0e8e3416a8b662475ae95347a7563da1941d14f6f94787",
+    "/workspace/FSE_VLM/four_case/vendor/PerturbAndRecover/backdoor/utils.py": "96cce472091edccc8bcbc234365c634693d91bdf05fe9a16b894babd1921975b",
+    "/workspace/FSE_VLM/four_case/vendor/PerturbAndRecover/pkgs/openai/model.py": "cadc64427022aedd807ab216869e1bba5219e52143d194ee5cdd0f567c2c1b64",
+    "/workspace/FSE_VLM/four_case/vendor/PerturbAndRecover/eval/validate.py": "7d2d2be330bcace07728ad4fed550a2de55cc8c57037eb623473ffdd259ea0a7",
+    "/workspace/FSE_VLM/four_case/vendor/PerturbAndRecover/eval/eval_data.py": "fe3d69dddc9d6967bed9f7d2a9bea9e4362617ef016f2c7073f15f87cfb636d5"
+  },
+  "manifests": {
+    "train": "f3e8b5abaa238cb21010fb423037b20b79f83ef6315a70b1f2b19d0ea52ae034",
+    "development": "35fba08d2bb3aeefe8fed7b555d34bf6ac693d0ec4bffaf56993c21c3193e50c"
+  }
+}

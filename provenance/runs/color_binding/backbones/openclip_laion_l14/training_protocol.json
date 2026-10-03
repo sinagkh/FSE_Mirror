@@ -1,0 +1,30 @@
+{
+  "inputs": {
+    "/workspace/FSE_VLM/plan/88_uniform_routing75_completion.md": "4f68391e02b248291b9425c039d7688bb06b6d1de6126306c0d92c705d6852ec",
+    "/workspace/FSE_VLM/interbind/routing75_complete_train.py": "a22883c5594715537a1ad80551716c4eefec0e438d2e7e37834332bc07313b4f",
+    "/workspace/FSE_VLM/interbind/routing75_replication.py": "016b5e1b65ffe554e2969cd3e48b5211ee32139186df111e027b6b33f0b72037",
+    "/workspace/FSE_VLM/interbind/routing_tint_balance_train.py": "542ba3c7b35f6bb66f90d49ca08302e06a43dc42f1bd6d48050eba6cce1f8387",
+    "/workspace/FSE_VLM/interbind/prewriting_routing_breadth.py": "22b6a24bf2ea2347886bbbac8eacca6f34c9d6a364f04699f23c9025838ad91f",
+    "/workspace/clip/interbind_routing75_complete_20260930/data_protocol.json": "61956adde800f2f73405a6f8b0899b27f4f54f7427f597d60ce7703d8b7e879d",
+    "/workspace/clip/interbind_routing75_replication_20260930/protocol.json": "ba5601209b1a7ad37f2c0efc4236e92d1c699ed38853c6a20f4b20cd3c08381c",
+    "/workspace/clip/interbind_routing_relative_pilot_20260923/normalization.json": "406efd02160e40d1623f1f8618ea6c6ad488d1dd3170ec8d7d2232c4b775d4cd"
+  },
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "tint": 0.75,
+  "arms": [
+    "OrdinaryRanking"
+  ],
+  "updates": 1944,
+  "epochs": 36,
+  "selection": "fixed_last",
+  "ranking_cosine_temperature": 100,
+  "temperature_search": false,
+  "shared_color_floor": true,
+  "existing_weights_unchanged": true,
+  "no_score_selection": true,
+  "ordinary_control": "Historical CE plus anchor drift only; same75 inputs, templates, schedule and budget"
+}

@@ -1,0 +1,8 @@
+{
+  "code_sha256": "1542981e108a75ba054166594eca61a8758c09f9b40b7edcb46b8c2f9cf748a8",
+  "input_sha256": "0d8bd042d26cb7cd7d45e79a935c71ff17391b5adb9444505592a7a7dab7a5d8",
+  "estimands": "Paired source ratios; diagnosis in one physical layout, accuracy measured in the other.",
+  "draws": 5000,
+  "seed_source": "Shared crossed draws, every clause/layout retained; same as main75",
+  "fixed_models": "Frozen and LABCLIP are single fixed models repeated only for paired comparison"
+}
