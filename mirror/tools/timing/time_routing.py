@@ -20,7 +20,7 @@ HERE = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'FSE_VLM'))
 from mirror.cases.color_binding import routing_light_tint as p                      # noqa: E402
 from mirror.cases.color_binding import indirect_generalization as ind               # noqa: E402
-from mirror.cases.color_binding import completion_metrics as metrics                # noqa: E402
+from mirror.core import metrics                                                   # noqa: E402
 from mirror.core.encoders import load_subject; from mirror.core.encoders import legacy_unit            # noqa: E402
 from mirror.cases.color_binding.rendering import captions                           # noqa: E402
 from mirror.cases.color_binding.repair_trainbank import lines; from mirror.cases.color_binding.repair_trainbank import annotations_for      # noqa: E402

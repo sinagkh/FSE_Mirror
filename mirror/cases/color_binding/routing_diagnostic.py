@@ -17,7 +17,7 @@ from mirror.cases.color_binding.predict import cross_fitted; from mirror.cases.c
 
 OUT = ROOT / "clip/interbind_routing_diagnostic_20260923"
 REVISION = ROOT / "FSE_VLM/plan/18_complete_routing_diagnostic.md"
-LIBRARY = Path(__file__).with_name("requirement_library") / "routing-v1.yaml"
+LIBRARY = ROOT / "mirror/core/templates/routing-v1.yaml"
 BASE = ["audit_decision_failure_rate", "audit_min_margin", "audit_mean_margin",
         "state_audit_failure_rate", "state_audit_min_margin", "state_audit_mean_margin",
         "audit_swap_rb_margin", "audit_swap_br_margin"]

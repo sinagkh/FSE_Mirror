@@ -1,12 +1,10 @@
-"""Complete fixed backdoor replications without altering first-round artifacts."""
+"""Fixed-recipe backdoor evaluation and crossed seed/source summaries."""
 import argparse
 import copy
 from datetime import datetime; from datetime import timezone
 import importlib.util
 import json
-import os
 from pathlib import Path
-import signal
 import time
 import numpy as np
 import torch
@@ -27,65 +25,25 @@ def prepare():
     DEST.mkdir(exist_ok=True)
     protocol = DEST/'protocol.json'
     if protocol.exists(): return
-    pause=json.loads((OUT/'priority_backdoor_20260927/pause_verified.json').read_text())
-    for row in pause['paused_processes']:
-        s=(Path('/proc')/str(row['pid'])/'stat').read_text(); fields=s[s.rfind(')')+2:].split()
-        assert fields[0]=='T' and int(fields[19])==row['start_ticks']
-    note=dict(proceed=True,decision_utc=datetime.now(timezone.utc).isoformat(),
-        reason='User requests full backdoor completion; all registered attacks and matched arms replicated without conditioning on new ImageNetV2 outcomes.',
-        outcome_access='Development results known; extension ImageNetV2 outcomes not inspected before this decision.',
-        recipe='unchanged original trainer, final checkpoint and per-victim seed42 calibration',seeds=[42,43,44])
-    for case in data.CASES:
-        path=data.RUN/case/'replication_decision.json'
-        assert not path.exists(), path
-        dump(path,note)
+    note=dict(created_utc=datetime.now(timezone.utc).isoformat(),
+        recipe='fixed trainer, final checkpoint and per-victim seed42 calibration',seeds=[42,43,44])
     dump(protocol,dict(**note, cases=list(data.CASES),banks=list(BANKS),
-        plan_sha256=sha(ROOT/'FSE_VLM/plan/67_backdoor_paper_completion.md'),
         original_evaluation_protocol_sha256=sha(data.RUN/'evaluation_protocol.json'),
-        optional_jobs='all nine recorded queue/worker identities verified stopped; no automatic resume',
         additions='three-seed replication; paired banana invariance; pixel-gated inversion; native model check',
         analysis='4000 crossed seed/source paired bootstrap replicates; all registered conditions retained'))
-    print('COMPLETION AUTHORIZED',note,flush=True)
+    print('EVALUATION PREPARED',note,flush=True)
 
 
 def verify():
     cfg=json.loads((DEST/'protocol.json').read_text())
-    assert cfg['plan_sha256']==sha(ROOT/'FSE_VLM/plan/67_backdoor_paper_completion.md')
+    assert cfg['original_evaluation_protocol_sha256']==sha(data.RUN/'evaluation_protocol.json')
     ev.verify()
     return cfg
-
-
-def takeover():
-    """Stop only the superseded, uncommitted evaluation and its controller."""
-    controller=1330952
-    def identity(pid):
-        path=Path('/proc')/str(pid)
-        raw=(path/'stat').read_text(); fields=raw[raw.rfind(')')+2:].split()
-        return dict(pid=pid,start_ticks=int(fields[19]),state=fields[0],command=(path/'cmdline').read_bytes().replace(b'\0',b' ').decode())
-    parent=identity(controller)
-    assert 'bash mirror/cases/backdoor/run_par_priority.sh' in parent['command']
-    children=[int(s) for s in (Path('/proc')/str(controller)/'task'/str(controller)/'children').read_text().split()]
-    assert len(children)==1, children
-    child=identity(children[0])
-    assert 'par_priority_runtime.py evaluate evaluate --case stripes --bank imagenetv2' in child['command']
-    root=data.RUN/'stripes/evaluation/imagenetv2'
-    assert not (root/'summary.json').exists() and not list(root.glob('*_records.npz'))
-    workers=[int(s) for s in (Path('/proc')/str(child['pid'])/'task'/str(child['pid'])/'children').read_text().split()]
-    entries=[identity(p) for p in workers]
-    assert all('par_priority_runtime.py' in p['command'] for p in entries)
-    os.kill(controller,signal.SIGSTOP)
-    for row in entries+[child]: os.kill(row['pid'],signal.SIGTERM)
-    os.kill(controller,signal.SIGTERM);os.kill(controller,signal.SIGCONT)
-    dump(DEST/'queue_takeover.json',dict(time_utc=datetime.now(timezone.utc).isoformat(),controller=parent,workers=entries+[child],
-        reason='Restart uncommitted stripe evaluation with six CPU loaders and prioritize additional seed training; no completed outputs removed or changed.'))
-    print('SUPERSEDED QUEUE STOPPED; ALL COMPLETED OUTPUTS PRESERVED',flush=True)
 
 
 def first_round(case,bank):
     # Runtime-only loader parallelism: same original evaluator, batch size,
     # precision, source IDs, per-source RNG, and output destination.
-    from mirror.cases.backdoor.par_priority_runtime import guard
-    guard()
     def loader(*args,**kwargs):
         kwargs['num_workers']=6
         return DataLoader(*args,**kwargs)
@@ -102,8 +60,6 @@ def evaluate(case,bank,smoke=False):
         receipt=json.loads(marker.read_text())
         for name,digest in receipt['records_sha256'].items(): assert sha(root/(name+'_records.npz'))==digest
         return
-    from mirror.cases.backdoor.par_priority_runtime import guard
-    guard()
     model,prep,tok=tr.model_load(case)
     tv=ev.texts(model,tok,case,'victim',bank in ('banana1000','imagenetv2'))
     target=954 if bank in ('banana1000','imagenetv2') else 86
@@ -311,20 +267,8 @@ def report():
         'Released PAR is an operational comparison with different cleanup data and no supplied trigger. Native-model verification is separate from reproducing the original ImageNet1K table, whose dataset is unavailable.',
         'Input filters and detector-gated inversion are legitimate known-pattern alternatives. Oracle-gated inversion additionally receives the attack-present flag. Their successes must remain visible for claims about best practical defenses.',
         'Banana invariance uses paired prediction changes and correctness on both views, not only the net accuracy gap. Complete banana metrics and all registered processing conditions remain in the machine-readable tables.',
-        'RIO and modality remain paused; no optional task is resumed by this completion.','']
+        '']
     (DEST/'REPORT.md').write_text('\n'.join(lines))
-    evidence=['# Paper-facing backdoor evidence','','Role: a third debugging case on an externally poisoned VLM, repaired inside the image encoder.','',
-        'Lead with the completed three-seed stripes diagnosis, matched component contrast and independent 10,000-image confirmation. See ../backdoor_par/DEBUGGING_STORY.md.','',
-        'The full report supplies fixed-procedure replication across triangles and text. Use all attacks when stating an across-attack claim; do not imply that the endpoint advantage holds in every domain or condition.','',
-        '## ImageNetV2: all registered attack types','',
-        '| Attack | Ranking attacked | IS attacked | IS − ranking, 95% CI | Native clean difference |','|---|---:|---:|---:|---:|']
-    for r in results:
-        if r['bank']!='imagenetv2':continue
-        a=r['methods']['ranking']['identity']['attacked_accuracy'];b=r['methods']['IS']['identity']['attacked_accuracy']
-        c=r['comparisons']['IS_minus_ranking']['identity'];d=c['attacked_accuracy'];clean=c['native_clean_accuracy']
-        evidence.append(f"| {r['case']} | {100*a['mean']:.2f} | {100*b['mean']:.2f} | {100*d['mean']:+.2f} [{100*d['ci95'][0]:.2f}, {100*d['ci95'][1]:.2f}] | {100*clean['mean']:+.2f} |")
-    evidence+=['','This table establishes the matched parameter-repair comparison. Include the completed known-pattern controls when comparing practical defenses, and keep the published-PAR information difference clear. The report is evidence for writing, not an automatic manuscript edit.','']
-    (DEST/'PAPER_EVIDENCE.md').write_text('\n'.join(evidence))
     dump(DEST/'complete.json',dict(time_utc=datetime.now(timezone.utc).isoformat(),banks=12,seeds=[42,43,44],
         report_sha256=sha(DEST/'REPORT.md'),tables_sha256=sha(DEST/'tables.csv'),native_PAR_check_sha256=sha(DEST/'native_PAR_verification.json')))
     print('BACKDOOR COMPLETION FINISHED',DEST,flush=True)
@@ -332,9 +276,9 @@ def report():
 
 if __name__=='__main__':
     command();torch.set_num_threads(4)
-    p=argparse.ArgumentParser();p.add_argument('action',choices=['prepare','evaluate','smoke','native_check','analyze','report','first_round','takeover'])
+    p=argparse.ArgumentParser();p.add_argument('action',choices=['prepare','evaluate','smoke','native_check','analyze','report','first_round'])
     p.add_argument('--case',choices=data.CASES);p.add_argument('--bank',choices=BANKS);a=p.parse_args()
-    if a.action in ('prepare','native_check','report','takeover'): globals()[a.action]()
+    if a.action in ('prepare','native_check','report'): globals()[a.action]()
     elif a.action=='first_round':first_round(a.case,a.bank)
     elif a.action=='analyze':analyze(a.case,a.bank)
     else:evaluate(a.case,a.bank,a.action=='smoke')

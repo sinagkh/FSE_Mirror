@@ -1,4 +1,4 @@
-"""One further seed42 development recipe; never modifies earlier artifacts."""
+"""Shared-caption dropout, matched routing objectives, and cache-based training."""
 import argparse
 from dataclasses import asdict
 from pathlib import Path

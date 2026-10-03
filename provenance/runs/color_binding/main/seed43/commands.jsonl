@@ -1,8 +1,0 @@
-{"utc": "2026-09-30T19:14:37.118362+00:00", "command": "/workspace/.venv/bin/python /workspace/FSE_VLM/interbind/routing75_replication.py run --seed 43", "event": "evaluation_start", "stage": "primary", "seed": 43}
-{"utc": "2026-09-30T19:14:40.132760+00:00", "command": "/workspace/.venv/bin/python /workspace/FSE_VLM/interbind/routing75_replication.py run --seed 43", "event": "evaluation_complete", "stage": "primary", "seed": 43}
-{"utc": "2026-09-30T19:14:40.132918+00:00", "command": "/workspace/.venv/bin/python /workspace/FSE_VLM/interbind/routing75_replication.py run --seed 43", "event": "evaluation_start", "stage": "transfer", "seed": 43}
-{"utc": "2026-09-30T19:14:44.935702+00:00", "command": "/workspace/.venv/bin/python /workspace/FSE_VLM/interbind/routing75_replication.py run --seed 43", "event": "evaluation_complete", "stage": "transfer", "seed": 43}
-{"utc": "2026-09-30T19:14:44.935891+00:00", "command": "/workspace/.venv/bin/python /workspace/FSE_VLM/interbind/routing75_replication.py run --seed 43", "event": "evaluation_start", "stage": "natural", "seed": 43}
-{"utc": "2026-09-30T19:15:01.201632+00:00", "command": "/workspace/.venv/bin/python /workspace/FSE_VLM/interbind/routing75_replication.py run --seed 43", "event": "evaluation_complete", "stage": "natural", "seed": 43}
-{"utc": "2026-09-30T19:15:01.201844+00:00", "command": "/workspace/.venv/bin/python /workspace/FSE_VLM/interbind/routing75_replication.py run --seed 43", "event": "evaluation_start", "stage": "diagnostics", "seed": 43}
-{"utc": "2026-09-30T19:16:15.643286+00:00", "command": "/workspace/.venv/bin/python /workspace/FSE_VLM/interbind/routing75_replication.py run --seed 43", "event": "evaluation_complete", "stage": "diagnostics", "seed": 43}

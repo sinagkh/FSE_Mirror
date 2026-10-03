@@ -73,7 +73,7 @@ def freeze(out):
         scope='post-specified current FSE L/14 re-audit; not submitted B/32 replication',
         seeds=list(SEEDS), bootstrap=2000, statistics_seed=20260923,
         gpu=False, training=False, reserve=False, selection=False))
-    dump(out/'adequacy.json',adequacy(cal,Path(__file__).with_name('requirement_library')/'routing-v1.yaml'))
+    dump(out/'adequacy.json',adequacy(cal,ROOT/'mirror/core/templates/routing-v1.yaml'))
     print('FROZEN',sha(out/'protocol.json'),flush=True)
 
 

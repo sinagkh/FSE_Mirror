@@ -1,4 +1,4 @@
-"""Bounded development-only continuations and template-exposure pilot (plan 38)."""
+"""Template feature banks, representation schedules, and matched continuations."""
 import argparse
 from dataclasses import asdict; from dataclasses import replace
 import hashlib

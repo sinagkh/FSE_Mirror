@@ -1,2 +1,0 @@
-{"utc": "2026-09-26T17:13:39.495695+00:00", "command": "/workspace/.venv/bin/python /workspace/FSE_VLM/interbind/prewriting_fresh_typography_evaluate_v2.py --model openai_clip_b32", "event": "start"}
-{"utc": "2026-09-26T17:14:05.767871+00:00", "command": "/workspace/.venv/bin/python /workspace/FSE_VLM/interbind/prewriting_fresh_typography_evaluate_v2.py --model openai_clip_b32", "event": "complete"}

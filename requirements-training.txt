@@ -1,0 +1,16 @@
+# Recorded training package versions; this is not a validated retraining environment.
+# Install the CUDA 12.1 PyTorch wheels from https://download.pytorch.org/whl/cu121.
+-r requirements-analysis.txt
+pandas==2.3.1
+pillow==12.2.0
+torch==2.3.1+cu121
+torchvision==0.18.1+cu121
+open_clip_torch==3.2.0
+transformers==4.44.2
+timm==0.5.4
+safetensors==0.6.2
+scipy==1.15.3
+scikit-learn==1.7.2
+opencv-python==4.13.0.92
+# Dataset-construction modules additionally import pycocotools, requests, and nltk.
+# Their original versions were not recorded; prepared source manifests are bundled.

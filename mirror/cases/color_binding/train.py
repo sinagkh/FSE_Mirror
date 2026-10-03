@@ -11,6 +11,7 @@ from mirror.core.repair import RepairCache; from mirror.core.repair import TextL
 from mirror.cases.color_binding.routing_adequacy import preference_spec
 from mirror.core.specifications import compile_requirement
 from mirror.core.io import read; from mirror.core.io import dump; from mirror.core.io import jsonl; from mirror.core.io import log; from mirror.core.io import sha; from mirror.core.io import verify_files
+from mirror.core.io import dump_or_verify
 
 OUT=data.OUT
 base=data.base;p=data.p;breadth=data.breadth
@@ -112,7 +113,7 @@ def prepare(model):
             ordinary_control='Historical CE plus anchor drift only; same75 inputs, templates, schedule and budget'))
     else:verify_files(read(dest/'training_protocol.json')['inputs'])
     loaded,forms=load_training(model);cal=calibrate(model,loaded,forms)
-    dump(dest/'training_inputs.json',dict(configuration=asdict(loaded[-1]),color_calibration_sha256=sha(dest/'color_calibration.json'),
+    dump_or_verify(dest/'training_inputs.json',dict(configuration=asdict(loaded[-1]),color_calibration_sha256=sha(dest/'color_calibration.json'),
         forms_shape=list(forms.shape),forms_sha256=p.array_hash(forms.cpu().numpy())))
     return loaded,forms,cal
 
@@ -162,8 +163,8 @@ def main():
             for key in ('initial_state_hash','schedule_sha256','representation_sha256','final_rng_sha256','first_components','updates'):
                 assert rr[0][key]==original[key],('ordinary_vs_main',seed,key)
         results.extend(rr)
-    dump(OUT/a.model/'models.json',results)
-    dump(OUT/a.model/'training_complete.json',dict(models_sha256=sha(OUT/a.model/'models.json'),all_matched=True))
+    dump_or_verify(OUT/a.model/'models.json',results)
+    dump_or_verify(OUT/a.model/'training_complete.json',dict(models_sha256=sha(OUT/a.model/'models.json'),all_matched=True))
     log(OUT,'training_complete',model=a.model)
 
 if __name__=='__main__':main()

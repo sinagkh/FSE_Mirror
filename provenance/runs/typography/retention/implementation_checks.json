@@ -1,8 +1,0 @@
-{
-  "zero_nuisance_preservation_gradient_parity": true,
-  "interaction_gradient_identity_error": 1.1444091796875e-05,
-  "original_objective_gradient_parity": true,
-  "geometry_at_frozen": 0,
-  "common_permutation_error": 7.450580596923828e-09,
-  "frozen_encoders": true
-}

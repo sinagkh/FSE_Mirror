@@ -1,4 +1,4 @@
-"""Versioned preference-aware specification and score-only pilot losses; no trainer."""
+"""Preference-aware specification and score-only losses; no trainer."""
 import copy
 import numpy as np
 import torch

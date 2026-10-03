@@ -30,7 +30,7 @@ def prepare():
          *[DEST/f'{bank}_final.json' for bank in banks]]
     dump(DEST/'data_protocol.json',dict(files={str(p):sha(p) for p in files},training_classes=train_labels,new_classes=new,
         heldout_classes=cfg['heldout_classes'],vocabulary=vocabulary,counts={k:len(v) for k,v in banks.items()},
-        unique_training_sources=len(train),training_score_inputs=False,renderer_sha256=sha(CODE/'diagnostic.py')))
+        unique_training_sources=len(train),training_score_inputs=False,renderer_sha256=sha(CODE/'diagnose.py')))
     (DEST/'data_protocol.sha256').write_text(sha(DEST/'data_protocol.json')+'\n')
     rows=sorted(banks['development_new'],key=lambda r:key('typographic-broad-gallery-v1:'+r['id']))[:12]
     sheet=Image.new('RGB',(5*224,len(rows)*252),'white');draw=ImageDraw.Draw(sheet)
@@ -44,7 +44,7 @@ def verify_data():
     verify();p=DEST/'data_protocol.json';assert sha(p)==(DEST/'data_protocol.sha256').read_text().strip()
     cfg=json.loads(p.read_text())
     for f,h in cfg['files'].items():assert sha(f)==h,f
-    assert sha(CODE/'diagnostic.py')==cfg['renderer_sha256']
+    assert sha(CODE/'diagnose.py')==cfg['renderer_sha256']
     return cfg
 
 def encode():
@@ -78,4 +78,3 @@ def encode():
     dump(DEST/'encoding_complete.json',dict(texts_sha256=sha(path),files={str(p):sha(p) for p in DEST.glob('*features.json')}))
 if __name__=='__main__':
     log_run();ap=argparse.ArgumentParser();ap.add_argument('action',choices=['prepare','encode']);a=ap.parse_args();globals()[a.action]()
-

@@ -1,4 +1,4 @@
-"""Fixed 36-epoch original ranking and common-noise IS, conditional 3 seeds."""
+"""Fixed 36-epoch schedules and matched ranking/common-noise replication."""
 import argparse
 from dataclasses import asdict; from dataclasses import replace
 from pathlib import Path

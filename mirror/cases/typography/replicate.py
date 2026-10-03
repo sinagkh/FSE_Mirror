@@ -42,7 +42,7 @@ def prepare():
     assert not (RUN/'protocol.json').exists()
     cfg,model,tok,prefix,v,y,w,t,tt,rows=setup()
     files=[Path(__file__),CODE/'broad_confirmation_retest.py',CODE/'BROAD_SUPPORT_PROTOCOL.md',CODE/'BROAD_SUPPORT_AMENDMENT.md',CODE/'BROAD_DURATION_PROTOCOL.md',CODE/'BROAD_CONFIRMATION_PROTOCOL.md',PILOT/'protocol.json',PILOT/'calibration.json',
-           CODE/'broad_support_filtered.py',CODE/'prompt_unclipped.py',CODE/'train.py',
+           CODE/'broad_support_filtered.py',CODE/'objective.py',CODE/'train.py',
            bank.DEST/'filtered_data_protocol.json']
     dump(RUN/'protocol.json',dict(files={str(p):sha(p) for p in files},seed=SEED,updates=2752,batch_size=32,
        unique_sources=len(rows),training_classes=len(cfg['training_classes']),configurations=CONFIGS,
@@ -115,6 +115,5 @@ def main():
     if a.action in ('train','smoke'):train(a.name,a.action=='smoke')
     else:globals()[a.action]()
 if __name__=='__main__':main()
-
 
 

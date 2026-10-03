@@ -29,7 +29,7 @@ def all_contexts():
 
 def run(out=OUT):
     log(out, "start")
-    source = Path(__file__).with_name("requirement_library") / "routing-v1.yaml"
+    source = ROOT / "mirror/core/templates/routing-v1.yaml"
     legacy = compile_requirement(load_requirement(source), calibration_unit=1., base_model_id="symbolic", calibration_bank_id="symbolic")
     contexts = all_contexts()
     for context in contexts:

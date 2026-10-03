@@ -1,7 +1,6 @@
-"""One-seed, complete-context routing repair; explicit create-only stages.
+"""Complete-context routing repair and source-bank construction.
 
-The historical engine/specifications remain unchanged. The hook below reuses
-its single shared text forward, so every arm consumes identical dropout draws.
+A single shared text forward gives matched arms identical dropout draws.
 """
 import argparse
 from dataclasses import asdict; from dataclasses import replace

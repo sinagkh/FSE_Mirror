@@ -2,7 +2,6 @@
   "mirror/cases/color_binding/replicate.py",
   "mirror/cases/color_binding/results.py",
   "mirror/cases/color_binding/train.py",
-  "mirror/cases/color_binding/train_joint.py",
   "mirror/cases/color_binding/test_data.py",
   "mirror/cases/color_binding/report.py",
   "mirror/cases/color_binding/evaluate.py",
@@ -24,6 +23,6 @@
   "mirror/cases/typography/diagnose.py",
   "mirror/cases/typography/train.py",
   "mirror/cases/typography/replicate.py",
-  "mirror/cases/typography/retention.py",
-  "mirror/cases/typography/retention_results.py"
+  "mirror/core/objectives.py",
+  "scripts/test_objectives.py"
 ]

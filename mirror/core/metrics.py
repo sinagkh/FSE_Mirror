@@ -7,6 +7,22 @@ from mirror.cases.color_binding.behavioral_pilot import CAL; from mirror.cases.c
 from mirror.cases.color_binding.routing_context_coverage import all_contexts
 
 
+def source_clusters(rows):
+    """Connected components of examples sharing any declared source identity."""
+    parent=list(range(len(rows)));owner={}
+    def root(i):
+        while parent[i]!=i:parent[i]=parent[parent[i]];i=parent[i]
+        return i
+    for i,r in enumerate(rows):
+        sources=list(r.get('source_ids',[r.get('source_id',r.get('anchor_id'))]))
+        if 'donor' in r:sources.append(r['donor']['image_id'])
+        for s in sources:
+            s=str(s)
+            if s in owner:parent[root(i)]=root(owner[s])
+            else:owner[s]=i
+    return np.unique([root(i) for i in range(len(rows))],return_inverse=True)[1]
+
+
 def adapt(text,checkpoint):
     x=torch.as_tensor(np.asarray(text)).float()
     if checkpoint is None:return x.numpy()

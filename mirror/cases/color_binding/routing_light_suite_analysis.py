@@ -9,7 +9,7 @@ from mirror.cases.color_binding import routing_light_search as search
 from mirror.cases.color_binding import indirect_generalization as ind
 from mirror.cases.color_binding import ranking_transfer_extension as rt
 from mirror.cases.color_binding import targeted_transfer as tt
-from mirror.cases.color_binding.selective_repair_retests import source_clusters
+from mirror.core.metrics import source_clusters
 from mirror.cases.color_binding.targeted_evaluate import gallery_metrics
 from mirror.cases.color_binding.completion_preservation import retrieval_ranks
 from mirror.core.io import read; from mirror.core.io import dump; from mirror.core.io import jsonl; from mirror.core.io import log; from mirror.core.io import sha; from mirror.core.io import verify_files

@@ -39,8 +39,8 @@ def configuration():return read(original.DEST/'filtered_data_protocol.json')
 
 def freeze(model):
     dest=OUT/model;assert not (dest/'protocol.json').exists();cfg=original.verify_data()
-    paths=[Path(__file__),CODE/'diagnostic.py',CODE/'prompt_unclipped.py',CODE/'train.py',
-        CODE/'broad_duration_prompt.py',CODE/'broad_confirmation_prompt.py',CODE/'broad_support_filtered.py',
+    paths=[Path(__file__),CODE/'diagnose.py',CODE/'objective.py',CODE/'train.py',
+        CODE/'replicate.py',CODE/'broad_support_filtered.py',
         original.DEST/'filtered_data_protocol.json',data.OUT/'protocol.json',
         DEFAULT_REGISTRY,DEFAULT_REGISTRY.with_name('activation_addendum.json'),
         ROOT/'FSE_VLM/plan/49_pre_writing_experiments.md',ROOT/'FSE_VLM/plan/49a_execution_review.md',

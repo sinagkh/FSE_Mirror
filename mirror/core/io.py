@@ -32,6 +32,17 @@ def dump(path, value):
         stream.write("\n")
 
 
+def dump_or_verify(path, value):
+    """Create a receipt, or verify that an existing receipt is identical."""
+    path = Path(path)
+    if path.exists():
+        expected = json.loads(json.dumps(value, allow_nan=False))
+        if read(path) != expected:
+            raise ValueError(f"Existing receipt differs: {path}")
+    else:
+        dump(path, value)
+
+
 def jsonl(path, records):
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)

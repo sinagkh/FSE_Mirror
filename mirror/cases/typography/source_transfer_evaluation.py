@@ -40,7 +40,7 @@ def main():
     for n in ('seen','heldout'):assert sha(BANK/(n+'.json'))==visual[n+'_sha256']
     assert sha(BANK/'gallery_selection.json')==visual['selection_sha256']
     regs=registry(a.model);verify_files({r['checkpoint']:r['sha256'] for r in regs})
-    files=[Path(__file__),Path(__file__).with_name('prewriting_fresh_typography_evaluate.py'),BANK/'visual_review.json',BANK/'construction.json',BANK/'mechanical_validation.json',
+    files=[Path(__file__),BANK/'visual_review.json',BANK/'construction.json',BANK/'mechanical_validation.json',
         BANK.parent/'A_protocol.json',data.OUT/'protocol.json',data.OUT/'texts.pt',
         ROOT/'mirror/cases/typography/objective.py',ROOT/'mirror/cases/typography/retest.py',
         *[BANK/(n+'.json') for n in ('seen','heldout')],*[Path(r['checkpoint']) for r in regs]]
@@ -128,4 +128,3 @@ def main():
     log(root,'complete');print('\n'.join(report),flush=True)
 
 if __name__=='__main__':main()
-

@@ -9,9 +9,15 @@ manifest=ROOT/'provenance/package_manifest.json'
 assert manifest.is_file(),'Package seal is missing.'
 records=json.loads(manifest.read_text())['files']
 bad=[]
+runtime_dirs={'.venv','.artifact-venv','__pycache__','reproduced'}
+actual={p.relative_to(ROOT).as_posix() for p in ROOT.rglob('*') if p.is_file()
+        and not runtime_dirs.intersection(p.relative_to(ROOT).parts)}
+unexpected=actual-set(records)-{'provenance/package_manifest.json','SHA256SUMS'}
+assert not unexpected,('Unsealed payload files',sorted(unexpected))
 for name,expected in records.items():
     p=ROOT/name
     if not p.is_file():bad.append((name,'missing'));continue
+    if p.stat().st_size!=expected['bytes']:bad.append((name,'size'))
     h=hashlib.sha256()
     with p.open('rb') as f:
         for block in iter(lambda:f.read(1024*1024),b''):h.update(block)

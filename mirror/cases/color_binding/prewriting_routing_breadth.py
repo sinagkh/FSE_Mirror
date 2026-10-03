@@ -1,4 +1,4 @@
-"""Plan49 B2: backbone-generic port of the fixed primary template recipe."""
+"""Backbone-generic implementation of the fixed primary template recipe."""
 import argparse
 from dataclasses import replace; from dataclasses import asdict
 from pathlib import Path
@@ -42,7 +42,9 @@ def freeze(model):
         ROOT/'FSE_VLM/plan/49_pre_writing_experiments.md',ROOT/'FSE_VLM/plan/49a_execution_review.md']
     paths.extend(Path(__file__).with_name(n+'.py') for n in ('routing_relative_pilot','routing_common_noise_pilot',
         'routing_repair_pilot','ranking_followup_pilot','routing_budget_replication','targeted_suppression',
-        'repair','requirements','scorers','completion_confirmation_encode','feature_cache','completion_metrics'))
+        'completion_confirmation_encode'))
+    paths.extend(ROOT/'mirror/core'/(n+'.py') for n in
+                 ('repair','specifications','encoders','features','metrics'))
     row=next(r for r in read(DEFAULT_REGISTRY)['subjects'] if r['id']==model)
     paths.extend(Path(f['path']) for f in row['files'])
     dump(dest/'protocol.json',dict(study='B2 fixed primary routing recipe, new backbone',model=model,

@@ -34,13 +34,6 @@
     "bytes": 237891,
     "path_substitutions_only": false
   },
-  "results/reports/typography/retention.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/reports/all_results.json",
-    "original_sha256": "f7c7dabbc96455119f46b15a69ee85efd66ff30867f3202e1218c65059482781",
-    "packaged_sha256": "f7c7dabbc96455119f46b15a69ee85efd66ff30867f3202e1218c65059482781",
-    "bytes": 500274,
-    "path_substitutions_only": false
-  },
   "results/derived/routing75_update.json": {
     "source": "FSE_VLM/manuscript_v7/evidence/routing75_update.json",
     "original_sha256": "c9f4933ba41ba762ed6fae4745f42aaaa4eae9928419d4b1ce4b3ac23761a3db",
@@ -4787,954 +4780,6 @@
     "bytes": 7766,
     "path_substitutions_only": false
   },
-  "results/records/typography/additional_retention/seed42/fresh_heldout/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/fresh_heldout/IS.npz",
-    "original_sha256": "3e174a22e9a59a39f623145ba96c82d291e3bcb6ff1932da442fd02ade779d1f",
-    "packaged_sha256": "c9c672e121da60a5cd4a93188c0a3010e95ce683f18c844633e88c8b063c84b7",
-    "bytes": 110655,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed42/fresh_heldout/rows.json": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/fresh_heldout/rows.json",
-    "original_sha256": "7ae331d973795b5f28c156e86140fb7d0c864da5e8e1dbce816644ed2d435faa",
-    "packaged_sha256": "7ae331d973795b5f28c156e86140fb7d0c864da5e8e1dbce816644ed2d435faa",
-    "bytes": 438632,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/fresh_heldout/rows.json",
-      "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/fresh_heldout/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed42/fresh_heldout/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/fresh_heldout/IS_all12.npz",
-    "original_sha256": "e5aa06d3b1c9b1cdd4fb3febf9fbd51b84191b7d630691ae2a7eb5c8ecf957e8",
-    "packaged_sha256": "e5aa06d3b1c9b1cdd4fb3febf9fbd51b84191b7d630691ae2a7eb5c8ecf957e8",
-    "bytes": 48221,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/fresh_seen/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/fresh_seen/IS.npz",
-    "original_sha256": "dc77f0314649b9b7cf829e9bd0021df46628ff11b7bbc97dbd6d2b2c752f0cb0",
-    "packaged_sha256": "c0f00ffc221aa72e0dfb24365550607c3b5ddc424c3cb59f40ad98d138881d77",
-    "bytes": 93308,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed42/fresh_seen/rows.json": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/fresh_seen/rows.json",
-    "original_sha256": "62f95ae787b2b765fd023e3e2d9b1bcb0a4746b160c8d71c099a39dbd00bcaaa",
-    "packaged_sha256": "62f95ae787b2b765fd023e3e2d9b1bcb0a4746b160c8d71c099a39dbd00bcaaa",
-    "bytes": 364730,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/fresh_seen/rows.json",
-      "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/fresh_seen/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed42/fresh_seen/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/fresh_seen/IS_all12.npz",
-    "original_sha256": "62e212ef24d005a3607b7e503e769cc02f3ae5024927413103b48bd26cdb8fe2",
-    "packaged_sha256": "62e212ef24d005a3607b7e503e769cc02f3ae5024927413103b48bd26cdb8fe2",
-    "bytes": 40380,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/test_heldout_standard/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/test_heldout_standard/IS.npz",
-    "original_sha256": "43c6205cd9a4cec6408d463ee137ae01067ddd07ad13a0118afe8be8a816e103",
-    "packaged_sha256": "030b3cb3a842ebe798a075df4f0d89c61ae523be3a65188d14e4317c5cbb4371",
-    "bytes": 137916,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed42/test_heldout_standard/rows.json": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/test_heldout_standard/rows.json",
-    "original_sha256": "52dc4190b49e4688f068edd8ef78f1fa42e277d1e81554278b8a0f0ed066b659",
-    "packaged_sha256": "52dc4190b49e4688f068edd8ef78f1fa42e277d1e81554278b8a0f0ed066b659",
-    "bytes": 434256,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_heldout_standard/rows.json",
-      "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_heldout_standard/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed42/test_heldout_standard/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/test_heldout_standard/IS_all12.npz",
-    "original_sha256": "91c7a302206f74db7bbec6c4d7044475cf1844f2264f0d0a3478ef93276034f9",
-    "packaged_sha256": "91c7a302206f74db7bbec6c4d7044475cf1844f2264f0d0a3478ef93276034f9",
-    "bytes": 59255,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/test_seen_serif/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/test_seen_serif/IS.npz",
-    "original_sha256": "12ce462dc1ea5b48c828771418f978a3bf4d6c6937ab293b7d92c13dd6d51843",
-    "packaged_sha256": "f12e434f4c736d55bfa4c3de32f0c727cb5157f06cb17966474daa9adfe6f745",
-    "bytes": 116252,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed42/test_seen_serif/rows.json": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/test_seen_serif/rows.json",
-    "original_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "packaged_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "bytes": 359384,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_seen_serif/rows.json",
-      "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_seen_serif/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed42/test_seen_serif/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/test_seen_serif/IS_all12.npz",
-    "original_sha256": "8b62a8949e0aa093c8e1c4efb734942ff024dd09769c8c0cfa788426a8f17077",
-    "packaged_sha256": "8b62a8949e0aa093c8e1c4efb734942ff024dd09769c8c0cfa788426a8f17077",
-    "bytes": 49463,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/test_seen_standard/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/test_seen_standard/IS.npz",
-    "original_sha256": "b50731009f974464caa0edb39b126cddb1e099d0d0251040ce5e0b2e2b1409bb",
-    "packaged_sha256": "e1f96c8aecafa1552a3cd0bc76379ca9c354d88aa2bb1ce580ddea747b067c9c",
-    "bytes": 116195,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed42/test_seen_standard/rows.json": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/test_seen_standard/rows.json",
-    "original_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "packaged_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "bytes": 359384,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_seen_standard/rows.json",
-      "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_seen_standard/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed42/test_seen_standard/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/test_seen_standard/IS_all12.npz",
-    "original_sha256": "c918789027ee83f0198b3b73d3c173e237463069efae31fbaf46cbebba200b71",
-    "packaged_sha256": "c918789027ee83f0198b3b73d3c173e237463069efae31fbaf46cbebba200b71",
-    "bytes": 49470,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/test_seen_top/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/test_seen_top/IS.npz",
-    "original_sha256": "2779f68e246b3fc08793278df3e7fcc28516b4c1ecfda9cd69cba030b823a95c",
-    "packaged_sha256": "4109ea48e9ca863f12554c47c21c0f5ca78e5a8362756fed77d7cd2f54e5c332",
-    "bytes": 116182,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed42/test_seen_top/rows.json": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/test_seen_top/rows.json",
-    "original_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "packaged_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "bytes": 359384,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_seen_top/rows.json",
-      "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_seen_top/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed42/test_seen_top/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/digital_retest/test_seen_top/IS_all12.npz",
-    "original_sha256": "aed51b5c60fe81f76ee4a6f0c1a0e64b20b1fe12e3ae28d43ec0d87a5d5c7168",
-    "packaged_sha256": "aed51b5c60fe81f76ee4a6f0c1a0e64b20b1fe12e3ae28d43ec0d87a5d5c7168",
-    "bytes": 49411,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/ranking_P/external_retest/NoSCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/external_retest/NoSCAM_IS.csv",
-    "original_sha256": "7c7230330ebc9edbdc6c34c9bd453c698e5a0a579185653510c3333014cbb5f2",
-    "packaged_sha256": "7c7230330ebc9edbdc6c34c9bd453c698e5a0a579185653510c3333014cbb5f2",
-    "bytes": 151240,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/ranking_P/external_retest/RTA100_IS.csv": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/external_retest/RTA100_IS.csv",
-    "original_sha256": "7ecc6ad61db47eca9d6219880133a0bc038e78dba517bb2aa3bb23a794ad0e78",
-    "packaged_sha256": "7ecc6ad61db47eca9d6219880133a0bc038e78dba517bb2aa3bb23a794ad0e78",
-    "bytes": 158498,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/ranking_P/external_retest/SCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/external_retest/SCAM_IS.csv",
-    "original_sha256": "eacb5c2a05f2c22d59c68b7e651dc291dea5e2bbc4241729608cb37ed5e56b47",
-    "packaged_sha256": "eacb5c2a05f2c22d59c68b7e651dc291dea5e2bbc4241729608cb37ed5e56b47",
-    "bytes": 146953,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/ranking_P/external_retest/SynthSCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/external_retest/SynthSCAM_IS.csv",
-    "original_sha256": "4c0a46ea10973377a925c365e60ef40b48e7a58c8b619279909b88aa4f18a671",
-    "packaged_sha256": "4c0a46ea10973377a925c365e60ef40b48e7a58c8b619279909b88aa4f18a671",
-    "bytes": 158875,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/ranking_P/sugarcrepe/IS.csv": {
-    "source": "clip/fse_typographic_preservation_20260929/evaluation/R_preserve/retest/sugarcrepe/IS.csv",
-    "original_sha256": "08f2deadb353324fb4d444d5e7cb4009d2ed06a6f360ce3b710406e7d167bf84",
-    "packaged_sha256": "08f2deadb353324fb4d444d5e7cb4009d2ed06a6f360ce3b710406e7d167bf84",
-    "bytes": 1301085,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/fresh_heldout/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/fresh_heldout/IS.npz",
-    "original_sha256": "fd5ba6095cc1b18ab991ea6b7954df52b28bbdd91ab43eb38f38aa555ea339f3",
-    "packaged_sha256": "2997f11ebb7ced05ed476556a845d1c71fd66f78ab3bfadc0d1fb28ba71e9eaa",
-    "bytes": 110111,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed42/fresh_heldout/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/fresh_heldout/IS_all12.npz",
-    "original_sha256": "e8cedca0fc1d23626be4e7f80c30ea54e361598d78100e1def557f08a6bc28e6",
-    "packaged_sha256": "e8cedca0fc1d23626be4e7f80c30ea54e361598d78100e1def557f08a6bc28e6",
-    "bytes": 48024,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/fresh_seen/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/fresh_seen/IS.npz",
-    "original_sha256": "a0ead6c7e6e59dbd6f1cb35155ad7f298ccd22b3e39d2e05c98a7f2322e0f783",
-    "packaged_sha256": "b3005103f3a26920acb20ea123afe65a065a3d12ddd8da94bd190b240cd41ed4",
-    "bytes": 92928,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed42/fresh_seen/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/fresh_seen/IS_all12.npz",
-    "original_sha256": "c27df9a243e2166388b517ab72952dfc5515ae3db51bd8da3069be92e6a73094",
-    "packaged_sha256": "c27df9a243e2166388b517ab72952dfc5515ae3db51bd8da3069be92e6a73094",
-    "bytes": 40183,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/test_heldout_standard/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_heldout_standard/IS.npz",
-    "original_sha256": "ed09f9f99905237d7f8adaa014e1833103d80cc7360f67b5f756962e6dcc3fa2",
-    "packaged_sha256": "fbf1ef82c9313d75af10e5502a8d1dc2eb62fdfe1f05acf436c11ad00f99c08d",
-    "bytes": 137315,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed42/test_heldout_standard/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_heldout_standard/IS_all12.npz",
-    "original_sha256": "8d35dd742ae7fd62ceb965e48ad71abd02b43c4872182175dfc96e233f7ab997",
-    "packaged_sha256": "8d35dd742ae7fd62ceb965e48ad71abd02b43c4872182175dfc96e233f7ab997",
-    "bytes": 58881,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/test_seen_serif/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_seen_serif/IS.npz",
-    "original_sha256": "ae619c53b331f16e3c91cb0cdd7f34af7ef9caf857e62ceaa5643cf347f20e48",
-    "packaged_sha256": "754d38b9b4f3d2e553d509a6037696dedb29db596d4671897e46a45261dc224b",
-    "bytes": 115743,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed42/test_seen_serif/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_seen_serif/IS_all12.npz",
-    "original_sha256": "179c358dfc5654982c706c5bd73c448719f6e5b8a404e8234f1e17d644c22537",
-    "packaged_sha256": "179c358dfc5654982c706c5bd73c448719f6e5b8a404e8234f1e17d644c22537",
-    "bytes": 49164,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/test_seen_standard/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_seen_standard/IS.npz",
-    "original_sha256": "06673c6128a42e61f01d21a7e2d06c4e7c3d0931ae50bd810a4112a7f83d7075",
-    "packaged_sha256": "dc5d1dfdae54f9e750e8911f23da146cd9307f9d8e9b540aae02ebf42c4383ae",
-    "bytes": 115695,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed42/test_seen_standard/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_seen_standard/IS_all12.npz",
-    "original_sha256": "570ec63ea4881e40d68b43085325c8d86be9641a624e42dcc02ed5dc194cf626",
-    "packaged_sha256": "570ec63ea4881e40d68b43085325c8d86be9641a624e42dcc02ed5dc194cf626",
-    "bytes": 49149,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/test_seen_top/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_seen_top/IS.npz",
-    "original_sha256": "c2b38a57b2a52abfac617b6079a698371813fcb8ddaa3d406dd52b7e1ebc7996",
-    "packaged_sha256": "6421ba862c7558a7a76763c422c0a8aad35d605c9a307f090580aa6d584307d1",
-    "bytes": 115803,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed42/test_seen_top/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/digital_retest/test_seen_top/IS_all12.npz",
-    "original_sha256": "b343edc5a41d3e6e5ce46545012889e8a14a3ae3a1fbebfe52fc04c26f974d8a",
-    "packaged_sha256": "b343edc5a41d3e6e5ce46545012889e8a14a3ae3a1fbebfe52fc04c26f974d8a",
-    "bytes": 49202,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/IS8_P/external_retest/NoSCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/external_retest/NoSCAM_IS.csv",
-    "original_sha256": "32c2974b49e476bba40b4207c1bd09581d02f1a9f5e626dbe3177bfbf6b21109",
-    "packaged_sha256": "32c2974b49e476bba40b4207c1bd09581d02f1a9f5e626dbe3177bfbf6b21109",
-    "bytes": 152042,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/IS8_P/external_retest/RTA100_IS.csv": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/external_retest/RTA100_IS.csv",
-    "original_sha256": "6a41f9e5f9909d532d52d039059242c1a66f4656170794c815fc4ce1c75e521c",
-    "packaged_sha256": "6a41f9e5f9909d532d52d039059242c1a66f4656170794c815fc4ce1c75e521c",
-    "bytes": 158542,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/IS8_P/external_retest/SCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/external_retest/SCAM_IS.csv",
-    "original_sha256": "ddb9347405b759fe90f930265cbb58c52830748973824ef4978a58dc91da726e",
-    "packaged_sha256": "ddb9347405b759fe90f930265cbb58c52830748973824ef4978a58dc91da726e",
-    "bytes": 147719,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/IS8_P/external_retest/SynthSCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/external_retest/SynthSCAM_IS.csv",
-    "original_sha256": "431882762a4a5877fd713af33d6c927e74cb04cb983ddd7e770fe0a1eac30f44",
-    "packaged_sha256": "431882762a4a5877fd713af33d6c927e74cb04cb983ddd7e770fe0a1eac30f44",
-    "bytes": 160013,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed42/IS8_P/sugarcrepe/IS.csv": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/evaluation/IS8_preserve/retest/sugarcrepe/IS.csv",
-    "original_sha256": "ec557fcca1b0acfa45d939c4716187279bb41953135f1d9a55e530f19e90ba29",
-    "packaged_sha256": "ec557fcca1b0acfa45d939c4716187279bb41953135f1d9a55e530f19e90ba29",
-    "bytes": 1301268,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/fresh_heldout/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/fresh_heldout/IS.npz",
-    "original_sha256": "72ecb5f30c326826bb28ef2c613e1f5bc7ef5354546983a0360c666af27c5c1d",
-    "packaged_sha256": "5bb164d9e60ada6bb840f5e2c1192bdfb64f513575e33148229752cd01c9a6c0",
-    "bytes": 110664,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed43/fresh_heldout/rows.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/fresh_heldout/rows.json",
-    "original_sha256": "7ae331d973795b5f28c156e86140fb7d0c864da5e8e1dbce816644ed2d435faa",
-    "packaged_sha256": "7ae331d973795b5f28c156e86140fb7d0c864da5e8e1dbce816644ed2d435faa",
-    "bytes": 438632,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/fresh_heldout/rows.json",
-      "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/fresh_heldout/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed43/fresh_heldout/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/fresh_heldout/IS_all12.npz",
-    "original_sha256": "5cadd8e6ecbc1e0397fe8e9f7c0aed64e9458e2b0c4884630e8f0fe8a75581df",
-    "packaged_sha256": "5cadd8e6ecbc1e0397fe8e9f7c0aed64e9458e2b0c4884630e8f0fe8a75581df",
-    "bytes": 48299,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/fresh_seen/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/fresh_seen/IS.npz",
-    "original_sha256": "ebca81e9ecc19d210cae5fcbbc2a4b0a327098d4090a5b113092f68b329fb286",
-    "packaged_sha256": "5a8bfab28a481eb43cf8681f5946c1e448ebed9d4ddcd5ca681c7ece38f14802",
-    "bytes": 93305,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed43/fresh_seen/rows.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/fresh_seen/rows.json",
-    "original_sha256": "62f95ae787b2b765fd023e3e2d9b1bcb0a4746b160c8d71c099a39dbd00bcaaa",
-    "packaged_sha256": "62f95ae787b2b765fd023e3e2d9b1bcb0a4746b160c8d71c099a39dbd00bcaaa",
-    "bytes": 364730,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/fresh_seen/rows.json",
-      "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/fresh_seen/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed43/fresh_seen/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/fresh_seen/IS_all12.npz",
-    "original_sha256": "ab90a66b2a1c9a49348bce0bea6d79487bd6b2e07dcbade7689f79282065b235",
-    "packaged_sha256": "ab90a66b2a1c9a49348bce0bea6d79487bd6b2e07dcbade7689f79282065b235",
-    "bytes": 40384,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/test_heldout_standard/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/test_heldout_standard/IS.npz",
-    "original_sha256": "c0fc6891cbdb8faaafc4625da48b3125c1500936abc9d2a7b85b3856794ef573",
-    "packaged_sha256": "130b67679dbf6d18ff0cf951b92bb7091e36b6aa25320139a13db3bfef1907bc",
-    "bytes": 137961,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed43/test_heldout_standard/rows.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/test_heldout_standard/rows.json",
-    "original_sha256": "52dc4190b49e4688f068edd8ef78f1fa42e277d1e81554278b8a0f0ed066b659",
-    "packaged_sha256": "52dc4190b49e4688f068edd8ef78f1fa42e277d1e81554278b8a0f0ed066b659",
-    "bytes": 434256,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_heldout_standard/rows.json",
-      "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_heldout_standard/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed43/test_heldout_standard/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/test_heldout_standard/IS_all12.npz",
-    "original_sha256": "6961b703047ebbd3036bce0fd9dca9e3c4a341ef747c4fab91216b17807c7394",
-    "packaged_sha256": "6961b703047ebbd3036bce0fd9dca9e3c4a341ef747c4fab91216b17807c7394",
-    "bytes": 59261,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/test_seen_serif/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/test_seen_serif/IS.npz",
-    "original_sha256": "80ec84a5ca8b753bb5244827da7f48f5727a6581196287a59fe6c3cdbea19c78",
-    "packaged_sha256": "fbf669cb31d7d20c0fb8247b52758affe1ceaa156c823b0dc399ca7c0ffcf37e",
-    "bytes": 116325,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed43/test_seen_serif/rows.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/test_seen_serif/rows.json",
-    "original_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "packaged_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "bytes": 359384,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_seen_serif/rows.json",
-      "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_seen_serif/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed43/test_seen_serif/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/test_seen_serif/IS_all12.npz",
-    "original_sha256": "436e78007d2dfc679be89b227121a304d656228ea10155e68a4063fd76cb494e",
-    "packaged_sha256": "436e78007d2dfc679be89b227121a304d656228ea10155e68a4063fd76cb494e",
-    "bytes": 49512,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/test_seen_standard/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/test_seen_standard/IS.npz",
-    "original_sha256": "a0d3bb7ff464f5388b97fefa9e5d5e1989b55446e7ae707a7af37e5bb69bffa8",
-    "packaged_sha256": "c42394f004cfffbf8cbee3c952ae3404769094c7cfcd9da4fdce1f9594682912",
-    "bytes": 116252,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed43/test_seen_standard/rows.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/test_seen_standard/rows.json",
-    "original_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "packaged_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "bytes": 359384,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_seen_standard/rows.json",
-      "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_seen_standard/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed43/test_seen_standard/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/test_seen_standard/IS_all12.npz",
-    "original_sha256": "475186f48b1f7d3d9b4f859dcfd19b310af52f309fdd1773a3f470736be06462",
-    "packaged_sha256": "475186f48b1f7d3d9b4f859dcfd19b310af52f309fdd1773a3f470736be06462",
-    "bytes": 49510,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/test_seen_top/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/test_seen_top/IS.npz",
-    "original_sha256": "f529c6920e4d7cc7b6afdb7f2226cc5e5de0c1fd15b6169becc623e8e4185d93",
-    "packaged_sha256": "13fcee1cc6bc78ec4ceaf7794f22b86febd94bfc07ec76dbeaafe53c34ed4f34",
-    "bytes": 116217,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed43/test_seen_top/rows.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/test_seen_top/rows.json",
-    "original_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "packaged_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "bytes": 359384,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_seen_top/rows.json",
-      "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_seen_top/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed43/test_seen_top/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/digital_retest/test_seen_top/IS_all12.npz",
-    "original_sha256": "62dc1a7e561ea9d72633101e2c57d2ccabeac3570ba530418bcf9b59dd1b91a3",
-    "packaged_sha256": "62dc1a7e561ea9d72633101e2c57d2ccabeac3570ba530418bcf9b59dd1b91a3",
-    "bytes": 49471,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/ranking_P/external_retest/NoSCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/external_retest/NoSCAM_IS.csv",
-    "original_sha256": "dce1cad3059191ec2b5b42ccad088fd8ecfd4510614b55f9b0a3eed2f6436a42",
-    "packaged_sha256": "dce1cad3059191ec2b5b42ccad088fd8ecfd4510614b55f9b0a3eed2f6436a42",
-    "bytes": 151371,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/ranking_P/external_retest/RTA100_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/external_retest/RTA100_IS.csv",
-    "original_sha256": "05fbd814722f782cc831dbd333b3a485cbb94e28629f606f9fe2912b5fea862d",
-    "packaged_sha256": "05fbd814722f782cc831dbd333b3a485cbb94e28629f606f9fe2912b5fea862d",
-    "bytes": 158509,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/ranking_P/external_retest/SCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/external_retest/SCAM_IS.csv",
-    "original_sha256": "c20487735e4aadb6efcaff18bdc9e358df1d5860d58343e842434c6c821ed1f3",
-    "packaged_sha256": "c20487735e4aadb6efcaff18bdc9e358df1d5860d58343e842434c6c821ed1f3",
-    "bytes": 147038,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/ranking_P/external_retest/SynthSCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/external_retest/SynthSCAM_IS.csv",
-    "original_sha256": "6396f0b1ea78045201d8981c5a021bcf537a1d14a70b65f5cc32aaade8ce1abd",
-    "packaged_sha256": "6396f0b1ea78045201d8981c5a021bcf537a1d14a70b65f5cc32aaade8ce1abd",
-    "bytes": 158858,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/ranking_P/sugarcrepe/IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/R_preserve/retest/sugarcrepe/IS.csv",
-    "original_sha256": "f4c3877297452831f217fb0228b7a363526c115c0612620454bc26a5ebde98ed",
-    "packaged_sha256": "f4c3877297452831f217fb0228b7a363526c115c0612620454bc26a5ebde98ed",
-    "bytes": 1301121,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/fresh_heldout/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/fresh_heldout/IS.npz",
-    "original_sha256": "c08ee6c23e0c75b93f341318bce7108877b852e697f62739cb260fe4cc5b2640",
-    "packaged_sha256": "cbb91c7aa946f99a69aa71f6432b391887037bfbe669f7b21210a135edc92e3b",
-    "bytes": 110024,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed43/fresh_heldout/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/fresh_heldout/IS_all12.npz",
-    "original_sha256": "94f3c336fedad9169ed4b60054d84ba70fbfb556f48021aca326f8c963c2b059",
-    "packaged_sha256": "94f3c336fedad9169ed4b60054d84ba70fbfb556f48021aca326f8c963c2b059",
-    "bytes": 48013,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/fresh_seen/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/fresh_seen/IS.npz",
-    "original_sha256": "f09a618e5c40f0098f59070543d24c4eab29d01a9520b53b85f1bda944e7abaa",
-    "packaged_sha256": "f265a266ff0e5cef28720e69f874e0443a23264aecbbf2ddf3c4f61b015e8e07",
-    "bytes": 92915,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed43/fresh_seen/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/fresh_seen/IS_all12.npz",
-    "original_sha256": "31cd75e82216bed75609bc71f2d51e5f4d2ecef4e3c422a233bbb5fbb0bbfec6",
-    "packaged_sha256": "31cd75e82216bed75609bc71f2d51e5f4d2ecef4e3c422a233bbb5fbb0bbfec6",
-    "bytes": 40147,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/test_heldout_standard/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_heldout_standard/IS.npz",
-    "original_sha256": "fce98b376c81e90d9e3749016a1cbefd4e96b21391aca1a2404b4bbb05e637c2",
-    "packaged_sha256": "9139579f2f596cb373b1178df4c232b9efa24a0ba882bb1b3d42e75112a566dc",
-    "bytes": 137186,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed43/test_heldout_standard/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_heldout_standard/IS_all12.npz",
-    "original_sha256": "dc90b50f2da039d8fe86b6ce3c21397363b54c96ffc9ae2c5211df87493d4e45",
-    "packaged_sha256": "dc90b50f2da039d8fe86b6ce3c21397363b54c96ffc9ae2c5211df87493d4e45",
-    "bytes": 58928,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/test_seen_serif/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_seen_serif/IS.npz",
-    "original_sha256": "52f388ea8508fff4b76a55a6770fa802b260b0d94156b78d9ee737800c143cba",
-    "packaged_sha256": "663780e6b3eed10c2f159749318fcd90c89665b9852d892321c18d20921535fb",
-    "bytes": 115805,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed43/test_seen_serif/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_seen_serif/IS_all12.npz",
-    "original_sha256": "ab3ad7885ace7a9e48bede8fa7263a9eb7ea75ad188da693d534760e2e097dde",
-    "packaged_sha256": "ab3ad7885ace7a9e48bede8fa7263a9eb7ea75ad188da693d534760e2e097dde",
-    "bytes": 49163,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/test_seen_standard/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_seen_standard/IS.npz",
-    "original_sha256": "c8130bfa4a4098a2a631cf0318761d01085a7df06a8b6902328ac732fe9039e9",
-    "packaged_sha256": "93ce3bf1e9148d1aaf8f399dde1ea484cafcea2a1ca4f5f481306c342ab580c6",
-    "bytes": 115669,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed43/test_seen_standard/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_seen_standard/IS_all12.npz",
-    "original_sha256": "6c7e073587f2a580d55623037acf5a7e92469ed6a2305958b9cd48f925b50c04",
-    "packaged_sha256": "6c7e073587f2a580d55623037acf5a7e92469ed6a2305958b9cd48f925b50c04",
-    "bytes": 49172,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/test_seen_top/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_seen_top/IS.npz",
-    "original_sha256": "817a29123aed78685f9e7d09b249f8541ec4ed628147d55ee2e0dbefe79e3384",
-    "packaged_sha256": "4be44fedd51a68a379d826066ebabdd197cbe9f8bb39952ac63017fe10539112",
-    "bytes": 115798,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed43/test_seen_top/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/digital_retest/test_seen_top/IS_all12.npz",
-    "original_sha256": "2fa98a28386027dd621892243e5e025717657b067b6773d64a1bdf58103df467",
-    "packaged_sha256": "2fa98a28386027dd621892243e5e025717657b067b6773d64a1bdf58103df467",
-    "bytes": 49157,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/IS8_P/external_retest/NoSCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/external_retest/NoSCAM_IS.csv",
-    "original_sha256": "0df9e0abafe67d29239c1503e8f0659de032cd0ed050de6c7e33696c86e27b40",
-    "packaged_sha256": "0df9e0abafe67d29239c1503e8f0659de032cd0ed050de6c7e33696c86e27b40",
-    "bytes": 152601,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/IS8_P/external_retest/RTA100_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/external_retest/RTA100_IS.csv",
-    "original_sha256": "e8a4d4fad1af2f5ab47b33e101d68a7b1bb668252473f5e2285aefe5fafaf41d",
-    "packaged_sha256": "e8a4d4fad1af2f5ab47b33e101d68a7b1bb668252473f5e2285aefe5fafaf41d",
-    "bytes": 158838,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/IS8_P/external_retest/SCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/external_retest/SCAM_IS.csv",
-    "original_sha256": "126876376ca5b4ef1dc6dd036cd61cad557e266079569bd836687b61979aa669",
-    "packaged_sha256": "126876376ca5b4ef1dc6dd036cd61cad557e266079569bd836687b61979aa669",
-    "bytes": 148035,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/IS8_P/external_retest/SynthSCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/external_retest/SynthSCAM_IS.csv",
-    "original_sha256": "4cf28c0bbf1ba13775e19046c0e0187293e194c03e910122f2413bed8e2d816a",
-    "packaged_sha256": "4cf28c0bbf1ba13775e19046c0e0187293e194c03e910122f2413bed8e2d816a",
-    "bytes": 159949,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed43/IS8_P/sugarcrepe/IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/evaluation/IS8_preserve/retest/sugarcrepe/IS.csv",
-    "original_sha256": "6625fc6d8d634c2eec1d0dcb7d84a46bf8584c858a92ebf28289098000087e6c",
-    "packaged_sha256": "6625fc6d8d634c2eec1d0dcb7d84a46bf8584c858a92ebf28289098000087e6c",
-    "bytes": 1301610,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/fresh_heldout/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/fresh_heldout/IS.npz",
-    "original_sha256": "ac3b2652d249fbd571cc8111226a6d5a09f21c8f9903dd1d4bb83ed20277ab4c",
-    "packaged_sha256": "be6f25cf175dd80f87e24cdfb9534e8ef028e2b6dc9c1a684f474286fe5acb2d",
-    "bytes": 110676,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed44/fresh_heldout/rows.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/fresh_heldout/rows.json",
-    "original_sha256": "7ae331d973795b5f28c156e86140fb7d0c864da5e8e1dbce816644ed2d435faa",
-    "packaged_sha256": "7ae331d973795b5f28c156e86140fb7d0c864da5e8e1dbce816644ed2d435faa",
-    "bytes": 438632,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/fresh_heldout/rows.json",
-      "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/fresh_heldout/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed44/fresh_heldout/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/fresh_heldout/IS_all12.npz",
-    "original_sha256": "dd36ae7cbacc01d590e4cafa6e7c97699a9915df69605e62a24b2614530099fe",
-    "packaged_sha256": "dd36ae7cbacc01d590e4cafa6e7c97699a9915df69605e62a24b2614530099fe",
-    "bytes": 48261,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/fresh_seen/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/fresh_seen/IS.npz",
-    "original_sha256": "4ab8380b78562c5c647ca9038595690be7ed2ef13d833a7f291f7d98c8bf2edd",
-    "packaged_sha256": "f340219619abf3828f2ec0d744f261ba7977ddeae93b6311db178056e07810ec",
-    "bytes": 93322,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed44/fresh_seen/rows.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/fresh_seen/rows.json",
-    "original_sha256": "62f95ae787b2b765fd023e3e2d9b1bcb0a4746b160c8d71c099a39dbd00bcaaa",
-    "packaged_sha256": "62f95ae787b2b765fd023e3e2d9b1bcb0a4746b160c8d71c099a39dbd00bcaaa",
-    "bytes": 364730,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/fresh_seen/rows.json",
-      "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/fresh_seen/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed44/fresh_seen/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/fresh_seen/IS_all12.npz",
-    "original_sha256": "beda90b047ec22f26b35f4456a24f67feba04b30b368465d7fc5986eb81fa47f",
-    "packaged_sha256": "beda90b047ec22f26b35f4456a24f67feba04b30b368465d7fc5986eb81fa47f",
-    "bytes": 40344,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/test_heldout_standard/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/test_heldout_standard/IS.npz",
-    "original_sha256": "046885ec32fa8d325fca39a1faa7f022383ecdacf4a6b9fb1e5e67e962c51ae8",
-    "packaged_sha256": "dd032eacf488a8a565f5226e46f36e9575beb02d4c4828db7dbc0054252fd9e3",
-    "bytes": 137889,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed44/test_heldout_standard/rows.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/test_heldout_standard/rows.json",
-    "original_sha256": "52dc4190b49e4688f068edd8ef78f1fa42e277d1e81554278b8a0f0ed066b659",
-    "packaged_sha256": "52dc4190b49e4688f068edd8ef78f1fa42e277d1e81554278b8a0f0ed066b659",
-    "bytes": 434256,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_heldout_standard/rows.json",
-      "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_heldout_standard/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed44/test_heldout_standard/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/test_heldout_standard/IS_all12.npz",
-    "original_sha256": "ba8d53e44cd257099855604e12c8c544005d14ec0ed61a7c5cb1f7c838852a6e",
-    "packaged_sha256": "ba8d53e44cd257099855604e12c8c544005d14ec0ed61a7c5cb1f7c838852a6e",
-    "bytes": 59286,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/test_seen_serif/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/test_seen_serif/IS.npz",
-    "original_sha256": "9c22dfb4141feaa1a4345239eafed4b0f16757b5e0a8d78eb49d5e23c73843d8",
-    "packaged_sha256": "67e0c454722f91c0ecdbcfd022e35866a94526992fbf5c2bd965373d7106db09",
-    "bytes": 116307,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed44/test_seen_serif/rows.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/test_seen_serif/rows.json",
-    "original_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "packaged_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "bytes": 359384,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_seen_serif/rows.json",
-      "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_seen_serif/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed44/test_seen_serif/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/test_seen_serif/IS_all12.npz",
-    "original_sha256": "826abd247a0f3da48bfa168561607a7563840c34983f91533a4ddd68054c4fad",
-    "packaged_sha256": "826abd247a0f3da48bfa168561607a7563840c34983f91533a4ddd68054c4fad",
-    "bytes": 49481,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/test_seen_standard/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/test_seen_standard/IS.npz",
-    "original_sha256": "210ea2a4e02c264e99d18fab482b71f108e232ab57b7d298e2393d161a91113b",
-    "packaged_sha256": "21e167dc6071ac6538cdaf98896826c5154638dd941eb2517f2eee38b5eea7a5",
-    "bytes": 116242,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed44/test_seen_standard/rows.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/test_seen_standard/rows.json",
-    "original_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "packaged_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "bytes": 359384,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_seen_standard/rows.json",
-      "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_seen_standard/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed44/test_seen_standard/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/test_seen_standard/IS_all12.npz",
-    "original_sha256": "b19d2fa6e95b2afe168fffc5a5ca68ccd5ad55ffd2cc1c32d485f38ed624caf2",
-    "packaged_sha256": "b19d2fa6e95b2afe168fffc5a5ca68ccd5ad55ffd2cc1c32d485f38ed624caf2",
-    "bytes": 49470,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/test_seen_top/ranking_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/test_seen_top/IS.npz",
-    "original_sha256": "01556da4c0c85ae64733c75f51c6435e003447a2787ba23228c5d838ef074ec0",
-    "packaged_sha256": "4c59781f4fec6d8c06bc5c17eb227fc724c28bc23328851f2353a22b52749190",
-    "bytes": 116202,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed44/test_seen_top/rows.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/test_seen_top/rows.json",
-    "original_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "packaged_sha256": "ad6bfe8ff2d030dc2f1b4286ba5ab4fdd57112d42237adc8efa2228666f78035",
-    "bytes": 359384,
-    "path_substitutions_only": false,
-    "identical_sources": [
-      "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_seen_top/rows.json",
-      "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_seen_top/rows.json"
-    ]
-  },
-  "results/records/typography/additional_retention/seed44/test_seen_top/ranking_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/digital_retest/test_seen_top/IS_all12.npz",
-    "original_sha256": "ebc08fa91e97df02557429bbadad54f26a0ade50b76f5d13d51b01df89d1f404",
-    "packaged_sha256": "ebc08fa91e97df02557429bbadad54f26a0ade50b76f5d13d51b01df89d1f404",
-    "bytes": 49476,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/ranking_P/external_retest/NoSCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/external_retest/NoSCAM_IS.csv",
-    "original_sha256": "2a5b421e29f8588af90491dac0f0c4db6e73d52190a1c2630370fe4cb766990d",
-    "packaged_sha256": "2a5b421e29f8588af90491dac0f0c4db6e73d52190a1c2630370fe4cb766990d",
-    "bytes": 151440,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/ranking_P/external_retest/RTA100_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/external_retest/RTA100_IS.csv",
-    "original_sha256": "c60875b266e4603bc21b3205642e64c99b30b0d41f0ce77a925ef324b5341f4c",
-    "packaged_sha256": "c60875b266e4603bc21b3205642e64c99b30b0d41f0ce77a925ef324b5341f4c",
-    "bytes": 158494,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/ranking_P/external_retest/SCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/external_retest/SCAM_IS.csv",
-    "original_sha256": "3d78077d4be76ef9fc765dfd22da21c757d034edc98a7fb2c8fbbdfd9930061e",
-    "packaged_sha256": "3d78077d4be76ef9fc765dfd22da21c757d034edc98a7fb2c8fbbdfd9930061e",
-    "bytes": 146945,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/ranking_P/external_retest/SynthSCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/external_retest/SynthSCAM_IS.csv",
-    "original_sha256": "21a01abc17d2dba2c65d1fce4bbe2522ead23277941b7d576b85c4c4d4b34da0",
-    "packaged_sha256": "21a01abc17d2dba2c65d1fce4bbe2522ead23277941b7d576b85c4c4d4b34da0",
-    "bytes": 158825,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/ranking_P/sugarcrepe/IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/R_preserve/retest/sugarcrepe/IS.csv",
-    "original_sha256": "89cc9e22e99628cc9591ba66ae96c4bee01ebffd520ed8065bba13d6a5f3b93d",
-    "packaged_sha256": "89cc9e22e99628cc9591ba66ae96c4bee01ebffd520ed8065bba13d6a5f3b93d",
-    "bytes": 1301002,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/fresh_heldout/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/fresh_heldout/IS.npz",
-    "original_sha256": "45a37b3707a6095b002d8edd22683c6741da2b16ca9ac83ecf69294de117dc87",
-    "packaged_sha256": "075dd9e5eab3b51a785badbca1b28d96932a9df3d93f9541d2bd819ac7bb25bf",
-    "bytes": 110017,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed44/fresh_heldout/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/fresh_heldout/IS_all12.npz",
-    "original_sha256": "8cac61bd917905ffcf04da5b73884ca8793a0384d4934a64facaf27a9b00e170",
-    "packaged_sha256": "8cac61bd917905ffcf04da5b73884ca8793a0384d4934a64facaf27a9b00e170",
-    "bytes": 47937,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/fresh_seen/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/fresh_seen/IS.npz",
-    "original_sha256": "4ab6978b5d2c71bf530d570bbe31e5ef321a54449cb9c674b6c22055f601f2f8",
-    "packaged_sha256": "07af066b1619d77b7a241477080883696d51dbbbc745def5f9352660c7ee233b",
-    "bytes": 92796,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed44/fresh_seen/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/fresh_seen/IS_all12.npz",
-    "original_sha256": "5c82a2746d1fd31ff489cd4e7e72612ea1bd11569087ce03de22d9f88275a1e2",
-    "packaged_sha256": "5c82a2746d1fd31ff489cd4e7e72612ea1bd11569087ce03de22d9f88275a1e2",
-    "bytes": 40190,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/test_heldout_standard/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_heldout_standard/IS.npz",
-    "original_sha256": "f38f417895c41dd7991490ec9a44b55bc881db6eeee5c7add37f268a6ca169d7",
-    "packaged_sha256": "78406ee0a0f69227360bc1462bb6c64f7392772d92ac7605c04a8057aa3ba8cf",
-    "bytes": 137208,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed44/test_heldout_standard/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_heldout_standard/IS_all12.npz",
-    "original_sha256": "164b872a03d07a372c4bb0ee46091c59c086763b1eb3d331b4de1e45934f7ced",
-    "packaged_sha256": "164b872a03d07a372c4bb0ee46091c59c086763b1eb3d331b4de1e45934f7ced",
-    "bytes": 58860,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/test_seen_serif/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_seen_serif/IS.npz",
-    "original_sha256": "56ceff6d84668ef661b960861bc69c40c6110926a51856004dcedcfc436884aa",
-    "packaged_sha256": "7db276a0f8d751c89752799757910d14e67d29921feb3df20dc94ca9d99ea31b",
-    "bytes": 115687,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed44/test_seen_serif/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_seen_serif/IS_all12.npz",
-    "original_sha256": "a7cff05f40af03b302587d8540e91b7f4b7d848918cec351bda7a8997762c189",
-    "packaged_sha256": "a7cff05f40af03b302587d8540e91b7f4b7d848918cec351bda7a8997762c189",
-    "bytes": 49188,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/test_seen_standard/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_seen_standard/IS.npz",
-    "original_sha256": "bed3c6f31670e20250bc3405f50eda3c33792385c54e9c3eec7e7d95f9d12104",
-    "packaged_sha256": "1b7ce2bfabc2d1a96be84ebe1b2b64380c5b60c4c33a00cefdb21c1d66d54c15",
-    "bytes": 115615,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed44/test_seen_standard/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_seen_standard/IS_all12.npz",
-    "original_sha256": "6e2c0ee3283a3eb45f0da06c99406e8dd41c1788ed90e23cabcb5ee374f2ed5d",
-    "packaged_sha256": "6e2c0ee3283a3eb45f0da06c99406e8dd41c1788ed90e23cabcb5ee374f2ed5d",
-    "bytes": 49197,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/test_seen_top/IS8_P.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_seen_top/IS.npz",
-    "original_sha256": "cfd30d6dfe45cd86b6f0a37282a8192a2c942dfeadafa1bad72940696c044dc9",
-    "packaged_sha256": "80e1ec6ffe9f6a695bd1ef507c31d2320e16f0d1c791c5de683a192e2711cf69",
-    "bytes": 115620,
-    "path_substitutions_only": false,
-    "score_projection": "project_typography_scores"
-  },
-  "results/records/typography/additional_retention/seed44/test_seen_top/IS8_P_all12.npz": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/digital_retest/test_seen_top/IS_all12.npz",
-    "original_sha256": "2d6a2e99bc7ded2cf6608c606e5bdcd06f57804835c75f7eab58d6cb43d61cea",
-    "packaged_sha256": "2d6a2e99bc7ded2cf6608c606e5bdcd06f57804835c75f7eab58d6cb43d61cea",
-    "bytes": 49205,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/IS8_P/external_retest/NoSCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/external_retest/NoSCAM_IS.csv",
-    "original_sha256": "028677aa397ec5dd0040b50de52cb0a51d7e1846204da90f32aeec28b251f1f0",
-    "packaged_sha256": "028677aa397ec5dd0040b50de52cb0a51d7e1846204da90f32aeec28b251f1f0",
-    "bytes": 152681,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/IS8_P/external_retest/RTA100_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/external_retest/RTA100_IS.csv",
-    "original_sha256": "a7ced705de227128e7daaed3a11807c91d28b5df18a308e2742332defaa4bc06",
-    "packaged_sha256": "a7ced705de227128e7daaed3a11807c91d28b5df18a308e2742332defaa4bc06",
-    "bytes": 158950,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/IS8_P/external_retest/SCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/external_retest/SCAM_IS.csv",
-    "original_sha256": "1f1c3ab1dc4f1a98d1089e3f1e0dc5939001a22cd8ba9ac714cfbde2cfa0df4d",
-    "packaged_sha256": "1f1c3ab1dc4f1a98d1089e3f1e0dc5939001a22cd8ba9ac714cfbde2cfa0df4d",
-    "bytes": 148007,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/IS8_P/external_retest/SynthSCAM_IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/external_retest/SynthSCAM_IS.csv",
-    "original_sha256": "4ef0db40d613b55af2c433a44b45c30f30c1cde2da622a1489f84052d2adf5bc",
-    "packaged_sha256": "4ef0db40d613b55af2c433a44b45c30f30c1cde2da622a1489f84052d2adf5bc",
-    "bytes": 160318,
-    "path_substitutions_only": false
-  },
-  "results/records/typography/additional_retention/seed44/IS8_P/sugarcrepe/IS.csv": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/evaluation/IS8_preserve/retest/sugarcrepe/IS.csv",
-    "original_sha256": "12b98590f578b76f5a9a7129644e7af5aa911747db65d4909dbdcb63d65f895f",
-    "packaged_sha256": "12b98590f578b76f5a9a7129644e7af5aa911747db65d4909dbdcb63d65f895f",
-    "bytes": 1301246,
-    "path_substitutions_only": false
-  },
   "results/records/backdoor/stripes/development/victim_records.npz": {
     "source": "clip/fse_four_case_20260927/backdoor_extension_v1/stripes/evaluation/development/victim_records.npz",
     "original_sha256": "97614809b25b112fce4169678acbc1e99b5e5be3805ae893b4072473a9d45024",
@@ -6659,13 +5704,6 @@
     "bytes": 2420286,
     "path_substitutions_only": false
   },
-  "provenance/runs/color_binding/main/commands.jsonl": {
-    "source": "clip/interbind_routing75_replication_20260930/commands.jsonl",
-    "original_sha256": "f310c98e4e8ba94ae2bf72faca35e80c56130d16022f4892bb2c4fd78defbcff",
-    "packaged_sha256": "a1ad9e9a5a21446e3af5825d096513d2aad8fd810d7ac44b7c14a233a231cecc",
-    "bytes": 2733,
-    "path_substitutions_only": true
-  },
   "provenance/runs/color_binding/main/protocol.json": {
     "source": "clip/interbind_routing75_replication_20260930/protocol.json",
     "original_sha256": "ba5601209b1a7ad37f2c0efc4236e92d1c699ed38853c6a20f4b20cd3c08381c",
@@ -6692,13 +5730,6 @@
     "original_sha256": "fa732ea6926999c3c55c7d55c790d4ddad933b13d42dbfb8c2c1f07fa4195f64",
     "packaged_sha256": "efe87ba54118860c3f5dfbcdf0acdbbf0f465d4e98844a80b87d0f88b5b3c825",
     "bytes": 1516,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/color_binding/main/seed43/commands.jsonl": {
-    "source": "clip/interbind_routing75_replication_20260930/seed43/commands.jsonl",
-    "original_sha256": "20378d9fe314966d483361decb71085ba214af0b810d55edbf9a1c34750d092a",
-    "packaged_sha256": "29501b8346d9dc5f4bf4898bdd48833d259f491fbe6cd7c6d6a10f6ac8d142d3",
-    "bytes": 1742,
     "path_substitutions_only": true
   },
   "provenance/runs/color_binding/main/seed43/complete.json": {
@@ -6763,13 +5794,6 @@
     "packaged_sha256": "d1b53791cdf67d1ba78f81a279e0172c76326faea8a36e0237120225a55866dd",
     "bytes": 281,
     "path_substitutions_only": false
-  },
-  "provenance/runs/color_binding/main/seed44/commands.jsonl": {
-    "source": "clip/interbind_routing75_replication_20260930/seed44/commands.jsonl",
-    "original_sha256": "c5fc69f19be3e0082440a763a7968fae615f422570e8181152d8252277cbb495",
-    "packaged_sha256": "1d6577600d498ed69a05ae46a02e5043a70abe37f076bd3033c8caae5da95a1c",
-    "bytes": 1742,
-    "path_substitutions_only": true
   },
   "provenance/runs/color_binding/main/seed44/complete.json": {
     "source": "clip/interbind_routing75_replication_20260930/seed44/complete.json",
@@ -6839,13 +5863,6 @@
     "original_sha256": "e8bdbf63359b20c60a14aac8d12955f270c602fca5d5414929a40233c0a0fdf6",
     "packaged_sha256": "8b3193d3050b4fe34f3a3b5968b21380f209515205816a056fe764827936aa0a",
     "bytes": 6264,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/color_binding/backbones/commands.jsonl": {
-    "source": "clip/interbind_routing75_complete_20260930/commands.jsonl",
-    "original_sha256": "847cbfb0e15c4ded1fac8e42c32d70462943312365640d95196b7117dd8d5b8e",
-    "packaged_sha256": "24c291428de2c51a9d5eb050ad51b064180464376f4a4d189c372240bcedd909",
-    "bytes": 13413,
     "path_substitutions_only": true
   },
   "provenance/runs/color_binding/backbones/data_protocol.json": {
@@ -7163,34 +6180,6 @@
     "bytes": 104,
     "path_substitutions_only": false
   },
-  "provenance/runs/replication/backdoor/stripes/evaluation_smoke/banana1000/complete.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/backdoor/stripes/evaluation_smoke/banana1000/complete.json",
-    "original_sha256": "0484a9d703b6180f4f76f5d4a3435b05bf3a3e797c7eea0d2cf93880f2cd195b",
-    "packaged_sha256": "39dc9ac887bcfe44d01d1ee12175e4b6d70a5e384b5b7496f8f0dd275808a694",
-    "bytes": 890,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/replication/backdoor/stripes/evaluation_smoke/banana87/complete.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/backdoor/stripes/evaluation_smoke/banana87/complete.json",
-    "original_sha256": "b2cb4b2ca904b82210572ee8825691f46623f68cc787271ef9eb2c9e868a89b9",
-    "packaged_sha256": "4596ad4eb620764bf55a8ba09795054a0604c5a5b6c373d95f2a31eddf21a60b",
-    "bytes": 888,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/replication/backdoor/stripes/evaluation_smoke/development/complete.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/backdoor/stripes/evaluation_smoke/development/complete.json",
-    "original_sha256": "84d10daec13f928b03b44bb1b21eaead6b860217bd9717509ad5545d46507b84",
-    "packaged_sha256": "ce419d1212fb31486be9a07875b6f09b8797d45f453ed9d2b224fcd0262c2d75",
-    "bytes": 891,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/replication/backdoor/stripes/evaluation_smoke/imagenetv2/complete.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/backdoor/stripes/evaluation_smoke/imagenetv2/complete.json",
-    "original_sha256": "41ae1988f45f9336e2f3c06331eb151b3ea391375425408bef2b910bb29164a6",
-    "packaged_sha256": "726247fd5226faccb5da24c640dd04b98e6af0ee3a69b99401f240c88c51e899",
-    "bytes": 890,
-    "path_substitutions_only": true
-  },
   "provenance/runs/replication/backdoor/stripes/protocol.json": {
     "source": "clip/fse_selected_strength_replication_20260929/backdoor/stripes/protocol.json",
     "original_sha256": "3febb2b9872c0fad030b03a7e59c4ef1c3289fc3a2391c85c9243d2bcc6f69d8",
@@ -7226,54 +6215,12 @@
     "bytes": 508,
     "path_substitutions_only": false
   },
-  "provenance/runs/replication/backdoor/stripes/smoke/IS_seed43/complete.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/backdoor/stripes/smoke/IS_seed43/complete.json",
-    "original_sha256": "80e2cb236a92b6c8f0bf2b6bc5c9268eba15f51684dab04ebcf096085615b7c7",
-    "packaged_sha256": "80e2cb236a92b6c8f0bf2b6bc5c9268eba15f51684dab04ebcf096085615b7c7",
-    "bytes": 357,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/replication/backdoor/stripes/smoke/IS_seed43/matching_check.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/backdoor/stripes/smoke/IS_seed43/matching_check.json",
-    "original_sha256": "b80108368361ea150de683384fa27fb26c0d4064960482d69a48f9e673ccbd64",
-    "packaged_sha256": "b80108368361ea150de683384fa27fb26c0d4064960482d69a48f9e673ccbd64",
-    "bytes": 509,
-    "path_substitutions_only": false
-  },
   "provenance/runs/replication/backdoor/text/calibration.json": {
     "source": "clip/fse_selected_strength_replication_20260929/backdoor/text/calibration.json",
     "original_sha256": "bfba219a93ae816c5a3d9676728024bb16a7e458c56d543e707b932fd2e9e09e",
     "packaged_sha256": "bfba219a93ae816c5a3d9676728024bb16a7e458c56d543e707b932fd2e9e09e",
     "bytes": 104,
     "path_substitutions_only": false
-  },
-  "provenance/runs/replication/backdoor/text/evaluation_smoke/banana1000/complete.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/backdoor/text/evaluation_smoke/banana1000/complete.json",
-    "original_sha256": "be93b1eb6256c1ede97966f987992d3a47a32eae33ede92b787a6c154df27521",
-    "packaged_sha256": "cefe7ca9ddf30b20d21d0ede78ab6c6819eabeb56e2314aff5b9bd53f38e76ef",
-    "bytes": 881,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/replication/backdoor/text/evaluation_smoke/banana87/complete.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/backdoor/text/evaluation_smoke/banana87/complete.json",
-    "original_sha256": "1ab36ec1f816d6a19612c175a97e9036ccf2b9f47e9e7e541e0e0fe1b151bd5d",
-    "packaged_sha256": "06efbddb89b72d2991c94ea754ec82d15e828124de6266fd56660cd688d4096c",
-    "bytes": 879,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/replication/backdoor/text/evaluation_smoke/development/complete.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/backdoor/text/evaluation_smoke/development/complete.json",
-    "original_sha256": "da92267c6d1c4faa323b294e204ed3823dbadcc529a7a13f79b209c5fd82fdd9",
-    "packaged_sha256": "a44d85c26bac38b287ec8373bc0ccdaa6049e562d564a2e412fe9d70df7bc331",
-    "bytes": 882,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/replication/backdoor/text/evaluation_smoke/imagenetv2/complete.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/backdoor/text/evaluation_smoke/imagenetv2/complete.json",
-    "original_sha256": "9f5a554633c85f0c503b5ddfcc0eafde3c3fa92fbca4a16a5c32a9902694f8ec",
-    "packaged_sha256": "832f099efa3d9f0016cb79817068d75a4f42053716066a5cc91f3d057e0f89ba",
-    "bytes": 881,
-    "path_substitutions_only": true
   },
   "provenance/runs/replication/backdoor/text/protocol.json": {
     "source": "clip/fse_selected_strength_replication_20260929/backdoor/text/protocol.json",
@@ -7317,34 +6264,6 @@
     "bytes": 102,
     "path_substitutions_only": false
   },
-  "provenance/runs/replication/backdoor/triangles/evaluation_smoke/banana1000/complete.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/backdoor/triangles/evaluation_smoke/banana1000/complete.json",
-    "original_sha256": "40770cb991953bf4223398841c40f682a9ac759df4290b6d5116b1ac196e3fd2",
-    "packaged_sha256": "af04947e4dcf2c1c68ce400dd0a1889c883ba636298c1cf53a6b4d107a883aca",
-    "bytes": 896,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/replication/backdoor/triangles/evaluation_smoke/banana87/complete.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/backdoor/triangles/evaluation_smoke/banana87/complete.json",
-    "original_sha256": "e2e74bbbaab6358dc76fc439bb3f36723116d3cf1b7ef8d3ccdf15cc1414a21b",
-    "packaged_sha256": "c522c6a51870a5c85a99fed212954914071e7fa2a935705e6d29a6d5dbf0f728",
-    "bytes": 893,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/replication/backdoor/triangles/evaluation_smoke/development/complete.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/backdoor/triangles/evaluation_smoke/development/complete.json",
-    "original_sha256": "490358d237141531d77c2dec2eff58bd10b53f6289264b298008396352adacaa",
-    "packaged_sha256": "9111a825d73b82c9139e368ac3cdb71e4b43ad08c31d0318bd377a0bc698cc17",
-    "bytes": 897,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/replication/backdoor/triangles/evaluation_smoke/imagenetv2/complete.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/backdoor/triangles/evaluation_smoke/imagenetv2/complete.json",
-    "original_sha256": "dadebd11adb01d8373c048294b69d10581dd385d1d43dbbb365ac1c8ae19e7ad",
-    "packaged_sha256": "343844a33578b0b98c826720132130c472c08fd79d6068740016856a5c952720",
-    "bytes": 896,
-    "path_substitutions_only": true
-  },
   "provenance/runs/replication/backdoor/triangles/protocol.json": {
     "source": "clip/fse_selected_strength_replication_20260929/backdoor/triangles/protocol.json",
     "original_sha256": "52ece918b0da419583d6c600621f73eaf4e4b1b5168fc70f84cbc69ebc162cca",
@@ -7379,13 +6298,6 @@
     "packaged_sha256": "08b48c2b51e5268379597b44174451dd3a7ffd89a68cd4e19f35efe8da347a7d",
     "bytes": 507,
     "path_substitutions_only": false
-  },
-  "provenance/runs/replication/commands.jsonl": {
-    "source": "clip/fse_selected_strength_replication_20260929/commands.jsonl",
-    "original_sha256": "05ca7a8fb0839fded6a8d1f162d7cf61d70ab33aebaa66392ff34b27cebfc3f1",
-    "packaged_sha256": "4ca173f2d35e66a646f2aa9231f76bc43f752ddc829414aec32872a32bac281a",
-    "bytes": 11190,
-    "path_substitutions_only": true
   },
   "provenance/runs/replication/protocol.json": {
     "source": "clip/fse_selected_strength_replication_20260929/protocol.json",
@@ -7429,20 +6341,6 @@
     "bytes": 474,
     "path_substitutions_only": false
   },
-  "provenance/runs/replication/typography/seed43/smoke/IS_s100_w4/complete.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/typography/seed43/smoke/IS_s100_w4/complete.json",
-    "original_sha256": "bed0c2cf7d8bff937445ad6162b00ce85249139dc6066fa026bbee9aedc5cfe6",
-    "packaged_sha256": "bed0c2cf7d8bff937445ad6162b00ce85249139dc6066fa026bbee9aedc5cfe6",
-    "bytes": 305,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/replication/typography/seed43/smoke/IS_s100_w4/matching_check.json": {
-    "source": "clip/fse_selected_strength_replication_20260929/typography/seed43/smoke/IS_s100_w4/matching_check.json",
-    "original_sha256": "88090ee48391eb5d3e9d9fe418f9e1cb3faccbe915de51eff7dd536dedb51f33",
-    "packaged_sha256": "88090ee48391eb5d3e9d9fe418f9e1cb3faccbe915de51eff7dd536dedb51f33",
-    "bytes": 476,
-    "path_substitutions_only": false
-  },
   "provenance/runs/replication/typography/seed44/calibration.json": {
     "source": "clip/fse_selected_strength_replication_20260929/typography/seed44/calibration.json",
     "original_sha256": "71ed97e3755728632cad880ff787a08ba73c3c8094c82d419b33d13c444fcc46",
@@ -7471,13 +6369,6 @@
     "bytes": 474,
     "path_substitutions_only": false
   },
-  "provenance/runs/typography/backbones/consolidated/commands.jsonl": {
-    "source": "clip/fse_typographic_backbone_replication_20260929/consolidated/commands.jsonl",
-    "original_sha256": "183aaa245ebd2e0d7b8326ccf53cb41199002a426d010e5129b59b191f391932",
-    "packaged_sha256": "1cde1e05072e85ca5884f20a798e403c577696ea4caaff80ea2b767d093d4d21",
-    "bytes": 181,
-    "path_substitutions_only": true
-  },
   "provenance/runs/typography/backbones/consolidated/complete.json": {
     "source": "clip/fse_typographic_backbone_replication_20260929/consolidated/complete.json",
     "original_sha256": "f12db3909fcae1543cd423f3a3e2baf46aa95d6cfe7a80ae58dcbb93a5ef7311",
@@ -7491,13 +6382,6 @@
     "packaged_sha256": "d2e0f047641a16942913b9d8cbc2f2051378e0f735d1045e7b09f25dc7df6427",
     "bytes": 1784,
     "path_substitutions_only": false
-  },
-  "provenance/runs/typography/backbones/openai_clip_l14/commands.jsonl": {
-    "source": "clip/fse_typographic_backbone_replication_20260929/openai_clip_l14/commands.jsonl",
-    "original_sha256": "f3383685812546bf9eb1a8b1b310c31a6112a6a08f004f3185524c2c6d7b1907",
-    "packaged_sha256": "a01f784e258ca404ed9f7d2db69b6145432cfe249ce39f4491a538e1a08f0a5a",
-    "bytes": 1978,
-    "path_substitutions_only": true
   },
   "provenance/runs/typography/backbones/openai_clip_l14/models.json": {
     "source": "clip/fse_typographic_backbone_replication_20260929/openai_clip_l14/models.json",
@@ -7548,13 +6432,6 @@
     "bytes": 1801,
     "path_substitutions_only": false
   },
-  "provenance/runs/typography/backbones/openclip_laion_b32/commands.jsonl": {
-    "source": "clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/commands.jsonl",
-    "original_sha256": "01d27d01a42c93f9635799bcd0626b913e3b61320b61173c20e534a60a51ece8",
-    "packaged_sha256": "83ce340fbb729b3f3c22a779dbc7e04d69608e440c611f79ff10bbe990e2de3f",
-    "bytes": 2005,
-    "path_substitutions_only": true
-  },
   "provenance/runs/typography/backbones/openclip_laion_b32/models.json": {
     "source": "clip/fse_typographic_backbone_replication_20260929/openclip_laion_b32/models.json",
     "original_sha256": "1719d1de8085af9fadcc18780d4f9310bf7cb8720f5998941b8843b757a45c52",
@@ -7603,20 +6480,6 @@
     "packaged_sha256": "56830d15d0745a9b758804ee797e951f53bbc8a93dbae602a2570c1a18d3e502",
     "bytes": 42207,
     "path_substitutions_only": false
-  },
-  "provenance/runs/color_binding/reference/midpoint75/commands.jsonl": {
-    "source": "clip/interbind_routing_tint_balance_20260930/midpoint75/commands.jsonl",
-    "original_sha256": "9bcfba5c341b009883edafdbba09b30663f25d299288147168087d546fe4f474",
-    "packaged_sha256": "0cd50386f29f33c1f505c03751b769258590d6d0a5c211a1d5fc9ed7fe757de4",
-    "bytes": 2218,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/color_binding/reference/midpoint75/directional_retest/commands.jsonl": {
-    "source": "clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/commands.jsonl",
-    "original_sha256": "a6ef4b70afcf69ed2fe156d2e25238bf537a5675bf3f5c39cd89eedfabe9010a",
-    "packaged_sha256": "9dd440a392757db9150ca7bcb99ad047f27a732ad1c16efa9032fef4fadd1bd3",
-    "bytes": 3575,
-    "path_substitutions_only": true
   },
   "provenance/runs/color_binding/reference/midpoint75/directional_retest/complete.json": {
     "source": "clip/interbind_routing_tint_balance_20260930/midpoint75/directional_retest/complete.json",
@@ -7721,13 +6584,6 @@
     "original_sha256": "72ca47a04979987a2ac417b1ae34f2a2ecbecfbbbaed0f009617ea384f5bb354",
     "packaged_sha256": "e5ecc2377d306f6671c71855c40d4472ec68ab8b6d0a6ebdc6901eb6cd4760af",
     "bytes": 485,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/backdoor/strength/commands.jsonl": {
-    "source": "clip/fse_backdoor_strength_20260929/commands.jsonl",
-    "original_sha256": "d3045a17e6cf81cf56be8176b2e1dd0569d71c2377485075080af968e4021781",
-    "packaged_sha256": "c31dc8709c15047634c45ee3705bbe4c06b68730cacd20247876bf10954d5777",
-    "bytes": 7686,
     "path_substitutions_only": true
   },
   "provenance/runs/backdoor/strength/complete.json": {
@@ -7835,48 +6691,6 @@
     "bytes": 156,
     "path_substitutions_only": false
   },
-  "provenance/runs/backdoor/strength/stripes/IS4/smoke/IS_seed42/complete.json": {
-    "source": "clip/fse_backdoor_strength_20260929/stripes/IS4/smoke/IS_seed42/complete.json",
-    "original_sha256": "5b92a6997ee2720500484117f83747734827304548ad0d538329f261ef3e9e9b",
-    "packaged_sha256": "5b92a6997ee2720500484117f83747734827304548ad0d538329f261ef3e9e9b",
-    "bytes": 357,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/backdoor/strength/stripes/IS4/smoke/IS_seed42/matching_check.json": {
-    "source": "clip/fse_backdoor_strength_20260929/stripes/IS4/smoke/IS_seed42/matching_check.json",
-    "original_sha256": "d509f8cf91dae20a5ca0ce8d485fea03b62096e050a0a75a31f6d8d62648c4ba",
-    "packaged_sha256": "d509f8cf91dae20a5ca0ce8d485fea03b62096e050a0a75a31f6d8d62648c4ba",
-    "bytes": 157,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/backdoor/strength/stripes/evaluation_smoke/banana1000/complete.json": {
-    "source": "clip/fse_backdoor_strength_20260929/stripes/evaluation_smoke/banana1000/complete.json",
-    "original_sha256": "bdc6457f3b95b3ceaada611f74b83bedd798151f6e401eae92ac2ae242026dbc",
-    "packaged_sha256": "a0ea21e7b5a22fe760fa4f2a5f5b4f6e909ef3e20c822d1a21faf8eeebce2322",
-    "bytes": 1033,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/backdoor/strength/stripes/evaluation_smoke/banana87/complete.json": {
-    "source": "clip/fse_backdoor_strength_20260929/stripes/evaluation_smoke/banana87/complete.json",
-    "original_sha256": "e7ca2df72b9b239af5faba25c3c875f6a22baefeffea781eb93c84e94a628561",
-    "packaged_sha256": "4daf39371f962c16afe8abca502e3085a9175cb0dda6654f8567583ab9f55825",
-    "bytes": 1031,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/backdoor/strength/stripes/evaluation_smoke/development/complete.json": {
-    "source": "clip/fse_backdoor_strength_20260929/stripes/evaluation_smoke/development/complete.json",
-    "original_sha256": "116014281d01e7ff6ff49d62dd81552c3f9bbf6f9bf82af1661f7ac6fdf9112e",
-    "packaged_sha256": "c623ff2be2b65f15fee416834ea8de5bd29a65591474bbfa537ee895bbbae83d",
-    "bytes": 1033,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/backdoor/strength/stripes/evaluation_smoke/imagenetv2/complete.json": {
-    "source": "clip/fse_backdoor_strength_20260929/stripes/evaluation_smoke/imagenetv2/complete.json",
-    "original_sha256": "1158ee4eb70fde94e6f0ad6b3eadf415ce5b11a0f6158449576a0954c741bb31",
-    "packaged_sha256": "5625e5bad1c88ca82f9b36ad7186faa5a25c0e2a2e46eaf9fad7045b87106087",
-    "bytes": 1033,
-    "path_substitutions_only": true
-  },
   "provenance/runs/backdoor/strength/text/IS1/calibration.json": {
     "source": "clip/fse_backdoor_strength_20260929/text/IS1/calibration.json",
     "original_sha256": "c79686fe9cf63e93e3772e0cbd58d81aff21ad5f9b622abf3d75552b57f69af1",
@@ -7947,34 +6761,6 @@
     "bytes": 156,
     "path_substitutions_only": false
   },
-  "provenance/runs/backdoor/strength/text/evaluation_smoke/banana1000/complete.json": {
-    "source": "clip/fse_backdoor_strength_20260929/text/evaluation_smoke/banana1000/complete.json",
-    "original_sha256": "a7fcf01d9b6fbc5ed8a66b82497668c2fefa7fc6f5b70a227d4a5a6af5e81887",
-    "packaged_sha256": "4509689eb6fce59657eab9c504b317bd0a848172f131787317237ae5a909446e",
-    "bytes": 1024,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/backdoor/strength/text/evaluation_smoke/banana87/complete.json": {
-    "source": "clip/fse_backdoor_strength_20260929/text/evaluation_smoke/banana87/complete.json",
-    "original_sha256": "9d1811bede60b1edd494484884feea3de21213af3ec3f37addb3a3fbf87a1576",
-    "packaged_sha256": "a990475ca95df0ddbaa171ed815ca05e79c22d2c1f88dee5b1c23e37a69a7ffa",
-    "bytes": 1022,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/backdoor/strength/text/evaluation_smoke/development/complete.json": {
-    "source": "clip/fse_backdoor_strength_20260929/text/evaluation_smoke/development/complete.json",
-    "original_sha256": "91901338d0e8ed5ad873f1ac38f3cd7994db8d81322cccbe306acf5255f758ed",
-    "packaged_sha256": "53c6a6d756d9b14e59a470ea9543f38180fcb6bd8f4013f9d2ff527ec2c13234",
-    "bytes": 1024,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/backdoor/strength/text/evaluation_smoke/imagenetv2/complete.json": {
-    "source": "clip/fse_backdoor_strength_20260929/text/evaluation_smoke/imagenetv2/complete.json",
-    "original_sha256": "4a4a1823c276f2235a2e69306f6b0dd68c7311ab3126d60ddcf36cfb97f46bad",
-    "packaged_sha256": "351f17374002165f0d08cfac7e8cece4ebb779aab77b5e500a14479078a81857",
-    "bytes": 1024,
-    "path_substitutions_only": true
-  },
   "provenance/runs/backdoor/strength/triangles/IS1/calibration.json": {
     "source": "clip/fse_backdoor_strength_20260929/triangles/IS1/calibration.json",
     "original_sha256": "ec7db8ab2bbc2664e1eee3a869a865fd0c3ab4cf3a5132de8d801ac446963b8a",
@@ -8044,34 +6830,6 @@
     "packaged_sha256": "8397d43ae61658f8e91fe76180830a34fc0b005e6092e829fe3905ba2214b811",
     "bytes": 156,
     "path_substitutions_only": false
-  },
-  "provenance/runs/backdoor/strength/triangles/evaluation_smoke/banana1000/complete.json": {
-    "source": "clip/fse_backdoor_strength_20260929/triangles/evaluation_smoke/banana1000/complete.json",
-    "original_sha256": "ce71a20031c1880aaee8933fee61b22e064b7f16da3ceb771a11e122485042b8",
-    "packaged_sha256": "021e3ba9659092f5d28a50720979730679603ebc63585025497335016d2dd675",
-    "bytes": 1039,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/backdoor/strength/triangles/evaluation_smoke/banana87/complete.json": {
-    "source": "clip/fse_backdoor_strength_20260929/triangles/evaluation_smoke/banana87/complete.json",
-    "original_sha256": "da63e43b3e86bba583a9770a2fd41235177488be15aef4137229c55e43ec71c9",
-    "packaged_sha256": "d17b41eb6afccfbd704e9244a112400ef5eeea2ce758aa9a04b927d7cba769c6",
-    "bytes": 1037,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/backdoor/strength/triangles/evaluation_smoke/development/complete.json": {
-    "source": "clip/fse_backdoor_strength_20260929/triangles/evaluation_smoke/development/complete.json",
-    "original_sha256": "e4f76b7fbd36bd6278ac1bd87f898ecbaa31c06729ecc2cb6e0c34cfc7698013",
-    "packaged_sha256": "fd85bbcb2d6e53888ba0f4b7b8bcefa8dfc2f9ab8e0d2f8071200bce077906c7",
-    "bytes": 1040,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/backdoor/strength/triangles/evaluation_smoke/imagenetv2/complete.json": {
-    "source": "clip/fse_backdoor_strength_20260929/triangles/evaluation_smoke/imagenetv2/complete.json",
-    "original_sha256": "f5a8fe7df550bafc8afc0b3cbc225c812635bb8581771683a4a22711360f6cb7",
-    "packaged_sha256": "6a1f7d5e0d2b1039d6d50ac3efda9ea01e4035526a100f31042838e890dedf1d",
-    "bytes": 1039,
-    "path_substitutions_only": true
   },
   "provenance/runs/backdoor/strength/verification.json": {
     "source": "clip/fse_backdoor_strength_20260929/verification.json",
@@ -8206,13 +6964,6 @@
     "bytes": 359,
     "path_substitutions_only": false
   },
-  "provenance/runs/backdoor/reference/backdoor_extension_v1/stripes/smoke/clean_only_seed42/complete.json": {
-    "source": "clip/fse_four_case_20260927/backdoor_extension_v1/stripes/smoke/clean_only_seed42/complete.json",
-    "original_sha256": "dc5075ca0ba3c25d00d94568570315c0487e3fb370a6cabfc27b8f33905e0404",
-    "packaged_sha256": "dc5075ca0ba3c25d00d94568570315c0487e3fb370a6cabfc27b8f33905e0404",
-    "bytes": 357,
-    "path_substitutions_only": false
-  },
   "provenance/runs/backdoor/reference/backdoor_extension_v1/text/calibration.json": {
     "source": "clip/fse_four_case_20260927/backdoor_extension_v1/text/calibration.json",
     "original_sha256": "c286ad0a9cbf3c938876eaaea33c23ff8b3ae47b3e6d6f024b4335675c6c2987",
@@ -8295,27 +7046,6 @@
     "original_sha256": "66dcabcb937c8428957b3ea54e2871e6a4f1e4651f54c4f7e14acea8280b40e6",
     "packaged_sha256": "66dcabcb937c8428957b3ea54e2871e6a4f1e4651f54c4f7e14acea8280b40e6",
     "bytes": 359,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/backdoor/reference/backdoor_extension_v1/text/smoke/IS_seed42/complete.json": {
-    "source": "clip/fse_four_case_20260927/backdoor_extension_v1/text/smoke/IS_seed42/complete.json",
-    "original_sha256": "4e423311abe56b59396c6d76a9cdc325d8d28c8e585a3d078a897ad7b6ac606e",
-    "packaged_sha256": "4e423311abe56b59396c6d76a9cdc325d8d28c8e585a3d078a897ad7b6ac606e",
-    "bytes": 356,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/backdoor/reference/backdoor_extension_v1/text/smoke/clean_only_seed42/complete.json": {
-    "source": "clip/fse_four_case_20260927/backdoor_extension_v1/text/smoke/clean_only_seed42/complete.json",
-    "original_sha256": "e99e97e5862eee58b47aa93b617a8152e8292fb642b66311a786f85ea6b7d0bf",
-    "packaged_sha256": "e99e97e5862eee58b47aa93b617a8152e8292fb642b66311a786f85ea6b7d0bf",
-    "bytes": 357,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/backdoor/reference/backdoor_extension_v1/text/smoke/ranking_seed42/complete.json": {
-    "source": "clip/fse_four_case_20260927/backdoor_extension_v1/text/smoke/ranking_seed42/complete.json",
-    "original_sha256": "fd083f8741cb79dea2bc864d9a2f10ffad23c1ca675148db3eaa1e5ce4522596",
-    "packaged_sha256": "fd083f8741cb79dea2bc864d9a2f10ffad23c1ca675148db3eaa1e5ce4522596",
-    "bytes": 357,
     "path_substitutions_only": false
   },
   "provenance/runs/backdoor/reference/backdoor_extension_v1/triangles/calibration.json": {
@@ -8402,27 +7132,6 @@
     "bytes": 359,
     "path_substitutions_only": false
   },
-  "provenance/runs/backdoor/reference/backdoor_extension_v1/triangles/smoke/IS_seed42/complete.json": {
-    "source": "clip/fse_four_case_20260927/backdoor_extension_v1/triangles/smoke/IS_seed42/complete.json",
-    "original_sha256": "5788f0ad426dc54d386abc88eb8ba629a3e2da048fd7ee89feb1288a4e668143",
-    "packaged_sha256": "5788f0ad426dc54d386abc88eb8ba629a3e2da048fd7ee89feb1288a4e668143",
-    "bytes": 357,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/backdoor/reference/backdoor_extension_v1/triangles/smoke/clean_only_seed42/complete.json": {
-    "source": "clip/fse_four_case_20260927/backdoor_extension_v1/triangles/smoke/clean_only_seed42/complete.json",
-    "original_sha256": "802e768a857f79693a67fdc7f2007a03c1088daef81639d4c045fd3de33cdf46",
-    "packaged_sha256": "802e768a857f79693a67fdc7f2007a03c1088daef81639d4c045fd3de33cdf46",
-    "bytes": 357,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/backdoor/reference/backdoor_extension_v1/triangles/smoke/ranking_seed42/complete.json": {
-    "source": "clip/fse_four_case_20260927/backdoor_extension_v1/triangles/smoke/ranking_seed42/complete.json",
-    "original_sha256": "a24853b7e931381648efea0d7b5f0d0c15e76c49f44be54e099d15fad50a97d4",
-    "packaged_sha256": "a24853b7e931381648efea0d7b5f0d0c15e76c49f44be54e099d15fad50a97d4",
-    "bytes": 357,
-    "path_substitutions_only": false
-  },
   "provenance/runs/backdoor/reference/backdoor_completion_v1/complete.json": {
     "source": "clip/fse_four_case_20260927/backdoor_completion_v1/complete.json",
     "original_sha256": "a0ea6ce3bb012b8a5ef898d03c8cd3a40934ae831219ac446c182221a4efb930",
@@ -8436,13 +7145,6 @@
     "packaged_sha256": "f8c34256ab010865cf15ce8936f1cf82a0b6f5d5095f94beedcc95e61d51302e",
     "bytes": 1143,
     "path_substitutions_only": false
-  },
-  "provenance/runs/backdoor/reference/backdoor_completion_v1/stripes/smoke/development/complete.json": {
-    "source": "clip/fse_four_case_20260927/backdoor_completion_v1/stripes/smoke/development/complete.json",
-    "original_sha256": "9585ee1e346cf9137b01e039350f8c4034660f863b0110f489a443c54dd10809",
-    "packaged_sha256": "812adb91039a05c154553375d9ce2211341029ca61bda004f5dc89526b6e333e",
-    "bytes": 2527,
-    "path_substitutions_only": true
   },
   "provenance/runs/backdoor/reference/backdoor_completion_v1/text/controls/banana1000/complete.json": {
     "source": "clip/fse_four_case_20260927/backdoor_completion_v1/text/controls/banana1000/complete.json",
@@ -8470,13 +7172,6 @@
     "original_sha256": "eec6def5271e1b1a1bed3c0ebce8e74344659c6ee1bb19a18a83afee3f567b00",
     "packaged_sha256": "755f7b2a7e563e089f1834a917e41737eff4fecf103d603ccfab10472c4a0350",
     "bytes": 1527,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/backdoor/reference/backdoor_completion_v1/text/smoke/development/complete.json": {
-    "source": "clip/fse_four_case_20260927/backdoor_completion_v1/text/smoke/development/complete.json",
-    "original_sha256": "214a436657cc4551eb4cfc958a6809511287fac74ba027ac4b8e86ad44d2e362",
-    "packaged_sha256": "3cf9e4843fc4d1efa7cb08e365db8c60d11dcf28749e0dd62a261ddc6be5ea49",
-    "bytes": 2513,
     "path_substitutions_only": true
   },
   "provenance/runs/backdoor/reference/backdoor_completion_v1/triangles/controls/banana1000/complete.json": {
@@ -8507,39 +7202,11 @@
     "bytes": 1532,
     "path_substitutions_only": true
   },
-  "provenance/runs/backdoor/reference/backdoor_completion_v1/triangles/smoke/development/complete.json": {
-    "source": "clip/fse_four_case_20260927/backdoor_completion_v1/triangles/smoke/development/complete.json",
-    "original_sha256": "f8a01b7057e19f4019ee450ab0a3c0ff7ed1d14ce3f66d8a608661065a5dda1d",
-    "packaged_sha256": "dc785211203aa27289de5dc7be35131862fbcdda27d5367326a1ac07bcd155d1",
-    "bytes": 2538,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/backbone_evaluation/A3_typography/commands.jsonl": {
-    "source": "clip/fse_pre_writing_20260926/A3_typography/commands.jsonl",
-    "original_sha256": "d2884be5973c936b2f90679a6c695b9bda467834185bc587edeba72d61a6be55",
-    "packaged_sha256": "c31b97dcec06a09775b288084751af51fa8f37428a822c09c088904c4dd7324d",
-    "bytes": 369,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/backbone_evaluation/A3_typography/openai_clip_b32/commands.jsonl": {
-    "source": "clip/fse_pre_writing_20260926/A3_typography/openai_clip_b32/commands.jsonl",
-    "original_sha256": "28a4337f3324452c4cea759a36484031f41f624959760e173b36e116fdba2bce",
-    "packaged_sha256": "ccdae506c33aaa505ede6cea0dbddd4c036b707c69e2edd138d799ae94fa0441",
-    "bytes": 197,
-    "path_substitutions_only": true
-  },
   "provenance/runs/backbone_evaluation/A3_typography/openai_clip_b32/protocol.json": {
     "source": "clip/fse_pre_writing_20260926/A3_typography/openai_clip_b32/protocol.json",
     "original_sha256": "fb8d3ed291fbed1937861b272e06886203633d2c679b9cc1114ca1f14c665db7",
     "packaged_sha256": "e95e8db50bbe09a4b13812d9469bb73049d722e5d380f168b5ddfe11a5d35631",
     "bytes": 6148,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/backbone_evaluation/A3_typography/openai_clip_b32_v2/commands.jsonl": {
-    "source": "clip/fse_pre_writing_20260926/A3_typography/openai_clip_b32_v2/commands.jsonl",
-    "original_sha256": "9d17eaae7e9ca5c443d0ed358d543b8503c5aa886bd11c8269d647e9194c9f05",
-    "packaged_sha256": "54b0146ea0e30b990202341d003cc3262d359c9cd5455043e680bfca9f1255c4",
-    "bytes": 403,
     "path_substitutions_only": true
   },
   "provenance/runs/backbone_evaluation/A3_typography/openai_clip_b32_v2/complete.json": {
@@ -8556,13 +7223,6 @@
     "bytes": 6461,
     "path_substitutions_only": true
   },
-  "provenance/runs/backbone_evaluation/A3_typography/openai_clip_l14_v2/commands.jsonl": {
-    "source": "clip/fse_pre_writing_20260926/A3_typography/openai_clip_l14_v2/commands.jsonl",
-    "original_sha256": "eeaa2bb3fa050ce471b938937ed05a4589be0207890f2a236bad3bbf64a1c4af",
-    "packaged_sha256": "8e3a5f866a01f5a0008a88a3f90c6719b2e20138f3774ea4278a75d5f8bd63fd",
-    "bytes": 403,
-    "path_substitutions_only": true
-  },
   "provenance/runs/backbone_evaluation/A3_typography/openai_clip_l14_v2/complete.json": {
     "source": "clip/fse_pre_writing_20260926/A3_typography/openai_clip_l14_v2/complete.json",
     "original_sha256": "08a6ce0d2b4a7e7d4d5267b0ba08905eec5c414bbc5cb39aeaff8b1335439ec5",
@@ -8577,13 +7237,6 @@
     "bytes": 10512,
     "path_substitutions_only": true
   },
-  "provenance/runs/backbone_evaluation/A3_typography/openclip_laion_b32_v2/commands.jsonl": {
-    "source": "clip/fse_pre_writing_20260926/A3_typography/openclip_laion_b32_v2/commands.jsonl",
-    "original_sha256": "52d7968961c110fc80a7ba6a6141225d6c4e405493838f68aaddd355d321169d",
-    "packaged_sha256": "949b2971d76cab0ab5471138b7871f35135df6699142acd949cc977e518af8b5",
-    "bytes": 409,
-    "path_substitutions_only": true
-  },
   "provenance/runs/backbone_evaluation/A3_typography/openclip_laion_b32_v2/complete.json": {
     "source": "clip/fse_pre_writing_20260926/A3_typography/openclip_laion_b32_v2/complete.json",
     "original_sha256": "4d1cd1312cee210006e99e3c0f212de15fc8ff2dac9f30e5dc41982da5eb3b7e",
@@ -8596,13 +7249,6 @@
     "original_sha256": "5fc7a467dc14314d878e5685b44204ac83ed5a0c47e4cfe362cea5f00f257747",
     "packaged_sha256": "8be30e48254b7675d7d9dc14c74404034b0b1e6ff3162028893b372f7080c186",
     "bytes": 10609,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/backbone_evaluation/B2_routing/google_siglip_b16_224/commands.jsonl": {
-    "source": "clip/fse_pre_writing_20260926/B2_routing/google_siglip_b16_224/commands.jsonl",
-    "original_sha256": "7d97ba84d0d18f67943653a1f8c288bd9e0d61f89be0c8b72c757fa5fcf976b2",
-    "packaged_sha256": "391e6d72bfc92570956a6febb7354c7ee1faa5614fa2bf3b6c8f61da006b9d85",
-    "bytes": 598,
     "path_substitutions_only": true
   },
   "provenance/runs/backbone_evaluation/B2_routing/google_siglip_b16_224/development/complete.json": {
@@ -8632,13 +7278,6 @@
     "packaged_sha256": "512a0036e3bd7f7caed6d0d48b771e512f715a3b4fe8fbea31bc48e8d298fe01",
     "bytes": 3839,
     "path_substitutions_only": false
-  },
-  "provenance/runs/backbone_evaluation/B2_routing/google_siglip_b16_224/primary_evaluation/commands.jsonl": {
-    "source": "clip/fse_pre_writing_20260926/B2_routing/google_siglip_b16_224/primary_evaluation/commands.jsonl",
-    "original_sha256": "79876f90b18b00ba30a9bf492f000f4810941a97c86fca9a7f22ca42ba8afb53",
-    "packaged_sha256": "fdff381d7b5c11784a8f063a052060eafd98d7c5f9b12dd9ac3846ca2fcb2fce",
-    "bytes": 407,
-    "path_substitutions_only": true
   },
   "provenance/runs/backbone_evaluation/B2_routing/google_siglip_b16_224/primary_evaluation/complete.json": {
     "source": "clip/fse_pre_writing_20260926/B2_routing/google_siglip_b16_224/primary_evaluation/complete.json",
@@ -8801,13 +7440,6 @@
     "bytes": 286,
     "path_substitutions_only": false
   },
-  "provenance/runs/backbone_evaluation/B2_routing/openai_clip_l14/commands.jsonl": {
-    "source": "clip/fse_pre_writing_20260926/B2_routing/openai_clip_l14/commands.jsonl",
-    "original_sha256": "405991d4e8351f7abf4077e57f6c914bd986704e2cd50b72f377d909a605397c",
-    "packaged_sha256": "3fdda884d4eaedcaabb440ac3555197d63860f06065380c84e0620f7bbf81322",
-    "bytes": 580,
-    "path_substitutions_only": true
-  },
   "provenance/runs/backbone_evaluation/B2_routing/openai_clip_l14/development/complete.json": {
     "source": "clip/fse_pre_writing_20260926/B2_routing/openai_clip_l14/development/complete.json",
     "original_sha256": "41747fc3589d5f93784b82a7ef7c7cf4598f6f8330d512b477b6ad4107c190e3",
@@ -8835,13 +7467,6 @@
     "packaged_sha256": "21ef94992f39cf041f93b2fcafb42cb4e2f73144917f03d96572eea09218e74b",
     "bytes": 3816,
     "path_substitutions_only": false
-  },
-  "provenance/runs/backbone_evaluation/B2_routing/openai_clip_l14/primary_evaluation/commands.jsonl": {
-    "source": "clip/fse_pre_writing_20260926/B2_routing/openai_clip_l14/primary_evaluation/commands.jsonl",
-    "original_sha256": "7968af4b61aa0d4cb1512d819bae1db7baaf81ba79f40bbab29a8fae61562548",
-    "packaged_sha256": "58a23f5cc599f318dcfcc45f02afaa081f82dc2439c11eea8d75956f440bcd3e",
-    "bytes": 395,
-    "path_substitutions_only": true
   },
   "provenance/runs/backbone_evaluation/B2_routing/openai_clip_l14/primary_evaluation/complete.json": {
     "source": "clip/fse_pre_writing_20260926/B2_routing/openai_clip_l14/primary_evaluation/complete.json",
@@ -9004,13 +7629,6 @@
     "bytes": 286,
     "path_substitutions_only": false
   },
-  "provenance/runs/color_binding/initialization/commands.jsonl": {
-    "source": "clip/interbind_routing_relative_pilot_20260923/commands.jsonl",
-    "original_sha256": "56983aa2c75d47bf9d431d27e93179bb665e2a8c7a69a85693441a8344997400",
-    "packaged_sha256": "cda44aca4bcab72c038dc84c542dc49ae00158e69583ba284a5a5bfa4b274901",
-    "bytes": 3547,
-    "path_substitutions_only": true
-  },
   "provenance/runs/color_binding/initialization/data_protocol.json": {
     "source": "clip/interbind_routing_relative_pilot_20260923/data_protocol.json",
     "original_sha256": "6b2a2f1b693bb7c0b73ffe17683b3f0a495d3a134ab289ed35963f100aa3e6b4",
@@ -9107,209 +7725,6 @@
     "original_sha256": "211b041510f68cdd2a50d8a826b8a376d0fed5b207c74a11de6c106726676a0e",
     "packaged_sha256": "211b041510f68cdd2a50d8a826b8a376d0fed5b207c74a11de6c106726676a0e",
     "bytes": 460,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_replication/commands.jsonl": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/commands.jsonl",
-    "original_sha256": "ee6dd88f2de122d88568f510039d8782aaa55d27609d9aff043816b68b2e8056",
-    "packaged_sha256": "316ac306e4fcfa7d23885ef79f7ce2960be790e394f8eccea8da4177cd68193a",
-    "bytes": 4451,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/typography/retention_replication/protocol.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/protocol.json",
-    "original_sha256": "166eb2570edc3cf7b59588a07ea11c5db1f0a8ab910f15150d26ca5f25357787",
-    "packaged_sha256": "3b225a9e0607783f8a604aaa847d6db3a165c7c5879c0c222f98943de8121111",
-    "bytes": 6988,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/typography/retention_replication/protocol_hash.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/protocol_hash.json",
-    "original_sha256": "d594a885b14ff9e725551763f8d421f94d216f5d4af688e65a759fa7015c3457",
-    "packaged_sha256": "d594a885b14ff9e725551763f8d421f94d216f5d4af688e65a759fa7015c3457",
-    "bytes": 83,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_replication/seed43/implementation_checks.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/implementation_checks.json",
-    "original_sha256": "1e79b9778643e5e312e0278ff5c047c7f5f5ea67f383c5213a5604f98f6adbeb",
-    "packaged_sha256": "1e79b9778643e5e312e0278ff5c047c7f5f5ea67f383c5213a5604f98f6adbeb",
-    "bytes": 256,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_replication/seed43/protocol.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/protocol.json",
-    "original_sha256": "094d802c0c66b482ec96422ee591e84706cfae8649aed3bcc5d6567e54d229a8",
-    "packaged_sha256": "094d802c0c66b482ec96422ee591e84706cfae8649aed3bcc5d6567e54d229a8",
-    "bytes": 610,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_replication/seed43/runs/IS8_preserve/complete.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/runs/IS8_preserve/complete.json",
-    "original_sha256": "8add918e8981eadbab6c72ef58a0ba1ef906f49272211bec35afaf690229d2a6",
-    "packaged_sha256": "8add918e8981eadbab6c72ef58a0ba1ef906f49272211bec35afaf690229d2a6",
-    "bytes": 307,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_replication/seed43/runs/IS8_preserve/matching_check.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/runs/IS8_preserve/matching_check.json",
-    "original_sha256": "df07cdbefdfb80cd810f1f9afeba14982c3cfa503f6857748ad529f427b42412",
-    "packaged_sha256": "df07cdbefdfb80cd810f1f9afeba14982c3cfa503f6857748ad529f427b42412",
-    "bytes": 262,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_replication/seed43/runs/R_preserve/complete.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/runs/R_preserve/complete.json",
-    "original_sha256": "9f91c34bdeef0be82c5b83550f23e2041c0c953f03d69ca3fb440d797aaaef57",
-    "packaged_sha256": "9f91c34bdeef0be82c5b83550f23e2041c0c953f03d69ca3fb440d797aaaef57",
-    "bytes": 307,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_replication/seed43/runs/R_preserve/matching_check.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed43/runs/R_preserve/matching_check.json",
-    "original_sha256": "000a397dc9154121b60d37b89b9a7957ba8e7bea1fda27c5d877ac0e61f42c8b",
-    "packaged_sha256": "000a397dc9154121b60d37b89b9a7957ba8e7bea1fda27c5d877ac0e61f42c8b",
-    "bytes": 262,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_replication/seed44/implementation_checks.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/implementation_checks.json",
-    "original_sha256": "f4bc2ab4d992f4f5b2dab030de382e696c6e1070509bcfc303ce7ca7c48f8dea",
-    "packaged_sha256": "f4bc2ab4d992f4f5b2dab030de382e696c6e1070509bcfc303ce7ca7c48f8dea",
-    "bytes": 258,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_replication/seed44/protocol.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/protocol.json",
-    "original_sha256": "46cfd4a9ea829068c3cd6d03371eb237c1a255aba6b633b8ff295762b65fb222",
-    "packaged_sha256": "46cfd4a9ea829068c3cd6d03371eb237c1a255aba6b633b8ff295762b65fb222",
-    "bytes": 610,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_replication/seed44/runs/IS8_preserve/complete.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/runs/IS8_preserve/complete.json",
-    "original_sha256": "e50b9f4dc45c54dc4e51f37d58017ef4fc2d11e8aaf21ca35280c3b69350e8bd",
-    "packaged_sha256": "e50b9f4dc45c54dc4e51f37d58017ef4fc2d11e8aaf21ca35280c3b69350e8bd",
-    "bytes": 307,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_replication/seed44/runs/IS8_preserve/matching_check.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/runs/IS8_preserve/matching_check.json",
-    "original_sha256": "bd9ac1a5451f599ad29d34128fad5749c8449c4874840c54da6e24e086e6b0e3",
-    "packaged_sha256": "bd9ac1a5451f599ad29d34128fad5749c8449c4874840c54da6e24e086e6b0e3",
-    "bytes": 262,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_replication/seed44/runs/R_preserve/complete.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/runs/R_preserve/complete.json",
-    "original_sha256": "c55ef39a8174d63cd645c5ef9752a02ea09fbd53934d846a09ae58977102a178",
-    "packaged_sha256": "c55ef39a8174d63cd645c5ef9752a02ea09fbd53934d846a09ae58977102a178",
-    "bytes": 308,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_replication/seed44/runs/R_preserve/matching_check.json": {
-    "source": "clip/fse_typographic_preservation_replication_20260929/seed44/runs/R_preserve/matching_check.json",
-    "original_sha256": "ce409d8c3fefac6c774700abc357a5ecec2647432984255d9c9c177eb622bfe7",
-    "packaged_sha256": "ce409d8c3fefac6c774700abc357a5ecec2647432984255d9c9c177eb622bfe7",
-    "bytes": 262,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention/commands.jsonl": {
-    "source": "clip/fse_typographic_preservation_20260929/commands.jsonl",
-    "original_sha256": "ffc2bc43da142b2cd7e0c05537164a77bc5f4d90b6bf2e2d160b29a78ae48361",
-    "packaged_sha256": "ffc2bc43da142b2cd7e0c05537164a77bc5f4d90b6bf2e2d160b29a78ae48361",
-    "bytes": 1712,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention/complete.json": {
-    "source": "clip/fse_typographic_preservation_20260929/complete.json",
-    "original_sha256": "a2f77693671d276822736afde99a1c162e5d63ed19ae0ee3622d95358f6e16e2",
-    "packaged_sha256": "a2f77693671d276822736afde99a1c162e5d63ed19ae0ee3622d95358f6e16e2",
-    "bytes": 376,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention/implementation_checks.json": {
-    "source": "clip/fse_typographic_preservation_20260929/implementation_checks.json",
-    "original_sha256": "0e0e92d5f97eb0064c37545e5077698e391b33341691d5a4496df4cdeb91bebf",
-    "packaged_sha256": "0e0e92d5f97eb0064c37545e5077698e391b33341691d5a4496df4cdeb91bebf",
-    "bytes": 272,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention/protocol.json": {
-    "source": "clip/fse_typographic_preservation_20260929/protocol.json",
-    "original_sha256": "ef69f374041f08caca5c52edd9e1a588d43d50377b6ca47c094ee748e75f591c",
-    "packaged_sha256": "28156e7fd1573cf19ba4bf0c4efb5c525a7d287c1e93f3d8cd94878238139a06",
-    "bytes": 3234,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/typography/retention/runs/IS4_preserve/complete.json": {
-    "source": "clip/fse_typographic_preservation_20260929/runs/IS4_preserve/complete.json",
-    "original_sha256": "2c92144a643b7b98bc8364b8f8e98d94e54778e7c7d7e804fd48410276801868",
-    "packaged_sha256": "2c92144a643b7b98bc8364b8f8e98d94e54778e7c7d7e804fd48410276801868",
-    "bytes": 307,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention/runs/IS6_original/complete.json": {
-    "source": "clip/fse_typographic_preservation_20260929/runs/IS6_original/complete.json",
-    "original_sha256": "1c8d3053f482427d3d899bbb0edb90fa6cc35ef1da9514ee1f4016c349157eb0",
-    "packaged_sha256": "1c8d3053f482427d3d899bbb0edb90fa6cc35ef1da9514ee1f4016c349157eb0",
-    "bytes": 307,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention/runs/IS6_preserve/complete.json": {
-    "source": "clip/fse_typographic_preservation_20260929/runs/IS6_preserve/complete.json",
-    "original_sha256": "20326fa429f5927ff45007fa2a75dc8a025abf849af6ae33b43cce4b6f33e490",
-    "packaged_sha256": "20326fa429f5927ff45007fa2a75dc8a025abf849af6ae33b43cce4b6f33e490",
-    "bytes": 307,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention/runs/R_preserve/complete.json": {
-    "source": "clip/fse_typographic_preservation_20260929/runs/R_preserve/complete.json",
-    "original_sha256": "dc4850fb0ef785521d7c1e3b9a734898c7bf0ec145f972e897ea52cf21897fe3",
-    "packaged_sha256": "dc4850fb0ef785521d7c1e3b9a734898c7bf0ec145f972e897ea52cf21897fe3",
-    "bytes": 307,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_extension/commands.jsonl": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/commands.jsonl",
-    "original_sha256": "aa76645e6efe3c6dc25602d40d0522fe1a6a8d6b449a227e720ca03774cfa18f",
-    "packaged_sha256": "aa76645e6efe3c6dc25602d40d0522fe1a6a8d6b449a227e720ca03774cfa18f",
-    "bytes": 1002,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_extension/complete.json": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/complete.json",
-    "original_sha256": "277a94a9b19d01f2e35825068ee0eb4d47e7143cdfd4860191219674ba099e3c",
-    "packaged_sha256": "277a94a9b19d01f2e35825068ee0eb4d47e7143cdfd4860191219674ba099e3c",
-    "bytes": 376,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_extension/implementation_checks.json": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/implementation_checks.json",
-    "original_sha256": "831988700027dc8a5dea7f797d0219f69810c516a478a83fe0ad5fce251406ec",
-    "packaged_sha256": "831988700027dc8a5dea7f797d0219f69810c516a478a83fe0ad5fce251406ec",
-    "bytes": 415,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_extension/protocol.json": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/protocol.json",
-    "original_sha256": "feb697241fc1056ce634c48b50ea1bf0383bdbf256a71a24472e5e26206559f9",
-    "packaged_sha256": "17f7caa3df89d91dafb03bd11f38cf386d3011ff00d3ce2ad41a4f9986ac8e0b",
-    "bytes": 3248,
-    "path_substitutions_only": true
-  },
-  "provenance/runs/typography/retention_extension/runs/IS6_directional_preserve/complete.json": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/runs/IS6_directional_preserve/complete.json",
-    "original_sha256": "c621fbb82e7bccd5b8a83ec998b9b581855381cf3e2f9b8470d66ae2fe8676e3",
-    "packaged_sha256": "c621fbb82e7bccd5b8a83ec998b9b581855381cf3e2f9b8470d66ae2fe8676e3",
-    "bytes": 307,
-    "path_substitutions_only": false
-  },
-  "provenance/runs/typography/retention_extension/runs/IS8_preserve/complete.json": {
-    "source": "clip/fse_typographic_preservation_extension_20260929/runs/IS8_preserve/complete.json",
-    "original_sha256": "0ff0587a2238c9420b9d11630f03ddd39e6901985c005cd04ae616f39e37cd84",
-    "packaged_sha256": "0ff0587a2238c9420b9d11630f03ddd39e6901985c005cd04ae616f39e37cd84",
-    "bytes": 307,
     "path_substitutions_only": false
   },
   "provenance/runs/typography/reference/seed43/calibration.json": {
@@ -9648,13 +8063,6 @@
     "bytes": 1280,
     "path_substitutions_only": false
   },
-  "data/color_binding/generalization/post_specified_diagnosis.json": {
-    "source": "clip/interbind_indirect_generalization_20260925/post_specified_diagnosis.json",
-    "original_sha256": "104eb616f219476e6b1e638947e3afa80411a52e5381aa367167564c30cfee63",
-    "packaged_sha256": "104eb616f219476e6b1e638947e3afa80411a52e5381aa367167564c30cfee63",
-    "bytes": 7795,
-    "path_substitutions_only": false
-  },
   "data/color_binding/generalization/protocol.json": {
     "source": "clip/interbind_indirect_generalization_20260925/protocol.json",
     "original_sha256": "8a85746a3ec2f211d7bd580ff9edee5f6e29b2192ff458c149ae52775c094178",
@@ -9759,13 +8167,6 @@
     "packaged_sha256": "4a716efd8fa8c5fd0165db177cb13c9883b381613cd88efe35498f384a9f6db2",
     "bytes": 6884,
     "path_substitutions_only": true
-  },
-  "data/color_binding/sampling/old_controls_replay.json": {
-    "source": "clip/interbind_routing_common_noise_20260923/old_controls_replay.json",
-    "original_sha256": "20451aedbee54bed08a9e900b30d7f43445527b006e9063d0582f8adace8a8fa",
-    "packaged_sha256": "20451aedbee54bed08a9e900b30d7f43445527b006e9063d0582f8adace8a8fa",
-    "bytes": 76,
-    "path_substitutions_only": false
   },
   "data/color_binding/sampling/preflight.json": {
     "source": "clip/interbind_routing_common_noise_20260923/preflight.json",
@@ -9912,13 +8313,6 @@
     "original_sha256": "ec8ba30a25d3b7046f30eb330916bd1af39c385c3627dff3a277fcb13c3457b8",
     "packaged_sha256": "ec8ba30a25d3b7046f30eb330916bd1af39c385c3627dff3a277fcb13c3457b8",
     "bytes": 83,
-    "path_substitutions_only": false
-  },
-  "data/backdoor/sources/backdoor_extension_v1/queue_receipt.json": {
-    "source": "clip/fse_four_case_20260927/backdoor_extension_v1/queue_receipt.json",
-    "original_sha256": "d80b533cb6d38b94e801e7a6ea140f1ed34a137316580c8698b5129f0ece857a",
-    "packaged_sha256": "d80b533cb6d38b94e801e7a6ea140f1ed34a137316580c8698b5129f0ece857a",
-    "bytes": 474,
     "path_substitutions_only": false
   },
   "data/backdoor/sources/backdoor_extension_v1/renderer_tests.json": {
@@ -10176,9 +8570,12 @@
   "mirror/tools/timing/time_routing.py": {
     "source": "FSE_VLM/test_generation_stats_20261001/scripts/time_routing.py",
     "original_sha256": "fcca836c3de9382fa10d0c849f63e8977fe938cefba503c5a981f6326a0b619c",
-    "packaged_sha256": "764f682b70d66affed7e11ffab1996e5c9c5c674bcf6bf22f8771b48ea8cf6a8",
-    "bytes": 10313,
-    "path_substitutions_only": true
+    "packaged_sha256": "f4194f7fb03c70d3f3ee6de228fe40a77d2bb6e1f49e072eb939b470659b3554",
+    "bytes": 10311,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/baselines/statistics.py": {
     "source": "FSE_VLM/published_comparisons/statistics.py",
@@ -10253,9 +8650,12 @@
   "mirror/core/io.py": {
     "source": "FSE_VLM/interbind/io.py",
     "original_sha256": "e2309ba216316c9a434187c1eef613599137368363fb41f33591541158373718",
-    "packaged_sha256": "bbb0e0dd5f01632e97094a631268917624172729c60e383349a878fe366f88a7",
-    "bytes": 1718,
-    "path_substitutions_only": true
+    "packaged_sha256": "b40c435f3e39ae88e63f233c0447665949764ae0a932f56793063c3542604cac",
+    "bytes": 2077,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/backdoor/par_extension_controls.py": {
     "source": "FSE_VLM/four_case/par_extension_controls.py",
@@ -10306,13 +8706,6 @@
     "bytes": 9640,
     "path_substitutions_only": true
   },
-  "mirror/cases/typography/retention_results.py": {
-    "source": "clip/fse_typographic/preservation_replication_analysis.py",
-    "original_sha256": "b5aa2a41295aa324309ffde18c8efbd820acd84c224fc6f663e40aa18c9c3a69",
-    "packaged_sha256": "f296210f27f4d23e63368d37242e4ce29eee63d786137606ed4109502d955b1b",
-    "bytes": 9961,
-    "path_substitutions_only": true
-  },
   "mirror/tools/aggregate.py": {
     "source": "FSE_VLM/four_case/selected_strength_analysis.py",
     "original_sha256": "7a7083252df019349a9cf3a61d65b460be3d9cd92a0c9162060eaa645a7c3127",
@@ -10330,16 +8723,12 @@
   "mirror/cases/backdoor/report.py": {
     "source": "FSE_VLM/four_case/par_completion.py",
     "original_sha256": "7c3bab818ff8a40ce8bd9823f3a03a139a0e7ec8cb1e350322f31754b5223e6f",
-    "packaged_sha256": "bf2a614f18b39665b9858ff11bfe7a94fbb271833a3415899058f59198187c24",
-    "bytes": 22197,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/backdoor/par_priority_runtime.py": {
-    "source": "FSE_VLM/four_case/par_priority_runtime.py",
-    "original_sha256": "4d09bbcb5ea83e70a5e94f2de2ed8d4c79974d36567e23ffb53ca347da9ee125",
-    "packaged_sha256": "d6259d7fa0d3849bc0d2a10333152f29523c065aed6f7a3ebba2bd7edfac2ea3",
-    "bytes": 2156,
-    "path_substitutions_only": true
+    "packaged_sha256": "d997df8adc5601c475faac31a01d8362135156faa692730509efd7dcbd10d801",
+    "bytes": 17654,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/backdoor/par_extension_analysis.py": {
     "source": "FSE_VLM/four_case/par_extension_analysis.py",
@@ -10400,9 +8789,12 @@
   "mirror/cases/typography/train.py": {
     "source": "clip/fse_typographic/broad_duration_prompt.py",
     "original_sha256": "d8462c04662835da5ff3b6875c06a3571dec60f886d86cc52a7d0ccee2cffe3f",
-    "packaged_sha256": "4e053d6db354dfabdb5c6d07af1405e73122eebd94bc5f62a71b3d85165340f9",
-    "bytes": 7261,
-    "path_substitutions_only": true
+    "packaged_sha256": "5d0544176c044bbb82f49cf35662c704f67800d1b14baa4ad57ee8d37a4a6a22",
+    "bytes": 7253,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/typography/broad_support_filtered.py": {
     "source": "clip/fse_typographic/broad_support_filtered.py",
@@ -10414,9 +8806,12 @@
   "mirror/cases/typography/broad_support_data.py": {
     "source": "clip/fse_typographic/broad_support_data.py",
     "original_sha256": "c526217a02f1ba0969c5c41eb005078ee73242a8ef11f9b5254cdb34fd6569b2",
-    "packaged_sha256": "793e8700da1c99045e25b8202ab755711e501317e3c8da05faf14fe1f2ddd562",
-    "bytes": 5475,
-    "path_substitutions_only": true
+    "packaged_sha256": "b4b979ca06f98fd80ca78c8c043c84a63a9d0c49c77b97b89b254095a3516ab3",
+    "bytes": 5470,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/typography/broad_support_inventory.py": {
     "source": "clip/fse_typographic/broad_support_inventory.py",
@@ -10463,36 +8858,18 @@
   "mirror/cases/typography/replicate.py": {
     "source": "clip/fse_typographic/broad_confirmation_prompt.py",
     "original_sha256": "420cc90ad68f8f1d3a924f92628c87eba81d96fa94c081a7432db82251dd2af5",
-    "packaged_sha256": "edf08d7ef71284dd46a2447696da57b8c8f681d0b9b8b4ded63cbefad46926de",
-    "bytes": 8134,
-    "path_substitutions_only": true
+    "packaged_sha256": "333945b5cbc06442c7afbe9405fe02e4b76cfffe2390205c8459636d0d6b3175",
+    "bytes": 8126,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/typography/broad_confirmation_retest.py": {
     "source": "clip/fse_typographic/broad_confirmation_retest.py",
     "original_sha256": "306cc2caab2397773c8a72f334f0acc639d9a829f9f14dacfd01531fe3fb21a8",
     "packaged_sha256": "7b88eb6512af2fcbde04452337d082b0f81a81dd92a469bc7176dc30738ce64d",
     "bytes": 13897,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/typography/retention.py": {
-    "source": "clip/fse_typographic/preservation_replication.py",
-    "original_sha256": "79f2335902a3bb50814b9721147eba3d41d9c68aecd207ec50758945638a7fab",
-    "packaged_sha256": "36e5d2468bde7321b4a1f8e1a4143d52e9c89d28f57f2f005cab72f56ce5bf4d",
-    "bytes": 10385,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/typography/preservation_extension.py": {
-    "source": "clip/fse_typographic/preservation_extension.py",
-    "original_sha256": "b3494061ab39858a7f82b76efe1e23b94dd3b7de65cbe16942c164e14db8c51e",
-    "packaged_sha256": "a1219cdcf57eb04e5ab00ba4a3122b213132d45e24f3c85c6987e89b87226e32",
-    "bytes": 7605,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/typography/preservation_strength.py": {
-    "source": "clip/fse_typographic/preservation_strength.py",
-    "original_sha256": "b798d959377858d7d87fc6fdb5dbc21b11ad320f87f5e28422e822cec3d92d78",
-    "packaged_sha256": "091f1d9782c2c1c2eaed68ff59148fc7575006479faecff26d1e7681827376fa",
-    "bytes": 10035,
     "path_substitutions_only": true
   },
   "mirror/evaluation/typography/typography_defenses.py": {
@@ -10512,9 +8889,12 @@
   "mirror/cases/typography/source_transfer_evaluation.py": {
     "source": "FSE_VLM/interbind/prewriting_fresh_typography_evaluate_v2.py",
     "original_sha256": "af52102510e1c973b4ba458838b25aeadb7e7a36f9de4541421b73d543a22d88",
-    "packaged_sha256": "69283ec7b15dc960e4d2dc6452a9208ca0ad167887389f4efe2ef0edcec818c1",
-    "bytes": 10277,
-    "path_substitutions_only": true
+    "packaged_sha256": "63f08765878b158fb4c7abce02671ba500de32b1bcae2fa355749749662be960",
+    "bytes": 10208,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/core/repair.py": {
     "source": "FSE_VLM/interbind/repair.py",
@@ -10596,9 +8976,12 @@
   "mirror/cases/typography/backbone_setup.py": {
     "source": "FSE_VLM/interbind/prewriting_typography_breadth.py",
     "original_sha256": "8f0741eac33afcb53f384c6c5efb35eb15b058f9e73789ea94e54218ba8c01d5",
-    "packaged_sha256": "7a1fc2c39e47c0987fa9341272fb39cf43a6e2566c35823e9fa316aacba7bfc8",
-    "bytes": 12208,
-    "path_substitutions_only": true
+    "packaged_sha256": "281f4ea5ae559dc457fe594a8390095e8b13e0ef3eeb19c1349bc826bec5e5a6",
+    "bytes": 12151,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/color_binding/checks.py": {
     "source": "FSE_VLM/interbind/routing75_complete_verify.py",
@@ -10715,9 +9098,12 @@
   "mirror/cases/color_binding/routing_light_suite_analysis.py": {
     "source": "FSE_VLM/interbind/routing_light_suite_analysis.py",
     "original_sha256": "8d5ac9513ac8393cce563f419da74dd99d64f776488ccf3569cfc04ac1b43781",
-    "packaged_sha256": "aeef45711ecb81819c7163eb125aa9a7524372c1fad6982c560bf497d089c702",
-    "bytes": 29150,
-    "path_substitutions_only": true
+    "packaged_sha256": "230ac3487738b4a4138073b40f61755c1b697f400f3da28c71c73464a64123ff",
+    "bytes": 29118,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/color_binding/completion_preservation.py": {
     "source": "FSE_VLM/interbind/completion_preservation.py",
@@ -10729,9 +9115,12 @@
   "mirror/cases/color_binding/behavioral_pilot.py": {
     "source": "FSE_VLM/interbind/behavioral_pilot.py",
     "original_sha256": "844146ff252445c64d864f21deb6dcc645270eeab74dc470d1a04852a24e8ad7",
-    "packaged_sha256": "fee7c61d1313cf891b444bbce0d5c6928ec4d701c8c123f6e853165952f3fe54",
-    "bytes": 20878,
-    "path_substitutions_only": true
+    "packaged_sha256": "f07d8886676028a9006d8f22d4f4bf5ec6e85d0ed9e273fa350557baecb5869c",
+    "bytes": 20844,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/color_binding/predict.py": {
     "source": "FSE_VLM/interbind/predict.py",
@@ -10771,16 +9160,22 @@
   "mirror/cases/color_binding/routing_adequacy.py": {
     "source": "FSE_VLM/interbind/routing_adequacy.py",
     "original_sha256": "3926509742812f75927786e973d3cb616b542cea430a7991fd66df912f2c2471",
-    "packaged_sha256": "31d9dd4bd325205f285274ceb39b919016fa4f98ae802f3f0b3a27c7d6fb5dc3",
-    "bytes": 3862,
-    "path_substitutions_only": true
+    "packaged_sha256": "87ce714ccedfee5a6bf0d26229f86f1485b5a999f0b9c5adcf32812ff256e580",
+    "bytes": 3846,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/color_binding/routing_diagnostic.py": {
     "source": "FSE_VLM/interbind/routing_diagnostic.py",
     "original_sha256": "46845b71e23cc32d6da30ff71fac28b373d67982abd888a665c617e203973e40",
-    "packaged_sha256": "487a053ac18d969ba2ddde41d2aeaefc4ef8e7ee446b440050503c8ab9c3f5a1",
-    "bytes": 26981,
-    "path_substitutions_only": true
+    "packaged_sha256": "42b6b88f23ed2c1f1a4953e8bf229358143ae2f3fc3add3a2a13bc0a54e98837",
+    "bytes": 26960,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/color_binding/granular_diagnostics.py": {
     "source": "FSE_VLM/interbind/granular_diagnostics.py",
@@ -10792,16 +9187,22 @@
   "mirror/cases/color_binding/routing_context_coverage.py": {
     "source": "FSE_VLM/interbind/routing_context_coverage.py",
     "original_sha256": "b76cf37040ae2e150df388efa3cf352154052f278cf66e4d340c3505d53d24cf",
-    "packaged_sha256": "d78588fd8b71eecad5a4117335310d5adf4d39c7778d3af933cdb983624a6766",
-    "bytes": 7049,
-    "path_substitutions_only": true
+    "packaged_sha256": "63e4eecfd46fa68f60dde64cd94b858641611cda22f7c79d58d13c24042a8769",
+    "bytes": 7028,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/color_binding/routing_adapter_reaudit_v2.py": {
     "source": "FSE_VLM/interbind/routing_adapter_reaudit_v2.py",
     "original_sha256": "53a1d1a94239be1e2939dd6aa57dba5ef176f7b4953f9cb95ce18e2c63907cb4",
-    "packaged_sha256": "b90f66847590dcb7fefbbb39af5b955602d7088abf09a201084ed4975240b041",
-    "bytes": 18497,
-    "path_substitutions_only": true
+    "packaged_sha256": "376a0b6c16240e074b37f01f463389a1a5815aacf6ba396943e243cc76b75152",
+    "bytes": 18476,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/color_binding/routing_same_class_data.py": {
     "source": "FSE_VLM/interbind/routing_same_class_data.py",
@@ -10813,9 +9214,12 @@
   "mirror/cases/color_binding/routing_repair_pilot.py": {
     "source": "FSE_VLM/interbind/routing_repair_pilot.py",
     "original_sha256": "7c73235f3d8f9964bb9e4616fb3f8c13bb31e1af7cdcce8a044f86c0e79a235d",
-    "packaged_sha256": "276222c201869ea0f25fe24bbce7fbd87839ec45935fb04060cf908f2e044f11",
-    "bytes": 20710,
-    "path_substitutions_only": true
+    "packaged_sha256": "f4ffa81f0cbd074bfefc8701b9654d2801cb7795572be4cbc7c6beda017ca18e",
+    "bytes": 20617,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/color_binding/routing_repair_evaluate.py": {
     "source": "FSE_VLM/interbind/routing_repair_evaluate.py",
@@ -10841,9 +9245,12 @@
   "mirror/cases/color_binding/routing_relative_pilot.py": {
     "source": "FSE_VLM/interbind/routing_relative_pilot.py",
     "original_sha256": "41d2fda046db46793821c46b9a9fa9f822e71364312e3a1e069eed8948f5e9bb",
-    "packaged_sha256": "9696b09f845f238ff229b12cd2dbe4ff12fac715cef41a0f7bd88860782d553f",
-    "bytes": 17111,
-    "path_substitutions_only": true
+    "packaged_sha256": "2e87c5798a95098e0a794102932cca7051b275e939ce7f36d735a9394d1fd422",
+    "bytes": 17101,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/color_binding/routing_relative_evaluate.py": {
     "source": "FSE_VLM/interbind/routing_relative_evaluate.py",
@@ -10869,9 +9276,12 @@
   "mirror/core/metrics.py": {
     "source": "FSE_VLM/interbind/completion_metrics.py",
     "original_sha256": "dc787490241c2f44299b6d0fdedfa2f0769e07da452bc13a2a4688d47d7e9204",
-    "packaged_sha256": "706f5c8fcb59a6b71e80b1502115dfc8538826ba1bf2e23f5946b932e014d1bf",
-    "bytes": 4058,
-    "path_substitutions_only": true
+    "packaged_sha256": "46064e8ae6bf8ca8c28c5260b7f35d27ec7d78d182796737732ca9cddd476bd2",
+    "bytes": 4702,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/color_binding/completion_benchmarks.py": {
     "source": "FSE_VLM/interbind/completion_benchmarks.py",
@@ -10897,16 +9307,22 @@
   "mirror/cases/color_binding/routing_budget_replication.py": {
     "source": "FSE_VLM/interbind/routing_budget_replication.py",
     "original_sha256": "7d4367c508131f43d60fc7df4cac0b273568f33a3620d861589bca0934b9ba16",
-    "packaged_sha256": "a6e465e9addc6e0207455ee6adddb1777e2de0c835c1fc5788f238938f118395",
-    "bytes": 8695,
-    "path_substitutions_only": true
+    "packaged_sha256": "80507b36cf9e554acaf7dfb1b2be2560d7aed81607eb7f63e2627304fce27ac8",
+    "bytes": 8692,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/color_binding/routing_common_noise_pilot.py": {
     "source": "FSE_VLM/interbind/routing_common_noise_pilot.py",
     "original_sha256": "78eff9c19c1028d515b96503f66c7c6b63dc2bba2afeb40c40f96c33d39940d7",
-    "packaged_sha256": "26a28a7c4dbcd7500927cb9508ac4dfa0f032890a6d674e003a6bd2e16336cf4",
-    "bytes": 11059,
-    "path_substitutions_only": true
+    "packaged_sha256": "07f650f66bf575bf247e8553628c3982683c528930a54e0ddac39d02b779ae94",
+    "bytes": 11064,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/color_binding/completion_controls.py": {
     "source": "FSE_VLM/interbind/completion_controls.py",
@@ -10946,9 +9362,12 @@
   "mirror/cases/color_binding/ranking_followup_pilot.py": {
     "source": "FSE_VLM/interbind/ranking_followup_pilot.py",
     "original_sha256": "edca5d906db9db932a587c405d85505ffaf82df2feddf30d8e7cd67857304408",
-    "packaged_sha256": "adbdd7d7f22f73ef214d5a4719a52233abfe9a19fc9561cdaf8a73e848cc2ddb",
-    "bytes": 18566,
-    "path_substitutions_only": true
+    "packaged_sha256": "b6ce8029d52eaaed66cf8bbd8341b819c5cd742259ff170692cca348ee8f41d6",
+    "bytes": 18565,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/color_binding/ranking_comparison.py": {
     "source": "FSE_VLM/interbind/ranking_comparison.py",
@@ -10969,104 +9388,6 @@
     "original_sha256": "1203ce47f6f29275ce18c4466cdc1628a668eb6b5dbe9412cec1433577a5aba8",
     "packaged_sha256": "eb25bb0b2be7efd09f4812ce557af51e53175e0fca011d23440702fbda31480f",
     "bytes": 17610,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/selective_repair_retests.py": {
-    "source": "FSE_VLM/interbind/selective_repair_retests.py",
-    "original_sha256": "c76a2476a5aa28338da5ccea1c58c5b3e114c46cc77077013621704d8952e633",
-    "packaged_sha256": "ea4a8e3847a8ee255d7466377a97fc5d22851f24353e7e752efe4297a370d253",
-    "bytes": 17428,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/selective_repair_pilot.py": {
-    "source": "FSE_VLM/interbind/selective_repair_pilot.py",
-    "original_sha256": "ed5c94cc576ad3b22ca2a77ed584f5be13b87c1eac10f7f99b66397f0930d2e9",
-    "packaged_sha256": "27cdf6445ad1a0b1c3bace57fd71b31cf8e36e322bb2ef1cc7be9ce9c7d6c21e",
-    "bytes": 22522,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/strengthening_spatial_repair.py": {
-    "source": "FSE_VLM/interbind/strengthening_spatial_repair.py",
-    "original_sha256": "a3edc66e630297513b85abce8febf8680769e83d03d5ce965e8d41c0520294d8",
-    "packaged_sha256": "a6afa6db108774de1e15758a319016be0fc58e75ea2e24d2cb738d24809a449c",
-    "bytes": 14051,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/strengthening_labclip.py": {
-    "source": "FSE_VLM/interbind/strengthening_labclip.py",
-    "original_sha256": "962844ecee1a5db536abb4078da4d818f22aa969b1ca5c10170e493e8bef4c47",
-    "packaged_sha256": "d8881bce02a6db3aea75cbf958c8c6a1061c5786aadc0b8747ba60e9ba25d583",
-    "bytes": 11932,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/strengthening_feasibility.py": {
-    "source": "FSE_VLM/interbind/strengthening_feasibility.py",
-    "original_sha256": "bc8e05a606a78f171d98e1831ae74f60eb58f73496ddf7417197d5310db29e05",
-    "packaged_sha256": "b928b1f8372c448d8455f3742d8c94253c9e14215e2bb92bdf2cf4dcd8e460a4",
-    "bytes": 8269,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/strengthening_cpu.py": {
-    "source": "FSE_VLM/interbind/strengthening_cpu.py",
-    "original_sha256": "442ce8f15d5e5118c39837e710f920af053281a6bb18ca76bcb50e3108e2ad6c",
-    "packaged_sha256": "45985017828df33e41f6cc5ca7c492aa9a9f95c489836b3e301f95d2a3598dac",
-    "bytes": 19424,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/routing_feature_geometry.py": {
-    "source": "FSE_VLM/interbind/routing_feature_geometry.py",
-    "original_sha256": "deec30eb1db859c7a42a9ca89a02ab34a096c970897d589a0dfde2a9161c4cd6",
-    "packaged_sha256": "3daab283a67371c0ef7e603c2c340512dce7e265b030d923de1071345c768594",
-    "bytes": 10055,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/strengthening_spatial.py": {
-    "source": "FSE_VLM/interbind/strengthening_spatial.py",
-    "original_sha256": "87c3c8aced8e9962754155ecf7abd47981dea62b68c7674a3977f47aa695c584",
-    "packaged_sha256": "4f5cdd5ef26f5707a9deef031ae35ef14344a7fff2de32ed2694c325d8a931df",
-    "bytes": 12741,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/strengthening_spatial_clean.py": {
-    "source": "FSE_VLM/interbind/strengthening_spatial_clean.py",
-    "original_sha256": "9642c26e23df640ec5311ef16ca976e7c57154740909d142abb4ead492542725",
-    "packaged_sha256": "6de48244cc25f6657c057390832379e6db664465515208cb2065a90d75712bab",
-    "bytes": 7217,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/strengthening_firewall_v3.py": {
-    "source": "FSE_VLM/interbind/strengthening_firewall_v3.py",
-    "original_sha256": "2b9a281274bfcfb41183b855c2f037e0720b8f2e3697df1e8a8b712bb49b14b4",
-    "packaged_sha256": "8c6745bbb1abd4cc29c6ab3304146bae13684f835e12cb64046fb0ab2fd04ce5",
-    "bytes": 9860,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/strengthening_spatial_confirmation.py": {
-    "source": "FSE_VLM/interbind/strengthening_spatial_confirmation.py",
-    "original_sha256": "5ea9e54a87f6da872db4477aafeabbe30f3e84318055c93a4d1d6920ccb4c79d",
-    "packaged_sha256": "991cda9f80daa06cf8731855c66ef53db23a1a7faafdf942e276162a102d0982",
-    "bytes": 12623,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/strengthening_whatsup.py": {
-    "source": "FSE_VLM/interbind/strengthening_whatsup.py",
-    "original_sha256": "3b6fa2502dd0faca481ee64c1a603cd29a88d44622c9c748b80c74f0f763f7ca",
-    "packaged_sha256": "87671064ee1ab1ffa1020583da800be73c4479c5e0b5f9b793a2daca1794a58b",
-    "bytes": 6779,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/strengthening_transfer_repair.py": {
-    "source": "FSE_VLM/interbind/strengthening_transfer_repair.py",
-    "original_sha256": "57f154d51eb2bbafae331121670cea069a2635fd7c7da964154f4f00b1e411a1",
-    "packaged_sha256": "c95c0a9b4c2ad038cdb1b5cd810c7532a952a1200f7cd01ce18cd9049ba118af",
-    "bytes": 14661,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/strengthening_transfer_data.py": {
-    "source": "FSE_VLM/interbind/strengthening_transfer_data.py",
-    "original_sha256": "1ddb1073b3707c33a95cd8ea3cb317df2303b15f28fb17d7cd810d651c65760e",
-    "packaged_sha256": "029a20bcdff479d71b7d340afa2a54713f7e569b19e49308ddfcda3da2b11b61",
-    "bytes": 8303,
     "path_substitutions_only": true
   },
   "mirror/cases/color_binding/routing_light_search.py": {
@@ -11121,9 +9442,12 @@
   "mirror/cases/color_binding/prewriting_routing_breadth.py": {
     "source": "FSE_VLM/interbind/prewriting_routing_breadth.py",
     "original_sha256": "22b6a24bf2ea2347886bbbac8eacca6f34c9d6a364f04699f23c9025838ad91f",
-    "packaged_sha256": "dca9fa41e62e1553f604ed78f33b9f8eaf2374b8579c422b552960cb4822f1dd",
-    "bytes": 19322,
-    "path_substitutions_only": true
+    "packaged_sha256": "bb350c9d24d2f5e68b75253d6eaef0bfbab650fb9be099a3f097f12a2ecbe4bc",
+    "bytes": 19383,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/color_binding/completion_confirmation_encode.py": {
     "source": "FSE_VLM/interbind/completion_confirmation_encode.py",
@@ -11146,54 +9470,15 @@
     "bytes": 5687,
     "path_substitutions_only": true
   },
-  "mirror/cases/color_binding/train_joint.py": {
-    "source": "FSE_VLM/interbind/routing75_complete_joint.py",
-    "original_sha256": "c03864101f465d0abee55bf31fe801f87f7d299b03f8b4b4bc97e407796b8fc8",
-    "packaged_sha256": "79b93f2912abf96e07bab14f9e0298af735abe084eebc116ac735b60a57bf61e",
-    "bytes": 8661,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/routing_joint_replication.py": {
-    "source": "FSE_VLM/interbind/routing_joint_replication.py",
-    "original_sha256": "809272c12cd3e8f85646b8d0dec704b5cee746510a412c5a395575b6459481f4",
-    "packaged_sha256": "fc9c05f1f1c9bcdb1ab3e21d3dd3c497ec39d1fa61baf9ce0b9d224e203bc8bf",
-    "bytes": 9717,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/routing_moderate_replication.py": {
-    "source": "FSE_VLM/interbind/routing_moderate_replication.py",
-    "original_sha256": "a5ebb5db1f5170d6c0c4af42811b668b71fe965492a5f1aabf5dba722f41f44b",
-    "packaged_sha256": "7f4bc1bb587d4ae249db3f1157528eb651458cc82e3f4e963b7c7efbdcf9047b",
-    "bytes": 10242,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/routing_constraint_pilot.py": {
-    "source": "FSE_VLM/interbind/routing_constraint_pilot.py",
-    "original_sha256": "72f3f7b9a6094f97f80965d412687b54e5388565c3fc0fe8937bddf402313029",
-    "packaged_sha256": "ca17acc8b2387ab3e82651e2e8295f7fe161e149ffd0827f34bdb544eed116e1",
-    "bytes": 13775,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/routing_suppression_strength.py": {
-    "source": "FSE_VLM/interbind/routing_suppression_strength.py",
-    "original_sha256": "b08486a765a449b124e6090f2277b2a02d5f5103940663498c27017afc654df8",
-    "packaged_sha256": "b02eb6aac7797b1f888c748cf71e115a596e72e7c8526a5a1c57e87b1413abf7",
-    "bytes": 13305,
-    "path_substitutions_only": true
-  },
-  "mirror/cases/color_binding/routing_image_joint_pilot.py": {
-    "source": "FSE_VLM/interbind/routing_image_joint_pilot.py",
-    "original_sha256": "71cf34eee57989d3446c42eaed39510daec9026775c71e73aa9bd213693b32c7",
-    "packaged_sha256": "8e36656010caaebe63530b075a7321681ed4bdb420b6bd80244538d4df0cccf0",
-    "bytes": 20973,
-    "path_substitutions_only": true
-  },
   "mirror/cases/color_binding/train.py": {
     "source": "FSE_VLM/interbind/routing75_complete_train.py",
     "original_sha256": "a22883c5594715537a1ad80551716c4eefec0e438d2e7e37834332bc07313b4f",
-    "packaged_sha256": "649be820a19b51c2ed6d257ee929d26131cc3bc4c44ddc98e262aef9bddcdcb4",
-    "bytes": 12024,
-    "path_substitutions_only": true
+    "packaged_sha256": "85941c876ef583b976c96fdf7015022b6d98d07521f69f3725ed84e7f88f7fb0",
+    "bytes": 12096,
+    "path_substitutions_only": false,
+    "package_transformations": [
+      "Submission portability, source-reference, replay-coverage, or index reconciliation; original hash retained."
+    ]
   },
   "mirror/cases/color_binding/__init__.py": {
     "source": "FSE_VLM/interbind/__init__.py",

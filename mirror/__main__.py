@@ -8,6 +8,7 @@ from mirror.paths import ARTIFACT_ROOT
 COMMANDS = {
     "verify": ("verify.py", "Check the artifact's file hashes and study coverage."),
     "test": ("test_core.py", "Test the metamorphic specification compiler."),
+    "objective-test": ("test_objectives.py", "Check selected loss values and gradients on CPU."),
     "reproduce": ("reproduce_results.py", "Recompute results and intervals from saved scores."),
     "figures": ("plot_results.py", "Generate the paper's result plots."),
     "download": ("download_assets.py", "Download public assets listed in the configuration."),

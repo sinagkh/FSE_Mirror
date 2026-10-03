@@ -35,7 +35,7 @@ def lines(path):
 
 
 def make_spec(family, pair, method, model, cal):
-    spec = copy.deepcopy(load_requirement(Path(__file__).with_name("requirement_library") / f"{family}-v1.yaml"))
+    spec = copy.deepcopy(load_requirement(ROOT / "mirror/core/templates" / f"{family}-v1.yaml"))
     color_map = dict(zip(("red", "blue"), pair))
     spec["id"] = f"{family}/pilot-{'-'.join(pair)}-{method}-v1"
     spec["scorer_output"] = "logit" if model.startswith("google_siglip") else "cosine"
@@ -117,7 +117,7 @@ def freeze(out):
     for name in ("behavioral_pilot", "requirements", "outcomes", "predict"):
         p = Path(__file__).with_name(name + ".py"); files[str(p)] = sha(p)
     for family in ("background", "routing"):
-        p = Path(__file__).with_name("requirement_library") / f"{family}-v1.yaml"; files[str(p)] = sha(p)
+        p = ROOT / "mirror/core/templates" / f"{family}-v1.yaml"; files[str(p)] = sha(p)
     dump(out / "protocol.json", {"version": "bounded-validation-frozen-model-pilot-v1", "inputs": files,
         "subjects": cache_protocol["subjects"], "primary_color_pair": list(PAIRS[0]),
         "primary_renderer": METHODS[0], "secondary_color_pairs": [list(p) for p in PAIRS[1:]],

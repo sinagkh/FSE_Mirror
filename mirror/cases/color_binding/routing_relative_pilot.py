@@ -1,4 +1,4 @@
-"""Seed42 frozen-relative, position-balanced routing pilot. Prior results untouched."""
+"""Frozen-relative, position-balanced routing components and measurements."""
 import argparse
 from dataclasses import asdict; from dataclasses import replace
 import json
